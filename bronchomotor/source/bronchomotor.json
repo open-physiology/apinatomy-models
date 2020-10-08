@@ -1,0 +1,2828 @@
+{
+    "publications": [],
+    "nodes": [
+        {
+            "id": "sc1",
+            "layout": {
+                "x": -100
+            }
+        },
+        {
+            "id": "sc2",
+            "layout": {
+                "x": 100
+            }
+        }
+    ],
+    "links": [
+        {
+            "id": "lnk-snt1_1",
+            "source": "ns1",
+            "target": "ns2",
+            "conveyingLyph": "snt1_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt2_1",
+            "source": "ns3",
+            "target": "ns4",
+            "conveyingLyph": "snt2_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt3_1",
+            "source": "ns5",
+            "target": "ns6",
+            "conveyingLyph": "snt3_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt4_1",
+            "source": "ns7",
+            "target": "ns8",
+            "conveyingLyph": "snt4_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt5_1",
+            "source": "ns9",
+            "target": "ns10",
+            "conveyingLyph": "snt5_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt6_1",
+            "source": "ns11",
+            "target": "ns12",
+            "conveyingLyph": "snt6_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt7_1",
+            "source": "ns13",
+            "target": "ns14",
+            "conveyingLyph": "snt7_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt8_1",
+            "source": "ns15",
+            "target": "ns16",
+            "conveyingLyph": "snt8_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt9_1",
+            "source": "ns17",
+            "target": "ns18",
+            "conveyingLyph": "snt9_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt10_1",
+            "source": "ns19",
+            "target": "ns20",
+            "conveyingLyph": "snt10_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt11_1",
+            "source": "ns21",
+            "target": "ns22",
+            "conveyingLyph": "snt11_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt12_1",
+            "source": "ns23",
+            "target": "ns24",
+            "conveyingLyph": "snt12_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snt13_1",
+            "source": "ns25",
+            "target": "ns26",
+            "conveyingLyph": "snt13_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snl1_1",
+            "source": "ns27",
+            "target": "ns28",
+            "conveyingLyph": "snl1_1",
+            "length": 4
+        },
+        {
+            "id": "lnk-snna_2",
+            "source": "ns30",
+            "target": "ns31",
+            "conveyingLyph": "snna_2",
+            "length": 4
+        },
+        {
+            "id": "lnk-sn-trac_3",
+            "source": "ns40",
+            "target": "ns41",
+            "conveyingLyph": "sn-trac_3",
+            "length": 4
+        },
+        {
+            "id": "lnk-sn-bron_4",
+            "source": "ns45",
+            "target": "ns46",
+            "conveyingLyph": "sn-bron_4",
+            "length": 4
+        },
+        {
+            "id": "lnk-sn-bronle_5",
+            "source": "ns50",
+            "target": "ns51",
+            "conveyingLyph": "sn-bronle_5",
+            "length": 4
+        },
+        {
+            "id": "lnk-sn_termbronle_6",
+            "source": "ns55",
+            "target": "ns56",
+            "conveyingLyph": "sn_termbronle_6",
+            "length": 4
+        },
+        {}
+    ],
+    "lyphs": [
+        {
+            "id": "B1",
+            "name": "T1 spinal segment",
+            "external": [
+                "UBERON:0006457"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt1_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B2",
+            "name": "T2 spinal segment",
+            "external": [
+                "UBERON:0006458"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt2_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B3",
+            "name": "T3 spinal segment",
+            "external": [
+                "UBERON:0006459"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt3_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B4",
+            "name": "T4 spinal segment",
+            "external": [
+                "UBERON:0006452"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt4_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B5",
+            "name": "T5 spinal segment",
+            "external": [
+                "UBERON:0006453"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt5_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B6",
+            "name": "T6 spinal segment",
+            "external": [
+                "UBERON:0006454"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt6_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B7",
+            "name": "T7 spinal segment",
+            "external": [
+                "UBERON:0006455"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt7_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B8",
+            "name": "T8 spinal segment",
+            "external": [
+                "UBERON:0006456"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt8_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B9",
+            "name": "T9 spinal segment",
+            "external": [
+                "UBERON:0006465"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt9_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B10",
+            "name": "T10 spinal segment",
+            "external": [
+                "UBERON:0006466"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt10_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B11",
+            "name": "T11 spinal segment",
+            "external": [
+                "UBERON:0006467"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt11_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B12",
+            "name": "T12 spinal segment",
+            "external": [
+                "UBERON:0006468"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt12_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B13",
+            "name": "T13 spinal segment",
+            "external": [
+                "EMAPA:19554"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snt13_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B14",
+            "name": "L1 spinal segment",
+            "external": [
+                "UBERON:0006448"
+            ],
+            "supertype": "B35",
+            "internalLyphs": [
+                "snl1_1"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "B15",
+            "name": "Segment of Spinal Cord",
+            "external": [
+                "UBERON:0005844"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "BM_6",
+                "BM_19",
+                "BM_34",
+                "BM_23",
+                "BM_34",
+                "BM_33",
+                "BM_32",
+                "BM_31",
+                "BM_30",
+                "BM_29",
+                "BM_28",
+                "BM_27",
+                "BM_26",
+                "BM_25",
+                "BM_23"
+            ]
+        },
+        {
+            "id": "B16",
+            "name": "Medulla",
+            "external": [
+                "UBERON:0001896"
+            ],
+            "layers": [
+                "BM_6",
+                "BM_19",
+                "BM_21"
+            ],
+            "internalLyphs": [
+                "B17"
+            ]
+        },
+        {
+            "id": "B17",
+            "name": "Nucleus ambiguus",
+            "external": [
+                "UBERON:0001719"
+            ]
+        },
+        {
+            "id": "B18",
+            "name": "T1 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002845"
+            ]
+        },
+        {
+            "id": "B19",
+            "name": "T2 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002846"
+            ]
+        },
+        {
+            "id": "B20",
+            "name": "T3 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002847"
+            ]
+        },
+        {
+            "id": "B21",
+            "name": "T4 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0007712"
+            ]
+        },
+        {
+            "id": "B22",
+            "name": "T5 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002848"
+            ]
+        },
+        {
+            "id": "B23",
+            "name": "T6 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002849"
+            ]
+        },
+        {
+            "id": "B24",
+            "name": "T7 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002850"
+            ]
+        },
+        {
+            "id": "B25",
+            "name": "T8 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002851"
+            ]
+        },
+        {
+            "id": "B26",
+            "name": "T9 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002852"
+            ]
+        },
+        {
+            "id": "B27",
+            "name": "T10 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002853"
+            ]
+        },
+        {
+            "id": "B28",
+            "name": "T11 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002854"
+            ]
+        },
+        {
+            "id": "B29",
+            "name": "T12 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002855"
+            ]
+        },
+        {
+            "id": "B30",
+            "name": "T13 Dorsal Root ganglion",
+            "external": [
+                "EMAPA:25186"
+            ]
+        },
+        {
+            "id": "B31",
+            "name": "L1 Dorsal Root ganglion",
+            "external": [
+                "UBERON:0002857"
+            ]
+        },
+        {
+            "id": "B32",
+            "name": "T1 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B33",
+            "name": "T2 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B34",
+            "name": "T3 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B35",
+            "name": "T4 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B36",
+            "name": "T5 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B37",
+            "name": "T6 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B38",
+            "name": "T7 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B39",
+            "name": "T8 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B40",
+            "name": "T9 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B41",
+            "name": "T10 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B42",
+            "name": "T11 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B43",
+            "name": "T12 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B44",
+            "name": "T13 ventral root",
+            "external": [
+                "UBERON:0014617"
+            ]
+        },
+        {
+            "id": "B125",
+            "name": "L1 ventral root"
+        },
+        {
+            "id": "B45",
+            "name": "T1 - T2 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B46",
+            "name": "T2 - T3 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B47",
+            "name": "T3 - T4 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B48",
+            "name": "T4 - T5 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B49",
+            "name": "T5 - T6 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B50",
+            "name": "T6 - T7 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B51",
+            "name": "T7 - T8 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B52",
+            "name": "T8 - T9 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B53",
+            "name": "T9 - T10 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B54",
+            "name": "T10 - T11 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B55",
+            "name": "T11 - T12 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B56",
+            "name": "T12 - T13 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B57",
+            "name": "T13 - L1 Interganglonic segment",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "B58",
+            "name": "T1 sympathetic ganglion",
+            "external": [
+                "FMA:6474"
+            ]
+        },
+        {
+            "id": "B59",
+            "name": "T2 sympathetic ganglion",
+            "external": [
+                "FMA:6475"
+            ]
+        },
+        {
+            "id": "B60",
+            "name": "T3 sympathetic ganglion",
+            "external": [
+                "FMA:6476"
+            ]
+        },
+        {
+            "id": "B61",
+            "name": "T4 sympathetic ganglion",
+            "external": [
+                "FMA:6477"
+            ]
+        },
+        {
+            "id": "B62",
+            "name": "T5 sympathetic ganglion",
+            "external": [
+                "FMA:6478"
+            ]
+        },
+        {
+            "id": "B63",
+            "name": "T6 sympathetic ganglion",
+            "external": [
+                "FMA:6479"
+            ]
+        },
+        {
+            "id": "B64",
+            "name": "T7 sympathetic ganglion",
+            "external": [
+                "FMA:6480"
+            ]
+        },
+        {
+            "id": "B65",
+            "name": "T8 sympathetic ganglion",
+            "external": [
+                "FMA:6481"
+            ]
+        },
+        {
+            "id": "B66",
+            "name": "T9 sympathetic ganglion",
+            "external": [
+                "FMA:6482"
+            ]
+        },
+        {
+            "id": "B67",
+            "name": "T10 sympathetic ganglion",
+            "external": [
+                "FMA:6483"
+            ]
+        },
+        {
+            "id": "B68",
+            "name": "T11 sympathetic ganglion",
+            "external": [
+                "FMA:6484"
+            ]
+        },
+        {
+            "id": "B69",
+            "name": "T12 sympathetic ganglion",
+            "external": [
+                "FMA:6485"
+            ]
+        },
+        {
+            "id": "B70",
+            "name": "T13 sympathetic ganglion",
+            "external": [
+                "ILX:0739295"
+            ]
+        },
+        {
+            "id": "B71",
+            "name": "T1 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B72",
+            "name": "T2 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B73",
+            "name": "T3 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B74",
+            "name": "T4 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B75",
+            "name": "T5 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B76",
+            "name": "T6 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B77",
+            "name": "T7 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B78",
+            "name": "T8 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B79",
+            "name": "T9 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B80",
+            "name": "T10 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B81",
+            "name": "T11 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B82",
+            "name": "T12 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B84",
+            "name": "T13 white ramus",
+            "external": [
+                "FMA:14056"
+            ]
+        },
+        {
+            "id": "B83",
+            "name": "L1 white ramus",
+            "external": [
+                "FMA:12686"
+            ]
+        },
+        {
+            "id": "B85",
+            "name": "T1 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B86",
+            "name": "T2 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B87",
+            "name": "T3 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B88",
+            "name": "T4 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B89",
+            "name": "T5 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B90",
+            "name": "T6 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B91",
+            "name": "T7 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B92",
+            "name": "T8 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B93",
+            "name": "T9 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B94",
+            "name": "T10 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B95",
+            "name": "T11 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B96",
+            "name": "T12 ray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B97",
+            "name": "T13 gray ramus",
+            "external": [
+                "FMA:14055"
+            ]
+        },
+        {
+            "id": "B124",
+            "name": "L1 gray ramus",
+            "external": [
+                "FMA:65910"
+            ]
+        },
+        {
+            "id": "B98",
+            "name": "Adrenal gland",
+            "external": [
+                "UBERON:0002369"
+            ],
+            "layers": [
+                "B100",
+                "B99"
+            ]
+        },
+        {
+            "id": "B99",
+            "name": "Adrenal cortex",
+            "external": [
+                "UBERON:0001235"
+            ]
+        },
+        {
+            "id": "B100",
+            "name": "Adrenal medulla",
+            "external": [
+                "UBERON:0001236"
+            ],
+            "internalLyphs": [
+                "B101"
+            ]
+        },
+        {
+            "id": "B101",
+            "name": "Chromaffin cell of adrenal medulla",
+            "external": [
+                "FMA:69262"
+            ]
+        },
+        {
+            "id": "B102",
+            "name": "terminal bronchiole",
+            "external": [
+                "UBERON:0002187"
+            ],
+            "layers": [
+                "BM_46",
+                "BM_41"
+            ],
+            "internalLyphs": [
+                "B117",
+                "B122",
+                "sn-trac_3",
+                "B118"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B103",
+            "name": "bronchiole",
+            "external": [
+                "UBERON:0002186"
+            ],
+            "layers": [
+                "BM_45",
+                "BM_41"
+            ],
+            "internalLyphs": [
+                "B117",
+                "B120",
+                "sn-bron_4",
+                "B118"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B104",
+            "name": "bronchus",
+            "external": [
+                "UBERON:0002185"
+            ],
+            "layers": [
+                "BM_44",
+                "BM_41"
+            ],
+            "internalLyphs": [
+                "B117",
+                "B121",
+                "sn-bronle_5",
+                "B118"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B105",
+            "name": "trachea",
+            "external": [
+                "UBERON:0003126"
+            ],
+            "layers": [
+                "BM_43",
+                "BM_41"
+            ],
+            "internalLyphs": [
+                "B117",
+                "B119",
+                "sn_termbronle_6",
+                "B118"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B113",
+            "name": "Aortic valve",
+            "external": [
+                "UBERON:0002137"
+            ]
+        },
+        {
+            "id": "B114",
+            "name": "Lung capillary",
+            "external": [
+                "UBERON:0016405"
+            ]
+        },
+        {
+            "id": "B115",
+            "name": "Pulmonary valve",
+            "external": [
+                "UBERON:0002146"
+            ]
+        },
+        {
+            "id": "B116",
+            "name": "Systemic capillary",
+            "external": [
+                "FMA:14122"
+            ]
+        },
+        {
+            "id": "B117",
+            "name": "Smooth muscle cell",
+            "external": [
+                "FMA:14072"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "BM_42",
+                "BM_41"
+            ]
+        },
+        {
+            "id": "B118",
+            "name": "Nicotinic acetylcholine receptor",
+            "external": [
+                "FMA:61796"
+            ],
+            "isTemplate": true,
+            "internalLyphs": [
+                "B118"
+            ]
+        },
+        {
+            "id": "B119",
+            "name": "trachea parasympathetic ganglia",
+            "external": [
+                "NCIT:C52557"
+            ]
+        },
+        {
+            "id": "B120",
+            "name": "bronchus parasympathetic ganglia",
+            "external": [
+                "NCIT:C52557"
+            ]
+        },
+        {
+            "id": "B121",
+            "name": "bronchiole parasympathetic ganglia",
+            "external": [
+                "NCIT:C52557"
+            ]
+        },
+        {
+            "id": "B122",
+            "name": "terminal bronchiole parasympathetic ganglia",
+            "external": [
+                "NCIT:C52557"
+            ]
+        },
+        {
+            "id": "B123",
+            "name": "L1 ventral root",
+            "external": [
+                "UBERON:0024382"
+            ]
+        },
+        {
+            "id": "n-supra",
+            "name": "Suprarenal vein",
+            "external": [
+                "UBERON:0001146"
+            ]
+        },
+        {
+            "id": "n-splan",
+            "name": "Splanchnic nerve",
+            "external": [
+                "UBERON:0003715"
+            ]
+        },
+        {
+            "id": "v-bron",
+            "name": "Bronchial vein",
+            "external": [
+                "UBERON:0001592"
+            ]
+        },
+        {
+            "id": "a-pul",
+            "name": "Pulmonary artery",
+            "external": [
+                "UBERON:0002012"
+            ]
+        },
+        {
+            "id": "n-vag",
+            "name": "Vagus Nerve",
+            "external": [
+                "UBERON:0001759"
+            ]
+        },
+        {
+            "id": "v-pul",
+            "name": "Pulmonary vein",
+            "external": [
+                "UBERON:0002016"
+            ]
+        },
+        {
+            "id": "a-bron",
+            "name": "Bronchial artery",
+            "external": [
+                "UBERON:0002040"
+            ]
+        },
+        {
+            "id": "aorta",
+            "name": "Aorta",
+            "external": [
+                "UBERON:0000947"
+            ]
+        },
+        {
+            "id": "v-supra",
+            "name": "Suprarenal vein",
+            "external": [
+                "UBERON:0001146"
+            ]
+        },
+        {
+            "id": "ns",
+            "name": "Segment of neuron",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "BM_35",
+                "BM_37",
+                "BM_38"
+            ]
+        },
+        {
+            "id": "ns_bag",
+            "name": "Segment of neuron",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true,
+            "topology": "BAG"
+        },
+        {
+            "id": "snt1_1",
+            "name": "Soma of SPRG in T1-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt2_1",
+            "name": "Soma of SPRG in T2-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt3_1",
+            "name": "Soma of SPRG in T3-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt4_1",
+            "name": "Soma of SPRG in T4-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt5_1",
+            "name": "Soma of SPRG in T5-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt6_1",
+            "name": "Soma of SPRG in T6-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt7_1",
+            "name": "Soma of SPRG in T7-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt8_1",
+            "name": "Soma of SPRG in T8-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt9_1",
+            "name": "Soma of SPRG in T9-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt10_1",
+            "name": "Soma of SPRG in T10-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt11_1",
+            "name": "Soma of SPRG in T11-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt12_1",
+            "name": "Soma of SPRG in T12-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snt13_1",
+            "name": "Soma of SPRG in T13-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snl1_1",
+            "name": "Soma of SPRG in L1-1",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "snna_2",
+            "name": "Soma of PPRG in N_ambiguus-2",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "sn-trac_3",
+            "name": "Soma of PPRG in trachea_3",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "sn-bron_4",
+            "name": "Soma of PPRG in bronchus_4",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "sn-bronle_5",
+            "name": "Soma of PPRG in bronchiole_5",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "sn_termbronle_6",
+            "name": "Soma of PPRG in terminal bronchiole_6",
+            "external": [
+                "NLX:154731"
+            ],
+            "topology": "BAG",
+            "supertype": "ns"
+        },
+        {
+            "id": "229",
+            "name": "Segment of neuron",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
+        }
+    ],
+    "materials": [
+        {
+            "id": "BM_1",
+            "name": "Water",
+            "external": [
+                "CHEBI:15377"
+            ]
+        },
+        {
+            "id": "BM_2",
+            "name": "Extracellular fluid",
+            "external": [
+                "CHEBI:24839"
+            ]
+        },
+        {
+            "id": "BM_3",
+            "name": "Endothelium",
+            "external": [
+                "UBERON:0001986"
+            ]
+        },
+        {
+            "id": "BM_4",
+            "name": "Blood",
+            "external": [
+                "UBERON:0000178"
+            ]
+        },
+        {
+            "id": "BM_5",
+            "name": "Aqueous solution",
+            "external": [
+                "FMA:85815"
+            ]
+        },
+        {
+            "id": "BM_6",
+            "name": "Cerebrospinal fluid",
+            "external": [
+                "UBERON:0001359"
+            ]
+        },
+        {
+            "id": "BM_7",
+            "name": "Smooth muscle",
+            "external": [
+                "UBERON:0001135"
+            ]
+        },
+        {
+            "id": "BM_8",
+            "name": "Connective Tissue",
+            "external": [
+                "UBERON:0002384"
+            ]
+        },
+        {
+            "id": "BM_9",
+            "name": "Sodium ion",
+            "external": [
+                "CHEBI:29101"
+            ]
+        },
+        {
+            "id": "BM_10",
+            "name": "Potassium ion",
+            "external": [
+                "CHEBI:29103"
+            ]
+        },
+        {
+            "id": "BM_11",
+            "name": "Calcium ion",
+            "external": [
+                "CHEBI:29108"
+            ]
+        },
+        {
+            "id": "BM_12",
+            "name": "Chloride ion",
+            "external": [
+                "CHEBI:17996"
+            ]
+        },
+        {
+            "id": "BM_13",
+            "name": "Hydrogen ion",
+            "external": [
+                "CHEBI:24636"
+            ]
+        },
+        {
+            "id": "BM_14",
+            "name": "Hydroxide ion",
+            "external": [
+                "CHEBI:16234"
+            ]
+        },
+        {
+            "id": "BM_15",
+            "name": "Bicarbonate ion",
+            "external": [
+                "CHEBI:17544"
+            ]
+        },
+        {
+            "id": "BM_16",
+            "name": "Liquid",
+            "external": [
+                "FMA:85815"
+            ]
+        },
+        {
+            "id": "BM_17",
+            "name": "Fluid",
+            "external": [
+                "UBERON:0006314"
+            ]
+        },
+        {
+            "id": "BM_18",
+            "name": "Peripheral nervous system tissue",
+            "external": [
+                "UBERON:0000010"
+            ]
+        },
+        {
+            "id": "BM_19",
+            "name": "Ependyma",
+            "external": [
+                "UBERON:0004670"
+            ]
+        },
+        {
+            "id": "BM_20",
+            "name": "Pia mater",
+            "external": [
+                "UBERON:0002361"
+            ]
+        },
+        {
+            "id": "BM_21",
+            "name": "Central nervous system tissue",
+            "external": [
+                "UBERON:0001017"
+            ]
+        },
+        {
+            "id": "BM_22",
+            "name": "Wall of vessel",
+            "external": [
+                "UBERON:0035965"
+            ]
+        },
+        {
+            "id": "BM_23",
+            "name": "White matter of CNS",
+            "external": [
+                "UBERON:0016549"
+            ]
+        },
+        {
+            "id": "BM_24",
+            "name": "Gray matter of CNS",
+            "external": [
+                "UBERON:0016548"
+            ]
+        },
+        {
+            "id": "BM_25",
+            "name": "lamina I of gray matter of spinal cord",
+            "external": [
+                "UBERON:0006118"
+            ]
+        },
+        {
+            "id": "BM_26",
+            "name": "lamina II of gray matter of spinal cord",
+            "external": [
+                "UBERON:0002181"
+            ]
+        },
+        {
+            "id": "BM_27",
+            "name": "lamina III of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016574"
+            ]
+        },
+        {
+            "id": "BM_28",
+            "name": "lamina IV of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016575"
+            ]
+        },
+        {
+            "id": "BM_29",
+            "name": "lamina V of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016576"
+            ]
+        },
+        {
+            "id": "BM_30",
+            "name": "lamina VI of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016577"
+            ]
+        },
+        {
+            "id": "BM_31",
+            "name": "lamina VII of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016578"
+            ]
+        },
+        {
+            "id": "BM_32",
+            "name": "lamina VIII of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016579"
+            ]
+        },
+        {
+            "id": "BM_33",
+            "name": "lamina IX of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016580"
+            ]
+        },
+        {
+            "id": "BM_34",
+            "name": "lamina X of gray matter of spinal cord",
+            "external": [
+                "UBERON:0004677"
+            ]
+        },
+        {
+            "id": "BM_35",
+            "name": "Cytosol",
+            "external": [
+                "GO:0005829"
+            ]
+        },
+        {
+            "id": "BM_36",
+            "name": "Membrane",
+            "external": [
+                "GO:0016020"
+            ]
+        },
+        {
+            "id": "BM_37",
+            "name": "Plasma membrane",
+            "external": [
+                "GO:0005886"
+            ]
+        },
+        {
+            "id": "BM_38",
+            "name": "Extracellular fluid",
+            "external": [
+                "GO:0005615"
+            ]
+        },
+        {
+            "id": "BM_39",
+            "name": "Epithelium",
+            "external": [
+                "UBERON:0000483"
+            ]
+        },
+        {
+            "id": "BM_40",
+            "name": "Basement membrane",
+            "external": [
+                "UBERON:0005769"
+            ]
+        },
+        {
+            "id": "BM_41",
+            "name": "Air",
+            "external": [
+                "NCIT:C73434"
+            ]
+        },
+        {
+            "id": "BM_42",
+            "name": "Wall of larynx",
+            "external": [
+                "FMA:64182"
+            ]
+        },
+        {
+            "id": "BM_43",
+            "name": "Wall of trachea",
+            "external": [
+                "FMA:7470"
+            ]
+        },
+        {
+            "id": "BM_44",
+            "name": "Wall of bronchus",
+            "external": [
+                "FMA:67480"
+            ]
+        },
+        {
+            "id": "BM_45",
+            "name": "Wall of bronchiole",
+            "external": [
+                "FMA:74655"
+            ]
+        },
+        {
+            "id": "BM_46",
+            "name": "Wall of terminal bronchiole",
+            "external": [
+                "FMA:62792"
+            ]
+        },
+        {
+            "id": "BM_47",
+            "name": "Wall of pharynx",
+            "external": [
+                "FMA:55033"
+            ]
+        },
+        {
+            "id": "BM_48",
+            "name": "Cytoplasm",
+            "external": [
+                "FMA:66835"
+            ]
+        },
+        {
+            "id": "BM_49",
+            "name": "Cell Membrane",
+            "external": [
+                "FMA:63841"
+            ]
+        }
+    ],
+    "chains": [
+        {
+            "id": "dc-snt1_1",
+            "name": "T1-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns1",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B1"
+            ]
+        },
+        {
+            "id": "ac-snt1_1",
+            "name": "T1-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns2",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B1",
+                "B1",
+                "B32",
+                "B85",
+                "B71",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt2_1",
+            "name": "T2-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns3",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B2"
+            ]
+        },
+        {
+            "id": "ac-snt2_1",
+            "name": "T2-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns4",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B2",
+                "B2",
+                "B33",
+                "B86",
+                "B72",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt3_1",
+            "name": "T3-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns5",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B3"
+            ]
+        },
+        {
+            "id": "ac-snt3_1",
+            "name": "T3-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns6",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B3",
+                "B3",
+                "B34",
+                "B87",
+                "B73",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt4_1",
+            "name": "T4-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns7",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B4"
+            ]
+        },
+        {
+            "id": "ac-snt4_1",
+            "name": "T4-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns8",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B4",
+                "B4",
+                "B35",
+                "B88",
+                "B74",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt5_1",
+            "name": "T5-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns9",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B5"
+            ]
+        },
+        {
+            "id": "ac-snt5_1",
+            "name": "T5-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns10",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B5",
+                "B5",
+                "B36",
+                "B89",
+                "B75",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt6_1",
+            "name": "T6-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns11",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B6"
+            ]
+        },
+        {
+            "id": "ac-snt6_1",
+            "name": "T6-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns12",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B6",
+                "B6",
+                "B37",
+                "B90",
+                "B76",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt7_1",
+            "name": "T7-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns13",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B7"
+            ]
+        },
+        {
+            "id": "ac-snt7_1",
+            "name": "T7-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns14",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B7",
+                "B7",
+                "B38",
+                "B91",
+                "B77",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt8_1",
+            "name": "T8-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns15",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B8"
+            ]
+        },
+        {
+            "id": "ac-snt8_1",
+            "name": "T8-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns16",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B8",
+                "B8",
+                "B39",
+                "B92",
+                "B78",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt9_1",
+            "name": "T9-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns17",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B9"
+            ]
+        },
+        {
+            "id": "ac-snt9_1",
+            "name": "T9-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns18",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B9",
+                "B9",
+                "B40",
+                "B93",
+                "B79",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt10_1",
+            "name": "T10-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns19",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B10"
+            ]
+        },
+        {
+            "id": "ac-snt10_1",
+            "name": "T10-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns20",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B10",
+                "B10",
+                "B41",
+                "B94",
+                "B80",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt11_1",
+            "name": "T11-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns21",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B11"
+            ]
+        },
+        {
+            "id": "ac-snt11_1",
+            "name": "T11-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns22",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B11",
+                "B11",
+                "B42",
+                "B95",
+                "B81",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt12_1",
+            "name": "T12-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns23",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B12"
+            ]
+        },
+        {
+            "id": "ac-snt12_1",
+            "name": "T12-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns24",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B12",
+                "B12",
+                "B43",
+                "B96",
+                "B82",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snt13_1",
+            "name": "T13-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns25",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B13"
+            ]
+        },
+        {
+            "id": "ac-snt13_1",
+            "name": "T13-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns26",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B13",
+                "B13",
+                "B44",
+                "B97",
+                "B83",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "dc-snl1_1",
+            "name": "L1-1 SPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns27",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "B14"
+            ]
+        },
+        {
+            "id": "ac-snl1_1",
+            "name": "L1-1 SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns28",
+            "leaf": "ns29",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B14",
+                "B14",
+                "B125",
+                "B124",
+                "B83",
+                "n-splan"
+            ]
+        },
+        {
+            "id": "ac-am_1",
+            "name": "spinal cord to adrenal medulla SPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns29",
+            "leaf": "ns29_5",
+            "housingLayers": [
+                0,
+                0,
+                1
+            ],
+            "housingLyphs": [
+                "n-splan",
+                "B98",
+                "B98"
+            ]
+        },
+        {
+            "id": "dc-snna_2",
+            "name": "Med-2 PPRG dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns30",
+            "housingLyphs": [
+                "B17"
+            ]
+        },
+        {
+            "id": "ac-snna_2",
+            "name": "N_ambiguus-2 PPRG axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns31",
+            "leaf": "ns32",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B17",
+                "B16",
+                "n-vag"
+            ]
+        },
+        {
+            "id": "ac-tra_2",
+            "name": "PPRG in trachea_2 axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns32",
+            "leaf": "ns33",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "n-vag",
+                "B105"
+            ]
+        },
+        {
+            "id": "ac-bron_2",
+            "name": "PPRG in bronchus_2 axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns32",
+            "leaf": "ns34",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "n-vag",
+                "B104"
+            ]
+        },
+        {
+            "id": "ac-bronl_2",
+            "name": "PPRG in bronchiole_2 axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns32",
+            "leaf": "ns35",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "n-vag",
+                "B103"
+            ]
+        },
+        {
+            "id": "ac-terbronl_2",
+            "name": "PPRG in terminal bronchiole_2 axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns32",
+            "leaf": "ns35_5",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "n-vag",
+                "B102"
+            ]
+        },
+        {
+            "id": "dc-trac_3",
+            "name": "PPRG in trachea_3 dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns40",
+            "housingLyphs": [
+                "B119"
+            ]
+        },
+        {
+            "id": "ac-trac_3",
+            "name": "PPRG in trachea_3 axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns41",
+            "leaf": "ns42",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B119",
+                "B105"
+            ]
+        },
+        {
+            "id": "dc-bron_4",
+            "name": "PPRG in bronchus_4 axon chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns45",
+            "housingLyphs": [
+                "B120"
+            ]
+        },
+        {
+            "id": "ac-bron_4",
+            "name": "PPRG in bronchus_4 dendrite chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns46",
+            "leaf": "ns47",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B120",
+                "B104"
+            ]
+        },
+        {
+            "id": "dc-bronle_5",
+            "name": "PPRG in bronchiole_5 dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns50",
+            "housingLyphs": [
+                "B121"
+            ]
+        },
+        {
+            "id": "ac-bronle_5",
+            "name": "PPRG in bronchiole_5 axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns51",
+            "leaf": "ns52",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B121",
+                "B103"
+            ]
+        },
+        {
+            "id": "dc_termbronle_6",
+            "name": "PPRG in terminal bronchiole_6 dendrite chain",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "ns55",
+            "housingLyphs": [
+                "B122"
+            ]
+        },
+        {
+            "id": "ac_termbronle_6",
+            "name": "PPRG in terminal bronchiole_6 axon chain",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "ns",
+            "root": "ns56",
+            "leaf": "ns57",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "B122",
+                "B102"
+            ]
+        },
+        {
+            "id": "SC",
+            "name": "spinal cord",
+            "external": [
+                "UBERON:0002240"
+            ],
+            "lyphs": [
+                "B1",
+                "B2",
+                "B3",
+                "B4",
+                "B5",
+                "B6",
+                "B7",
+                "B8",
+                "B9",
+                "B10",
+                "B11",
+                "B12",
+                "B13",
+                "B14"
+            ],
+            "lyphTemplate": "ns_bag",
+            "root": "sc1",
+            "leaf": "sc2"
+        }
+    ],
+    "groups": [
+        {
+            "id": "Neuron1",
+            "name": "Neuron1",
+            "links": [
+                "lnk-snt1_1",
+                "lnk-snt2_1",
+                "lnk-snt3_1",
+                "lnk-snt4_1",
+                "lnk-snt5_1",
+                "lnk-snt6_1",
+                "lnk-snt7_1",
+                "lnk-snt8_1",
+                "lnk-snt9_1",
+                "lnk-snt10_1",
+                "lnk-snt11_1",
+                "lnk-snt12_1",
+                "lnk-snt13_1",
+                "lnk-snl1_1"
+            ],
+            "nodes": [
+                "ns1",
+                "ns2",
+                "ns3",
+                "ns4",
+                "ns5",
+                "ns6",
+                "ns7",
+                "ns8",
+                "ns9",
+                "ns10",
+                "ns11",
+                "ns12",
+                "ns13",
+                "ns14",
+                "ns15",
+                "ns16",
+                "ns17",
+                "ns18",
+                "ns19",
+                "ns20",
+                "ns21",
+                "ns22",
+                "ns23",
+                "ns24",
+                "ns25",
+                "ns26",
+                "ns27",
+                "ns28",
+                "ns29",
+                "ns29_5"
+            ],
+            "publications": [
+                "PMID:8300416",
+                "PMID:3198482",
+                "PMID:2384334"
+            ]
+        },
+        {
+            "id": "Neuron2",
+            "name": "Neuron2",
+            "links": [
+                "lnk-snna_2"
+            ],
+            "nodes": [
+                "ns30",
+                "ns31",
+                "ns32",
+                "ns33",
+                "ns34",
+                "ns35",
+                "ns35_5"
+            ],
+            "publications": [
+                "DOI:10.1016/B978-0-444-53491-0.09985-5"
+            ]
+        },
+        {
+            "id": "Neuron3",
+            "name": "Neuron3",
+            "links": [
+                "lnk-sn-trac_3"
+            ],
+            "nodes": [
+                "ns40",
+                "ns41",
+                "ns42"
+            ],
+            "publications": [
+                "DOI:10.1016/B978-0-444-53491-0.09985-5"
+            ]
+        },
+        {
+            "id": "Neuron4",
+            "name": "Neuron4",
+            "links": [
+                "lnk-sn-bron_4"
+            ],
+            "nodes": [
+                "ns45",
+                "ns46",
+                "ns47"
+            ],
+            "publications": [
+                "DOI:10.1016/B978-0-444-53491-0.09985-5"
+            ]
+        },
+        {
+            "id": "Neuron5",
+            "name": "Neuron5",
+            "links": [
+                "lnk-sn-bronle_5"
+            ],
+            "nodes": [
+                "ns50",
+                "ns51",
+                "ns52"
+            ],
+            "publications": [
+                "DOI:10.1016/B978-0-444-53491-0.09985-5"
+            ]
+        },
+        {
+            "id": "Neuron6",
+            "name": "Neuron6",
+            "links": [
+                "lnk-sn_termbronle_6"
+            ],
+            "nodes": [
+                "ns55",
+                "ns56",
+                "ns57"
+            ],
+            "publications": [
+                "DOI:10.1016/B978-0-444-53491-0.09985-5"
+            ]
+        }
+    ],
+    "localConventions": [
+        {
+            "prefix": "UBERON",
+            "namespace": "http://purl.obolibrary.org/obo/UBERON_"
+        },
+        {
+            "prefix": "CHEBI",
+            "namespace": "http://purl.obolibrary.org/obo/CHEBI_"
+        },
+        {
+            "prefix": "FMA",
+            "namespace": "http://purl.org/sig/ont/fma/fma"
+        },
+        {
+            "prefix": "GO",
+            "namespace": "http://purl.obolibrary.org/obo/GO_"
+        },
+        {
+            "prefix": "ILX",
+            "namespace": "http://uri.interlex.org/base/ilx_"
+        },
+        {
+            "prefix": "NLX",
+            "namespace": "http://uri.neuinfo.org/nif/nifstd/nlx_"
+        },
+        {
+            "prefix": "SAO",
+            "namespace": "http://uri.neuinfo.org/nif/nifstd/sao"
+        },
+        {
+            "prefix": "PMID",
+            "namespace": "http://www.ncbi.nlm.nih.gov/pubmed/"
+        },
+        {
+            "prefix": "EMAPA",
+            "namespace": "http://purl.obolibrary.org/obo/EMAPA_"
+        },
+        {
+            "prefix": "CL",
+            "namespace": "http://purl.obolibrary.org/obo/CL_"
+        },
+        {
+            "prefix": "NCBITaxon",
+            "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        }
+    ],
+    "id": "bronchomotor-sympathetic-control",
+    "name": "SPARC Bronchomotor Flatmap"
+}
