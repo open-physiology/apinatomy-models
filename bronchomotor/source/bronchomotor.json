@@ -157,7 +157,7 @@
             "external": [
                 "UBERON:0006457"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt1_1"
             ],
@@ -171,7 +171,7 @@
             "external": [
                 "UBERON:0006458"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt2_1"
             ],
@@ -185,7 +185,7 @@
             "external": [
                 "UBERON:0006459"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt3_1"
             ],
@@ -199,7 +199,7 @@
             "external": [
                 "UBERON:0006452"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt4_1"
             ],
@@ -213,7 +213,7 @@
             "external": [
                 "UBERON:0006453"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt5_1"
             ],
@@ -227,7 +227,7 @@
             "external": [
                 "UBERON:0006454"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt6_1"
             ],
@@ -241,7 +241,7 @@
             "external": [
                 "UBERON:0006455"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt7_1"
             ],
@@ -255,7 +255,7 @@
             "external": [
                 "UBERON:0006456"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt8_1"
             ],
@@ -269,7 +269,7 @@
             "external": [
                 "UBERON:0006465"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt9_1"
             ],
@@ -283,7 +283,7 @@
             "external": [
                 "UBERON:0006466"
             ],
-            "supertype": "B35",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt10_1"
             ],
@@ -2823,6 +2823,6 @@
             "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
         }
     ],
-    "id": "bronchomotor-sympathetic-control",
+    "id": "bronchomotor",
     "name": "SPARC Bronchomotor Flatmap"
 }
