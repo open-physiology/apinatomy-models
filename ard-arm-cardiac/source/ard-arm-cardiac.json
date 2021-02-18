@@ -1,5 +1,10 @@
 {
-    "publications": [],
+    "publications": [
+        {
+            "id": "PMID:27783854",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/27783854/"
+        }
+    ],
     "nodes": [
         {
             "id": "cn1",
@@ -265,63 +270,63 @@
     "lyphs": [
         {
             "id": "A1",
-            "name": "C1 spinal segment",
+            "name": "C1 spinal segment (acard)",
             "external": [
                 "UBERON:0006469"
             ]
         },
         {
             "id": "A2",
-            "name": "C2 spinal segment",
+            "name": "C2 spinal segment (acard)",
             "external": [
                 "UBERON:0006489"
             ]
         },
         {
             "id": "A3",
-            "name": "C3 spinal segment",
+            "name": "C3 spinal segment (acard)",
             "external": [
                 "UBERON:0006488"
             ]
         },
         {
             "id": "A4",
-            "name": "C4 spinal segment",
+            "name": "C4 spinal segment (acard)",
             "external": [
                 "UBERON:0006490"
             ]
         },
         {
             "id": "A5",
-            "name": "C5 spinal segment",
+            "name": "C5 spinal segment (acard)",
             "external": [
                 "UBERON:0006491"
             ]
         },
         {
             "id": "A6",
-            "name": "C6 spinal segment",
+            "name": "C6 spinal segment (acard)",
             "external": [
                 "UBERON:0006492"
             ]
         },
         {
             "id": "A7",
-            "name": "C7 spinal segment",
+            "name": "C7 spinal segment (acard)",
             "external": [
                 "UBERON:0006493"
             ]
         },
         {
             "id": "A8",
-            "name": "C8 spinal segment",
+            "name": "C8 spinal segment (acard)",
             "external": [
                 "UBERON:0006470"
             ]
         },
         {
             "id": "A9",
-            "name": "T1 spinal segment",
+            "name": "T1 spinal segment (acard)",
             "external": [
                 "UBERON:0006457"
             ],
@@ -334,7 +339,7 @@
         },
         {
             "id": "A10",
-            "name": "T2 spinal segment",
+            "name": "T2 spinal segment (acard)",
             "external": [
                 "UBERON:0006458"
             ],
@@ -347,7 +352,7 @@
         },
         {
             "id": "A11",
-            "name": "T3 spinal segment",
+            "name": "T3 spinal segment (acard)",
             "external": [
                 "UBERON:0006459"
             ],
@@ -360,7 +365,7 @@
         },
         {
             "id": "A12",
-            "name": "T4 spinal segment",
+            "name": "T4 spinal segment (acard)",
             "external": [
                 "UBERON:0006452"
             ],
@@ -373,7 +378,7 @@
         },
         {
             "id": "A13",
-            "name": "T5 spinal segment",
+            "name": "T5 spinal segment (acard)",
             "external": [
                 "UBERON:0006453"
             ],
@@ -386,7 +391,7 @@
         },
         {
             "id": "A14",
-            "name": "T6 spinal segment",
+            "name": "T6 spinal segment (acard)",
             "external": [
                 "UBERON:0006454"
             ],
@@ -399,42 +404,42 @@
         },
         {
             "id": "A15",
-            "name": "C1 dorsal root ganglia",
+            "name": "C1 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002838"
             ]
         },
         {
             "id": "A16",
-            "name": "C2 dorsal root ganglia",
+            "name": "C2 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002839"
             ]
         },
         {
             "id": "A17",
-            "name": "C3 dorsal root ganglia",
+            "name": "C3 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002840"
             ]
         },
         {
             "id": "A18",
-            "name": "C4 dorsal root ganglia",
+            "name": "C4 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002841"
             ]
         },
         {
             "id": "A19",
-            "name": "C5 dorsal root ganglia",
+            "name": "C5 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002842"
             ]
         },
         {
             "id": "A20",
-            "name": "C6 dorsal root ganglia",
+            "name": "C6 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0007711"
             ],
@@ -447,7 +452,7 @@
         },
         {
             "id": "A21",
-            "name": "C7 dorsal root ganglia",
+            "name": "C7 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002843"
             ],
@@ -460,7 +465,7 @@
         },
         {
             "id": "A22",
-            "name": "C8 dorsal root ganglia",
+            "name": "C8 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002844"
             ],
@@ -473,7 +478,7 @@
         },
         {
             "id": "A23",
-            "name": "T1 dorsal root ganglia",
+            "name": "T1 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002845"
             ],
@@ -486,7 +491,7 @@
         },
         {
             "id": "A24",
-            "name": "T2 dorsal root ganglia",
+            "name": "T2 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002846"
             ],
@@ -499,7 +504,7 @@
         },
         {
             "id": "A25",
-            "name": "T3 dorsal root ganglia",
+            "name": "T3 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002847"
             ],
@@ -512,7 +517,7 @@
         },
         {
             "id": "A26",
-            "name": "T4 dorsal root ganglia",
+            "name": "T4 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0007712"
             ],
@@ -525,7 +530,7 @@
         },
         {
             "id": "A27",
-            "name": "T5 dorsal root ganglia",
+            "name": "T5 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002848"
             ],
@@ -538,7 +543,7 @@
         },
         {
             "id": "A28",
-            "name": "T6 dorsal root ganglia",
+            "name": "T6 dorsal root ganglia (acard)",
             "external": [
                 "UBERON:0002849"
             ],
@@ -551,154 +556,154 @@
         },
         {
             "id": "A29",
-            "name": "C6 ventral root",
+            "name": "C6 ventral root (acard)",
             "external": [
                 "UBERON:0014634"
             ]
         },
         {
             "id": "A30",
-            "name": "C7 ventral root",
+            "name": "C7 ventral root (acard)",
             "external": [
                 "UBERON:0014634"
             ]
         },
         {
             "id": "A31",
-            "name": "C8 ventral root",
+            "name": "C8 ventral root (acard)",
             "external": [
                 "UBERON:0014634"
             ]
         },
         {
             "id": "A32",
-            "name": "T1 ventral root",
+            "name": "T1 ventral root (acard)",
             "external": [
                 "FMA:7643"
             ]
         },
         {
             "id": "A33",
-            "name": "T2 ventral root",
+            "name": "T2 ventral root (acard)",
             "external": [
                 "FMA:12897"
             ]
         },
         {
             "id": "A34",
-            "name": "T3 ventral root",
+            "name": "T3 ventral root (acard)",
             "external": [
                 "FMA:12898"
             ]
         },
         {
             "id": "A35",
-            "name": "T4 ventral root",
+            "name": "T4 ventral root (acard)",
             "external": [
                 "FMA:12899"
             ]
         },
         {
             "id": "A36",
-            "name": "T5 ventral root",
+            "name": "T5 ventral root (acard)",
             "external": [
                 "FMA:12900"
             ]
         },
         {
             "id": "A37",
-            "name": "T6 ventral root",
+            "name": "T6 ventral root (acard)",
             "external": [
                 "FMA:12901"
             ]
         },
         {
             "id": "A38",
-            "name": "T1 white ramus",
+            "name": "T1 white ramus (acard)",
             "external": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A39",
-            "name": "T2 white ramus",
+            "name": "T2 white ramus (acard)",
             "external": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A40",
-            "name": "T3 white ramus",
+            "name": "T3 white ramus (acard)",
             "external": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A41",
-            "name": "T4 white ramus",
+            "name": "T4 white ramus (acard)",
             "external": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A42",
-            "name": "T5 white ramus",
+            "name": "T5 white ramus (acard)",
             "external": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A43",
-            "name": "T6 white ramus",
+            "name": "T6 white ramus (acard)",
             "external": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A44",
-            "name": "T1 gray ramus",
+            "name": "T1 gray ramus (acard)",
             "external": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A45",
-            "name": "T2 gray ramus",
+            "name": "T2 gray ramus (acard)",
             "external": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A46",
-            "name": "T3 gray ramus",
+            "name": "T3 gray ramus (acard)",
             "external": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A47",
-            "name": "T4 gray ramus",
+            "name": "T4 gray ramus (acard)",
             "external": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A48",
-            "name": "T5 gray ramus",
+            "name": "T5 gray ramus (acard)",
             "external": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A49",
-            "name": "T6 gray ramus",
+            "name": "T6 gray ramus (acard)",
             "external": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A50",
-            "name": "T1 sympathetic ganglion",
+            "name": "T1 sympathetic ganglion (acard)",
             "external": [
                 "FMA:6474"
             ],
@@ -711,7 +716,7 @@
         },
         {
             "id": "A51",
-            "name": "T2 sympathetic ganglion",
+            "name": "T2 sympathetic ganglion (acard)",
             "external": [
                 "FMA:6475"
             ],
@@ -724,7 +729,7 @@
         },
         {
             "id": "A52",
-            "name": "T3 sympathetic ganglion",
+            "name": "T3 sympathetic ganglion (acard)",
             "external": [
                 "FMA:6476"
             ],
@@ -737,7 +742,7 @@
         },
         {
             "id": "A53",
-            "name": "T4 sympathetic ganglion",
+            "name": "T4 sympathetic ganglion (acard)",
             "external": [
                 "FMA:6477"
             ],
@@ -750,7 +755,7 @@
         },
         {
             "id": "A54",
-            "name": "T5 sympathetic ganglion",
+            "name": "T5 sympathetic ganglion (acard)",
             "external": [
                 "FMA:6478"
             ],
@@ -763,7 +768,7 @@
         },
         {
             "id": "A55",
-            "name": "T6 sympathetic ganglion",
+            "name": "T6 sympathetic ganglion (acard)",
             "external": [
                 "FMA:6479"
             ],
@@ -776,42 +781,42 @@
         },
         {
             "id": "A56",
-            "name": "T1 - T2 Interganglonic segment",
+            "name": "T1 - T2 Interganglonic segment (acard)",
             "external": [
                 "ILX:0777094"
             ]
         },
         {
             "id": "A57",
-            "name": "T2 - T3 Interganglonic segment",
+            "name": "T2 - T3 Interganglonic segment (acard)",
             "external": [
                 "ILX:0777095"
             ]
         },
         {
             "id": "A58",
-            "name": "T3 - T4 Interganglonic segment",
+            "name": "T3 - T4 Interganglonic segment (acard)",
             "external": [
                 "ILX:0777096"
             ]
         },
         {
             "id": "A59",
-            "name": "T4 - T5 Interganglonic segment",
+            "name": "T4 - T5 Interganglonic segment (acard)",
             "external": [
                 "ILX:0777097"
             ]
         },
         {
             "id": "A60",
-            "name": "T5 - T6 Interganglonic segment",
+            "name": "T5 - T6 Interganglonic segment (acard)",
             "external": [
                 "ILX:0777098"
             ]
         },
         {
             "id": "A61",
-            "name": "Inferior cervical ganglion",
+            "name": "Inferior cervical ganglion (acard)",
             "external": [
                 "FMA:6961"
             ],
@@ -828,7 +833,7 @@
         },
         {
             "id": "A62",
-            "name": "Middle cervical ganglion",
+            "name": "Middle cervical ganglion (acard)",
             "external": [
                 "FMA:6468"
             ],
@@ -845,7 +850,7 @@
         },
         {
             "id": "A63",
-            "name": "Superior cervical ganglion",
+            "name": "Superior cervical ganglion (acard)",
             "external": [
                 "FMA:6467"
             ],
@@ -858,49 +863,49 @@
         },
         {
             "id": "A64",
-            "name": "Cerebrum",
+            "name": "Cerebrum (acard)",
             "external": [
                 "UBERON:0001869"
             ]
         },
         {
             "id": "A65",
-            "name": "Insula",
+            "name": "Insula (acard)",
             "external": [
                 "FMA:67329"
             ]
         },
         {
             "id": "A66",
-            "name": "Diencephalon",
+            "name": "Diencephalon (acard)",
             "external": [
                 "UBERON:0001894"
             ]
         },
         {
             "id": "A67",
-            "name": "Midbrain",
+            "name": "Midbrain (acard)",
             "external": [
                 "FMA:61993"
             ]
         },
         {
             "id": "A68",
-            "name": "Pons",
+            "name": "Pons (acard)",
             "external": [
                 "FMA:67943"
             ]
         },
         {
             "id": "A69",
-            "name": "Medulla",
+            "name": "Medulla (acard)",
             "external": [
                 "FMA:61108"
             ]
         },
         {
             "id": "A70",
-            "name": "Nucleus Ambiguus",
+            "name": "Nucleus Ambiguus (acard)",
             "external": [
                 "FMA:54588"
             ],
@@ -913,7 +918,7 @@
         },
         {
             "id": "A71",
-            "name": "Dorsal Motor Vagus (of vagus nerve)",
+            "name": "Dorsal Motor Vagus (of vagus nerve) (acard)",
             "external": [
                 "FMA:54592"
             ],
@@ -926,7 +931,7 @@
         },
         {
             "id": "A72",
-            "name": "Nucleus Tractus Soltarius",
+            "name": "Nucleus Tractus Soltarius (acard)",
             "external": [
                 "UBERON:0009050"
             ],
@@ -939,7 +944,7 @@
         },
         {
             "id": "A73",
-            "name": "Nodose Ganglion",
+            "name": "Nodose Ganglion (acard)",
             "external": [
                 "UBERON:0005363"
             ],
@@ -949,7 +954,7 @@
         },
         {
             "id": "A74",
-            "name": "Heart",
+            "name": "Heart (acard)",
             "external": [
                 "UBERON:0000948"
             ],
@@ -964,42 +969,42 @@
         },
         {
             "id": "A75",
-            "name": "Right Atrium",
+            "name": "Right Atrium (acard)",
             "external": [
                 "FMA:7096"
             ]
         },
         {
             "id": "A76",
-            "name": "Right Ventricle",
+            "name": "Right Ventricle (acard)",
             "external": [
                 "FMA:7098"
             ]
         },
         {
             "id": "A77",
-            "name": "Left Atrium",
+            "name": "Left Atrium (acard)",
             "external": [
                 "FMA:7097"
             ]
         },
         {
             "id": "A78",
-            "name": "Left Ventricle",
+            "name": "Left Ventricle (acard)",
             "external": [
                 "FMA:7101"
             ]
         },
         {
             "id": "A79",
-            "name": "Aorta",
+            "name": "Aorta (acard)",
             "external": [
                 "FMA:3734"
             ]
         },
         {
             "id": "A80",
-            "name": "Arterial Inferior cervical ganglion",
+            "name": "Arterial Inferior cervical ganglion (acard)",
             "external": [
                 "UBERON:0002440"
             ],
@@ -1018,7 +1023,7 @@
         },
         {
             "id": "A81",
-            "name": "Ventricular Inferior cervical ganglion",
+            "name": "Ventricular Inferior cervical ganglion (acard)",
             "external": [
                 "UBERON:0002440"
             ],
@@ -1037,7 +1042,7 @@
         },
         {
             "id": "A82",
-            "name": "Mediastinal",
+            "name": "Mediastinal (acard)",
             "external": [
                 "NCIT:C25310"
             ],
@@ -1050,7 +1055,7 @@
         },
         {
             "id": "A83",
-            "name": "Epicardium",
+            "name": "Epicardium (acard)",
             "external": [
                 "UBERON:0002348"
             ],
@@ -1058,7 +1063,7 @@
         },
         {
             "id": "A84",
-            "name": "Myocardium",
+            "name": "Myocardium (acard)",
             "external": [
                 "UBERON:0002349"
             ],
@@ -1066,7 +1071,7 @@
         },
         {
             "id": "A85",
-            "name": "Endocardium",
+            "name": "Endocardium (acard)",
             "external": [
                 "UBERON:0002165"
             ],
@@ -1074,7 +1079,7 @@
         },
         {
             "id": "A86",
-            "name": "Pericardium",
+            "name": "Pericardium (acard)",
             "external": [
                 "EMAPA:16133"
             ],
@@ -1082,7 +1087,7 @@
         },
         {
             "id": "A87",
-            "name": "Visceral Pericardium",
+            "name": "Visceral Pericardium (acard)",
             "external": [
                 "EMAPA:16589"
             ],
@@ -1090,7 +1095,7 @@
         },
         {
             "id": "A88",
-            "name": "Pericardial Fluid",
+            "name": "Pericardial Fluid (acard)",
             "external": [
                 "UBERON:0002409"
             ],
@@ -1098,7 +1103,7 @@
         },
         {
             "id": "A89",
-            "name": "Parietal Pericardium",
+            "name": "Parietal Pericardium (acard)",
             "external": [
                 "EMAPA:16588"
             ],
@@ -1106,7 +1111,7 @@
         },
         {
             "id": "A90",
-            "name": "Fibrous Pericardium",
+            "name": "Fibrous Pericardium (acard)",
             "external": [
                 "UBERON:0002359"
             ],
@@ -1114,7 +1119,7 @@
         },
         {
             "id": "A91",
-            "name": "Epicardial fat",
+            "name": "Epicardial fat (acard)",
             "external": [
                 "UBERON:0015129"
             ],
@@ -1122,35 +1127,35 @@
         },
         {
             "id": "A92",
-            "name": "T1 - Inferior cervical ganglion Interganglonic segment",
+            "name": "T1 - Inferior cervical ganglion Interganglonic segment (acard)",
             "external": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "A93",
-            "name": "Inferior cervical ganglion - Middle cervical ganglion Interganglonic segment",
+            "name": "Inferior cervical ganglion - Middle cervical ganglion Interganglonic segment (acard)",
             "external": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "A94",
-            "name": "Middle cervical ganglion - Superior cervical ganglion Interganglonic segment",
+            "name": "Middle cervical ganglion - Superior cervical ganglion Interganglonic segment (acard)",
             "external": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "A95",
-            "name": "Pulmonary artery",
+            "name": "Pulmonary artery (acard)",
             "external": [
                 "UBERON:0002012"
             ]
         },
         {
             "id": "A96",
-            "name": "Segment of Spinal Cord",
+            "name": "Segment of Spinal Cord (acard)",
             "external": [
                 "UBERON:0005844"
             ],
@@ -1178,7 +1183,7 @@
         },
         {
             "id": "229",
-            "name": "Segment of neuron",
+            "name": "Segment of neuron (acard)",
             "external": [
                 "CL:0000540"
             ],
@@ -1191,7 +1196,7 @@
         },
         {
             "id": "229bag",
-            "name": "Segment of neuron bag",
+            "name": "Segment of neuron bag (acard)",
             "external": [
                 "CL:0000540"
             ],
@@ -1201,7 +1206,7 @@
         },
         {
             "id": "sn-nts_1",
-            "name": "Soma of sensory neuron in Nucleus Tractus Soltarius",
+            "name": "Soma of sensory neuron in Nucleus Tractus Soltarius (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1209,7 +1214,7 @@
         },
         {
             "id": "sn-mcg_2",
-            "name": "Soma of local circuit neuron in middle cervical ganglion_2",
+            "name": "Soma of local circuit neuron in middle cervical ganglion_2 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1217,7 +1222,7 @@
         },
         {
             "id": "sn-icg_2",
-            "name": "Soma of local circuit neuron in inferior cervical ganglion_2",
+            "name": "Soma of local circuit neuron in inferior cervical ganglion_2 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1225,7 +1230,7 @@
         },
         {
             "id": "snna_4",
-            "name": "Soma of PSPG neuron in Nucleus Ambiguus",
+            "name": "Soma of PSPG neuron in Nucleus Ambiguus (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1233,7 +1238,7 @@
         },
         {
             "id": "snmv_4",
-            "name": "Soma of PSPG neuron in dorsal motor vagus",
+            "name": "Soma of PSPG neuron in dorsal motor vagus (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1241,7 +1246,7 @@
         },
         {
             "id": "sn-t1_5",
-            "name": "Soma of SPrG neuron in T1 layer 6_5",
+            "name": "Soma of SPrG neuron in T1 layer 6_5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1249,7 +1254,7 @@
         },
         {
             "id": "sn-t2_5",
-            "name": "Soma of SPrG neuron in T2 layer 6_5",
+            "name": "Soma of SPrG neuron in T2 layer 6_5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1257,7 +1262,7 @@
         },
         {
             "id": "sn-t3_5",
-            "name": "Soma of SPrG neuron in T3 layer 6_5",
+            "name": "Soma of SPrG neuron in T3 layer 6_5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1265,7 +1270,7 @@
         },
         {
             "id": "sn-t4_5",
-            "name": "Soma of SPrG neuron in T4 layer 6_5",
+            "name": "Soma of SPrG neuron in T4 layer 6_5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1273,7 +1278,7 @@
         },
         {
             "id": "sn-t5_5",
-            "name": "Soma of SPrG neuron in T5 layer 6_5",
+            "name": "Soma of SPrG neuron in T5 layer 6_5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1281,7 +1286,7 @@
         },
         {
             "id": "sn-t6_5",
-            "name": "Soma of SPrG neuron in T6 layer 6_5",
+            "name": "Soma of SPrG neuron in T6 layer 6_5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1289,7 +1294,7 @@
         },
         {
             "id": "sn-sgt1_6",
-            "name": "Soma of SPoG neuron in T1 sympathetic ganglion_6",
+            "name": "Soma of SPoG neuron in T1 sympathetic ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1297,7 +1302,7 @@
         },
         {
             "id": "sn-sgt2_6",
-            "name": "Soma of SPoG neuron in T2 sympathetic ganglion_6",
+            "name": "Soma of SPoG neuron in T2 sympathetic ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1305,7 +1310,7 @@
         },
         {
             "id": "sn-sgt3_6",
-            "name": "Soma of SPoG neuron in T3 sympathetic ganglion_6",
+            "name": "Soma of SPoG neuron in T3 sympathetic ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1313,7 +1318,7 @@
         },
         {
             "id": "sn-sgt4_6",
-            "name": "Soma of SPoG neuron in T4 sympathetic ganglion_6",
+            "name": "Soma of SPoG neuron in T4 sympathetic ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1321,7 +1326,7 @@
         },
         {
             "id": "sn-sgt5_6",
-            "name": "Soma of SPoG neuron in T5 sympathetic ganglion_6",
+            "name": "Soma of SPoG neuron in T5 sympathetic ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1329,7 +1334,7 @@
         },
         {
             "id": "sn-sgt6_6",
-            "name": "Soma of SPoG neuron in T6 sympathetic ganglion_6",
+            "name": "Soma of SPoG neuron in T6 sympathetic ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1337,7 +1342,7 @@
         },
         {
             "id": "sn-icg_6",
-            "name": "Soma of SPoG neuron in inferior cervical ganglion_6",
+            "name": "Soma of SPoG neuron in inferior cervical ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1345,7 +1350,7 @@
         },
         {
             "id": "sn-mcg_6",
-            "name": "Soma of SPoG neuron in middle cervical ganglion_6",
+            "name": "Soma of SPoG neuron in middle cervical ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1353,7 +1358,7 @@
         },
         {
             "id": "sn-scg_6",
-            "name": "Soma of SPoG neuron in superior cervical ganglion_6",
+            "name": "Soma of SPoG neuron in superior cervical ganglion_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1361,7 +1366,7 @@
         },
         {
             "id": "sn-med_6",
-            "name": "Soma of SPoG neuron in mediastinal_6",
+            "name": "Soma of SPoG neuron in mediastinal_6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1369,7 +1374,7 @@
         },
         {
             "id": "sn-aicg_7",
-            "name": "Soma PPoG neuron in arterial ICG_7",
+            "name": "Soma PPoG neuron in arterial ICG_7 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1377,7 +1382,7 @@
         },
         {
             "id": "sn-vicg_7",
-            "name": "Soma PPoG neuron in ventricular ICG_7",
+            "name": "Soma PPoG neuron in ventricular ICG_7 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1385,7 +1390,7 @@
         },
         {
             "id": "sn-aicg_8",
-            "name": "Soma PPoG neuron in arterial ICG_8",
+            "name": "Soma PPoG neuron in arterial ICG_8 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1393,7 +1398,7 @@
         },
         {
             "id": "sn-vicg_8",
-            "name": "Soma PPoG neuron in ventricular ICG_8",
+            "name": "Soma PPoG neuron in ventricular ICG_8 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1401,7 +1406,7 @@
         },
         {
             "id": "sn-aicg_9",
-            "name": "Soma PPoG neuron in arterial ICG_9",
+            "name": "Soma PPoG neuron in arterial ICG_9 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1409,7 +1414,7 @@
         },
         {
             "id": "sn-vicg_9",
-            "name": "Soma PPoG neuron in ventricular ICG_9",
+            "name": "Soma PPoG neuron in ventricular ICG_9 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1417,7 +1422,7 @@
         },
         {
             "id": "sn-aicg_10",
-            "name": "Soma LCN in in arterial ICG_10",
+            "name": "Soma LCN in in arterial ICG_10 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1425,7 +1430,7 @@
         },
         {
             "id": "sn-vicg_10",
-            "name": "Soma in LCN in in ventricular ICG_10",
+            "name": "Soma in LCN in in ventricular ICG_10 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1433,7 +1438,7 @@
         },
         {
             "id": "sn-ng_11",
-            "name": "Soma in sensory neuron in nodose ganglia_11",
+            "name": "Soma in sensory neuron in nodose ganglia_11 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1441,7 +1446,7 @@
         },
         {
             "id": "sn-mcg_12",
-            "name": "Soma of sensory neuron in middle cervical ganglion_12",
+            "name": "Soma of sensory neuron in middle cervical ganglion_12 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1449,7 +1454,7 @@
         },
         {
             "id": "sn-icg_12",
-            "name": "Soma of sensory neuron in inferior cervical ganglion_12",
+            "name": "Soma of sensory neuron in inferior cervical ganglion_12 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1457,7 +1462,7 @@
         },
         {
             "id": "sn-c6drg_13",
-            "name": "Soma of sensory neuron in C6 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in C6 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1465,7 +1470,7 @@
         },
         {
             "id": "sn-c7drg_13",
-            "name": "Soma of sensory neuron in C7 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in C7 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1473,7 +1478,7 @@
         },
         {
             "id": "sn-c8drg_13",
-            "name": "Soma of sensory neuron in C8 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in C8 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1481,7 +1486,7 @@
         },
         {
             "id": "sn-t1drg_13",
-            "name": "Soma of sensory neuron in T1 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in T1 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1489,7 +1494,7 @@
         },
         {
             "id": "sn-t2drg_13",
-            "name": "Soma of sensory neuron in T2 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in T2 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1497,7 +1502,7 @@
         },
         {
             "id": "sn-t3drg_13",
-            "name": "Soma of sensory neuron in T3 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in T3 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1505,7 +1510,7 @@
         },
         {
             "id": "sn-t4drg_13",
-            "name": "Soma of sensory neuron in T4 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in T4 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1513,7 +1518,7 @@
         },
         {
             "id": "sn-t5drg_13",
-            "name": "Soma of sensory neuron in T5 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in T5 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1521,7 +1526,7 @@
         },
         {
             "id": "sn-t6drg_13",
-            "name": "Soma of sensory neuron in T6 dorsal root ganglia_13",
+            "name": "Soma of sensory neuron in T6 dorsal root ganglia_13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1901,7 +1906,7 @@
     "chains": [
         {
             "id": "sc1",
-            "name": "Spinal Cord_plus",
+            "name": "Spinal Cord_plus (acard)",
             "external": [
                 "UBERON:0002240"
             ],
@@ -1932,7 +1937,10 @@
         },
         {
             "id": "dc-sn-nts_1",
-            "name": "Dendrite in nucleus tractus soltarius_Neuron 1",
+            "name": "Dendrite in nucleus tractus soltarius_Neuron 1 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns1",
             "housingLyphs": [
@@ -1941,7 +1949,10 @@
         },
         {
             "id": "ac-sn-nts_1",
-            "name": "Axon in nucleus tractus soltarius_Neuron 1",
+            "name": "Axon in nucleus tractus soltarius_Neuron 1 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns2",
             "leaf": "ns3",
@@ -1966,7 +1977,10 @@
         },
         {
             "id": "dn-sn-mcg_2",
-            "name": "Dendrite in Middle cervical ganglion_Neuron 2",
+            "name": "Dendrite in Middle cervical ganglion_Neuron 2 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns5",
             "housingLyphs": [
@@ -1975,7 +1989,10 @@
         },
         {
             "id": "an-sn-mcg_2",
-            "name": "Axon in Middle cervical ganglion_Neuron 2",
+            "name": "Axon in Middle cervical ganglion_Neuron 2 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns6",
             "leaf": "ns7",
@@ -1985,7 +2002,10 @@
         },
         {
             "id": "dn-sn-icg_2",
-            "name": "Dendrite in Inferior cervical ganglion_Neuron 2",
+            "name": "Dendrite in Inferior cervical ganglion_Neuron 2 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns8",
             "housingLyphs": [
@@ -1994,7 +2014,10 @@
         },
         {
             "id": "an-sn-icg_2",
-            "name": "Axon in Inferior cervical ganglion_Neuron 2",
+            "name": "Axon in Inferior cervical ganglion_Neuron 2 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns9",
             "leaf": "ns10",
@@ -2004,7 +2027,10 @@
         },
         {
             "id": "dc-snna_4",
-            "name": "Dendrite in Nucleus Ambiguus",
+            "name": "Dendrite in Nucleus Ambiguus (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns11",
             "housingLyphs": [
@@ -2013,7 +2039,10 @@
         },
         {
             "id": "ac-snna_4",
-            "name": "Axon in Nucleus Ambiguus",
+            "name": "Axon in Nucleus Ambiguus (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns12",
             "leaf": "ns13",
@@ -2028,7 +2057,10 @@
         },
         {
             "id": "dc-snmv_4",
-            "name": "Dendrite in dorsal motor vagus",
+            "name": "Dendrite in dorsal motor vagus (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns14",
             "housingLyphs": [
@@ -2037,7 +2069,10 @@
         },
         {
             "id": "ac-dmv_4",
-            "name": "Axon in dorsal motor vagus",
+            "name": "Axon in dorsal motor vagus (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns15",
             "leaf": "ns13",
@@ -2052,7 +2087,10 @@
         },
         {
             "id": "ac-aicg_4",
-            "name": "Axon from Nucleus Ambiguus and Dorsal Motor Vagus to Artrial ICG",
+            "name": "Axon from Nucleus Ambiguus and Dorsal Motor Vagus to Artrial ICG (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns13",
             "leaf": "ns16",
@@ -2069,7 +2107,10 @@
         },
         {
             "id": "ac-vicg_4",
-            "name": "Axon from Nucleus Ambiguus and Dorsal Motor Vagus to Ventricular ICG",
+            "name": "Axon from Nucleus Ambiguus and Dorsal Motor Vagus to Ventricular ICG (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns13",
             "leaf": "ns17",
@@ -2086,7 +2127,10 @@
         },
         {
             "id": "dc-t6_5",
-            "name": "Dendrite in T6 spinal cord segment_Neuron 5",
+            "name": "Dendrite in T6 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns35",
             "housingLayers": [
@@ -2098,7 +2142,10 @@
         },
         {
             "id": "ac_t6_5",
-            "name": "Axon in T6 spinal cord segment_Neuron 5",
+            "name": "Axon in T6 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns36",
             "leaf": "ns37",
@@ -2119,7 +2166,10 @@
         },
         {
             "id": "ac_t6sg_5",
-            "name": "Axon in T6 sympathetic ganglia_Neuron 5",
+            "name": "Axon in T6 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns37",
             "leaf": "ns38",
@@ -2164,7 +2214,10 @@
         },
         {
             "id": "ac_t6sgout_5",
-            "name": "Axon out of T6 sympathetic ganglia_Neuron 5",
+            "name": "Axon out of T6 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns38",
             "leaf": "ns50",
@@ -2174,7 +2227,10 @@
         },
         {
             "id": "dc-t5_5",
-            "name": "Dendrite in T5 spinal cord segment_Neuron 5",
+            "name": "Dendrite in T5 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns32",
             "housingLayers": [
@@ -2186,7 +2242,10 @@
         },
         {
             "id": "ac_t5_5",
-            "name": "Axon in T5 spinal cord segment_Neuron 5",
+            "name": "Axon in T5 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns33",
             "leaf": "ns34",
@@ -2207,7 +2266,10 @@
         },
         {
             "id": "ac_t5sg_5",
-            "name": "Axon in T5 sympathetic ganglia_Neuron 5",
+            "name": "Axon in T5 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns34",
             "leaf": "ns40",
@@ -2248,7 +2310,10 @@
         },
         {
             "id": "ac_t5sgout_5",
-            "name": "Axon out of T5 sympathetic ganglia_Neuron 5",
+            "name": "Axon out of T5 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns40",
             "leaf": "ns41",
@@ -2258,7 +2323,10 @@
         },
         {
             "id": "dc-t4_5",
-            "name": "Dendrite in T4 spinal cord segment_Neuron 5",
+            "name": "Dendrite in T4 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns29",
             "housingLayers": [
@@ -2270,7 +2338,10 @@
         },
         {
             "id": "ac_t4_5",
-            "name": "Axon in T4 spinal cord segment_Neuron 5",
+            "name": "Axon in T4 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns30",
             "leaf": "ns31",
@@ -2291,7 +2362,10 @@
         },
         {
             "id": "ac_t4sg_5",
-            "name": "Axon in T4 sympathetic ganglia_Neuron 5",
+            "name": "Axon in T4 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns31",
             "leaf": "ns42",
@@ -2328,7 +2402,10 @@
         },
         {
             "id": "ac_t4sgout_5",
-            "name": "Axon out of T4 sympathetic ganglia_Neuron 5",
+            "name": "Axon out of T4 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns42",
             "leaf": "ns43",
@@ -2338,7 +2415,10 @@
         },
         {
             "id": "dc-t3_5",
-            "name": "Dendrite in T3 spinal cord segment_Neuron 5",
+            "name": "Dendrite in T3 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns26",
             "housingLayers": [
@@ -2350,7 +2430,10 @@
         },
         {
             "id": "ac_t3_5",
-            "name": "Axon in T3 spinal cord segment_Neuron 5",
+            "name": "Axon in T3 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns27",
             "leaf": "ns28",
@@ -2371,7 +2454,10 @@
         },
         {
             "id": "ac_t3sg_5",
-            "name": "Axon in T3 sympathetic ganglia_Neuron 5",
+            "name": "Axon in T3 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns28",
             "leaf": "ns44",
@@ -2404,7 +2490,10 @@
         },
         {
             "id": "ac_t3sgout_5",
-            "name": "Axon out of T3 sympathetic ganglia_Neuron 5",
+            "name": "Axon out of T3 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns44",
             "leaf": "ns45",
@@ -2414,7 +2503,10 @@
         },
         {
             "id": "dc-t2_5",
-            "name": "Dendrite in T2 spinal cord segment_Neuron 5",
+            "name": "Dendrite in T2 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns23",
             "housingLayers": [
@@ -2426,7 +2518,10 @@
         },
         {
             "id": "ac_t2_5",
-            "name": "Axon in T2 spinal cord segment_Neuron 5",
+            "name": "Axon in T2 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns24",
             "leaf": "ns25",
@@ -2447,7 +2542,10 @@
         },
         {
             "id": "ac_t2sg_5",
-            "name": "Axon in T2 sympathetic ganglia_Neuron 5",
+            "name": "Axon in T2 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns25",
             "leaf": "ns46",
@@ -2476,7 +2574,10 @@
         },
         {
             "id": "ac_t2sgout_5",
-            "name": "Axon out of T2 sympathetic ganglia_Neuron 5",
+            "name": "Axon out of T2 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns46",
             "leaf": "ns47",
@@ -2486,7 +2587,10 @@
         },
         {
             "id": "dc-t1_5",
-            "name": "Dendrite in T1 spinal cord segment_Neuron 5",
+            "name": "Dendrite in T1 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns20",
             "housingLayers": [
@@ -2498,7 +2602,10 @@
         },
         {
             "id": "ac_t1_5",
-            "name": "Axon in T1 spinal cord segment_Neuron 5",
+            "name": "Axon in T1 spinal cord segment_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns21",
             "leaf": "ns22",
@@ -2519,7 +2626,10 @@
         },
         {
             "id": "ac_t1sg_5",
-            "name": "Axon in T1 sympathetic ganglia_Neuron 5",
+            "name": "Axon in T1 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns22",
             "leaf": "ns48",
@@ -2544,7 +2654,10 @@
         },
         {
             "id": "ac_t1sgout_5",
-            "name": "Axon out of T1 sympathetic ganglia_Neuron 5",
+            "name": "Axon out of T1 sympathetic ganglia_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns48",
             "leaf": "ns49",
@@ -2554,7 +2667,10 @@
         },
         {
             "id": "ac_med_5",
-            "name": "Axon from sympathetic ganglia to mediastinal_Neuron 5",
+            "name": "Axon from sympathetic ganglia to mediastinal_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns50",
             "leaf": "ns51",
@@ -2564,7 +2680,10 @@
         },
         {
             "id": "ac_vicg_5",
-            "name": "Axon from sympathetic ganglia to ventricular ICG_Neuron 5",
+            "name": "Axon from sympathetic ganglia to ventricular ICG_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns50",
             "leaf": "ns52",
@@ -2579,7 +2698,10 @@
         },
         {
             "id": "ac_aicg_5",
-            "name": "Axon from sympathetic ganglia to atrial ICG_Neuron 5",
+            "name": "Axon from sympathetic ganglia to atrial ICG_Neuron 5 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns50",
             "leaf": "ns53",
@@ -2594,7 +2716,10 @@
         },
         {
             "id": "dc-sn-sgt1_6",
-            "name": "Dendrite in the T1 sympathetic ganglion_Neuron 6",
+            "name": "Dendrite in the T1 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns80",
             "housingLyphs": [
@@ -2603,7 +2728,10 @@
         },
         {
             "id": "ac-sn-sgt1_6",
-            "name": "Axon in the T1 sympathetic ganglion_Neuron 6",
+            "name": "Axon in the T1 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns81",
             "leaf": "ns101",
@@ -2613,7 +2741,10 @@
         },
         {
             "id": "dc-sn-sgt2_6",
-            "name": "Dendrite in the T2 sympathetic ganglion_Neuron 6",
+            "name": "Dendrite in the T2 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns83",
             "housingLyphs": [
@@ -2622,7 +2753,10 @@
         },
         {
             "id": "ac-sn-sgt2_6",
-            "name": "Axon in the T2 sympathetic ganglion_Neuron 6",
+            "name": "Axon in the T2 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns84",
             "leaf": "ns101",
@@ -2632,7 +2766,10 @@
         },
         {
             "id": "dc-sn-sgt3_6",
-            "name": "Dendrite in the T3 sympathetic ganglion_Neuron 6",
+            "name": "Dendrite in the T3 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns85",
             "housingLyphs": [
@@ -2641,7 +2778,10 @@
         },
         {
             "id": "ac-sn-sgt3_6",
-            "name": "Axon in the T3 sympathetic ganglion_Neuron 6",
+            "name": "Axon in the T3 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns86",
             "leaf": "ns101",
@@ -2651,7 +2791,10 @@
         },
         {
             "id": "dc-sn-sgt4_6",
-            "name": "Dendrite in the T4 sympathetic ganglion_Neuron 6",
+            "name": "Dendrite in the T4 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns87",
             "housingLyphs": [
@@ -2660,7 +2803,10 @@
         },
         {
             "id": "ac-sn-sgt4_6",
-            "name": "Axon in the T4 sympathetic ganglion_Neuron 6",
+            "name": "Axon in the T4 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns88",
             "leaf": "ns101",
@@ -2670,7 +2816,10 @@
         },
         {
             "id": "dc-sn-sgt5_6",
-            "name": "Dendrite in the T5 sympathetic ganglion_Neuron 6",
+            "name": "Dendrite in the T5 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns89",
             "housingLyphs": [
@@ -2679,7 +2828,10 @@
         },
         {
             "id": "ac-sn-sgt5_6",
-            "name": "Axon in the T5 sympathetic ganglion_Neuron 6",
+            "name": "Axon in the T5 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns90",
             "leaf": "ns101",
@@ -2689,7 +2841,10 @@
         },
         {
             "id": "dc-sn-sgt6_6",
-            "name": "Dendrite in the T6 sympathetic ganglion_Neuron 6",
+            "name": "Dendrite in the T6 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns91",
             "housingLyphs": [
@@ -2698,7 +2853,10 @@
         },
         {
             "id": "ac-sn-sgt6_6",
-            "name": "Axon in the T6 sympathetic ganglion_Neuron 6",
+            "name": "Axon in the T6 sympathetic ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns92",
             "leaf": "ns101",
@@ -2708,7 +2866,10 @@
         },
         {
             "id": "dc-sn-icg_6",
-            "name": "Dendrite in the Inferior cervical ganglion_Neuron 6",
+            "name": "Dendrite in the Inferior cervical ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns93",
             "housingLyphs": [
@@ -2717,7 +2878,10 @@
         },
         {
             "id": "ac-sn-icg_6",
-            "name": "Axon in the Inferior cervical ganglion_Neuron 6",
+            "name": "Axon in the Inferior cervical ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns94",
             "leaf": "ns101",
@@ -2727,7 +2891,10 @@
         },
         {
             "id": "dc-sn-mcg_6",
-            "name": "Dendrite in the Middle cervical ganglion_Neuron 6",
+            "name": "Dendrite in the Middle cervical ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns95",
             "housingLyphs": [
@@ -2736,7 +2903,10 @@
         },
         {
             "id": "ac-sn-mcg_6",
-            "name": "Axon in the Middle cervical ganglion_Neuron 6",
+            "name": "Axon in the Middle cervical ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns96",
             "leaf": "ns101",
@@ -2746,7 +2916,10 @@
         },
         {
             "id": "dc-sn-scg_6",
-            "name": "Dendrite in the Superior cervical ganglion_Neuron 6",
+            "name": "Dendrite in the Superior cervical ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns97",
             "housingLyphs": [
@@ -2755,7 +2928,10 @@
         },
         {
             "id": "ac-sn-scg_6",
-            "name": "Axon in the Superior cervical ganglion_Neuron 6",
+            "name": "Axon in the Superior cervical ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns98",
             "leaf": "ns101",
@@ -2765,7 +2941,10 @@
         },
         {
             "id": "dc-sn-med_6",
-            "name": "Dendrite in the Mediastinal_Neuron 6",
+            "name": "Dendrite in the Mediastinal_Neuron 6 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns99",
             "housingLyphs": [
@@ -2774,7 +2953,10 @@
         },
         {
             "id": "ac-sn-med_6",
-            "name": "Axon in the Mediastinal_Neuron 6",
+            "name": "Axon in the Mediastinal_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns99",
             "leaf": "ns101",
@@ -2784,7 +2966,10 @@
         },
         {
             "id": "ac-sn-vicg_6",
-            "name": "Axon to the Ventricular Inferior cervical ganglion_Neuron 6",
+            "name": "Axon to the Ventricular Inferior cervical ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns101",
             "leaf": "ns102",
@@ -2801,7 +2986,10 @@
         },
         {
             "id": "ac-sn-rv2_6",
-            "name": "Axon in right ventricle layer 0_Neuron 6",
+            "name": "Axon in right ventricle layer 0_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns102",
             "leaf": "ns102_0",
@@ -2816,7 +3004,10 @@
         },
         {
             "id": "an-sn-rv1_6",
-            "name": "Axon in right ventricle layer 1_Neuron 6",
+            "name": "Axon in right ventricle layer 1_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns102",
             "leaf": "ns102_1",
@@ -2833,7 +3024,10 @@
         },
         {
             "id": "ac-sn-lv2_6",
-            "name": "Axon in left ventricle layer 0_Neuron 6",
+            "name": "Axon in left ventricle layer 0_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns102",
             "leaf": "ns103_0",
@@ -2848,7 +3042,10 @@
         },
         {
             "id": "an-sn-lv1_6",
-            "name": "Axon in left ventricle layer 1_Neuron 6",
+            "name": "Axon in left ventricle layer 1_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns102",
             "leaf": "ns103_1",
@@ -2865,7 +3062,10 @@
         },
         {
             "id": "ac-sn-aicg_6",
-            "name": "Axon to the Arterial Inferior cervical ganglion_Neuron 6",
+            "name": "Axon to the Arterial Inferior cervical ganglion_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns101",
             "leaf": "ns104",
@@ -2882,7 +3082,10 @@
         },
         {
             "id": "ac-sn-ra2_6",
-            "name": "Axon in right atrium layer 0_Neuron 6",
+            "name": "Axon in right atrium layer 0_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns104",
             "leaf": "ns105_0",
@@ -2897,7 +3100,10 @@
         },
         {
             "id": "an-sn-ra1_6",
-            "name": "Axon in right atrium layer 1_Neuron 6",
+            "name": "Axon in right atrium layer 1_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns104",
             "leaf": "ns105_1",
@@ -2914,7 +3120,10 @@
         },
         {
             "id": "ac-sn-la2_6",
-            "name": "Axon in left atrium layer 0_Neuron 6",
+            "name": "Axon in left atrium layer 0_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns104",
             "leaf": "ns106_0",
@@ -2929,7 +3138,10 @@
         },
         {
             "id": "an-sn-la1_6",
-            "name": "Axon in left atrium layer 1_Neuron 6",
+            "name": "Axon in left atrium layer 1_Neuron 6 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns104",
             "leaf": "ns106_1",
@@ -2946,7 +3158,10 @@
         },
         {
             "id": "dc-aicg_7",
-            "name": "Dendrite in atrial ICG_Neuron 7",
+            "name": "Dendrite in atrial ICG_Neuron 7 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns110",
             "housingLyphs": [
@@ -2955,7 +3170,10 @@
         },
         {
             "id": "ac-aicg_7",
-            "name": "Axon in atrial ICG_Neuron 7",
+            "name": "Axon in atrial ICG_Neuron 7 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns111",
             "leaf": "ns112",
@@ -2972,7 +3190,10 @@
         },
         {
             "id": "ac-la_7",
-            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 7",
+            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 7 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns112",
             "leaf": "ns113",
@@ -2987,7 +3208,10 @@
         },
         {
             "id": "ac-ra_7",
-            "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 7",
+            "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 7 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns112",
             "leaf": "ns114",
@@ -3004,7 +3228,10 @@
         },
         {
             "id": "dc-vicg_7",
-            "name": "Dendrite in ventricular ICG_Neuron 7",
+            "name": "Dendrite in ventricular ICG_Neuron 7 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns115",
             "housingLyphs": [
@@ -3013,7 +3240,10 @@
         },
         {
             "id": "ac-vicg_7",
-            "name": "Axon in ventricular ICG_Neuron 7",
+            "name": "Axon in ventricular ICG_Neuron 7 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns116",
             "leaf": "ns117",
@@ -3030,7 +3260,10 @@
         },
         {
             "id": "ac-lv_7",
-            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 7",
+            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 7 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns117",
             "leaf": "ns118",
@@ -3045,7 +3278,10 @@
         },
         {
             "id": "ac-rv_7",
-            "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 7",
+            "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 7 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns117",
             "leaf": "ns119",
@@ -3062,7 +3298,10 @@
         },
         {
             "id": "dc-aicg_8",
-            "name": "Dendrite in atrial ICG_Neuron 8",
+            "name": "Dendrite in atrial ICG_Neuron 8 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns120",
             "housingLyphs": [
@@ -3071,7 +3310,10 @@
         },
         {
             "id": "ac-aicg_8",
-            "name": "Axon in atrial ICG_Neuron 8",
+            "name": "Axon in atrial ICG_Neuron 8 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns121",
             "leaf": "ns122",
@@ -3088,7 +3330,10 @@
         },
         {
             "id": "ac-la_8",
-            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 8",
+            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 8 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns122",
             "leaf": "ns123",
@@ -3103,7 +3348,10 @@
         },
         {
             "id": "ac-ra_8",
-            "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 8",
+            "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 8 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns122",
             "leaf": "ns124",
@@ -3120,7 +3368,10 @@
         },
         {
             "id": "dc-vicg_8",
-            "name": "Dendrite in ventricular ICG_Neuron 8",
+            "name": "Dendrite in ventricular ICG_Neuron 8 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns125",
             "housingLyphs": [
@@ -3129,7 +3380,10 @@
         },
         {
             "id": "ac-vicg_8",
-            "name": "Axon in ventricular ICG_Neuron 8",
+            "name": "Axon in ventricular ICG_Neuron 8 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns126",
             "leaf": "ns127",
@@ -3146,7 +3400,10 @@
         },
         {
             "id": "ac-lv_8",
-            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 8",
+            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 8 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns127",
             "leaf": "ns128",
@@ -3161,7 +3418,10 @@
         },
         {
             "id": "ac-rv_8",
-            "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 8",
+            "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 8 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns127",
             "leaf": "ns129",
@@ -3178,7 +3438,10 @@
         },
         {
             "id": "dc-aicg_9",
-            "name": "Dendrite in atrial ICG_Neuron 9",
+            "name": "Dendrite in atrial ICG_Neuron 9 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns130",
             "housingLyphs": [
@@ -3187,7 +3450,10 @@
         },
         {
             "id": "ac-aicg_9",
-            "name": "Axon in atrial ICG_Neuron 9",
+            "name": "Axon in atrial ICG_Neuron 9 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns131",
             "leaf": "ns132",
@@ -3204,7 +3470,10 @@
         },
         {
             "id": "ac-aicg2_9",
-            "name": "Axon in atrial ICG2_Neuron 9",
+            "name": "Axon in atrial ICG2_Neuron 9 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns130",
             "leaf": "ns133",
@@ -3214,7 +3483,10 @@
         },
         {
             "id": "ac-la_9",
-            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 9",
+            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 9  (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns132",
             "leaf": "ns134",
@@ -3229,7 +3501,10 @@
         },
         {
             "id": "ac-ra_9",
-            "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 9",
+            "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 9 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns132",
             "leaf": "ns135",
@@ -3246,7 +3521,10 @@
         },
         {
             "id": "dc-vicg_9",
-            "name": "Dendrite in ventricular ICG_Neuron 9",
+            "name": "Dendrite in ventricular ICG_Neuron 9 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns140",
             "housingLyphs": [
@@ -3255,7 +3533,10 @@
         },
         {
             "id": "ac-vicg_9",
-            "name": "Axon in ventricular ICG_Neuron 9",
+            "name": "Axon in ventricular ICG_Neuron 9 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns141",
             "leaf": "ns142",
@@ -3272,7 +3553,10 @@
         },
         {
             "id": "ac-vicg2_9",
-            "name": "Axon in ventricular ICG2_Neuron 9",
+            "name": "Axon in ventricular ICG2_Neuron 9 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns140",
             "leaf": "ns143",
@@ -3282,7 +3566,10 @@
         },
         {
             "id": "ac-lv_9",
-            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 9",
+            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 9 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns143",
             "leaf": "ns144",
@@ -3297,7 +3584,10 @@
         },
         {
             "id": "ac-rv_9",
-            "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 9",
+            "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 9 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns143",
             "leaf": "ns145",
@@ -3314,7 +3604,10 @@
         },
         {
             "id": "dc-aicg_10",
-            "name": "Dendrite in atrial ICG_Neuron 10",
+            "name": "Dendrite in atrial ICG_Neuron 10 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns150",
             "housingLyphs": [
@@ -3323,7 +3616,10 @@
         },
         {
             "id": "ac-aicg_10",
-            "name": "Axon in atrial ICG_Neuron 10",
+            "name": "Axon in atrial ICG_Neuron 10 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns151",
             "leaf": "ns152",
@@ -3333,7 +3629,10 @@
         },
         {
             "id": "dc-vicg_10",
-            "name": "Dendrite in ventricular ICG_Neuron 10",
+            "name": "Dendrite in ventricular ICG_Neuron 10 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns153",
             "housingLyphs": [
@@ -3342,7 +3641,10 @@
         },
         {
             "id": "ac-vicg_10",
-            "name": "Axon in ventricular ICG_Neuron 10",
+            "name": "Axon in ventricular ICG_Neuron 10 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns153",
             "leaf": "ns154",
@@ -3352,7 +3654,10 @@
         },
         {
             "id": "dc-sn-ng_11",
-            "name": "Dendrite in the nodose ganglia_Neuron 11",
+            "name": "Dendrite in the nodose ganglia_Neuron 11 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns160",
             "housingLyphs": [
@@ -3361,7 +3666,10 @@
         },
         {
             "id": "ac-sn-ng_11",
-            "name": "Axon in the nodose ganglia to heart split_Neuron 11",
+            "name": "Axon in the nodose ganglia to heart split_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns161",
             "leaf": "ns162",
@@ -3376,7 +3684,10 @@
         },
         {
             "id": "ac-sn-med_11",
-            "name": "Axon in the nodose ganglia to medulla_Neuron 11",
+            "name": "Axon in the nodose ganglia to medulla_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns160",
             "leaf": "ns163",
@@ -3393,7 +3704,10 @@
         },
         {
             "id": "ac-sn-la_11",
-            "name": "Axon from heart_layer 5 to heartla_Neuron 11",
+            "name": "Axon from heart_layer 5 to heartla_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns162",
             "leaf": "ns164",
@@ -3406,7 +3720,10 @@
         },
         {
             "id": "ac-sn-la2_11",
-            "name": "Axon from heart_layer 5 to heartla2_Neuron 11",
+            "name": "Axon from heart_layer 5 to heartla2_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns164",
             "leaf": "ns165",
@@ -3419,7 +3736,10 @@
         },
         {
             "id": "ac-sn-la0_11",
-            "name": "Axon from heart to left atrium_layer 0_Neuron 11",
+            "name": "Axon from heart to left atrium_layer 0_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns165",
             "leaf": "ns166",
@@ -3434,7 +3754,10 @@
         },
         {
             "id": "ac-sn-la1_11",
-            "name": "Axon from heart to left atrium_layer 1_Neuron 11",
+            "name": "Axon from heart to left atrium_layer 1_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns165",
             "leaf": "ns167",
@@ -3451,7 +3774,10 @@
         },
         {
             "id": "ac-sn-lv_11",
-            "name": "Axon from heart_layer 5 to heartlv_Neuron 11",
+            "name": "Axon from heart_layer 5 to heartlv_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns162",
             "leaf": "ns167",
@@ -3464,7 +3790,10 @@
         },
         {
             "id": "ac-sn-lv2_11",
-            "name": "Axon from heart_layer 5 to heartlv2_Neuron 11",
+            "name": "Axon from heart_layer 5 to heartlv2_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns167",
             "leaf": "ns168",
@@ -3477,7 +3806,10 @@
         },
         {
             "id": "ac-sn-lv0_11",
-            "name": "Axon from heart to left ventricle_layer 0_Neuron 11",
+            "name": "Axon from heart to left ventricle_layer 0_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns167",
             "leaf": "ns169",
@@ -3492,7 +3824,10 @@
         },
         {
             "id": "ac-sn-lv1_11",
-            "name": "Axon from heart to left ventricle_layer 1_Neuron 11",
+            "name": "Axon from heart to left ventricle_layer 1_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns167",
             "leaf": "ns170",
@@ -3509,7 +3844,10 @@
         },
         {
             "id": "ac-sn-ra_11",
-            "name": "Axon from heart_layer 5 to heartra_Neuron 11",
+            "name": "Axon from heart_layer 5 to heartra_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns162",
             "leaf": "ns171",
@@ -3522,7 +3860,10 @@
         },
         {
             "id": "ac-sn-ra0_11",
-            "name": "Axon from heart to right atrium_layer 0_Neuron 11",
+            "name": "Axon from heart to right atrium_layer 0_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns171",
             "leaf": "ns172",
@@ -3537,7 +3878,10 @@
         },
         {
             "id": "ac-sn-ra1_11",
-            "name": "Axon from heart to right atrium_layer 1_Neuron 11",
+            "name": "Axon from heart to right atrium_layer 1_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns171",
             "leaf": "ns173",
@@ -3554,7 +3898,10 @@
         },
         {
             "id": "ac-sn-out_11",
-            "name": "Axon to blood supply_Neuron 11",
+            "name": "Axon to blood supply_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns162",
             "leaf": "ns174",
@@ -3567,7 +3914,10 @@
         },
         {
             "id": "ac-sn-aorta_11",
-            "name": "Axon to aorta - layer 0_Neuron 11",
+            "name": "Axon to aorta - layer 0_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns174",
             "leaf": "ns175",
@@ -3582,7 +3932,10 @@
         },
         {
             "id": "ac-sn-pulartery_11",
-            "name": "Axon to pulmonary artery - layer 0_Neuron 11",
+            "name": "Axon to pulmonary artery - layer 0_Neuron 11 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns175",
             "leaf": "ns176",
@@ -3597,7 +3950,10 @@
         },
         {
             "id": "dc-sn-mcg_12",
-            "name": "Dendrite in the middle cervical ganglion_Neuron 12",
+            "name": "Dendrite in the middle cervical ganglion_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns180",
             "housingLyphs": [
@@ -3606,7 +3962,10 @@
         },
         {
             "id": "ac-sn-mcg_12",
-            "name": "Axon in the middle cervical ganglion_Neuron 12",
+            "name": "Axon in the middle cervical ganglion_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns181",
             "leaf": "ns182",
@@ -3616,7 +3975,10 @@
         },
         {
             "id": "dc-sn-icg_12",
-            "name": "Dendrite in the inferior cervical ganglion_Neuron 12",
+            "name": "Dendrite in the inferior cervical ganglion_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns185",
             "housingLyphs": [
@@ -3625,7 +3987,10 @@
         },
         {
             "id": "ac-sn-icg_12",
-            "name": "Axon in the inferior cervical ganglion_Neuron 12",
+            "name": "Axon in the inferior cervical ganglion_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns186",
             "leaf": "ns182",
@@ -3635,7 +4000,10 @@
         },
         {
             "id": "ac-sn-pulart_12",
-            "name": "Axon from icg and mcg to pulmonary artery-layer 0_Neuron 12",
+            "name": "Axon from icg and mcg to pulmonary artery-layer 0_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns182",
             "leaf": "ns187",
@@ -3645,7 +4013,10 @@
         },
         {
             "id": "ac-sn-aorta_12",
-            "name": "Axon from icg and mcg to aorta-layer 0_Neuron 12",
+            "name": "Axon from icg and mcg to aorta-layer 0_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns182",
             "leaf": "ns188",
@@ -3655,7 +4026,10 @@
         },
         {
             "id": "dc-sn-c6drg_13",
-            "name": "Dendrite in the C6 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the C6 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns190",
             "housingLyphs": [
@@ -3664,7 +4038,10 @@
         },
         {
             "id": "ac-sn-c6drg_13",
-            "name": "Axon in the C6 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the C6 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns191",
             "leaf": "ns192",
@@ -3679,7 +4056,10 @@
         },
         {
             "id": "dc-sn-c7drg_13",
-            "name": "Dendrite in the C7 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the C7 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns193",
             "housingLyphs": [
@@ -3688,7 +4068,10 @@
         },
         {
             "id": "ac-sn-c7drg_13",
-            "name": "Axon in the C7 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the C7 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns194",
             "leaf": "ns192",
@@ -3703,7 +4086,10 @@
         },
         {
             "id": "dc-sn-c8drg_13",
-            "name": "Dendrite in the C8 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the C8 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns195",
             "housingLyphs": [
@@ -3712,7 +4098,10 @@
         },
         {
             "id": "ac-sn-c8drg_13",
-            "name": "Axon in the C8 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the C8 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns196",
             "leaf": "ns192",
@@ -3727,7 +4116,10 @@
         },
         {
             "id": "dc-sn-t1drg_13",
-            "name": "Dendrite in the T1 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the T1 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229",
             "root": "ns197",
             "housingLyphs": [
@@ -3736,7 +4128,10 @@
         },
         {
             "id": "ac-sn-t1drg_13",
-            "name": "Axon in the T1 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the T1 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns198",
             "leaf": "ns192",
@@ -3751,7 +4146,10 @@
         },
         {
             "id": "dc-sn-t2drg_13",
-            "name": "Dendrite in the T2 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the T2 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns199",
             "housingLyphs": [
@@ -3760,7 +4158,10 @@
         },
         {
             "id": "ac-sn-t2drg_13",
-            "name": "Axon in the T2 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the T2 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns200",
             "leaf": "ns192",
@@ -3775,7 +4176,10 @@
         },
         {
             "id": "dc-sn-t3drg_13",
-            "name": "Dendrite in the T3 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the T3 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns201",
             "housingLyphs": [
@@ -3784,7 +4188,10 @@
         },
         {
             "id": "ac-sn-t3drg_13",
-            "name": "Axon in the T3 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the T3 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns202",
             "leaf": "ns192",
@@ -3799,7 +4206,10 @@
         },
         {
             "id": "dc-sn-t4drg_13",
-            "name": "Dendrite in the T4 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the T4 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229",
             "root": "ns203",
             "housingLyphs": [
@@ -3808,7 +4218,10 @@
         },
         {
             "id": "ac-sn-t4drg_13",
-            "name": "Axon in the T4 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the T4 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns204",
             "leaf": "ns192",
@@ -3823,7 +4236,10 @@
         },
         {
             "id": "dc-sn-t5drg_13",
-            "name": "Dendrite in the T5 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the T5 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229",
             "root": "ns205",
             "housingLyphs": [
@@ -3832,7 +4248,10 @@
         },
         {
             "id": "ac-sn-t5drg_13",
-            "name": "Axon in the T5 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the T5 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns206",
             "leaf": "ns192",
@@ -3847,7 +4266,10 @@
         },
         {
             "id": "dc-sn-t6drg_13",
-            "name": "Dendrite in the T6 dorsal root ganglia_Neuron 12",
+            "name": "Dendrite in the T6 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
             "lyphTemplate": "229bag",
             "root": "ns207",
             "housingLyphs": [
@@ -3856,7 +4278,10 @@
         },
         {
             "id": "ac-sn-t6drg_13",
-            "name": "Axon in the T6 dorsal root ganglia_Neuron 12",
+            "name": "Axon in the T6 dorsal root ganglia_Neuron 12 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns208",
             "leaf": "ns192",
@@ -3871,7 +4296,10 @@
         },
         {
             "id": "ac-out_13",
-            "name": "Axon in heart_Neuron 13",
+            "name": "Axon in heart_Neuron 13 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns193",
             "leaf": "ns194",
@@ -3884,7 +4312,10 @@
         },
         {
             "id": "ac-stay_13",
-            "name": "Axon branch to heart",
+            "name": "Axon branch to heart (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns194",
             "leaf": "ns195",
@@ -3897,7 +4328,10 @@
         },
         {
             "id": "ac-lv0_13",
-            "name": "Axon to left ventricle-layer 0_Neuron 13",
+            "name": "Axon to left ventricle-layer 0_Neuron 13 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns194",
             "leaf": "ns196",
@@ -3907,7 +4341,10 @@
         },
         {
             "id": "ac-lv1_13",
-            "name": "Axon to left ventricle-layer 1_Neuron 13",
+            "name": "Axon to left ventricle-layer 1_Neuron 13 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns194",
             "leaf": "ns197",
@@ -3920,7 +4357,10 @@
         },
         {
             "id": "ac-rv0_13",
-            "name": "Axon to right ventricle-layer 0_Neuron 13",
+            "name": "Axon to right ventricle-layer 0_Neuron 13 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns194",
             "leaf": "ns200",
@@ -3930,7 +4370,10 @@
         },
         {
             "id": "ac-rv1_13",
-            "name": "Axon to right ventricle-layer 1_Neuron 13",
+            "name": "Axon to right ventricle-layer 1_Neuron 13 (acard)",
+            "external": [
+                "SAO:1770195789"
+            ],
             "lyphTemplate": "229",
             "root": "ns194",
             "leaf": "ns201",
