@@ -1,9 +1,15 @@
-# Ardell - Armour model : Neural control of the heart
+# The Ardell-Armour model of neural control of the heart
 
-Keywords: heart, spinal cord, Nodose ganglia, Mediastinal, Medulla, Pulmonary artery, Aorta
+ApiNATOMY representation of sensory, sympathetic and parasympathetic innervation of the heart.
 
-Publications: PMID:27783854
+## Keywords
+* heart
+* spinal cord
+* Nodose ganglia
+* Mediastinal
+* Medulla
+* Pulmonary artery
+* Aorta
 
-Brief description of model: ApiNATOMY representation of sensory, sympathetic and parasympathetic innervation of the heart. 
-
-
+## Publications
+* PMID:27783854
