@@ -5675,30 +5675,32 @@
         {
             "id": "neuron-8",
             "name": "Neuron 8",
+            "lyphs": [
+                "K22",
+                "K63",
+                "K88",
+                "K23",
+                "K64",
+                "K89",
+                "K78",
+                "K70",
+                "K80",
+                "K79",
+                "K71",
+                "K72",
+                "K81",
+                "K73",
+                "K82",
+                "K74",
+                "K83",
+                "K75",
+                "K84",
+                "K76",
+                "K85"
+            ],
             "links": [
                 "lnk-snl18",
-                "lnk-snl28",
-                "lnk-t12sgs",
-                "lnk-t12-t13iss",
-                "lnk-t13sgs2",
-                "lnk-t13sgs",
-                "lnk-t13-l1iss",
-                "lnk-l1sgs2",
-                "lnk-l1sgs",
-                "lnk-l1-l2iss",
-                "lnk-l2sgs2",
-                "lnk-l2sgs",
-                "lnk-l2-l3iss",
-                "lnk-l3sgs2",
-                "lnk-l3sgs",
-                "lnk-l3-l4iss",
-                "lnk-l4sgs2",
-                "lnk-l4sgs",
-                "lnk-l4-l5iss",
-                "lnk-l5sgs2",
-                "lnk-l5sgs",
-                "lnk-l5-l6iss",
-                "lnk-l6sgs"
+                "lnk-snl28"
             ],
             "nodes": [
                 "ns24",
@@ -5735,6 +5737,10 @@
         {
             "id": "housingLyphs",
             "name": "IMG and PG",
+            "lyphs": [
+                "K102",
+                "K104"
+            ],
             "links": [
                 "lnk-K102",
                 "lnk-K104"
@@ -5772,27 +5778,47 @@
                 "lnk-sn-sgl6_4"
             ],
             "nodes": [
+                "root-dc-4-K78",
                 "dc-4-K78",
+                "root-dc-4-K79",
                 "dc-4-K79",
+                "root-dc-4-K80",
                 "dc-4-K80",
+                "root-dc-4-K81",
                 "dc-4-K81",
+                "root-dc-4-K82",
                 "dc-4-K82",
+                "root-dc-4-K83",
                 "dc-4-K83",
+                "root-dc-4-K84",
                 "dc-4-K84",
+                "root-dc-4-K85",
                 "dc-4-K85",
-                "",
-                "leaf-ac-4-K85-all",
-                "leaf-ac-4-K85-all",
-                "leaf-ac-4-K85-all",
-                "leaf-ac-4-K85-all",
-                "leaf-ac-4-K85-all",
-                "leaf-ac-4-K85-all",
-                "leaf-ac-4-K85-all",
+                "root-ac-4-K78",
+                "leafroot-ac-4-K85-all",
+                "root-ac-4-K79",
+                "leafroot-ac-4-K85-all",
+                "root-ac-4-K80",
+                "leafroot-ac-4-K85-all",
+                "root-ac-4-K81",
+                "leafroot-ac-4-K85-all",
+                "root-ac-4-K82",
+                "leafroot-ac-4-K85-all",
+                "root-ac-4-K83",
+                "leafroot-ac-4-K85-all",
+                "root-ac-4-K84",
+                "leafroot-ac-4-K85-all",
+                "root-ac-4-K85",
+                "leafroot-ac-4-K85-all",
+                "leafroot-ac-4-K85-all",
+                "leafroot-ac-4-n-lumspl",
                 "leafroot-ac-4-K85-all",
                 "leafroot-ac-4-n-lumspl",
                 "leafroot-ac-4-n-lumspl",
                 "leafroot-ac-4-n-blad",
+                "leafroot-ac-4-n-blad",
                 "leaf-ac-4-K100",
+                "leafroot-ac-4-n-blad",
                 "leaf-ac-4-K99"
             ],
             "publications": [
@@ -5956,6 +5982,18 @@
         {
             "id": "neuron-6",
             "name": "Neuron 6",
+            "lyphs": [
+                "K23",
+                "K23",
+                "K64",
+                "K89",
+                "K81",
+                "K93",
+                "n-lumspl",
+                "K102",
+                "n-hypo",
+                "K104"
+            ],
             "links": [
                 "lnk-snl16",
                 "lnk-snl26"
@@ -6026,19 +6064,14 @@
             "id": "neuron-2",
             "name": "Neuron 2",
             "links": [
-                "lnk-sn-pg_2",
-                "lnk-an-bn0_2",
-                "lnk-an-bn1_2",
-                "lnk-an_bd0_2",
-                "lnk-an-bn1_2"
+                "lnk-sn-pg_2"
             ],
             "nodes": [
                 "ns250",
                 "ns251",
+                "ns251_5",
                 "ns252",
-                "ns253",
-                "ns254",
-                "ns255"
+                "ns253"
             ],
             "publications": [
                 "PMID:2713886",
@@ -6259,8 +6292,6 @@
                 "lnk-sn-blad-bn2_1",
                 "lnk-sn-blad-bd_1",
                 "lnk-sn-blad-bd2_1",
-                "lnk-sn-blad_2",
-                "lnk-sn-blad2_2",
                 "lnk-sn-lumspl_11"
             ],
             "nodes": [
