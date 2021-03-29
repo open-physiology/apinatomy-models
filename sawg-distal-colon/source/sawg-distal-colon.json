@@ -1,0 +1,3531 @@
+{
+    "publications": [
+        {
+            "id": "PMID:6736296",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/6736296/"
+        },
+        {
+            "id": "PMID:4044907",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/4044907/"
+        },
+        {
+            "id": "PMID:4044908",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/4044908/"
+        },
+        {
+            "id": "PMID:4044909",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/4044909/"
+        }
+    ],
+    "nodes": [
+        {
+            "id": "sc1",
+            "layout": {
+                "x": -5,
+                "y": 20
+            }
+        },
+        {
+            "id": "sc2",
+            "layout": {
+                "x": -5,
+                "y": -20
+            }
+        },
+        {
+            "id": "gan1",
+            "layout": {
+                "x": 0,
+                "y": 20
+            }
+        },
+        {
+            "id": "gan2",
+            "layout": {
+                "x": 0,
+                "y": -20
+            }
+        },
+        {
+            "id": "sg1",
+            "layout": {
+                "x": 5,
+                "y": 20
+            }
+        },
+        {
+            "id": "sg2",
+            "layout": {
+                "x": 5,
+                "y": -20
+            }
+        },
+        {
+            "id": "img",
+            "layout": {
+                "x": 10,
+                "y": -10
+            }
+        },
+        {
+            "id": "col",
+            "layout": {
+                "x": 10,
+                "y": -20
+            }
+        }
+    ],
+    "links": [
+        {
+            "id": "lnk-dcn-l3_b",
+            "name": "link to Soma of Symp preganglionic neuron in L3_Neuron B (fcolon)",
+            "source": "ns1",
+            "target": "ns2",
+            "conveyingLyph": "dcn-l3_b"
+        },
+        {
+            "id": "lnk-dcn-l4_b",
+            "name": "link to Soma of Symp preganglionic neuron in L4_Neuron B (fcolon)",
+            "source": "ns3",
+            "target": "ns4",
+            "conveyingLyph": "dcn-l4_b"
+        },
+        {
+            "id": "lnk-dcn-t13drg_c",
+            "name": "link to Soma of spinal afferent neuron in T13 DRG_Neuron C (fcolon)",
+            "source": "ns7",
+            "target": "ns8",
+            "conveyingLyph": "dcn-t13drg_c"
+        },
+        {
+            "id": "lnk-dcn-l1drg_c",
+            "name": "link to Soma of spinal afferent neuron in L1 DRG_Neuron C (fcolon)",
+            "source": "ns12",
+            "target": "ns13",
+            "conveyingLyph": "dcn-l1drg_c"
+        },
+        {
+            "id": "lnk-dcn-l2drg_c",
+            "name": "link to Soma of spinal afferent neuron in L2 DRG_Neuron C (fcolon)",
+            "source": "ns17",
+            "target": "ns18",
+            "conveyingLyph": "dcn-l2drg_c"
+        },
+        {
+            "id": "lnk-dcn-l3drg_c",
+            "name": "link to Soma of spinal afferent neuron in L3 DRG_Neuron C (fcolon)",
+            "source": "ns22",
+            "target": "ns23",
+            "conveyingLyph": "dcn-l3drg_c"
+        },
+        {
+            "id": "lnk-dcn-l4drg_c",
+            "name": "link to Soma of spinal afferent neuron in L4 DRG_Neuron C (fcolon)",
+            "source": "ns26",
+            "target": "ns27",
+            "conveyingLyph": "dcn-l4drg_c"
+        },
+        {
+            "id": "lnk-dcn-l5drg_c",
+            "name": "link to Soma of spinal afferent neuron in L5 DRG_Neuron C (fcolon)",
+            "source": "ns30",
+            "target": "ns31",
+            "conveyingLyph": "dcn-l5drg_c"
+        },
+        {
+            "id": "lnk-dcn-img_d",
+            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
+            "source": "ns34",
+            "target": "ns35",
+            "conveyingLyph": "dcn-img_d"
+        },
+        {
+            "id": "lnk-dcn-img_f",
+            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
+            "source": "ns36",
+            "target": "ns37",
+            "conveyingLyph": "dcn-img_f"
+        },
+        {
+            "id": "lnk-dcn-img_g",
+            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
+            "source": "ns39",
+            "target": "ns40",
+            "conveyingLyph": "dcn-img_g"
+        },
+        {
+            "id": "lnk-dcn-img_h",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
+            "source": "ns42",
+            "target": "ns43",
+            "conveyingLyph": "dcn-img_h"
+        },
+        {
+            "id": "lnk-dcn-mp_i",
+            "name": "link to Soma of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
+            "source": "ns45",
+            "target": "ns46",
+            "conveyingLyph": "dcn-mp_i"
+        },
+        {
+            "id": "lnk-dcn_mp_j",
+            "name": "link to Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
+            "source": "ns48",
+            "target": "ns49",
+            "conveyingLyph": "dcn_mp_j"
+        },
+        {
+            "id": "lnk-dcn_mp2_j",
+            "name": "link to Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
+            "source": "ns51",
+            "target": "ns52",
+            "conveyingLyph": "dcn_mp2_j"
+        },
+        {
+            "id": "lnk-mp_k",
+            "name": "link to Soma of interneuron in myenteric plexus_Neuron K(fcolon)",
+            "source": "ns54",
+            "target": "ns55",
+            "conveyingLyph": "dcn-mp_k"
+        },
+        {
+            "id": "lnk-dcn-mp_l",
+            "name": "link to Soma of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
+            "source": "ns57",
+            "target": "ns58",
+            "conveyingLyph": "dcn-mp_l"
+        },
+        {
+            "id": "lnk-dcn-mp2_l",
+            "name": "link to Soma of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
+            "source": "ns60",
+            "target": "ns61",
+            "conveyingLyph": "dcn-mp2_l"
+        },
+        {
+            "id": "lnk-dcn-mp_m",
+            "name": "link to Soma of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(fcolon)",
+            "source": "ns63",
+            "target": "ns64",
+            "conveyingLyph": "dcn-mp_m"
+        },
+        {
+            "id": "lnk-dcn-mp_n",
+            "name": "link to Soma of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(fcolon)",
+            "source": "ns68",
+            "target": "ns69",
+            "conveyingLyph": "dcn-mp_n"
+        },
+        {
+            "id": "lnk-dcn-sp-o",
+            "name": "link to Soma of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
+            "source": "ns73",
+            "target": "ns74",
+            "conveyingLyph": "dcn-sp-o"
+        },
+        {
+            "id": "lnk-dcn-mp-p",
+            "name": "link to Soma of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
+            "source": "ns76",
+            "target": "ns77",
+            "conveyingLyph": "dcn-mp-p"
+        },
+        {
+            "id": "lnk-dcn-mp_q",
+            "name": "link to Soma of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
+            "source": "ns79",
+            "target": "ns80",
+            "conveyingLyph": "dcn-mp_q"
+        }
+    ],
+    "lyphs": [
+        {
+            "id": "S1",
+            "name": "T13 spinal segment (fcolon)",
+            "external": [
+                "EMAPA:19554"
+            ],
+            "supertype": "S_129"
+        },
+        {
+            "id": "S2",
+            "name": "L1 spinal segment (fcolon)",
+            "external": [
+                "UBERON:0006448"
+            ],
+            "supertype": "S_129"
+        },
+        {
+            "id": "S3",
+            "name": "L2 spinal segment (fcolon)",
+            "external": [
+                "UBERON:0006450"
+            ],
+            "supertype": "S_129"
+        },
+        {
+            "id": "S4",
+            "name": "L3 spinal segment (fcolon)",
+            "external": [
+                "UBERON:0006449"
+            ],
+            "supertype": "S_129",
+            "internalLyphs": [
+                "dcn-l3_b"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "S5",
+            "name": "L4 spinal segment (fcolon)",
+            "external": [
+                "UBERON:0006451"
+            ],
+            "supertype": "S_129",
+            "internalLyphs": [
+                "dcn-l4_b"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ]
+        },
+        {
+            "id": "S6",
+            "name": "L5 spinal segment (fcolon)",
+            "external": [
+                "UBERON:0006447"
+            ],
+            "supertype": "S_129"
+        },
+        {
+            "id": "S7",
+            "name": "T13 Dorsal Root ganglion (fcolon)",
+            "external": [
+                "EMAPA:25186"
+            ],
+            "internalLyphs": [
+                "dcn-t13drg_c"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "S8",
+            "name": "L1 Dorsal Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002857"
+            ],
+            "internalLyphs": [
+                "dcn-l1drg_c"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "S9",
+            "name": "L2 Dorsal Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002856"
+            ],
+            "internalLyphs": [
+                "dcn-l2drg_c"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "S10",
+            "name": "L3 Dorsal Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002858"
+            ],
+            "internalLyphs": [
+                "dcn-l3drg_c"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "S11",
+            "name": "L4 Dorsal Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0003943"
+            ],
+            "internalLyphs": [
+                "dcn-l4drg_c"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "S12",
+            "name": "L5 Dorsal Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002261"
+            ],
+            "internalLyphs": [
+                "dcn-l5drg_c"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "S13",
+            "name": "T13 Ventral Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002260"
+            ]
+        },
+        {
+            "id": "S14",
+            "name": "L1 Ventral Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002260"
+            ]
+        },
+        {
+            "id": "S15",
+            "name": "L2 Ventral Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002260"
+            ]
+        },
+        {
+            "id": "S16",
+            "name": "L3 Ventral Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002260"
+            ]
+        },
+        {
+            "id": "S17",
+            "name": "L4 Ventral Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002260"
+            ]
+        },
+        {
+            "id": "S18",
+            "name": "L5 Dorsal Root ganglion (fcolon)",
+            "external": [
+                "UBERON:0002859"
+            ]
+        },
+        {
+            "id": "S19",
+            "name": "T13 - L1 Interganglionic segment (fcolon)",
+            "external": [
+                "ILX:0777087"
+            ]
+        },
+        {
+            "id": "S20",
+            "name": "L1 - L2 Interganglionic segment (fcolon)",
+            "external": [
+                "ILX:0777088"
+            ]
+        },
+        {
+            "id": "S21",
+            "name": "L2 - L3 Interganglionic segment (fcolon)",
+            "external": [
+                "ILX:0777089"
+            ]
+        },
+        {
+            "id": "S22",
+            "name": "L3 - L4 Interganglionic segment (fcolon)",
+            "external": [
+                "ILX:0777090"
+            ]
+        },
+        {
+            "id": "S23",
+            "name": "L4 - L5 Interganglionic segment (fcolon)",
+            "external": [
+                "ILX:0777091"
+            ]
+        },
+        {
+            "id": "S24",
+            "name": "T13 sympathetic ganglion (fcolon)",
+            "external": [
+                "ILX:0739295"
+            ]
+        },
+        {
+            "id": "S25",
+            "name": "L1 sympathetic ganglion (fcolon)",
+            "external": [
+                "FMA:6540"
+            ]
+        },
+        {
+            "id": "S26",
+            "name": "L2 sympathetic ganglion (fcolon)",
+            "external": [
+                "FMA:6541"
+            ]
+        },
+        {
+            "id": "S27",
+            "name": "L3 sympathetic ganglion (fcolon)",
+            "external": [
+                "FMA:6542"
+            ]
+        },
+        {
+            "id": "S28",
+            "name": "L4 sympathetic ganglion (fcolon)",
+            "external": [
+                "FMA:6543"
+            ]
+        },
+        {
+            "id": "S29",
+            "name": "L5 sympathetic ganglion (fcolon)",
+            "external": [
+                "ILX:0739296"
+            ]
+        },
+        {
+            "id": "S30",
+            "name": "T13 gray ramus (fcolon)",
+            "external": [
+                "FMA:5876"
+            ]
+        },
+        {
+            "id": "S31",
+            "name": "L1 gray ramus (fcolon)",
+            "external": [
+                "FMA:65910"
+            ]
+        },
+        {
+            "id": "S32",
+            "name": "L2 gray ramus (fcolon)",
+            "external": [
+                "FMA:65911"
+            ]
+        },
+        {
+            "id": "S33",
+            "name": "L3 gray ramus (fcolon)",
+            "external": [
+                "FMA:65912"
+            ]
+        },
+        {
+            "id": "S34",
+            "name": "L4 gray ramus (fcolon)",
+            "external": [
+                "FMA:65913"
+            ]
+        },
+        {
+            "id": "S35",
+            "name": "L5 gray ramus (fcolon)",
+            "external": [
+                "FMA:65914"
+            ]
+        },
+        {
+            "id": "S36",
+            "name": "T13 white ramus (fcolon)",
+            "external": [
+                "FMA:5875"
+            ]
+        },
+        {
+            "id": "S37",
+            "name": "L1 white ramus (fcolon)",
+            "external": [
+                "FMA:12697"
+            ]
+        },
+        {
+            "id": "S38",
+            "name": "L2 white ramus (fcolon)",
+            "external": [
+                "FMA:12698"
+            ]
+        },
+        {
+            "id": "S39",
+            "name": "L3 white ramus (fcolon)",
+            "external": [
+                "FMA:12699"
+            ]
+        },
+        {
+            "id": "S40",
+            "name": "L4 white ramus (fcolon)",
+            "external": [
+                "FMA:5875"
+            ]
+        },
+        {
+            "id": "S41",
+            "name": "inferior Mesenteric Ganglion (fcolon)",
+            "external": [
+                "UBERON:0005453"
+            ],
+            "internalLyphs": [
+                "dcn-img_d",
+                "dcn-img_f",
+                "dcn-img_g",
+                "dcn-img_h",
+                ""
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0
+            ]
+        },
+        {
+            "id": "S42",
+            "name": "colon (fcolon)",
+            "external": [
+                "UBERON:0001155"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "S50",
+                "S49",
+                "S48",
+                "S47",
+                "S46",
+                "S43",
+                "S45",
+                "S44"
+            ],
+            "internalLyphs": [
+                "dcn-mp_i",
+                "dcn_mp_j",
+                "dcn_mp2_j",
+                "dcn-mp_k",
+                "dcn-mp_l",
+                "dcn-mp2_l",
+                "dcn-mp_m",
+                "dcn-mp_n",
+                "dcn-sp-o",
+                "dcn-mp-p",
+                "dcn-mp_q"
+            ],
+            "internalLyphsInLayers": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                3,
+                3,
+                3,
+                5,
+                null
+            ]
+        },
+        {
+            "id": "S43",
+            "name": "myenteric nerve plexus (fcolon)",
+            "external": [
+                "UBERON:0002439"
+            ],
+            "internalLyphs": [
+                "S62"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "S44",
+            "name": "serosa of colon (fcolon)",
+            "external": [
+                "UBERON:0003335"
+            ],
+            "internalLyphs": [
+                "S60"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "S45",
+            "name": "Longitudinal muscle layer of colon (fcolon)",
+            "external": [
+                "FMA:14987"
+            ],
+            "isTemplate": true,
+            "internalLyphs": [
+                "S51",
+                "S61"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0
+            ]
+        },
+        {
+            "id": "S46",
+            "name": "circular muscle layer of colon (fcolon)",
+            "external": [
+                "FMA:14988"
+            ],
+            "isTemplate": true,
+            "internalLyphs": [
+                "S51",
+                "S63"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0
+            ]
+        },
+        {
+            "id": "S47",
+            "name": "submucosal nerve plexus (fcolon)",
+            "external": [
+                "FMA:21542"
+            ],
+            "isTemplate": true,
+            "internalLyphs": [
+                "S64"
+            ]
+        },
+        {
+            "id": "S48",
+            "name": "lamina propria of mucosa of colon (fcolon)",
+            "external": [
+                "UBERON:0007177"
+            ],
+            "isTemplate": true,
+            "internalLyphs": [
+                "S52",
+                "S54",
+                "S65"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "S49",
+            "name": "epithelium of colon (fcolon)",
+            "external": [
+                "FMA:17302"
+            ],
+            "isTemplate": true,
+            "internalLyphs": [
+                "S55",
+                "S57"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0
+            ]
+        },
+        {
+            "id": "S50",
+            "name": "lumen of colon (fcolon)",
+            "external": [
+                "UBERON:0007159"
+            ],
+            "isTemplate": true,
+            "internalLyphs": [
+                "S56",
+                "S58"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0
+            ]
+        },
+        {
+            "id": "S51",
+            "name": "smooth muscle fiber of colon (fcolon)",
+            "external": [
+                "FMA:15663"
+            ],
+            "isTemplate": true
+        },
+        {
+            "id": "S52",
+            "name": "Peyer's patch in lamina propria (fcolon)",
+            "external": [
+                "UBERON:0001211"
+            ]
+        },
+        {
+            "id": "S53",
+            "name": "goblet cell (fcolon)",
+            "external": [
+                "FMA:13148"
+            ],
+            "isTemplate": true
+        },
+        {
+            "id": "S54",
+            "name": "enterocyte (fcolon)",
+            "external": [
+                "FMA:62122"
+            ]
+        },
+        {
+            "id": "S55",
+            "name": "goblet cell in lumen of colon (fcolon)",
+            "external": [
+                "FMA:13148"
+            ]
+        },
+        {
+            "id": "S56",
+            "name": "goblet cell in epitehium of colon (fcolon)",
+            "external": [
+                "FMA:13148"
+            ]
+        },
+        {
+            "id": "S57",
+            "name": "enterocyte cell in lumen of colon (fcolon)",
+            "external": [
+                "FMA:62122"
+            ]
+        },
+        {
+            "id": "S58",
+            "name": "enterocyte cell in epitehium of colon (fcolon)",
+            "external": [
+                "FMA:62122"
+            ]
+        },
+        {
+            "id": "S_129",
+            "name": "Segment of Spinal Cord (fcolon)",
+            "external": [
+                "UBERON:0005844"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "SM_9",
+                "SM_23",
+                "SM_86",
+                "SM_27",
+                "SM_85",
+                "SM_84",
+                "SM_83",
+                "SM_82",
+                "SM_81",
+                "SM_80",
+                "SM_79",
+                "SM_78",
+                "SM_77",
+                "SM_27"
+            ],
+            "scale": {
+                "width": 500,
+                "height": 60
+            }
+        },
+        {
+            "id": "229",
+            "name": "Segment of neuron (fcolon)",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true
+        },
+        {
+            "id": "229bag",
+            "name": "Segment of neuron (fcolon)",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true,
+            "topology": "BAG",
+            "supertype": "229"
+        },
+        {
+            "id": "S59",
+            "name": "Blood vessel (fcolon)",
+            "external": [
+                "UBERON:0001981"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "SM_26",
+                "SM_7"
+            ]
+        },
+        {
+            "id": "S60",
+            "name": "Blood vessel in serosa of colon (fcolon)",
+            "external": [
+                "UBERON:0001981"
+            ]
+        },
+        {
+            "id": "S61",
+            "name": "Blood vessel in longitudinal muscle layer of colon (fcolon)",
+            "external": [
+                "UBERON:0001981"
+            ]
+        },
+        {
+            "id": "S62",
+            "name": "Blood vessel in myenteric nerve plexus in colon (fcolon)",
+            "external": [
+                "UBERON:0001981"
+            ]
+        },
+        {
+            "id": "S63",
+            "name": "Blood vessel in circular muscle layer in colon (fcolon)",
+            "external": [
+                "UBERON:0001981"
+            ]
+        },
+        {
+            "id": "S64",
+            "name": "Blood vessel in submucosal nerve plexus of colon (fcolon)",
+            "external": [
+                "UBERON:0001981"
+            ]
+        },
+        {
+            "id": "S65",
+            "name": "Blood vessel in lamina propria of mucosa of colon (fcolon)",
+            "external": [
+                "UBERON:0001981"
+            ]
+        },
+        {
+            "id": "dcn-l3_b",
+            "name": "Soma of Symp preganglionic neuron in L3_Neuron B (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-l4_b",
+            "name": "Soma of Symp preganglionic neuron in L4_Neuron B (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-t13drg_c",
+            "name": "Soma of spinal afferent neuron in T13 DRG_Neuron C (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-l1drg_c",
+            "name": "Soma of spinal afferent neuron in L1 DRG_Neuron C (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-l2drg_c",
+            "name": "Soma of spinal afferent neuron in L2 DRG_Neuron C (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-l3drg_c",
+            "name": "Soma of spinal afferent neuron in L3 DRG_Neuron C (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-l4drg_c",
+            "name": "Soma of spinal afferent neuron in L4 DRG_Neuron C (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-l5drg_c",
+            "name": "Soma of spinal afferent neuron in L5 DRG_Neuron C (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-img_d",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-img_f",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-img_g",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-img_h",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-mp_i",
+            "name": "Soma of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn_mp_j",
+            "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn_mp2_j",
+            "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-mp_k",
+            "name": "Soma of interneuron in myenteric plexus_Neuron K(fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-mp_l",
+            "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-mp2_l",
+            "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-mp_m",
+            "name": "Soma of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-mp_n",
+            "name": "Soma of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-sp-o",
+            "name": "Soma of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-mp-p",
+            "name": "Soma of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "dcn-mp_q",
+            "name": "Soma of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
+            "external": [
+                "NLX:154731"
+            ]
+        },
+        {
+            "id": "n-lumspl",
+            "name": "Lumbar Splanchnic nerve",
+            "external": [
+                "UBERON:0018683"
+            ]
+        },
+        {
+            "id": "n-lumcol",
+            "name": "Lumbar Colonic Nerve",
+            "external": [
+                "FMA:5861"
+            ]
+        }
+    ],
+    "materials": [
+        {
+            "id": "SM_2",
+            "name": "Water",
+            "external": [
+                "CHEBI:15377"
+            ]
+        },
+        {
+            "id": "SM_5",
+            "name": "Extracellular fluid",
+            "external": [
+                "CHEBI:24839"
+            ]
+        },
+        {
+            "id": "SM_6",
+            "name": "Endothelium",
+            "external": [
+                "UBERON:0001986"
+            ]
+        },
+        {
+            "id": "SM_7",
+            "name": "Blood",
+            "external": [
+                "UBERON:0000178"
+            ],
+            "materials": [
+                "SM_8"
+            ]
+        },
+        {
+            "id": "SM_8",
+            "name": "Aqueous solution",
+            "external": [
+                "FMA:85815"
+            ],
+            "materials": [
+                "SM_2",
+                "SM_13",
+                "SM_14",
+                "SM_15",
+                "SM_16",
+                "SM_17",
+                "SM_18",
+                "SM_19",
+                "SM_20",
+                "SM_21"
+            ]
+        },
+        {
+            "id": "SM_9",
+            "name": "Cerebrospinal fluid",
+            "external": [
+                "UBERON:0001359"
+            ],
+            "materials": [
+                "SM_8"
+            ]
+        },
+        {
+            "id": "SM_10",
+            "name": "Smooth muscle",
+            "external": [
+                "UBERON:0001135"
+            ]
+        },
+        {
+            "id": "SM_11",
+            "name": "Connective Tissue",
+            "external": [
+                "UBERON:0002384"
+            ]
+        },
+        {
+            "id": "SM_13",
+            "name": "Sodium ion",
+            "external": [
+                "CHEBI:29101"
+            ]
+        },
+        {
+            "id": "SM_14",
+            "name": "Potassium ion",
+            "external": [
+                "CHEBI:29103"
+            ]
+        },
+        {
+            "id": "SM_15",
+            "name": "Calcium ion",
+            "external": [
+                "CHEBI:29108"
+            ]
+        },
+        {
+            "id": "SM_16",
+            "name": "Chloride ion",
+            "external": [
+                "CHEBI:17996"
+            ]
+        },
+        {
+            "id": "SM_17",
+            "name": "Hydrogen ion",
+            "external": [
+                "CHEBI:24636"
+            ]
+        },
+        {
+            "id": "SM_18",
+            "name": "Hydroxide ion",
+            "external": [
+                "CHEBI:16234"
+            ]
+        },
+        {
+            "id": "SM_19",
+            "name": "Bicarbonate ion",
+            "external": [
+                "CHEBI:17544"
+            ]
+        },
+        {
+            "id": "SM_20",
+            "name": "Liquid",
+            "external": [
+                "FMA:85815"
+            ]
+        },
+        {
+            "id": "SM_21",
+            "name": "Fluid",
+            "external": [
+                "UBERON:0006314"
+            ]
+        },
+        {
+            "id": "SM_22",
+            "name": "Peripheral nervous system tissue",
+            "external": [
+                "UBERON:0000010"
+            ],
+            "materials": [
+                "SM_5"
+            ]
+        },
+        {
+            "id": "SM_23",
+            "name": "Ependyma",
+            "external": [
+                "UBERON:0004670"
+            ]
+        },
+        {
+            "id": "SM_24",
+            "name": "Pia mater",
+            "external": [
+                "UBERON:0002361"
+            ]
+        },
+        {
+            "id": "SM_25",
+            "name": "Central nervous system tissue",
+            "external": [
+                "UBERON:0001017"
+            ],
+            "materials": [
+                "SM_5"
+            ]
+        },
+        {
+            "id": "SM_26",
+            "name": "Wall of vessel",
+            "external": [
+                "UBERON:0035965"
+            ],
+            "materials": [
+                "SM_11"
+            ]
+        },
+        {
+            "id": "SM_27",
+            "name": "White matter of CNS",
+            "external": [
+                "UBERON:0016549"
+            ]
+        },
+        {
+            "id": "SM_28",
+            "name": "Gray matter of CNS",
+            "external": [
+                "UBERON:0016548"
+            ]
+        },
+        {
+            "id": "SM_77",
+            "name": "lamina I of gray matter of spinal cord",
+            "external": [
+                "UBERON:0006118"
+            ]
+        },
+        {
+            "id": "SM_78",
+            "name": "lamina II of gray matter of spinal cord",
+            "external": [
+                "UBERON:0002181"
+            ]
+        },
+        {
+            "id": "SM_79",
+            "name": "lamina III of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016574"
+            ]
+        },
+        {
+            "id": "SM_80",
+            "name": "lamina IV of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016575"
+            ]
+        },
+        {
+            "id": "SM_81",
+            "name": "lamina V of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016576"
+            ]
+        },
+        {
+            "id": "SM_82",
+            "name": "lamina VI of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016577"
+            ]
+        },
+        {
+            "id": "SM_83",
+            "name": "lamina VII of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016578"
+            ]
+        },
+        {
+            "id": "SM_84",
+            "name": "lamina VIII of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016579"
+            ]
+        },
+        {
+            "id": "SM_85",
+            "name": "lamina IX of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016580"
+            ]
+        },
+        {
+            "id": "SM_86",
+            "name": "lamina X of gray matter of spinal cord",
+            "external": [
+                "UBERON:0004677"
+            ]
+        },
+        {
+            "id": "SM_54",
+            "name": "Cytosol",
+            "external": [
+                "GO:0005829"
+            ]
+        },
+        {
+            "id": "SM_55",
+            "name": "Membrane",
+            "external": [
+                "GO:0016020"
+            ]
+        },
+        {
+            "id": "SM_56",
+            "name": "Plasma membrane",
+            "external": [
+                "GO:0005886"
+            ]
+        },
+        {
+            "id": "SM_116",
+            "name": "Extracellular fluid",
+            "external": [
+                "GO:0005615"
+            ]
+        },
+        {
+            "id": "SM_87",
+            "name": "Epithelium",
+            "external": [
+                "UBERON:0000483"
+            ]
+        },
+        {
+            "id": "SM_89",
+            "name": "Basement membrane",
+            "external": [
+                "UBERON:0005769"
+            ]
+        }
+    ],
+    "chains": [
+        {
+            "id": "sc",
+            "name": "Spinal Cord",
+            "external": [
+                "UBERON:0002240"
+            ],
+            "lyphs": [
+                "S2",
+                "S3",
+                "S4",
+                "S5",
+                "S6"
+            ],
+            "root": "sc1",
+            "leaf": "sc2"
+        },
+        {
+            "id": "dg_vg",
+            "name": "Dorsal and Ventral root ganglia",
+            "external": [
+                "FMA:55653"
+            ],
+            "lyphs": [
+                "S7",
+                "S8",
+                "S9",
+                "S10",
+                "S11",
+                "S12",
+                "S13",
+                "S14",
+                "S15",
+                "S16",
+                "S17",
+                "S18"
+            ],
+            "root": "gan1",
+            "leaf": "gan2"
+        },
+        {
+            "id": "sg",
+            "name": "Sympathetic chain",
+            "external": [
+                "UBERON:0000407"
+            ],
+            "lyphs": [
+                "S18",
+                "S19",
+                "S20",
+                "S21",
+                "S22",
+                "S23",
+                "S24",
+                "S25",
+                "S26",
+                "S27",
+                "S28",
+                "S29",
+                "S30",
+                "S31",
+                "S32",
+                "S33",
+                "S34",
+                "S35",
+                "S36",
+                "S37",
+                "S38",
+                "S39"
+            ],
+            "root": "sg1",
+            "leaf": "sg2"
+        },
+        {
+            "id": "img",
+            "name": "Inferior Mesenteric Ganglion",
+            "external": [
+                "UBERON:0005453"
+            ],
+            "lyphs": [
+                "S41"
+            ],
+            "root": "img1"
+        },
+        {
+            "id": "col",
+            "name": "Colon",
+            "external": [
+                "UBERON:0001155"
+            ],
+            "lyphs": [
+                "S42"
+            ],
+            "root": "col1"
+        },
+        {
+            "id": "dc-l3_b",
+            "name": "Dendrite chain of Symp preganglionic neuron in L3_Neuron B (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns1",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "S4"
+            ]
+        },
+        {
+            "id": "ac-l3_b",
+            "name": "Axon chain of Symp preganglionic neuron in L3_Neuron B (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns2",
+            "leaf": "ns5",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                6,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S4",
+                "S4",
+                "S16",
+                "S39",
+                "S33"
+            ]
+        },
+        {
+            "id": "dc-l4_b",
+            "name": "Dendrite chain of Symp preganglionic neuron in L4_Neuron B (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns3",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "S5"
+            ]
+        },
+        {
+            "id": "ac-l4_b",
+            "name": "Axon chain of Symp preganglionic neuron in L4_Neuron B (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns4",
+            "leaf": "ns5",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                6,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S5",
+                "S5",
+                "S17"
+            ]
+        },
+        {
+            "id": "ac-l42_b",
+            "name": "Axon chain from L3 and L4 Symp preganglionic neuron to IMG_Neuron B (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns5",
+            "leaf": "ns6",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S41",
+                "S34",
+                "n-lumspl",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-t13drg_c",
+            "name": "Dendrite chain of spinal afferent neuron in T13 DRG_Neuron C (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns7",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S7"
+            ]
+        },
+        {
+            "id": "ac-t13drgout_c",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG out_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns8",
+            "leaf": "ns9",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S7",
+                "n-lumcol"
+            ]
+        },
+        {
+            "id": "ac-t13drgsc_c",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns8",
+            "leaf": "ns10",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                13,
+                12
+            ],
+            "housingLyphs": [
+                "S7",
+                "S1",
+                "S1"
+            ]
+        },
+        {
+            "id": "ac-t13drgl11_c",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer11_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns10",
+            "leaf": "ns11_1",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                11
+            ],
+            "housingLyphs": [
+                "S1",
+                "S1"
+            ]
+        },
+        {
+            "id": "ac-t13drgl8_c",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer8_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns10",
+            "leaf": "ns11_8",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                8
+            ],
+            "housingLyphs": [
+                "S1",
+                "S1"
+            ]
+        },
+        {
+            "id": "ac-t13drgl6_c",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer6_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns10",
+            "leaf": "ns11_6",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                6
+            ],
+            "housingLyphs": [
+                "S1",
+                "S1"
+            ]
+        },
+        {
+            "id": "ac-t13drgl2_c",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer 2_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns10",
+            "leaf": "ns11_2",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                2
+            ],
+            "housingLyphs": [
+                "S1",
+                "S1"
+            ]
+        },
+        {
+            "id": "dc-l1drg_c",
+            "name": "Dendrite chain of spinal afferent neuron in L1 DRG_Neuron C (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns12",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S8"
+            ]
+        },
+        {
+            "id": "ac-drgl1out_c",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG out_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns13",
+            "leaf": "ns9",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S8",
+                "n-lumcol"
+            ]
+        },
+        {
+            "id": "ac-l1drgl12_c",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer12_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns13",
+            "leaf": "ns15",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                13,
+                12
+            ],
+            "housingLyphs": [
+                "S8",
+                "S2",
+                "S2"
+            ]
+        },
+        {
+            "id": "ac-l1drgl11_c",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer11_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns15",
+            "leaf": "ns16_1",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                11
+            ],
+            "housingLyphs": [
+                "S2",
+                "S2"
+            ]
+        },
+        {
+            "id": "ac-l1drgl8_c",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer8_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns15",
+            "leaf": "ns16_8",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                8
+            ],
+            "housingLyphs": [
+                "S2",
+                "S2"
+            ]
+        },
+        {
+            "id": "ac-l1drgl6_c",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer6_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns15",
+            "leaf": "ns16_6",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                6
+            ],
+            "housingLyphs": [
+                "S2",
+                "S2"
+            ]
+        },
+        {
+            "id": "ac-l1drgl2_c",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer 2_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns15",
+            "leaf": "ns16_2",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                2
+            ],
+            "housingLyphs": [
+                "S2",
+                "S2"
+            ]
+        },
+        {
+            "id": "dc-l2drg_c",
+            "name": "Dendrite chain of spinal afferent neuron in L2 DRG_Neuron C (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns17",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S9"
+            ]
+        },
+        {
+            "id": "ac-drgl2out_c",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG out_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns18",
+            "leaf": "ns9",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S9",
+                "n-lumcol"
+            ]
+        },
+        {
+            "id": "ac-l2drgl12_c",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer12_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns18",
+            "leaf": "ns20",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                13,
+                12
+            ],
+            "housingLyphs": [
+                "S9",
+                "S3",
+                "S3"
+            ]
+        },
+        {
+            "id": "ac-l2drgl11_c",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer11_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns20",
+            "leaf": "ns21_1",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                11
+            ],
+            "housingLyphs": [
+                "S3",
+                "S3"
+            ]
+        },
+        {
+            "id": "ac-l2drgl8_c",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer8_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns20",
+            "leaf": "ns21_8",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                8
+            ],
+            "housingLyphs": [
+                "S3",
+                "S3"
+            ]
+        },
+        {
+            "id": "ac-l2drgl6_c",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer6_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns20",
+            "leaf": "ns21_6",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                6
+            ],
+            "housingLyphs": [
+                "S3",
+                "S3"
+            ]
+        },
+        {
+            "id": "ac-l2drgl2_c",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer 2_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns20",
+            "leaf": "ns21_2",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                2
+            ],
+            "housingLyphs": [
+                "S3",
+                "S3"
+            ]
+        },
+        {
+            "id": "dc-l3drg_c",
+            "name": "Dendrite chain of spinal afferent neuron in L3 DRG_Neuron C (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns22",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S15"
+            ]
+        },
+        {
+            "id": "ac-l3drgout_c",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG out_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns23",
+            "leaf": "ns9",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S10",
+                "n-lumcol"
+            ]
+        },
+        {
+            "id": "ac-l3drgl12_c",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer12_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns23",
+            "leaf": "ns25",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                13,
+                12
+            ],
+            "housingLyphs": [
+                "S10",
+                "S4",
+                "S4"
+            ]
+        },
+        {
+            "id": "ac-l3drgl11_c",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer11_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns25",
+            "leaf": "ns25_1",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                11
+            ],
+            "housingLyphs": [
+                "S4",
+                "S4"
+            ]
+        },
+        {
+            "id": "ac-l3drgl8_c",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer8_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns25",
+            "leaf": "ns25_8",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                8
+            ],
+            "housingLyphs": [
+                "S4",
+                "S4"
+            ]
+        },
+        {
+            "id": "ac-l3drgl6_c",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer6_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns25",
+            "leaf": "ns25_6",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                6
+            ],
+            "housingLyphs": [
+                "S4",
+                "S4"
+            ]
+        },
+        {
+            "id": "ac-l3drgl2_c",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer 2_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns25",
+            "leaf": "ns25_2",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                2
+            ],
+            "housingLyphs": [
+                "S4",
+                "S4"
+            ]
+        },
+        {
+            "id": "dc-l4drg_c",
+            "name": "Dendrite chain of spinal afferent neuron in L4 DRG_Neuron C (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns26",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S11"
+            ]
+        },
+        {
+            "id": "ac-l4drgout_c",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG out_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns27",
+            "leaf": "ns9",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S11",
+                "n-lumcol"
+            ]
+        },
+        {
+            "id": "ac-l4drgl12_c",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer12_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns27",
+            "leaf": "ns29",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                13,
+                12
+            ],
+            "housingLyphs": [
+                "S11",
+                "S5",
+                "S5"
+            ]
+        },
+        {
+            "id": "ac-l4drgl11_c",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer11_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns29",
+            "leaf": "ns29_1",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                11
+            ],
+            "housingLyphs": [
+                "S5",
+                "S5"
+            ]
+        },
+        {
+            "id": "ac-l4drgl8_c",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer8_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns29",
+            "leaf": "ns29_8",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                8
+            ],
+            "housingLyphs": [
+                "S5",
+                "S5"
+            ]
+        },
+        {
+            "id": "ac-l4drgl6_c",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer6_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns29",
+            "leaf": "ns29_6",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                6
+            ],
+            "housingLyphs": [
+                "S5",
+                "S5"
+            ]
+        },
+        {
+            "id": "ac-l4drgl2_c",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer 2_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns29",
+            "leaf": "ns29_2",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                2
+            ],
+            "housingLyphs": [
+                "S5",
+                "S5"
+            ]
+        },
+        {
+            "id": "dc-l5drg_c",
+            "name": "Dendrite chain of spinal afferent neuron in L5 DRG_Neuron C (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns30",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S12"
+            ]
+        },
+        {
+            "id": "ac-l5drgout_c",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG out_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns31",
+            "leaf": "ns9",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S12",
+                "n-lumcol"
+            ]
+        },
+        {
+            "id": "ac-l5drgl12_c",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer12_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns31",
+            "leaf": "ns33",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                13,
+                12
+            ],
+            "housingLyphs": [
+                "S12",
+                "S6",
+                "S6"
+            ]
+        },
+        {
+            "id": "ac-l5drgl11_c",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer11_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns33",
+            "leaf": "ns33_1",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                11
+            ],
+            "housingLyphs": [
+                "S6",
+                "S6"
+            ]
+        },
+        {
+            "id": "ac-l5drgl8_c",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer8_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns33",
+            "leaf": "ns33_8",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                8
+            ],
+            "housingLyphs": [
+                "S6",
+                "S6"
+            ]
+        },
+        {
+            "id": "ac-l5drgl6_c",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer6_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns33",
+            "leaf": "ns33_6",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                6
+            ],
+            "housingLyphs": [
+                "S6",
+                "S6"
+            ]
+        },
+        {
+            "id": "ac-l5drgl2_c",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer 2_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns33",
+            "leaf": "ns33_2",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                12,
+                2
+            ],
+            "housingLyphs": [
+                "S6",
+                "S6"
+            ]
+        },
+        {
+            "id": "ac_col_c",
+            "name": "Axon chain from DRG to colon_layer1_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns9",
+            "leaf": "ns9_5",
+            "lyphTemplate": "229",
+            "housingLyphs": [
+                "n-lumcol"
+            ]
+        },
+        {
+            "id": "ac_col-lay7_c",
+            "name": "Axon chain to colon layer 7_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns9_5",
+            "leaf": "ns_lay6",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                7
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac_col-lay5_c",
+            "name": "Axon chain to colon layer 5_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns9_5",
+            "leaf": "ns_lay4",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                7,
+                6,
+                5
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "ac_col-lay3_c",
+            "name": "Axon chain to colon layer 3_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns9_5",
+            "leaf": "ns_lay2",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                7,
+                6,
+                5,
+                4,
+                3
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "ac_col-lay2_c",
+            "name": "Axon chain to colon layer 2_Neuron C (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns9_5",
+            "leaf": "ns_lay1",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                7,
+                6,
+                5,
+                4,
+                3,
+                2
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-img_d",
+            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns34",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S41"
+            ]
+        },
+        {
+            "id": "ac-img_d",
+            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns35",
+            "leaf": "ns35_5",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0,
+                7,
+                6,
+                5,
+                4,
+                3,
+                2,
+                0
+            ],
+            "housingLyphs": [
+                "S41",
+                "n-lumcol",
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S52"
+            ]
+        },
+        {
+            "id": "dc-img_f",
+            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns36",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S41"
+            ]
+        },
+        {
+            "id": "ac-img_f",
+            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns37",
+            "leaf": "ns38",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S41",
+                "n-lumcol",
+                "S60",
+                "S61",
+                "S62",
+                "S63",
+                "S64",
+                "S65"
+            ]
+        },
+        {
+            "id": "dc-img_g",
+            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns39",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S41"
+            ]
+        },
+        {
+            "id": "ac-img_g",
+            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns40",
+            "leaf": "ns41",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0,
+                7,
+                6,
+                5
+            ],
+            "housingLyphs": [
+                "S41",
+                "n-lumcol",
+                "S42",
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-img_h",
+            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns42",
+            "lyphTemplate": "229bag",
+            "housingLyphs": [
+                "S41"
+            ]
+        },
+        {
+            "id": "ac-img_h",
+            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns43",
+            "leaf": "ns44",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                0,
+                0,
+                7,
+                6,
+                5,
+                4,
+                3
+            ],
+            "housingLyphs": [
+                "S41",
+                "n-lumcol",
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-mp_i",
+            "name": "Dendrite chain of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns45",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp_i",
+            "name": "Axon chain of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns46",
+            "leaf": "ns47",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "dc_mp_j",
+            "name": "Dendrite chain of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns48",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac_mp_j",
+            "name": "Axon chain of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns49",
+            "leaf": "ns50",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5,
+                6
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc_mp2_j",
+            "name": "Dendrite chain of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns51",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac_mp2_j",
+            "name": "Axon chain of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns52",
+            "leaf": "ns53",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5,
+                6
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-mp_k",
+            "name": "Dendrite chain of interneuron in myenteric plexus_Neuron K(fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns54",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp_k",
+            "name": "Axon chain of interneuron in myenteric plexus_Neuron K(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns55",
+            "leaf": "ns56",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-mp_l",
+            "name": "Dendrite chain of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns57",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp_l",
+            "name": "Axon chain of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns58",
+            "leaf": "ns59",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5,
+                6
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-mp2_l",
+            "name": "Dendrite chain of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns60",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp2_l",
+            "name": "Axon chain of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns61",
+            "leaf": "ns62",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5,
+                6
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-mp_m",
+            "name": "Dendrite chain of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns63",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp_m",
+            "name": "Axon chain of intrinsic primary afferent neuron to layer 5_Neuron M(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns64",
+            "leaf": "ns65",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp23_m",
+            "name": "Axon chain of intrinsic primary afferent neuron to layer 3_Neuron M(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns64",
+            "leaf": "ns66",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5,
+                4,
+                3
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp22_m",
+            "name": "Axon chain of intrinsic primary afferent neuron to layer 2_Neuron M(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns64",
+            "leaf": "ns67",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5,
+                4,
+                3,
+                2
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42",
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-mp_n",
+            "name": "Dendrite chain of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns68",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                3
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp2_n",
+            "name": "Axon chain of intrinsic primary afferent neurons to layer 2 of colon_Neuron N(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns69",
+            "leaf": "ns70",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                3,
+                2
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp3_n",
+            "name": "Axon chain of intrinsic primary afferent neurons connect in layer 3 _Neuron N(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns69",
+            "leaf": "ns71",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                3
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp5_n",
+            "name": "Axon chain of intrinsic primary afferent neurons to from connect to layer 5_Neuron N(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns69",
+            "leaf": "ns72",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                3,
+                4,
+                5
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-sp_o",
+            "name": "Dendrite chain of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns73",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                3
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-sp_o",
+            "name": "Axon chain of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns74",
+            "leaf": "ns75",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                3,
+                0
+            ],
+            "housingLyphs": [
+                "S42",
+                "S64"
+            ]
+        },
+        {
+            "id": "dc-mp-p",
+            "name": "Dendrite chain of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns76",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                3
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp-p",
+            "name": "Axon chain of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns77",
+            "leaf": "ns78",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                3,
+                2
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42"
+            ]
+        },
+        {
+            "id": "dc-mp_q",
+            "name": "Dendrite chain of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "root": "ns79",
+            "lyphTemplate": "229bag",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "S42"
+            ]
+        },
+        {
+            "id": "ac-mp_q",
+            "name": "Axon chain of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "root": "ns80",
+            "leaf": "ns81",
+            "lyphTemplate": "229",
+            "housingLayers": [
+                5,
+                6,
+                7,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "S42",
+                "S42",
+                "S42",
+                "n-lumcol",
+                "S41"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "id": "neuron_b",
+            "name": "Neuron b",
+            "links": [
+                "lnk-dcn-l3_b",
+                "lnk-dcn-l4_b"
+            ],
+            "nodes": [
+                "ns1",
+                "ns2",
+                "ns3",
+                "ns4",
+                "ns5",
+                "ns6"
+            ],
+            "chains": [
+                "dc-l3_b",
+                "ac-l3_b",
+                "dc-l4_b",
+                "ac-l4_b",
+                "ac-l42_b"
+            ],
+            "groups": [
+                "group_dc-l3_b",
+                "group_ac-l3_b",
+                "group_dc-l4_b",
+                "group_ac-l4_b",
+                "group_ac-l42_b"
+            ]
+        },
+        {
+            "id": "neuron_c",
+            "name": "Neuron c",
+            "links": [
+                "lnk-dcn-t13drg_c",
+                "lnk-dcn-l1drg_c",
+                "lnk-dcn-l2drg_c",
+                "lnk-dcn-l3drg_c",
+                "lnk-dcn-l4drg_c",
+                "lnk-dcn-l5drg_c"
+            ],
+            "nodes": [
+                "ns7",
+                "ns9",
+                "ns8",
+                "ns10",
+                "ns11_1",
+                "ns11_8",
+                "ns11_6",
+                "ns11_2",
+                "ns12",
+                "ns13",
+                "ns15",
+                "ns16_1",
+                "ns16_8",
+                "ns16_6",
+                "ns16_2",
+                "ns17",
+                "ns18",
+                "ns20",
+                "ns21_1",
+                "ns21_8",
+                "ns21_6",
+                "ns21_2",
+                "ns22",
+                "ns23",
+                "ns25",
+                "ns25_1",
+                "ns25_8",
+                "ns25_6",
+                "ns25_2",
+                "ns26",
+                "ns27",
+                "ns29",
+                "ns29_1",
+                "ns29_8",
+                "ns29_6",
+                "ns29_2",
+                "ns30",
+                "ns31",
+                "ns33",
+                "ns33_1",
+                "ns33_8",
+                "ns33_6",
+                "ns33_2",
+                "ns9_5"
+            ],
+            "chains": [
+                "dc-t13drg_c",
+                "ac-t13drgout_c",
+                "ac-t13drgsc_c",
+                "ac-t13drgl11_c",
+                "ac-t13drgl8_c",
+                "ac-t13drgl6_c",
+                "ac-t13drgl2_c",
+                "dc-l1drg_c",
+                "ac-drgl1out_c",
+                "ac-l1drgl12_c",
+                "ac-l1drgl11_c",
+                "ac-l1drgl8_c",
+                "ac-l1drgl6_c",
+                "ac-l1drgl2_c",
+                "dc-l2drg_c",
+                "ac-drgl2out_c",
+                "ac-l2drgl12_c",
+                "ac-l2drgl11_c",
+                "ac-l2drgl8_c",
+                "ac-l2drgl6_c",
+                "ac-l2drgl2_c",
+                "dc-l3drg_c",
+                "ac-l3drgout_c",
+                "ac-l3drgl12_c",
+                "ac-l3drgl11_c",
+                "ac-l3drgl8_c",
+                "ac-l3drgl6_c",
+                "ac-l3drgl2_c",
+                "dc-l4drg_c",
+                "ac-l4drgout_c",
+                "ac-l4drgl12_c",
+                "ac-l4drgl11_c",
+                "ac-l4drgl8_c",
+                "ac-l4drgl6_c",
+                "ac-l4drgl2_c",
+                "dc-l5drg_c",
+                "ac-l5drgout_c",
+                "ac-l5drgl12_c",
+                "ac-l5drgl11_c",
+                "ac-l5drgl8_c",
+                "ac-l5drgl6_c",
+                "ac-l5drgl2_c",
+                "ac_col_c",
+                "ac_col-lay7_c",
+                "ac_col-lay5_c",
+                "ac_col-lay3_c",
+                "ac_col-lay2_c"
+            ],
+            "groups": [
+                "group_dc-t13drg_c",
+                "group_ac-t13drgout_c",
+                "group_ac-t13drgsc_c",
+                "group_ac-t13drgl11_c",
+                "group_ac-t13drgl8_c",
+                "group_ac-t13drgl6_c",
+                "group_ac-t13drgl2_c",
+                "group_dc-l1drg_c",
+                "group_ac-drgl1out_c",
+                "group_ac-l1drgl12_c",
+                "group_ac-l1drgl11_c",
+                "group_ac-l1drgl8_c",
+                "group_ac-l1drgl6_c",
+                "group_ac-l1drgl2_c",
+                "group_dc-l2drg_c",
+                "group_ac-drgl2out_c",
+                "group_ac-l2drgl12_c",
+                "group_ac-l2drgl11_c",
+                "group_ac-l2drgl8_c",
+                "group_ac-l2drgl6_c",
+                "group_ac-l2drgl2_c",
+                "group_dc-l3drg_c",
+                "group_ac-l3drgout_c",
+                "group_ac-l3drgl12_c",
+                "group_ac-l3drgl11_c",
+                "group_ac-l3drgl8_c",
+                "group_ac-l3drgl6_c",
+                "group_ac-l3drgl2_c",
+                "group_dc-l4drg_c",
+                "group_ac-l4drgout_c",
+                "group_ac-l4drgl12_c",
+                "group_ac-l4drgl11_c",
+                "group_ac-l4drgl8_c",
+                "group_ac-l4drgl6_c",
+                "group_ac-l4drgl2_c",
+                "group_dc-l5drg_c",
+                "group_ac-l5drgout_c",
+                "group_ac-l5drgl12_c",
+                "group_ac-l5drgl11_c",
+                "group_ac-l5drgl8_c",
+                "group_ac-l5drgl6_c",
+                "group_ac-l5drgl2_c",
+                "group_ac_col_c",
+                "group_ac_col-lay7_c",
+                "group_ac_col-lay5_c",
+                "group_ac_col-lay3_c",
+                "group_ac_col-lay2_c"
+            ]
+        },
+        {
+            "id": "neuron_d",
+            "name": "Neuron d",
+            "links": [
+                "lnk-dcn-img_d"
+            ],
+            "nodes": [
+                "ns34",
+                "ns35",
+                "ns35_5"
+            ],
+            "chains": [
+                "dc-img_d",
+                "ac-img_d"
+            ],
+            "groups": [
+                "group_dc-img_d",
+                "group_ac-img_d"
+            ]
+        },
+        {
+            "id": "neuron_f",
+            "name": "Neuron f",
+            "links": [
+                "lnk-dcn-img_f"
+            ],
+            "nodes": [
+                "ns36",
+                "ns37",
+                "ns38"
+            ],
+            "chains": [
+                "dc-img_f",
+                "ac-img_f"
+            ],
+            "groups": [
+                "group_dc-img_f",
+                "group_ac-img_f"
+            ]
+        },
+        {
+            "id": "neuron_g",
+            "name": "Neuron g",
+            "links": [
+                "lnk-dcn-img_g"
+            ],
+            "nodes": [
+                "ns39",
+                "ns40",
+                "ns41"
+            ],
+            "chains": [
+                "dc-img_g",
+                "ac-img_g"
+            ],
+            "groups": [
+                "group_dc-img_g",
+                "group_ac-img_g"
+            ]
+        },
+        {
+            "id": "neuron_h",
+            "name": "Neuron h",
+            "links": [
+                "lnk-dcn-img_h"
+            ],
+            "nodes": [
+                "ns42",
+                "ns43",
+                "ns44"
+            ],
+            "chains": [
+                "dc-img_h",
+                "ac-img_h"
+            ],
+            "groups": [
+                "group_dc-img_h",
+                "group_ac-img_h"
+            ]
+        },
+        {
+            "id": "neuron_i",
+            "name": "Neuron i",
+            "links": [
+                "lnk-dcn-mp_i"
+            ],
+            "nodes": [
+                "ns45",
+                "ns46",
+                "ns47"
+            ],
+            "chains": [
+                "dc-mp_i",
+                "ac-mp_i"
+            ],
+            "groups": [
+                "group_dc-mp_i",
+                "group_ac-mp_i"
+            ]
+        },
+        {
+            "id": "neuron_j",
+            "name": "Neuron j",
+            "links": [
+                "lnk-dcn_mp_j"
+            ],
+            "nodes": [
+                "ns48",
+                "ns49",
+                "ns50"
+            ],
+            "chains": [
+                "dc_mp_j",
+                "ac_mp_j"
+            ],
+            "groups": [
+                "group_dc_mp_j",
+                "group_ac_mp_j"
+            ]
+        },
+        {
+            "id": "neuron_j2",
+            "name": "Neuron j2",
+            "links": [
+                "lnk-dcn_mp2_j"
+            ],
+            "nodes": [
+                "ns51",
+                "ns52",
+                "ns53"
+            ],
+            "chains": [
+                "dc_mp2_j",
+                "ac_mp2_j"
+            ],
+            "groups": [
+                "group_dc_mp2_j",
+                "group_ac_mp2_j"
+            ]
+        },
+        {
+            "id": "neuron_k",
+            "name": "Neuron k",
+            "links": [
+                "lnk-mp_k"
+            ],
+            "nodes": [
+                "ns54",
+                "ns55",
+                "ns56"
+            ],
+            "chains": [
+                "dc-mp_k",
+                "ac-mp_k"
+            ],
+            "groups": [
+                "group_dc-mp_k",
+                "group_ac-mp_k"
+            ]
+        },
+        {
+            "id": "neuron_l",
+            "name": "Neuron l",
+            "links": [
+                "lnk-dcn-mp_l"
+            ],
+            "nodes": [
+                "ns57",
+                "ns58",
+                "ns59"
+            ],
+            "chains": [
+                "dc-mp_l",
+                "ac-mp_l"
+            ],
+            "groups": [
+                "group_dc-mp_l",
+                "group_ac-mp_l"
+            ]
+        },
+        {
+            "id": "neuron_l2",
+            "name": "Neuron l2",
+            "links": [
+                "lnk-dcn-mp2_l"
+            ],
+            "nodes": [
+                "ns60",
+                "ns61",
+                "ns62"
+            ],
+            "chains": [
+                "dc-mp2_l",
+                "ac-mp2_l"
+            ],
+            "groups": [
+                "group_dc-mp2_l",
+                "group_ac-mp2_l"
+            ]
+        },
+        {
+            "id": "neuron_m",
+            "name": "Neuron m",
+            "links": [
+                "lnk-dcn-mp_m"
+            ],
+            "nodes": [
+                "ns63",
+                "ns64",
+                "ns65",
+                "ns66",
+                "ns67"
+            ],
+            "chains": [
+                "dc-mp_m",
+                "ac-mp_m",
+                "ac-mp2c_m",
+                "ac-mp23_m",
+                "ac-mp22_m"
+            ],
+            "groups": [
+                "group_dc-mp_m",
+                "group_ac-mp_m",
+                "group_ac-mp23_m",
+                "group_ac-mp22_m"
+            ]
+        },
+        {
+            "id": "neuron_n",
+            "name": "Neuron n",
+            "links": [
+                "lnk-dcn-mp_n"
+            ],
+            "nodes": [
+                "ns69",
+                "ns70",
+                "ns71",
+                "ns72",
+                "ns72_5"
+            ],
+            "chains": [
+                "dc-mp_n",
+                "ac-mp2_n",
+                "ac-mpc5c_n",
+                "ac-mp5_n",
+                "ac-mp3_n"
+            ],
+            "groups": [
+                "group_dc-mp_n",
+                "group_ac-mp2_n",
+                "group_ac-mp3_n",
+                "group_ac-mp5_n"
+            ]
+        },
+        {
+            "id": "neuron_o",
+            "name": "Neuron o",
+            "links": [
+                "lnk-dcn-sp-o"
+            ],
+            "nodes": [
+                "ns73",
+                "ns74",
+                "ns75"
+            ],
+            "chains": [
+                "dc-sp_o",
+                "ac-sp_o"
+            ],
+            "groups": [
+                "group_dc-sp_o",
+                "group_ac-sp_o"
+            ]
+        },
+        {
+            "id": "neuron_p",
+            "name": "Neuron p",
+            "links": [
+                "lnk-dcn-mp-p"
+            ],
+            "nodes": [
+                "ns76",
+                "ns77",
+                "ns78"
+            ],
+            "chains": [
+                "dc-mp-p",
+                "ac-mp-p"
+            ],
+            "groups": [
+                "group_dc-mp-p",
+                "group_ac-mp-p"
+            ]
+        },
+        {
+            "id": "neuron_q",
+            "name": "Neuron q",
+            "links": [
+                "lnk-dcn-mp_q"
+            ],
+            "nodes": [
+                "ns79",
+                "ns80",
+                "ns81"
+            ],
+            "chains": [
+                "dc-mp_q",
+                "ac-mp_q"
+            ],
+            "groups": [
+                "group_dc-mp_q",
+                "group_ac-mp_q"
+            ]
+        }
+    ],
+    "id": "sawg-distal-colon",
+    "name": "SAWG_colon-all"
+}
