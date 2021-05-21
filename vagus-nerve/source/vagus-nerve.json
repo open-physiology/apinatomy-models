@@ -1,0 +1,854 @@
+{
+    "publications": [],
+    "nodes": [],
+    "links": [
+        {
+            "id": "lnk-vag_spn",
+            "name": "soma in spinal trigeminal nucleus",
+            "source": "ns1",
+            "target": "ns2",
+            "conveyingLyph": "vag_spn"
+        },
+        {
+            "id": "lnk-vag_nts",
+            "name": "soma in nucleus tractus solitarius",
+            "source": "ns3",
+            "target": "ns4",
+            "conveyingLyph": "vag_nts"
+        },
+        {
+            "id": "lnk-vag_dmn",
+            "name": "soma in dorsal motor nucleus of vagus",
+            "source": "ns5",
+            "target": "ns6",
+            "conveyingLyph": "vag_dmn"
+        },
+        {
+            "id": "lnk-vag_na",
+            "name": "soma in nucleus ambiguus",
+            "source": "ns7",
+            "target": "ns8",
+            "conveyingLyph": "vag_na"
+        }
+    ],
+    "lyphs": [
+        {
+            "id": "nseg",
+            "name": "Segment of nerve (vag)",
+            "external": [
+                "FMA:74941"
+            ],
+            "subtypes": [
+                "TUBE"
+            ],
+            "isTemplate": true,
+            "materials": [
+                "vm_3",
+                "vm_9"
+            ]
+        },
+        {
+            "id": "vag",
+            "name": "vagus nerve(n_5)",
+            "external": [
+                "UBERON:0001759"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "med",
+            "name": "medulla (brain_27)",
+            "external": [
+                "UBERON:0001896"
+            ],
+            "internalLyphs": [
+                "stn",
+                "nts",
+                "dmn",
+                "sg"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "stn",
+            "name": "spinal trigeminal nucleus (brain_40)",
+            "external": [
+                "UBERON:0001717"
+            ],
+            "internalLyphs": [
+                "vag_spn"
+            ]
+        },
+        {
+            "id": "nts",
+            "name": "nucleus tractus solitarius (brain_12)",
+            "external": [
+                "UBERON:0009050"
+            ],
+            "internalLyphs": [
+                "vag_nts"
+            ]
+        },
+        {
+            "id": "dmn",
+            "name": "dorsal motor nucleus of vagus (brain_39)",
+            "external": [
+                "UBERON:0002870"
+            ],
+            "supertype": "nseg",
+            "internalLyphs": [
+                "vag_dmn"
+            ]
+        },
+        {
+            "id": "na",
+            "name": "nucleus ambiguus (brain_33)",
+            "external": [
+                "UBERON:0001719"
+            ],
+            "internalLyphs": [
+                "vag_na"
+            ]
+        },
+        {
+            "id": "sg",
+            "name": "superior ganglion of vagus nerve (ganglion_1)",
+            "external": [
+                "UBERON:0005364"
+            ]
+        },
+        {
+            "id": "jf",
+            "name": "jugular foramen (skull_1)",
+            "external": [
+                "UBERON:0005456"
+            ]
+        },
+        {
+            "id": "dm_crafos",
+            "name": "dura mater in the posterior cranial fossa (skull_2)",
+            "external": [
+                "UBERON:0008788"
+            ]
+        },
+        {
+            "id": "fl_eam",
+            "name": "floor of external acoustic meatus (body_9)",
+            "external": [
+                "UBERON:0001352"
+            ]
+        },
+        {
+            "id": "ear",
+            "name": "ear (body_5)",
+            "external": [
+                "UBERON:0001690"
+            ],
+            "internalLyphsInLayers": [
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "id": "poswall_eam",
+            "name": "posterior wall of external acoustic meatus (body_10)",
+            "external": [
+                "UBERON:0001352"
+            ]
+        },
+        {
+            "id": "os_tm",
+            "name": "outer surface of the tympanic membrane (body_11)",
+            "external": [
+                "FMA:56819"
+            ]
+        },
+        {
+            "id": "cp_aurglo",
+            "name": "communicating point of auricular branch of vagus nerve and glossopharyngeal nerve 1 (point_2)",
+            "external": [
+                "FMA:53485"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "men",
+            "name": "meningeal branch of vagus nerve (n_6)",
+            "external": [
+                "FMA:6231"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "aur",
+            "name": "auricular branch of vagus nerve(n_7)",
+            "external": [
+                "FMA:6232"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "vag_spn",
+            "name": "soma in spinal trigeminal nucleus",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "vag_nts",
+            "name": "soma in nucleus tractus solitarius",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "vag_dmn",
+            "name": "soma in dorsal motor nucleus of vagus",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "vag_na",
+            "name": "soma in nucleus ambiguus",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "vag_sg",
+            "name": "soma in superior ganglion",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "nseg"
+        },
+        {
+            "id": "unk",
+            "name": "posterior auricular nerve",
+            "external": [
+                "UBERON:0035647"
+            ]
+        },
+        {
+            "id": "229",
+            "name": "Segment of neuron (fcolon)",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true
+        }
+    ],
+    "materials": [
+        {
+            "id": "vm_1",
+            "name": "endoneurium",
+            "external": [
+                "UBERON:0000123"
+            ],
+            "materials": [
+                "vm_4",
+                "vm_6",
+                "vm_7"
+            ]
+        },
+        {
+            "id": "vm_2",
+            "name": "perineurium",
+            "external": [
+                "UBERON:0000121"
+            ],
+            "materials": [
+                "vm_4"
+            ]
+        },
+        {
+            "id": "vm_3",
+            "name": "epineurium",
+            "external": [
+                "UBERON:0000124"
+            ],
+            "materials": [
+                "vm_4"
+            ]
+        },
+        {
+            "id": "vm_4",
+            "name": "connective tissue",
+            "external": [
+                "NCIT:C32367"
+            ]
+        },
+        {
+            "id": "vm_5",
+            "name": "blood vessels",
+            "external": [
+                "UBERON:0001981"
+            ]
+        },
+        {
+            "id": "vm_6",
+            "name": "lymphocyte",
+            "external": [
+                "FMA:62863"
+            ]
+        },
+        {
+            "id": "vm_7",
+            "name": "fibroblasts",
+            "external": [
+                "FMA:63877"
+            ]
+        },
+        {
+            "id": "vm_8",
+            "name": "collagen fibers",
+            "external": [
+                "FMA:63891"
+            ]
+        },
+        {
+            "id": "vm_9",
+            "name": "endoneurial fluid",
+            "external": [
+                "UBERON:0011893"
+            ]
+        },
+        {
+            "id": "vm_10",
+            "name": "Blood",
+            "external": [
+                "UBERON:0000178"
+            ],
+            "materials": [
+                "vm_9"
+            ]
+        },
+        {
+            "id": "vm_11",
+            "name": "Aqueous solution",
+            "external": [
+                "FMA:85815"
+            ],
+            "materials": [
+                "vm_12",
+                "vm_13",
+                "vm_14",
+                "vm_15",
+                "vm_16",
+                "vm_17",
+                "vm_18",
+                "vm_19",
+                "vm_20",
+                "vm_21"
+            ]
+        },
+        {
+            "id": "vm_12",
+            "name": "Water",
+            "external": [
+                "CHEBI:15377"
+            ]
+        },
+        {
+            "id": "vm_13",
+            "name": "Sodium ion",
+            "external": [
+                "CHEBI:29101"
+            ]
+        },
+        {
+            "id": "vm_14",
+            "name": "Potassium ion",
+            "external": [
+                "CHEBI:29103"
+            ]
+        },
+        {
+            "id": "vm_15",
+            "name": "Calcium ion",
+            "external": [
+                "CHEBI:29108"
+            ]
+        },
+        {
+            "id": "vm_16",
+            "name": "Chloride ion",
+            "external": [
+                "CHEBI:17996"
+            ]
+        },
+        {
+            "id": "vm_17",
+            "name": "Hydrogen ion",
+            "external": [
+                "CHEBI:24636"
+            ]
+        },
+        {
+            "id": "vm_18",
+            "name": "Hydroxide ion",
+            "external": [
+                "CHEBI:16234"
+            ]
+        },
+        {
+            "id": "vm_19",
+            "name": "Bicarbonate ion",
+            "external": [
+                "CHEBI:17544"
+            ]
+        },
+        {
+            "id": "vm_20",
+            "name": "Liquid",
+            "external": [
+                "FMA:85815"
+            ]
+        },
+        {
+            "id": "vm_21",
+            "name": "Fluid",
+            "external": [
+                "UBERON:0006314"
+            ]
+        },
+        {
+            "id": "vm_22",
+            "name": "Wall of vessel",
+            "external": [
+                "UBERON:0035965"
+            ],
+            "materials": [
+                "vm_4"
+            ]
+        },
+        {
+            "id": "vm_23",
+            "name": "Cytosol",
+            "external": [
+                "GO:0005829"
+            ]
+        },
+        {
+            "id": "vm_24",
+            "name": "Plasma membrane",
+            "external": [
+                "GO:0005886"
+            ]
+        },
+        {
+            "id": "vm_25",
+            "name": "Extracellular fluid",
+            "external": [
+                "GO:0005615"
+            ]
+        }
+    ],
+    "chains": [
+        {
+            "id": "dc-stn",
+            "name": "dendrite chain in spinal trigeminal nucleus",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns1",
+            "housingLyphs": [
+                "stn"
+            ]
+        },
+        {
+            "id": "n_1",
+            "name": "axon chain in spinal trigeminal nucleus",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns2",
+            "leaf": "ns9",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "stn",
+                "med",
+                "jf"
+            ]
+        },
+        {
+            "id": "dc-nts",
+            "name": "dendrite chain in nucleus tractus solitarius",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns3",
+            "housingLyphs": [
+                "nts"
+            ]
+        },
+        {
+            "id": "n_2",
+            "name": "axon chain in nucleus tractus solitarius",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns4",
+            "leaf": "ns9",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "nts",
+                "med",
+                "jf"
+            ]
+        },
+        {
+            "id": "dc-dmn",
+            "name": "dendrite chain in dorsal motor nucleus of vagus",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns5",
+            "housingLyphs": [
+                "dmn"
+            ]
+        },
+        {
+            "id": "n_3",
+            "name": "axon chain in dorsal motor nucleus of vagus",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns6",
+            "leaf": "ns9",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "dmn",
+                "med",
+                "jf"
+            ]
+        },
+        {
+            "id": "dc-na",
+            "name": "dendrite chain in nucleus ambiguus",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns7",
+            "housingLyphs": [
+                "na"
+            ]
+        },
+        {
+            "id": "n_4",
+            "name": "axon chain in nucleus ambiguus",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns8",
+            "leaf": "ns9",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "na",
+                "med",
+                "jf"
+            ]
+        },
+        {
+            "id": "n_5",
+            "name": "vagus nerve from jugular forman to superior ganglion of vagus nerve (point_1)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns9",
+            "leaf": "ns11",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "jf",
+                "sg"
+            ]
+        },
+        {
+            "id": "n_6",
+            "name": "meningeal branch of vagus nerve",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns11",
+            "leaf": "ns12",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "sg",
+                "dm_crafos"
+            ]
+        },
+        {
+            "id": "n_7",
+            "name": "auricular branch of vagus nerve",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns11",
+            "leaf": "ns13",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "sg",
+                "cp_aurglo"
+            ]
+        },
+        {
+            "id": "n_8",
+            "name": "communicating branch of auricular branch of vagus nerve with posterior auricular nerve",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns13",
+            "leaf": "ns14",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "cp_aurglo",
+                "unk"
+            ]
+        },
+        {
+            "id": "n_9",
+            "name": "branch of auricular branch of vagus nerve to floor of external acoustic meatus",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns13",
+            "leaf": "ns15",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "cp_aurglo",
+                "fl_eam"
+            ]
+        },
+        {
+            "id": "n_10",
+            "name": "branch of auricular branch of vagus nerve to posterior wall of external acoustic meatus",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns13",
+            "leaf": "ns16",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "cp_aurglo",
+                "poswall_eam"
+            ]
+        },
+        {
+            "id": "n_11",
+            "name": "branch of auricular branch of vagus nerve to tympanic membrane",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "nseg",
+            "root": "ns13",
+            "leaf": "ns17",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "cp_aurglo",
+                "os_tm"
+            ]
+        },
+        {
+            "id": "md",
+            "name": "medulla",
+            "external": [
+                "UBERON:0001896"
+            ],
+            "lyphs": [
+                "med",
+                "stn",
+                "nts",
+                "dmn",
+                "na"
+            ],
+            "root": "node1",
+            "leaf": "node2"
+        },
+        {
+            "id": "skull_1",
+            "name": "jugular foramen",
+            "external": [
+                "UBERON:0005456"
+            ],
+            "lyphs": [
+                "jf"
+            ],
+            "root": "node3",
+            "leaf": "node5"
+        },
+        {
+            "id": "skull_2",
+            "name": "posterior cranial fossa",
+            "external": [
+                "UBERON:0001352"
+            ],
+            "lyphs": [
+                "dm_crafos"
+            ],
+            "root": "node5",
+            "leaf": "node8"
+        },
+        {
+            "id": "ganglion_1",
+            "name": "superior ganglion of vagus nerve",
+            "external": [
+                "UBERON:0005364"
+            ],
+            "lyphs": [
+                "sg"
+            ],
+            "root": "node7",
+            "leaf": "node11"
+        },
+        {
+            "id": "body_5",
+            "name": "ear",
+            "external": [
+                "UBERON:0001690"
+            ],
+            "lyphs": [
+                "ear"
+            ],
+            "root": "node9",
+            "leaf": "node14"
+        }
+    ],
+    "groups": [
+        {
+            "id": "vag_ner",
+            "name": "vagus nerve",
+            "links": [
+                "lnk-vag_spn",
+                "lnk-vag_nts",
+                "lnk-vag_dmn",
+                "lnk-vag_na"
+            ],
+            "nodes": [
+                "ns1",
+                "ns2",
+                "ns3",
+                "ns4",
+                "ns5",
+                "ns6",
+                "ns7",
+                "ns8",
+                "ns9",
+                "ns10",
+                "ns11",
+                "ns12",
+                "ns13",
+                "ns14"
+            ]
+        }
+    ],
+    "localConventions": [
+        {
+            "prefix": "UBERON",
+            "namespace": "http://purl.obolibrary.org/obo/UBERON_"
+        },
+        {
+            "prefix": "CHEBI",
+            "namespace": "http://purl.obolibrary.org/obo/CHEBI_"
+        },
+        {
+            "prefix": "FMA",
+            "namespace": "http://purl.org/sig/ont/fma/fma"
+        },
+        {
+            "prefix": "GO",
+            "namespace": "http://purl.obolibrary.org/obo/GO_"
+        },
+        {
+            "prefix": "ILX",
+            "namespace": "http://uri.interlex.org/base/ilx_"
+        },
+        {
+            "prefix": "NLX",
+            "namespace": "http://uri.neuinfo.org/nif/nifstd/nlx_"
+        },
+        {
+            "prefix": "SAO",
+            "namespace": "http://uri.neuinfo.org/nif/nifstd/sao"
+        },
+        {
+            "prefix": "PMID",
+            "namespace": "http://www.ncbi.nlm.nih.gov/pubmed/"
+        },
+        {
+            "prefix": "EMAPA",
+            "namespace": "http://purl.obolibrary.org/obo/EMAPA_"
+        },
+        {
+            "prefix": "CL",
+            "namespace": "http://purl.obolibrary.org/obo/CL_"
+        },
+        {
+            "prefix": "NCBITaxon",
+            "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        }
+    ],
+    "id": "vagus-nerve",
+    "name": "Vagus Nerve model"
+}
