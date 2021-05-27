@@ -2,13 +2,31 @@
 
 This digital record documents the ApiNATOMY representation of neural circuits in the central and peripheral nervous system innervating the urinary bladder and urethra. ApiNATOMY is a set of tools that produces simple, consistent anatomy schematics overlaid with ontological information. These tools are used to build routing and connectivity graphs (or wiring diagrams). This record contains a docs folder, a source folder, and a README text file. The Docs folder contains 2 PDF documents, with a schematic image of the ApiNATOMY model and a slide presentation documenting the anatomical structures each neuron population travels through in the schematic image. The Source folder contains the ApiNATOMY representation of the model in JSON and .xlsx formats. Lastly, the README .md document includes a brief description, keywords, and reference publications to construct the knowledge within the model. Please note, the focus of SPARC is on peripheral connectivity of the ANS and its main points of interaction with the CNS.  Therefore, any CNS circuitry represented is not comprehensive unless otherwise specified.
 
+## Authors
+* [Monique Surles-Zeigler](https://orcid.org/0000-0002-2308-8813)
+* [Thomas H Gillespie](https://orcid.org/0000-0002-7509-4801)
+* [Janet Keast](https://orcid.org/0000-0002-4341-3265)
+* [Bernard de Bono](https://orcid.org/0000-0003-0638-5274)
+
 ## Keywords
-* bladder neck
-* bladder dome
-* pelvic ganglia
-* spinal cord
+* bladder neck (syn: neck of urinary bladder, urinary bladder neck)
+* bladder dome (syn: bladder body)
+* bladder fundus (syn: fundus of urinary bladder)
 * urethra
-* Inferior Mesenteric Ganglion
+* urethral rhabdosphincter (syn: external urethral sphincter)
+* dorsal root ganglia (syn: spinal ganglia)
+* pelvic ganglion/ganglia (syn: major pelvic ganglion/ganglia; paracervical ganglion/ganglia - Female only; inferior hypogastric plexus - human only)
+* inferior mesenteric ganglion
+* paravertebral sympathetic ganglion (syn: sympathetic chain ganglion)
+* pudendal nerve
+* hypogastric nerve
+* pelvic nerve (syn: pelvic splanchnic nerves - human only])
+* lumbar splanchnic nerves
+* spinal cord
+* ventral horn of spinal cord
+* dorsal horn of spinal cord
+* intermediolateral column of spinal cord
+* preganglionic nucleus of spinal cord
 
 ## Publications
 * Vera PL, Nadelhaft I. Afferent and sympathetic innervation of the dome and the base of the urinary bladder of the female rat. Brain Res Bull. 1992 Nov;29(5):651-8. doi: 10.1016/0361-9230(92)90134-j. [PMID: 1358408](https://pubmed.ncbi.nlm.nih.gov/1358408/).
