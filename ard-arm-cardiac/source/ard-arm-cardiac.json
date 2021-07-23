@@ -1246,7 +1246,7 @@
         },
         {
             "id": "sn-t1_5",
-            "name": "Soma of SPrG neuron in T1 layer 6_5 (acard)",
+            "name": "Soma of SPrG neuron in T1 layer 6_ Neuron 5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1254,7 +1254,7 @@
         },
         {
             "id": "sn-t2_5",
-            "name": "Soma of SPrG neuron in T2 layer 6_5 (acard)",
+            "name": "Soma of SPrG neuron in T2 layer 6_Neuron 5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1262,7 +1262,7 @@
         },
         {
             "id": "sn-t3_5",
-            "name": "Soma of SPrG neuron in T3 layer 6_5 (acard)",
+            "name": "Soma of SPrG neuron in T3 layer 6_Neuron 5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1270,7 +1270,7 @@
         },
         {
             "id": "sn-t4_5",
-            "name": "Soma of SPrG neuron in T4 layer 6_5 (acard)",
+            "name": "Soma of SPrG neuron in T4 layer 6_Neuron 5 (acard)",
             "external": [
                 "NLX:154731"
             ],

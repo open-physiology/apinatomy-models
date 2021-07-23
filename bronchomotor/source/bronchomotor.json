@@ -1,5 +1,30 @@
 {
-    "publications": [],
+    "publications": [
+        {
+            "id": "PMID:2384334",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2384334"
+        },
+        {
+            "id": "PMID:8300416",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/8300416"
+        },
+        {
+            "id": "PMID:3198482",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/3198482"
+        },
+        {
+            "id": "PMID:18579364",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/18579364"
+        },
+        {
+            "id": "DOI:10.1016/B978-0-444-53491-0.09985-5",
+            "uri": "https://doi.org/10.1016/B978-0-444-53491-0.09985-5"
+        },
+        {
+            "id": "DOI:10.1016/j.mpaic.2008.08.005",
+            "uri": "https://doi.org/10.1016/j.mpaic.2008.08.005"
+        }
+    ],
     "nodes": [
         {
             "id": "sc1",

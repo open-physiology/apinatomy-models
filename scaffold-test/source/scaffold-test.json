@@ -107,190 +107,6 @@
             "length": 16
         },
         {
-            "id": "lnk-snl18",
-            "name": "Link-Soma of SPR neuron in L1_Neuron 8",
-            "source": "ns24",
-            "target": "ns25",
-            "conveyingLyph": "snl18",
-            "length": 4
-        },
-        {
-            "id": "lnk-snl28",
-            "name": "Link-Soma of SPR neuron in L2_Neuron 8",
-            "source": "ns26",
-            "target": "ns27",
-            "conveyingLyph": "snl28",
-            "length": 4
-        },
-        {
-            "id": "lnk-t12sgs",
-            "name": "Link-T12 sympathetic ganglion seg_Neuron 8",
-            "source": "ns28",
-            "target": "ns29",
-            "conveyingLyph": "t12sgs",
-            "length": 4
-        },
-        {
-            "id": "lnk-t12-t13iss",
-            "name": "Link-T12-T13 interganglionic segment seg_Neuron 8",
-            "source": "ns29",
-            "target": "ns30",
-            "conveyingLyph": "t12-t13iss",
-            "length": 4
-        },
-        {
-            "id": "lnk-t13sgs2",
-            "name": "Link-T13 sympathetic ganglion seg_Neuron 8",
-            "source": "ns30",
-            "target": "ns31",
-            "conveyingLyph": "t13sgs2",
-            "length": 4
-        },
-        {
-            "id": "lnk-t13sgs",
-            "name": "Link-T13 sympathetic ganglion seg2_Neuron 8",
-            "source": "ns31",
-            "target": "ns32",
-            "conveyingLyph": "t13sgs",
-            "length": 4
-        },
-        {
-            "id": "lnk-t13-l1iss",
-            "name": "Link-T13-L1 interganglionic seg_Neuron 8",
-            "source": "ns31",
-            "target": "ns33",
-            "conveyingLyph": "t13-l1iss",
-            "length": 4
-        },
-        {
-            "id": "lnk-l1sgs2",
-            "name": "Link-L1 sympathetic ganglion seg_Neuron 8",
-            "source": "ns33",
-            "target": "ns34",
-            "conveyingLyph": "l1sgs2",
-            "length": 4
-        },
-        {
-            "id": "lnk-l1sgs",
-            "name": "Link-L1 sympathetic ganglion seg2_Neuron 8",
-            "source": "ns34",
-            "target": "ns35",
-            "conveyingLyph": "l1sgs",
-            "length": 4
-        },
-        {
-            "id": "lnk-l1-l2iss",
-            "name": "Link-L1-L2 interganglionic segment seg_Neuron 8",
-            "source": "ns34",
-            "target": "ns36",
-            "conveyingLyph": "l1-l2iss",
-            "length": 4
-        },
-        {
-            "id": "lnk-l2sgs2",
-            "name": "Link-L2 sympathetic ganglion seg_Neuron 8",
-            "source": "ns36",
-            "target": "ns37",
-            "conveyingLyph": "l2sgs2",
-            "length": 4
-        },
-        {
-            "id": "lnk-l2sgs",
-            "name": "Link-L2 sympathetic ganglion seg2_Neuron 8",
-            "source": "ns37",
-            "target": "ns38",
-            "conveyingLyph": "l2sgs",
-            "length": 4
-        },
-        {
-            "id": "lnk-l2-l3iss",
-            "name": "Link-L2-L3 interganglionic segment seg_Neuron 8",
-            "source": "ns37",
-            "target": "ns39",
-            "conveyingLyph": "l2-l3iss",
-            "length": 4
-        },
-        {
-            "id": "lnk-l3sgs2",
-            "name": "Link-L3 sympathetic ganglion seg_Neuron 8",
-            "source": "ns39",
-            "target": "ns40",
-            "conveyingLyph": "l3sgs2",
-            "length": 4
-        },
-        {
-            "id": "lnk-l3sgs",
-            "name": "Link-L3 sympathetic ganglion seg2_Neuron 8",
-            "source": "ns40",
-            "target": "ns41",
-            "conveyingLyph": "l3sgs",
-            "length": 4
-        },
-        {
-            "id": "lnk-l3-l4iss",
-            "name": "Link-L3-L4 interganglionic segment seg_Neuron 8",
-            "source": "ns40",
-            "target": "ns42",
-            "conveyingLyph": "l3-l4iss",
-            "length": 4
-        },
-        {
-            "id": "lnk-l4sgs2",
-            "name": "Link-L4 sympathetic ganglion seg_Neuron 8",
-            "source": "ns42",
-            "target": "ns43",
-            "conveyingLyph": "l4sgs2",
-            "length": 4
-        },
-        {
-            "id": "lnk-l4sgs",
-            "name": "Link-L4 sympathetic ganglion seg2_Neuron 8",
-            "source": "ns43",
-            "target": "ns44",
-            "conveyingLyph": "l4sgs",
-            "length": 4
-        },
-        {
-            "id": "lnk-l4-l5iss",
-            "name": "Link-L4-L5 interganglionic segment seg_Neuron 8",
-            "source": "ns43",
-            "target": "ns45",
-            "conveyingLyph": "l4-l5iss",
-            "length": 4
-        },
-        {
-            "id": "lnk-l5sgs2",
-            "name": "Link-L5 sympathetic ganglion seg2_Neuron 8",
-            "source": "ns45",
-            "target": "ns46",
-            "conveyingLyph": "l5sgs2",
-            "length": 4
-        },
-        {
-            "id": "lnk-l5sgs",
-            "name": "Link-L5 sympathetic ganglion seg2_Neuron 8",
-            "source": "ns46",
-            "target": "ns47",
-            "conveyingLyph": "l5sgs",
-            "length": 4
-        },
-        {
-            "id": "lnk-l5-l6iss",
-            "name": "Link-L5-L6 interganglionic segment seg_Neuron 8",
-            "source": "ns46",
-            "target": "ns48",
-            "conveyingLyph": "l5-l6iss",
-            "length": 4
-        },
-        {
-            "id": "lnk-l6sgs",
-            "name": "Link-L6 sympathetic ganglion seg_Neuron 8",
-            "source": "ns48",
-            "target": "ns49",
-            "conveyingLyph": "l6sgs",
-            "length": 4
-        },
-        {
             "id": "lnk-sn-pg_2",
             "name": "Link-Soma to SPOG neuron 2 in pelvic ganglia_Neuron 2",
             "source": "ns250",
@@ -1421,8 +1237,7 @@
             ],
             "internalLyphsInLayers": [
                 0
-            ],
-            "hostedBy": "F"
+            ]
         },
         {
             "id": "K100",
@@ -1442,8 +1257,7 @@
             ],
             "internalLyphsInLayers": [
                 0
-            ],
-            "hostedBy": "F"
+            ]
         },
         {
             "id": "K101",
@@ -1843,7 +1657,7 @@
             "external": [
                 "UBERON:0005303"
             ],
-            "hostedBy": "N"
+            "hostedBy": "n2"
         },
         {
             "id": "n-blad",
@@ -1859,7 +1673,7 @@
                 0,
                 0
             ],
-            "hostedBy": "N"
+            "hostedBy": "n2"
         },
         {
             "id": "n-pud",
@@ -1867,7 +1681,7 @@
             "external": [
                 "UBERON:0011390"
             ],
-            "hostedBy": "N"
+            "hostedBy": "n2"
         },
         {
             "id": "n-lumspl",
@@ -3081,32 +2895,6 @@
                 "PMID:3225349",
                 "PMID:2891149",
                 "PMID:30704972"
-            ]
-        },
-        {
-            "id": "neuron-2",
-            "name": "Neuron 2",
-            "links": [
-                "lnk-sn-pg_2",
-                "lnk-an-bn0_2",
-                "lnk-an-bn1_2",
-                "lnk-an_bd0_2",
-                "lnk-an-bn1_2"
-            ],
-            "nodes": [
-                "ns250",
-                "ns251",
-                "ns252",
-                "ns253",
-                "ns254",
-                "ns255"
-            ],
-            "publications": [
-                "PMID:2713886",
-                "PMID:2713886",
-                "PMID:11382385",
-                "PMID:11382385",
-                "PMID:4700666"
             ]
         },
         {

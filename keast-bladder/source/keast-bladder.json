@@ -2,59 +2,99 @@
     "publications": [
         {
             "id": "PMID:1358408",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/1358408/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/1358408"
         },
         {
             "id": "PMID:2713886",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/2713886/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2713886"
         },
         {
             "id": "PMID:11382385",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/11382385/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/11382385"
         },
         {
             "id": "PMID:4700666",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/4700666/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/4700666"
         },
         {
             "id": "PMID:1619047",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/1619047/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/1619047"
         },
         {
             "id": "PMID:3558884",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/3558884/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/3558884"
         },
         {
             "id": "PMID:2891149",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/2891149/"
-        },
-        {
-            "id": "PMID:135840",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/135840/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2891149"
         },
         {
             "id": "PMID:3225349",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/3225349/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/3225349"
         },
         {
             "id": "PMID:12811806",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/12811806/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12811806"
         },
         {
             "id": "PMID:3722467",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/3722467/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/3722467"
         },
         {
             "id": "PMID:7636036",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/7636036/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/7636036"
         },
         {
             "id": "PMID:30704972",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/30704972/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/30704972"
         },
         {
             "id": "PMID:7174880",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/7174880/"
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/7174880"
+        },
+        {
+            "id": "PMID:7644029",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/7644029"
+        },
+        {
+            "id": "PMID:6736301",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/6736301"
+        },
+        {
+            "id": "PMID:9442414",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9442414"
+        },
+        {
+            "id": "PMID:11748568",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/11748568"
+        },
+        {
+            "id": "PMID:10494620",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/10494620"
+        },
+        {
+            "id": "PMID:9421141",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9421141"
+        },
+        {
+            "id": "PMID:8786273",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/8786273"
+        },
+        {
+            "id": "PMID:1726105",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/1726105"
+        },
+        {
+            "id": "PMID:20484700",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/20484700"
+        },
+        {
+            "id": "PMID:8923445",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/8923445"
+        },
+        {
+            "id": "PMID:1765622",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/1765622"
         }
     ],
     "nodes": [
@@ -353,10 +393,10 @@
             "length": 4
         },
         {
-            "id": "lnk-sn-drg-s1_10",
+            "id": "lnk-sn-drg-S1_10",
             "source": "ns170",
             "target": "ns171",
-            "conveyingLyph": "sn-drg-s1_10",
+            "conveyingLyph": "sn-drg-S1_10",
             "length": 4
         },
         {
@@ -382,7 +422,11 @@
                 "UBERON:0006469"
             ],
             "topology": "TUBE",
-            "supertype": "K_129"
+            "supertype": "K_129",
+            "scale": {
+                "width": 500,
+                "height": 60
+            }
         },
         {
             "id": "K2",
@@ -994,7 +1038,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K36"
+            "internalIn": "K36",
+            "seedIn": "neuron-19"
         },
         {
             "id": "229bag2",
@@ -1003,7 +1048,7 @@
                 "CL:0000540"
             ],
             "isTemplate": true,
-            "topology": "BAG-",
+            "topology": "BAG+",
             "supertype": "229"
         },
         {
@@ -1013,7 +1058,7 @@
                 "CL:0000540"
             ],
             "isTemplate": true,
-            "topology": "BAG+",
+            "topology": "BAG-",
             "supertype": "229"
         },
         {
@@ -1023,7 +1068,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K43"
+            "internalIn": "K43",
+            "seedIn": "neuron-16"
         },
         {
             "id": "sn13",
@@ -1032,7 +1078,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K37"
+            "internalIn": "K37",
+            "seedIn": "neuron-13"
         },
         {
             "id": "sn14",
@@ -1041,7 +1088,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K38"
+            "internalIn": "K38",
+            "seedIn": "neuron-14"
         },
         {
             "id": "sn15",
@@ -1050,7 +1098,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K40"
+            "internalIn": "K40",
+            "seedIn": "neuron-15"
         },
         {
             "id": "sn17",
@@ -1059,7 +1108,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K41"
+            "internalIn": "K41",
+            "seedIn": "neuron-17"
         },
         {
             "id": "sn18",
@@ -1068,7 +1118,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K42"
+            "internalIn": "K42",
+            "seedIn": "neuron-18"
         },
         {
             "id": "sn20",
@@ -1077,7 +1128,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K45"
+            "internalIn": "K45",
+            "seedIn": "neuron-20"
         },
         {
             "id": "K54",
@@ -1273,11 +1325,7 @@
             "name": "L6 - S1 Interganglionic segment (kblad)",
             "external": [
                 "ILX:0777093"
-            ],
-            "length": {
-                "min": null,
-                "max": null
-            }
+            ]
         },
         {
             "id": "K78",
@@ -1325,11 +1373,9 @@
                 "FMA:6541"
             ],
             "internalLyphs": [
-                "sn-sgl2",
                 "sn-sgl2"
             ],
             "internalLyphsInLayers": [
-                0,
                 0
             ]
         },
@@ -1353,7 +1399,7 @@
                 "FMA:6543"
             ],
             "internalLyphs": [
-                "lsn-sgl4"
+                "sn-sgl4"
             ],
             "internalLyphsInLayers": [
                 0
@@ -1588,7 +1634,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-6"
         },
         {
             "id": "snl26",
@@ -1604,7 +1651,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "internalIn": "K22",
+            "seedIn": "neuron-8"
         },
         {
             "id": "snl28",
@@ -1612,7 +1661,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "internalIn": "K23"
         },
         {
             "id": "snl17",
@@ -1620,7 +1670,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-7"
         },
         {
             "id": "snl27",
@@ -1636,7 +1687,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-9"
         },
         {
             "id": "snl69",
@@ -1652,7 +1704,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-5"
         },
         {
             "id": "sns15",
@@ -1670,7 +1723,8 @@
             ],
             "topology": "TUBE",
             "supertype": "229",
-            "internalIn": "K78"
+            "internalIn": "K78",
+            "seedIn": "neuron-4"
         },
         {
             "id": "sn-sgt13",
@@ -1737,29 +1791,32 @@
         },
         {
             "id": "sn-pg_1",
-            "name": "Soma of PPOG neuron 1 in pelvic ganglia_Neuron 1 (kblad)",
+            "name": "Soma of PSPO neuron 1 in pelvic ganglia_Neuron 1 (kblad)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-1"
         },
         {
             "id": "sn-pg_2",
-            "name": "Soma to SPOG neuron 2 in pelvic ganglia_Neuron 2 (kblad)",
+            "name": "Soma to SPO neuron 2 in pelvic ganglia_Neuron 2 (kblad)",
             "external": [
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K104"
+            "internalIn": "K104",
+            "seedIn": "neuron-2"
         },
         {
             "id": "sn-img_3",
-            "name": "Soma to SPOG neuron 3 in IMG_Neuron 3 (kblad)",
+            "name": "Soma to SPO neuron 3 in IMG_Neuron 3 (kblad)",
             "external": [
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K102"
+            "internalIn": "K102",
+            "seedIn": "neuron-3"
         },
         {
             "id": "n-hypo",
@@ -1796,10 +1853,11 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K61"
+            "internalIn": "K61",
+            "seedIn": "neuron-10"
         },
         {
-            "id": "sn-drg-s1_10",
+            "id": "sn-drg-S1_10",
             "name": "Soma to FOS neuron 10 in S1 DRG_Neuron 10",
             "external": [
                 "NLX:154731"
@@ -1814,7 +1872,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K61"
+            "internalIn": "K61",
+            "seedIn": "neuron-12"
         },
         {
             "id": "sn-drg-s1_12",
@@ -1830,9 +1889,6 @@
             "name": "Pelvic splanchnic nerve",
             "external": [
                 "UBERON:0018675"
-            ],
-            "internalLyphs": [
-                "sn-pelspl_4"
             ]
         },
         {
@@ -1842,7 +1898,8 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K56"
+            "internalIn": "K56",
+            "seedIn": "neuron-11"
         },
         {
             "id": "sn-drgl2_11",
@@ -2716,7 +2773,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag2",
+            "lyphTemplate": "229bag",
             "root": "ns23",
             "leaf": "ns23_5",
             "housingLayers": [
@@ -2816,7 +2873,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns28",
             "leaf": "ns28_5",
             "housingLayers": [
@@ -2858,7 +2915,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns29",
             "leaf": "ns29_5",
             "housingLayers": [
@@ -2896,7 +2953,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns34",
             "leaf": "ns30",
             "housingLayers": [
@@ -2930,7 +2987,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns37",
             "leaf": "ns31",
             "housingLayers": [
@@ -2960,7 +3017,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns32",
             "leaf": "ns32_5",
             "housingLayers": [
@@ -2986,7 +3043,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns33",
             "leaf": "ns33_5",
             "housingLayers": [
@@ -3739,10 +3796,12 @@
             "root": "ns141",
             "leaf": "ns143",
             "housingLayers": [
+                0,
                 3,
                 2
             ],
             "housingLyphs": [
+                "n-blad",
                 "K100",
                 "K100"
             ]
@@ -3757,11 +3816,13 @@
             "root": "ns141",
             "leaf": "ns144",
             "housingLayers": [
+                0,
                 3,
                 2,
                 1
             ],
             "housingLyphs": [
+                "n-blad",
                 "K100",
                 "K100",
                 "K100"
@@ -3797,10 +3858,12 @@
             "root": "ns141",
             "leaf": "ns146",
             "housingLayers": [
+                0,
                 3,
                 2
             ],
             "housingLyphs": [
+                "n-blad",
                 "K99",
                 "K99"
             ]
@@ -3815,11 +3878,13 @@
             "root": "ns141",
             "leaf": "ns147",
             "housingLayers": [
+                0,
                 3,
                 2,
                 1
             ],
             "housingLyphs": [
+                "n-blad",
                 "K99",
                 "K99",
                 "K99"
@@ -3843,7 +3908,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "229",
             "root": "ns251",
             "leaf": "ns251_5",
             "housingLayers": [
@@ -3861,12 +3926,12 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns251_5",
             "leaf": "ns252",
             "housingLayers": [
                 0,
-                2,
+                3,
                 2
             ],
             "housingLyphs": [
@@ -3881,12 +3946,12 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns251_5",
             "leaf": "ns253",
             "housingLayers": [
                 0,
-                2,
+                3,
                 2
             ],
             "housingLyphs": [
@@ -3911,8 +3976,9 @@
             "id": "an-img_3",
             "name": "IMG SPO axon chain_Neuron 3 (kblad)",
             "external": [
-                "SAO:1211023249"
+                "SAO:1770195789"
             ],
+            "lyphTemplate": "229",
             "root": "ns301",
             "leaf": "ns302",
             "housingLayers": [
@@ -3932,8 +3998,9 @@
             "id": "an-bn_3",
             "name": "IMG SPO axon chain to bladder neck_Neuron 3 (kblad)",
             "external": [
-                "SAO:1211023249"
+                "SAO:1770195789"
             ],
+            "lyphTemplate": "229bag",
             "root": "ns302",
             "leaf": "ns303",
             "housingLayers": [
@@ -3949,8 +4016,9 @@
             "id": "an-bd_3",
             "name": "IMG SPO axon chain to bladder dome_Neuron 3 (kblad)",
             "external": [
-                "SAO:1211023249"
+                "SAO:1770195789"
             ],
+            "lyphTemplate": "229bag",
             "root": "ns302",
             "leaf": "ns304",
             "housingLayers": [
@@ -3968,7 +4036,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "root-dc-4-K78",
             "leaf": "ns-4-K78",
             "housingLyphs": [
@@ -3981,7 +4049,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "root-dc-4-K79",
             "leaf": "ns-4-K79",
             "housingLyphs": [
@@ -3994,7 +4062,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "root-dc-4-K80",
             "leaf": "ns-4-K80",
             "housingLyphs": [
@@ -4007,7 +4075,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "root-dc-4-K81",
             "leaf": "ns-4-K81",
             "housingLyphs": [
@@ -4020,7 +4088,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "root-dc-4-K82",
             "leaf": "ns-4-K82",
             "housingLyphs": [
@@ -4033,7 +4101,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "root-dc-4-K83",
             "leaf": "ns-4-K83",
             "housingLyphs": [
@@ -4046,7 +4114,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "root-dc-4-K84",
             "leaf": "ns-4-K84",
             "housingLyphs": [
@@ -4059,7 +4127,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "root-dc-4-K85",
             "leaf": "ns-4-K85",
             "housingLyphs": [
@@ -4378,7 +4446,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag2",
             "root": "leafroot-ac-4-n-blad",
             "leaf": "leaf-ac-4-K100",
             "housingLayers": [
@@ -4398,7 +4466,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag2",
             "root": "leafroot-ac-4-n-blad",
             "leaf": "leaf-ac-4-K99",
             "housingLayers": [
@@ -4546,7 +4614,7 @@
         },
         {
             "id": "dc_s1drg_10",
-            "name": "FOS neuron DRG from S1 to pelvic splenic  dendrite chainn_Neuron 10 (kblad)",
+            "name": "FOS neuron DRG from S1 to pelvic splenic  dendrite chain_Neuron 10 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -4769,7 +4837,6 @@
             "leaf": "ns190",
             "housingLayers": [
                 0,
-                0,
                 3,
                 1
             ],
@@ -4827,7 +4894,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns200",
             "leaf": "ns208",
             "housingLayers": [
@@ -4851,7 +4918,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "229",
             "root": "ns201",
             "leaf": "ns202",
             "housingLayers": [
@@ -4959,7 +5026,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns200",
             "leaf": "ns208",
             "housingLayers": [
@@ -4983,7 +5050,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "229",
             "root": "ns210",
             "leaf": "ns211",
             "housingLayers": [
@@ -5066,7 +5133,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns208",
             "leaf": "ns220",
             "housingLayers": [
@@ -5080,7 +5147,7 @@
         },
         {
             "id": "dc-pg_1",
-            "name": "Dentrite chain of PPOG neuron 1 in pelvic ganglia_Neuron 1 (kblad)",
+            "name": "Dentrite chain of PSPO neuron 1 in pelvic ganglia_Neuron 1 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -5093,7 +5160,7 @@
         },
         {
             "id": "ac-pg_1",
-            "name": "Axon chain of PPOG neuron 1 in pelvic ganglia_Neuron 1 (kblad)",
+            "name": "Axon chain of PSPO neuron 1 in pelvic ganglia_Neuron 1 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -5111,7 +5178,7 @@
         },
         {
             "id": "ac_bn2_1",
-            "name": "Axon chain of PPOG neuron 1 bladder neck-layer 2_Neuron 1 (kblad)",
+            "name": "Axon chain of PSPO neuron 1 bladder neck-layer 2_Neuron 1 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -5120,20 +5187,18 @@
             "leaf": "ns263",
             "housingLayers": [
                 0,
-                0,
-                1,
+                3,
                 2
             ],
             "housingLyphs": [
                 "n-blad",
-                "K100",
                 "K100",
                 "K100"
             ]
         },
         {
             "id": "ac_bn1_1",
-            "name": "Axon chain of PPOG neuron 1 bladder neck-layer 1_Neuron 1 (kblad)",
+            "name": "Axon chain of PSPO neuron 1 bladder neck-layer 1_Neuron 1 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -5142,18 +5207,20 @@
             "leaf": "ns264",
             "housingLayers": [
                 0,
-                0,
+                3,
+                2,
                 1
             ],
             "housingLyphs": [
                 "n-blad",
+                "K100",
                 "K100",
                 "K100"
             ]
         },
         {
             "id": "ac_bd2_1",
-            "name": "Axon chain of PPOG neuron 1 bladder dome-layer 2_Neuron 1 (kblad)",
+            "name": "Axon chain of PSPO neuron 1 bladder dome-layer 2_Neuron 1 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -5162,20 +5229,18 @@
             "leaf": "ns265",
             "housingLayers": [
                 0,
-                0,
-                1,
+                3,
                 2
             ],
             "housingLyphs": [
                 "n-blad",
-                "K99",
                 "K99",
                 "K99"
             ]
         },
         {
             "id": "ac_bd1_1",
-            "name": "Axon chain of PPOG neuron 1 bladder dome-layer 1_Neuron 1 (kblad)",
+            "name": "Axon chain of PSPO neuron 1 bladder dome-layer 1_Neuron 1 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -5184,11 +5249,13 @@
             "leaf": "ns266",
             "housingLayers": [
                 0,
-                0,
+                3,
+                2,
                 1
             ],
             "housingLyphs": [
                 "n-blad",
+                "K99",
                 "K99",
                 "K99"
             ]
@@ -5214,61 +5281,6 @@
         {
             "id": "neuron-8",
             "name": "Neuron 8",
-            "lyphs": [
-                "K22",
-                "K63",
-                "K88",
-                "K23",
-                "K64",
-                "K89",
-                "K78",
-                "K70",
-                "K80",
-                "K79",
-                "K71",
-                "K72",
-                "K81",
-                "K73",
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
-            ],
-            "links": [
-                "lnk-snl18",
-                "lnk-snl28"
-            ],
-            "nodes": [
-                "ns24",
-                "ns25",
-                "ns26",
-                "ns27",
-                "ns28",
-                "ns29",
-                "ns30",
-                "ns31",
-                "ns32",
-                "ns33",
-                "ns34",
-                "ns35",
-                "ns36",
-                "ns37",
-                "ns38",
-                "ns39",
-                "ns40",
-                "ns42",
-                "ns41",
-                "ns43",
-                "ns44",
-                "ns45",
-                "ns46",
-                "ns47",
-                "ns48",
-                "ns49"
-            ],
             "publications": [
                 "PMID:1358408"
             ],
@@ -5309,64 +5321,8 @@
         {
             "id": "neuron-4",
             "name": "Neuron 4",
-            "links": [
-                "lnk-sn-sgt12_4",
-                "lnk-sn-sgt13_4",
-                "lnk-sn-sgl1_4",
-                "lnk-sn-sgl2_4",
-                "lnk-sn-sgl3_4",
-                "lnk-sn-sgl4_4",
-                "lnk-sn-sgl5_4",
-                "lnk-sn-sgl6_4"
-            ],
-            "nodes": [
-                "root-dc-4-K78",
-                "dc-4-K78",
-                "root-dc-4-K79",
-                "dc-4-K79",
-                "root-dc-4-K80",
-                "dc-4-K80",
-                "root-dc-4-K81",
-                "dc-4-K81",
-                "root-dc-4-K82",
-                "dc-4-K82",
-                "root-dc-4-K83",
-                "dc-4-K83",
-                "root-dc-4-K84",
-                "dc-4-K84",
-                "root-dc-4-K85",
-                "dc-4-K85",
-                "root-ac-4-K78",
-                "leafroot-ac-4-K85-all",
-                "root-ac-4-K79",
-                "leafroot-ac-4-K85-all",
-                "root-ac-4-K80",
-                "leafroot-ac-4-K85-all",
-                "root-ac-4-K81",
-                "leafroot-ac-4-K85-all",
-                "root-ac-4-K82",
-                "leafroot-ac-4-K85-all",
-                "root-ac-4-K83",
-                "leafroot-ac-4-K85-all",
-                "root-ac-4-K84",
-                "leafroot-ac-4-K85-all",
-                "root-ac-4-K85",
-                "leafroot-ac-4-K85-all",
-                "leafroot-ac-4-K85-all",
-                "leafroot-ac-4-n-lumspl",
-                "leafroot-ac-4-K85-all",
-                "leafroot-ac-4-n-lumspl",
-                "leafroot-ac-4-n-lumspl",
-                "leafroot-ac-4-n-blad",
-                "leafroot-ac-4-n-blad",
-                "leaf-ac-4-K100",
-                "leafroot-ac-4-n-blad",
-                "leaf-ac-4-K99"
-            ],
             "publications": [
                 "PMID:2713886",
-                "PMID:2713886",
-                "PMID:11382385",
                 "PMID:11382385",
                 "PMID:4700666",
                 "PMID:1358408"
@@ -5378,72 +5334,12 @@
         {
             "id": "neuron-11",
             "name": "Neuron 11",
-            "links": [
-                "lnk-sn-drgl1_11",
-                "lnk-an-l113_11",
-                "lnk-an-l112_11",
-                "lnk-an-l111_11",
-                "lnk-an-l18_11",
-                "lnk-an-l16_11",
-                "lnk-an-l12_11",
-                "lnk-an-img_11",
-                "lnk-sn-drgl2_11",
-                "lnk-an-l213_11",
-                "lnk-an-l212_11",
-                "lnk-an-l211_11",
-                "lnk-an-l28_11",
-                "lnk-an-l26_11",
-                "lnk-an-l22_11",
-                "lnk-an-pg_11",
-                "lnk-an-bnl3_11",
-                "lnk-an-bnv_11",
-                "lnk-an-bnl3-2_11",
-                "lnk-an_bnl2_11",
-                "lnk-an-bn3-3_11",
-                "lnk-an-bnl2-2_11",
-                "lnk-an-bnl1_11",
-                "lnk-an-bdl3_11",
-                "lnk-an-bdv_11",
-                "lnk-an-bdl3-2_11",
-                "lnk-an_bdl2_11",
-                "lnk-an-bd3-3_11",
-                "lnk-an-bdl2-2_11",
-                "lnk-an-bdl1_11"
-            ],
-            "nodes": [
-                "ns120",
-                "ns128",
-                "ns130",
-                "ns121",
-                "ns122",
-                "ns123",
-                "ns124",
-                "ns125",
-                "ns126",
-                "ns127",
-                "ns131",
-                "ns132",
-                "ns133",
-                "ns134",
-                "ns135",
-                "ns136",
-                "ns137",
-                "ns141",
-                "ns142",
-                "ns143",
-                "ns144",
-                "ns146",
-                "ns147"
-            ],
             "publications": [
                 "PMID:1619047",
                 "PMID:2713886",
                 "PMID:3558884",
                 "PMID:1619047",
                 "PMID:1358408",
-                "PMID:2713886",
-                "PMID:2713886",
-                "PMID:11382385",
                 "PMID:11382385",
                 "PMID:4700666",
                 "PMID:2891149"
@@ -5455,24 +5351,6 @@
         {
             "id": "neuron-7",
             "name": "Neuron 7",
-            "links": [
-                "lnk-snl17",
-                "lnk-snl27"
-            ],
-            "nodes": [
-                "ns51",
-                "ns52",
-                "ns53",
-                "ns54",
-                "ns55"
-            ],
-            "groups": [
-                "group_dc-snl17",
-                "group_ac-snl17",
-                "group_dc-snl27",
-                "group_ac-snl27",
-                "group_ac-snl1l2"
-            ],
             "publications": [
                 "PMID:3558884",
                 "PMID:1619047",
@@ -5486,18 +5364,6 @@
         {
             "id": "neuron-9",
             "name": "Neuron 9",
-            "links": [
-                "lnk-snl59",
-                "lnk-snl69"
-            ],
-            "nodes": [
-                "ns56",
-                "ns57",
-                "ns58",
-                "ns59",
-                "ns60",
-                "ns61"
-            ],
             "publications": [
                 "PMID:12811806",
                 "PMID:3722467",
@@ -5511,19 +5377,6 @@
         {
             "id": "neuron-5",
             "name": "Neuron 5",
-            "links": [
-                "lnk-snl65",
-                "lnk-sns15"
-            ],
-            "nodes": [
-                "ns62",
-                "ns63",
-                "ns64",
-                "ns65",
-                "ns66",
-                "ns67",
-                "ns68"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-5"
             ]
@@ -5531,40 +5384,9 @@
         {
             "id": "neuron-6",
             "name": "Neuron 6",
-            "lyphs": [
-                "K23",
-                "K23",
-                "K64",
-                "K89",
-                "K81",
-                "K93",
-                "n-lumspl",
-                "K102",
-                "n-hypo",
-                "K104"
-            ],
-            "links": [
-                "lnk-snl16",
-                "lnk-snl26"
-            ],
-            "nodes": [
-                "ns19",
-                "ns20",
-                "ns21",
-                "ns22",
-                "ns23"
-            ],
-            "groups": [
-                "group_dc-snl16",
-                "group_ac-snl16",
-                "group_dc-snl26",
-                "group_ac-snl26",
-                "group_ac-snl1l2"
-            ],
             "publications": [
                 "PMID:3558884",
                 "PMID:1619047",
-                "PMID:1358408",
                 "PMID:1358408",
                 "PMID:3225349",
                 "PMID:2891149",
@@ -5577,33 +5399,8 @@
         {
             "id": "neuron-1",
             "name": "Neuron 1",
-            "links": [
-                "lnk-sn-pg_1",
-                "lnk-an-bn0tobn1_1",
-                "lnk-an-bn1_1",
-                "lnk-an-bn0forbn2_1",
-                "lnk-an-bn1tobn2_1",
-                "lnk-an-bn2_1",
-                "lnk-an-bd0tobd1_1",
-                "lnk-an-bd1_1",
-                "lnk-an-bd0forbd2_1",
-                "lnk-an-bd1tobd2_1",
-                "lnk-an-bd2_1"
-            ],
-            "nodes": [
-                "ns261",
-                "ns261_5",
-                "ns260",
-                "ns262",
-                "ns263",
-                "ns264",
-                "ns265",
-                "ns266"
-            ],
             "publications": [
                 "PMID:2713886",
-                "PMID:2713886",
-                "PMID:11382385",
                 "PMID:11382385",
                 "PMID:4700666"
             ],
@@ -5614,20 +5411,8 @@
         {
             "id": "neuron-2",
             "name": "Neuron 2",
-            "links": [
-                "lnk-sn-pg_2"
-            ],
-            "nodes": [
-                "ns250",
-                "ns251",
-                "ns251_5",
-                "ns252",
-                "ns253"
-            ],
             "publications": [
                 "PMID:2713886",
-                "PMID:2713886",
-                "PMID:11382385",
                 "PMID:11382385",
                 "PMID:4700666"
             ],
@@ -5638,26 +5423,8 @@
         {
             "id": "neuron-3",
             "name": "Neuron 3",
-            "links": [
-                "lnk-sn-img_3",
-                "lnk-an-pg_3",
-                "lnk-an-bn0-3",
-                "lnk-an-bn1_3",
-                "lnk-an-bd0_3",
-                "lnk-an_bd1_3"
-            ],
-            "nodes": [
-                "ns300",
-                "ns301",
-                "ns302",
-                "ns303",
-                "ns304"
-            ],
             "publications": [
                 "PMID:2713886",
-                "PMID:2713886",
-                "PMID:2713886",
-                "PMID:11382385",
                 "PMID:11382385",
                 "PMID:4700666",
                 "PMID:2891149"
@@ -5669,38 +5436,12 @@
         {
             "id": "neuron-10",
             "name": "Neuron 10",
-            "links": [
-                "lnk-sn-drg-l6_10",
-                "lnk-sn-drg-s1_10"
-            ],
-            "nodes": [
-                "ns160",
-                "ns168",
-                "ns161",
-                "ns162",
-                "ns163",
-                "ns164",
-                "ns165",
-                "ns166",
-                "ns167",
-                "ns168",
-                "ns180",
-                "ns181",
-                "ns182",
-                "ns183",
-                "ns190",
-                "ns191",
-                "ns192"
-            ],
             "publications": [
                 "PMID:2713886",
-                "PMID:2713886",
-                "PMID:11382385",
                 "PMID:11382385",
                 "PMID:4700666",
                 "PMID:1619047",
                 "PMID:9442414",
-                "PMID:11382385",
                 "PMID:7174880",
                 "PMID:3722467"
             ],
@@ -5711,29 +5452,6 @@
         {
             "id": "neuron-12",
             "name": "Neuron 12",
-            "links": [
-                "lnk-sn-drg-l6_12",
-                "lnk-sn-drg-s1_12"
-            ],
-            "nodes": [
-                "ns200",
-                "ns208",
-                "ns201",
-                "ns202",
-                "ns203",
-                "ns204",
-                "ns205",
-                "ns206",
-                "ns207",
-                "ns210",
-                "ns211",
-                "ns212",
-                "ns213",
-                "ns214",
-                "ns215",
-                "ns216",
-                "ns220"
-            ],
             "publications": [
                 "PMID:7174880",
                 "PMID:3722467",
@@ -5749,13 +5467,6 @@
         {
             "id": "neuron-13",
             "name": "Neuron 13",
-            "links": [
-                "lnk-soma13"
-            ],
-            "nodes": [
-                "ns5",
-                "ns6"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-13"
             ]
@@ -5763,13 +5474,6 @@
         {
             "id": "neuron-14",
             "name": "Neuron 14",
-            "links": [
-                "lnk-soma14"
-            ],
-            "nodes": [
-                "ns7",
-                "ns8"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-14"
             ]
@@ -5777,13 +5481,6 @@
         {
             "id": "neuron-15",
             "name": "Neuron 15",
-            "links": [
-                "lnk-soma15"
-            ],
-            "nodes": [
-                "ns9",
-                "ns10"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-15"
             ]
@@ -5791,13 +5488,6 @@
         {
             "id": "neuron-16",
             "name": "Neuron 16",
-            "links": [
-                "lnk-soma16"
-            ],
-            "nodes": [
-                "ns3",
-                "ns4"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-16"
             ]
@@ -5805,13 +5495,6 @@
         {
             "id": "neuron-17",
             "name": "Neuron 17",
-            "links": [
-                "lnk-soma17"
-            ],
-            "nodes": [
-                "ns11",
-                "ns12"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-17"
             ]
@@ -5819,13 +5502,6 @@
         {
             "id": "neuron-18",
             "name": "Neuron 18",
-            "links": [
-                "lnk-soma18"
-            ],
-            "nodes": [
-                "ns13",
-                "ns14"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-18"
             ]
@@ -5833,13 +5509,6 @@
         {
             "id": "neuron-19",
             "name": "Neuron 19",
-            "links": [
-                "lnk-soma19"
-            ],
-            "nodes": [
-                "ns1",
-                "ns2"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-19"
             ]
@@ -5847,60 +5516,8 @@
         {
             "id": "neuron-20",
             "name": "Neuron 20",
-            "links": [
-                "lnk-soma20"
-            ],
-            "nodes": [
-                "ns15",
-                "ns15_5"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-20"
-            ]
-        },
-        {
-            "id": "nerves",
-            "name": "Nerves",
-            "links": [
-                "lnk-sn-hypo_11",
-                "lnk-sn-hypo-3",
-                "lnk-sn-blad_3",
-                "lnk-sn-blad2_3",
-                "lnk-sn-blad-bn_11",
-                "lnk-sn-blad-bn2_11",
-                "lnk-sn-blad-bn3_11",
-                "lnk-sn-blad-bd_11",
-                "lnk-sn-blad-bd2_11",
-                "lnk-sn-blad-bd3_11",
-                "lnk-sn-blad-bn_1",
-                "lnk-sn-blad-bn2_1",
-                "lnk-sn-blad-bd_1",
-                "lnk-sn-blad-bd2_1",
-                "lnk-sn-lumspl_11"
-            ],
-            "nodes": [
-                "ns141",
-                "ns142",
-                "ns301",
-                "ns302",
-                "ns303",
-                "ns305",
-                "ns143",
-                "ns145",
-                "ns147",
-                "ns150",
-                "ns152",
-                "ns154",
-                "ns98",
-                "ns97",
-                "ns99",
-                "ns180",
-                "ns181",
-                "ns183",
-                "ns185",
-                "ns190",
-                "ns193",
-                "ns195"
             ]
         }
     ],
@@ -5955,5 +5572,5 @@
         }
     ],
     "id": "keast-bladder",
-    "name": "Keast Bladder Model"
+    "name": "Keast ApiNATOMY model of bladder innervation"
 }
