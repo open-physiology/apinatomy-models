@@ -485,101 +485,115 @@
         },
         {
             "id": "soma_dn_1",
-            "name": "Soma in parabrachial nucleus_Neuron 1",
+            "name": "Soma in parabrachial nucleus_Neuron 1 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-1"
         },
         {
             "id": "soma_in_2",
-            "name": "Soma in insula_Neuron 2",
+            "name": "Soma in insula_Neuron 2 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-2"
         },
         {
             "id": "soma_in_3",
-            "name": "Soma in insula_Neuron 3",
+            "name": "Soma in insula_Neuron 3 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-3"
         },
         {
             "id": "soma_nts_4",
-            "name": "Soma in nucleus of the solitary tract_Neuron 4",
+            "name": "Soma in nucleus of the solitary tract_Neuron 4 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-4"
         },
         {
             "id": "soma_ng_5",
-            "name": "Soma in nodose ganglia_Neuron 5",
+            "name": "Soma in nodose ganglia_Neuron 5 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-5"
         },
         {
             "id": "soma_nts_6",
-            "name": "Soma in nucleus of the solitary tract_Neuron 6",
+            "name": "Soma in nucleus of the solitary tract_Neuron 6 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-6"
         },
         {
             "id": "soma_dmv_7",
-            "name": "Soma in dorsal motor nucleus of the vagus_Neuron 7",
+            "name": "Soma in dorsal motor nucleus of the vagus_Neuron 7 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-7"
         },
         {
             "id": "soma_dmv_8",
-            "name": "Soma in dorsal motor nucleus of the vagus_Neuron 8",
+            "name": "Soma in dorsal motor nucleus of the vagus_Neuron 8 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-8"
         },
         {
             "id": "soma_dmv_9",
-            "name": "Soma in dorsal motor nucleus of the vagus_Neuron 9",
+            "name": "Soma in dorsal motor nucleus of the vagus_Neuron 9 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-9"
         },
         {
             "id": "soma_dmv_10",
-            "name": "Soma in dorsal motor nucleus of the vagus_Neuron 10",
+            "name": "Soma in dorsal motor nucleus of the vagus_Neuron 10 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-10"
         },
         {
             "id": "soma_mp_11",
-            "name": "Soma in myenteric plexus in the distal stomach_Neuron 11",
+            "name": "Soma in myenteric plexus in the distal stomach_Neuron 11 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-11"
         },
         {
             "id": "soma_mp_12",
-            "name": "Soma in myenteric plexus in the distal stomach_Neuron 12",
+            "name": "Soma in myenteric plexus in the distal stomach_Neuron 12 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-12"
         },
         {
             "id": "soma_mp_13",
-            "name": "Soma in myenteric plexus in the proximal stomach_Neuron 13",
+            "name": "Soma in myenteric plexus in the proximal stomach_Neuron 13 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-13"
         },
         {
             "id": "soma_mp_14",
-            "name": "Soma in myenteric plexus in the proximal stomach_Neuron 14",
+            "name": "Soma in myenteric plexus in the proximal stomach_Neuron 14 (sto)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-14"
         }
     ],
     "materials": [
@@ -776,7 +790,7 @@
     "chains": [
         {
             "id": "dc_1",
-            "name": "Dendrite chain in the parabrachial nucleus _Neuron 1",
+            "name": "Dendrite chain in the parabrachial nucleus _Neuron 1 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -789,7 +803,7 @@
         },
         {
             "id": "ac_1",
-            "name": "Axon chain in the parabrachial nucleus_Neuron 1",
+            "name": "Axon chain in the parabrachial nucleus_Neuron 1 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -803,7 +817,7 @@
         },
         {
             "id": "dc_2",
-            "name": "Dendrite chain in the insula_Neuron 2",
+            "name": "Dendrite chain in the insula_Neuron 2 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -816,7 +830,7 @@
         },
         {
             "id": "ac_2",
-            "name": "Axon chain in the insula _Neuron 2",
+            "name": "Axon chain in the insula _Neuron 2 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -830,7 +844,7 @@
         },
         {
             "id": "dc_3",
-            "name": "Dendrite chain in the insula_Neuron 3",
+            "name": "Dendrite chain in the insula_Neuron 3 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -843,7 +857,7 @@
         },
         {
             "id": "ac_3",
-            "name": "Axon chain in the insula_Neuron 3",
+            "name": "Axon chain in the insula_Neuron 3 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -857,7 +871,7 @@
         },
         {
             "id": "dc_4",
-            "name": "Dendrite chain in the nucleus of the solitary tract_Neuron 4",
+            "name": "Dendrite chain in the nucleus of the solitary tract_Neuron 4 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -870,7 +884,7 @@
         },
         {
             "id": "ac_4",
-            "name": "Axon chain in the nucleus of the solitary tract_Neuron 4",
+            "name": "Axon chain in the nucleus of the solitary tract_Neuron 4 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -884,7 +898,7 @@
         },
         {
             "id": "dc_5",
-            "name": "Dendrite chain in the nodose ganglia_Neuron 5",
+            "name": "Dendrite chain in the nodose ganglia_Neuron 5 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -897,7 +911,7 @@
         },
         {
             "id": "ac_5a",
-            "name": "Axon chain in the nodose ganglia to nts_Neuron 5",
+            "name": "Axon chain in the nodose ganglia to nts_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -911,7 +925,7 @@
         },
         {
             "id": "ac_vag5b",
-            "name": "Axon chain in the nodose ganglia to vagus_Neuron 5",
+            "name": "Axon chain in the nodose ganglia to vagus_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -925,11 +939,11 @@
         },
         {
             "id": "ac_lm5b_ds",
-            "name": "Axon chain in the vagus to distal stomach_long muscle_Neuron 5",
+            "name": "Axon chain in the vagus to distal stomach_long muscle_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns22",
             "housingLayers": [
@@ -945,11 +959,11 @@
         },
         {
             "id": "ac_mp5b_ds",
-            "name": "Axon chain in the vagus to distal stomach_myenteric plexus_Neuron 5",
+            "name": "Axon chain in the vagus to distal stomach_myenteric plexus_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns23",
             "housingLayers": [
@@ -967,11 +981,11 @@
         },
         {
             "id": "ac_cm5b_ds",
-            "name": "Axon chain in the vagus to distal stomach_cir muscle_Neuron 5",
+            "name": "Axon chain in the vagus to distal stomach_cir muscle_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns24",
             "housingLayers": [
@@ -991,11 +1005,11 @@
         },
         {
             "id": "ac_muc5b_ds",
-            "name": "Axon chain in the vagus to distal stomach_mucosa_Neuron 5",
+            "name": "Axon chain in the vagus to distal stomach_mucosa_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns25",
             "housingLayers": [
@@ -1023,11 +1037,11 @@
         },
         {
             "id": "ac_lm5b_ps",
-            "name": "Axon chain in the vagus to proximal stomach_long muscle_Neuron 5",
+            "name": "Axon chain in the vagus to proximal stomach_long muscle_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns26",
             "housingLayers": [
@@ -1043,11 +1057,11 @@
         },
         {
             "id": "ac_mp5b_ps",
-            "name": "Axon chain in the vagus to proximal stomach_myenteric plexus_Neuron 5",
+            "name": "Axon chain in the vagus to proximal stomach_myenteric plexus_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns27",
             "housingLayers": [
@@ -1065,11 +1079,11 @@
         },
         {
             "id": "ac_cm5b_ps",
-            "name": "Axon chain in the vagus to proximal stomach_cir muscle_Neuron 5",
+            "name": "Axon chain in the vagus to proximal stomach_cir muscle_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns28",
             "housingLayers": [
@@ -1089,11 +1103,11 @@
         },
         {
             "id": "ac_muc5b_ps",
-            "name": "Axon chain in the vagus to proximal  stomach_mucosa_Neuron 5",
+            "name": "Axon chain in the vagus to proximal  stomach_mucosa_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns29",
             "housingLayers": [
@@ -1121,11 +1135,11 @@
         },
         {
             "id": "ac_lm5b_le",
-            "name": "Axon chain in the vagus to lower esophagus_long muscle_Neuron 5",
+            "name": "Axon chain in the vagus to lower esophagus_long muscle_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns30",
             "housingLayers": [
@@ -1141,11 +1155,11 @@
         },
         {
             "id": "ac_cm5b_le",
-            "name": "Axon chain in the vagus to lower esophagus_cir muscle_Neuron 5",
+            "name": "Axon chain in the vagus to lower esophagus_cir muscle_Neuron 5 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns21",
             "leaf": "ns31",
             "housingLayers": [
@@ -1165,7 +1179,7 @@
         },
         {
             "id": "dc_6",
-            "name": "Dendrite chain in the nucleus of the solitary tract_Neuron 6",
+            "name": "Dendrite chain in the nucleus of the solitary tract_Neuron 6 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1178,11 +1192,11 @@
         },
         {
             "id": "ac_6",
-            "name": "Axon chain in the nucleus of the solitary tract_Neuron 6",
+            "name": "Axon chain in the nucleus of the solitary tract_Neuron 6 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns34",
             "leaf": "ns35",
             "housingLayers": [
@@ -1196,7 +1210,7 @@
         },
         {
             "id": "dc_7",
-            "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 7",
+            "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 7 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1209,11 +1223,11 @@
         },
         {
             "id": "ac_7",
-            "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 7",
+            "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 7 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns38",
             "leaf": "ns39",
             "housingLayers": [
@@ -1234,7 +1248,7 @@
         },
         {
             "id": "dc_8",
-            "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 8",
+            "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 8 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1247,11 +1261,11 @@
         },
         {
             "id": "ac_8",
-            "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 8",
+            "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 8 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns42",
             "leaf": "ns43",
             "housingLayers": [
@@ -1272,7 +1286,7 @@
         },
         {
             "id": "dc_9",
-            "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 9",
+            "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 9 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1285,11 +1299,11 @@
         },
         {
             "id": "ac_9",
-            "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 9",
+            "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 9 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns46",
             "leaf": "ns47",
             "housingLayers": [
@@ -1309,7 +1323,7 @@
         },
         {
             "id": "dc_10",
-            "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 10",
+            "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 10 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1322,11 +1336,11 @@
         },
         {
             "id": "ac_10",
-            "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 10",
+            "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 10 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns50",
             "leaf": "ns51",
             "housingLayers": [
@@ -1346,11 +1360,11 @@
         },
         {
             "id": "dc_11",
-            "name": "Dendrite chain in the myenteric plexus in the distal stomach_Neuron 11",
+            "name": "Dendrite chain in the myenteric plexus in the distal stomach_Neuron 11 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns52",
             "leaf": "ns53",
             "housingLayers": [
@@ -1362,7 +1376,7 @@
         },
         {
             "id": "ac_11_lm",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to longitudinal muscle_Neuron 11",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to longitudinal muscle_Neuron 11 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1380,11 +1394,11 @@
         },
         {
             "id": "ac_11_cm",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle_Neuron 11",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle_Neuron 11 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns54",
             "leaf": "ns56",
             "housingLayers": [
@@ -1398,11 +1412,11 @@
         },
         {
             "id": "ac_11_muc",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to mucosa muscle_Neuron 11",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to mucosa muscle_Neuron 11 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns54",
             "leaf": "ns57",
             "housingLayers": [
@@ -1424,7 +1438,7 @@
         },
         {
             "id": "dc_12",
-            "name": "Dendrite chain in the myenteric plexus in the distal stomach_Neuron 12",
+            "name": "Dendrite chain in the myenteric plexus in the distal stomach_Neuron 12 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1440,11 +1454,11 @@
         },
         {
             "id": "ac_12_lm",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to longitudinal muscle_Neuron 12",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to longitudinal muscle_Neuron 12 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns60",
             "leaf": "ns61",
             "housingLayers": [
@@ -1458,11 +1472,11 @@
         },
         {
             "id": "ac_12",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle_Neuron 12",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle_Neuron 12 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns60",
             "leaf": "ns62",
             "housingLayers": [
@@ -1476,7 +1490,7 @@
         },
         {
             "id": "ac_12br",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch_Neuron 12",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch_Neuron 12 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1494,11 +1508,11 @@
         },
         {
             "id": "ac_12br_pc",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to parietal cell in mucosa_Neuron 12",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to parietal cell in mucosa_Neuron 12 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns63",
             "leaf": "ns64",
             "housingLayers": [
@@ -1518,11 +1532,11 @@
         },
         {
             "id": "ac_12br_cc",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to chief cell in mucosa_Neuron 12",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to chief cell in mucosa_Neuron 12 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns63",
             "leaf": "ns65",
             "housingLayers": [
@@ -1542,11 +1556,11 @@
         },
         {
             "id": "ac_12br_en",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to entreendocrine cell in mucosa_Neuron 12",
+            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to entreendocrine cell in mucosa_Neuron 12 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns63",
             "leaf": "ns66",
             "housingLayers": [
@@ -1566,11 +1580,11 @@
         },
         {
             "id": "dc_13",
-            "name": "Dendrite chain in the myenteric plexus in the proximal stomach_Neuron 13",
+            "name": "Dendrite chain in the myenteric plexus in the proximal stomach_Neuron 13 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns67",
             "leaf": "ns68",
             "housingLayers": [
@@ -1582,7 +1596,7 @@
         },
         {
             "id": "ac_13br",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle-branch_Neuron 13",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle-branch_Neuron 13 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1600,11 +1614,11 @@
         },
         {
             "id": "ac_13br_icc",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to ICC -branch_Neuron 13",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to ICC -branch_Neuron 13 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns70",
             "leaf": "ns71",
             "housingLayers": [
@@ -1616,11 +1630,11 @@
         },
         {
             "id": "ac_13br_pdgfr",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to PGDFR -branch_Neuron 13",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to PGDFR -branch_Neuron 13 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns70",
             "leaf": "ns72",
             "housingLayers": [
@@ -1632,11 +1646,11 @@
         },
         {
             "id": "ac_13br_sm",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to smooth muscle -branch_Neuron 13",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to smooth muscle -branch_Neuron 13 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns70",
             "leaf": "ns73",
             "housingLayers": [
@@ -1648,11 +1662,10 @@
         },
         {
             "id": "ac_13br_c",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle-branch_Neuron 13",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle-branch_Neuron 13 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
             "root": "ns69",
             "leaf": "ns74",
             "housingLayers": [
@@ -1666,11 +1679,11 @@
         },
         {
             "id": "ac_13br_icc_c",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to ICC -branch_Neuron 13",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to ICC -branch_Neuron 13 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns74",
             "leaf": "ns75",
             "housingLayers": [
@@ -1682,11 +1695,11 @@
         },
         {
             "id": "ac_13br_pdgfr_c",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to PGDFR -branch_Neuron 13",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to PGDFR -branch_Neuron 13 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns74",
             "leaf": "ns76",
             "housingLayers": [
@@ -1698,11 +1711,11 @@
         },
         {
             "id": "ac_13br_sm_c",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to smooth muscle -branch_Neuron 13",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to smooth muscle -branch_Neuron 13 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns74",
             "leaf": "ns77",
             "housingLayers": [
@@ -1714,7 +1727,7 @@
         },
         {
             "id": "dc_14",
-            "name": "Dendrite chain in myenteric plexus in the proximal stomach_Neuron 14",
+            "name": "Dendrite chain in myenteric plexus in the proximal stomach_Neuron 14 (sto)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1730,11 +1743,11 @@
         },
         {
             "id": "ac_14_lm",
-            "name": "Axon chain in myenteric plexus in the proximal stomach to longitudinal muscle_Neuron 14",
+            "name": "Axon chain in myenteric plexus in the proximal stomach to longitudinal muscle_Neuron 14 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns80",
             "leaf": "ns81",
             "housingLayers": [
@@ -1748,11 +1761,11 @@
         },
         {
             "id": "ac_14_cm",
-            "name": "Axon chain in myenteric plexus in the proximal stomach to circular muscle_Neuron 14",
+            "name": "Axon chain in myenteric plexus in the proximal stomach to circular muscle_Neuron 14 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns80",
             "leaf": "ns82",
             "housingLayers": [
@@ -1766,11 +1779,10 @@
         },
         {
             "id": "ac-14br",
-            "name": "Axon chain in myenteric plexus in the proximal stomach to mucosa-branch_Neuron 14",
+            "name": "Axon chain in myenteric plexus in the proximal stomach to mucosa-branch_Neuron 14 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
             "root": "ns80",
             "leaf": "ns83",
             "housingLayers": [
@@ -1784,11 +1796,10 @@
         },
         {
             "id": "ac_14_br-m",
-            "name": "Axon chain in myenteric plexus in the proximal stomach to mucosa-parietal_Neuron 14",
+            "name": "Axon chain in myenteric plexus in the proximal stomach to mucosa-parietal_Neuron 14 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
             "root": "ns83",
             "leaf": "ns84",
             "housingLayers": [
@@ -1806,11 +1817,11 @@
         },
         {
             "id": "ac_14_br-cm",
-            "name": "Axon chain in myenteric plexus in the proximal stomach to mucosachief_Neuron 14",
+            "name": "Axon chain in myenteric plexus in the proximal stomach to mucosachief_Neuron 14 (sto)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns83",
             "leaf": "ns85",
             "housingLayers": [
@@ -1829,91 +1840,99 @@
     ],
     "groups": [
         {
-            "id": "neuron1",
+            "id": "neuron-1",
+            "name": "Neuron 1",
             "links": [
                 "lnk-soma_dn_1"
-            ],
-            "nodes": [
-                "ns1",
-                "ns2",
-                "ns3",
-                "ns4"
             ]
         },
         {
-            "id": "neuron2",
+            "id": "neuron-2",
+            "name": "Neuron 2",
             "links": [
                 "lnk-soma_in_2"
             ]
         },
         {
-            "id": "neuron3",
+            "id": "neuron-3",
+            "name": "Neuron 3",
             "links": [
                 "lnk-soma_in_3"
             ]
         },
         {
-            "id": "neuron4",
+            "id": "neuron-4",
+            "name": "Neuron 4",
             "links": [
                 "lnk-soma_nts_4"
             ]
         },
         {
-            "id": "neuron5",
+            "id": "neuron-5",
+            "name": "Neuron 5",
             "links": [
                 "lnk-soma_ng_5"
             ]
         },
         {
-            "id": "neuron6",
+            "id": "neuron-6",
+            "name": "Neuron 6",
             "links": [
                 "lnk-soma_nts_6"
             ]
         },
         {
-            "id": "neuron7",
+            "id": "neuron-7",
+            "name": "Neuron 7",
             "links": [
                 "lnk-soma_dmv_7"
             ]
         },
         {
-            "id": "neuron8",
+            "id": "neuron-8",
+            "name": "Neuron 8",
             "links": [
                 "lnk-soma_dmv_8"
             ]
         },
         {
-            "id": "neuron9",
+            "id": "neuron-9",
+            "name": "Neuron 9",
             "links": [
                 "lnk-soma_dmv_9"
             ]
         },
         {
-            "id": "neuron10",
+            "id": "neuron-10",
+            "name": "Neuron 10",
             "links": [
                 "lnk-soma_dmv_10"
             ]
         },
         {
-            "id": "neuron11",
+            "id": "neuron-11",
+            "name": "Neuron 11",
             "links": [
                 "lnk-soma_mp_11"
             ]
         },
         {
-            "id": "neuron12",
+            "id": "neuron-12",
+            "name": "Neuron 12",
             "links": [
                 "lnk-soma_mp_12"
             ]
         },
         {
-            "id": "neuron13",
+            "id": "neuron-13",
+            "name": "Neuron 13",
             "links": [
                 "lnk-soma_mp_13"
             ]
         },
         {
-            "id": "neuron14",
+            "id": "neuron-14",
+            "name": "Neuron 14",
             "links": [
                 "lnk-soma_mp_14"
             ]
@@ -1963,6 +1982,14 @@
         {
             "prefix": "NCBITaxon",
             "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        },
+        {
+            "prefix": "NCIT",
+            "namespace": "http://purl.obolibrary.org/obo/NCIT_"
+        },
+        {
+            "prefix": "XAO",
+            "namespace": "http://purl.obolibrary.org/obo/XAO_"
         }
     ],
     "id": "sawg-stomach",

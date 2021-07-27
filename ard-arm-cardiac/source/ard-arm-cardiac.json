@@ -866,6 +866,12 @@
             "name": "Cerebrum (acard)",
             "external": [
                 "UBERON:0001869"
+            ],
+            "internalLyphs": [
+                "A65"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -901,6 +907,16 @@
             "name": "Medulla (acard)",
             "external": [
                 "FMA:61108"
+            ],
+            "internalLyphs": [
+                "A72",
+                "A71",
+                "A70"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                0
             ]
         },
         {
@@ -957,6 +973,22 @@
             "name": "Heart (acard)",
             "external": [
                 "UBERON:0000948"
+            ],
+            "internalLyphs": [
+                "A80",
+                "A81",
+                "A75",
+                "A76",
+                "A77",
+                "A78"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                5,
+                5,
+                5,
+                5
             ],
             "layers": [
                 "A91",
@@ -1206,23 +1238,25 @@
         },
         {
             "id": "sn-nts_1",
-            "name": "Soma of sensory neuron in Nucleus Tractus Soltarius (acard)",
+            "name": "Soma of sensory neuron in Nucleus Tractus Soltarius_Neuron 1 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-1"
         },
         {
             "id": "sn-mcg_2",
-            "name": "Soma of local circuit neuron in middle cervical ganglion_2 (acard)",
+            "name": "Soma of local circuit neuron in middle cervical ganglion_Neuron 2 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-2"
         },
         {
             "id": "sn-icg_2",
-            "name": "Soma of local circuit neuron in inferior cervical ganglion_2 (acard)",
+            "name": "Soma of local circuit neuron in inferior cervical ganglion_Neuron 2 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1230,15 +1264,16 @@
         },
         {
             "id": "snna_4",
-            "name": "Soma of PSPG neuron in Nucleus Ambiguus (acard)",
+            "name": "Soma of PSPG neuron in Nucleus Ambiguus_Neuron 4 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-4"
         },
         {
             "id": "snmv_4",
-            "name": "Soma of PSPG neuron in dorsal motor vagus (acard)",
+            "name": "Soma of PSPG neuron in dorsal motor vagus_Neuron 4 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1250,7 +1285,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-5"
         },
         {
             "id": "sn-t2_5",
@@ -1278,7 +1314,7 @@
         },
         {
             "id": "sn-t5_5",
-            "name": "Soma of SPrG neuron in T5 layer 6_5 (acard)",
+            "name": "Soma of SPrG neuron in T5 layer 6_Neuron 5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1286,7 +1322,7 @@
         },
         {
             "id": "sn-t6_5",
-            "name": "Soma of SPrG neuron in T6 layer 6_5 (acard)",
+            "name": "Soma of SPrG neuron in T6 layer 6_Neuron 5 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1294,15 +1330,16 @@
         },
         {
             "id": "sn-sgt1_6",
-            "name": "Soma of SPoG neuron in T1 sympathetic ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in T1 sympathetic ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-6"
         },
         {
             "id": "sn-sgt2_6",
-            "name": "Soma of SPoG neuron in T2 sympathetic ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in T2 sympathetic ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1310,7 +1347,7 @@
         },
         {
             "id": "sn-sgt3_6",
-            "name": "Soma of SPoG neuron in T3 sympathetic ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in T3 sympathetic ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1318,7 +1355,7 @@
         },
         {
             "id": "sn-sgt4_6",
-            "name": "Soma of SPoG neuron in T4 sympathetic ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in T4 sympathetic ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1326,7 +1363,7 @@
         },
         {
             "id": "sn-sgt5_6",
-            "name": "Soma of SPoG neuron in T5 sympathetic ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in T5 sympathetic ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1334,7 +1371,7 @@
         },
         {
             "id": "sn-sgt6_6",
-            "name": "Soma of SPoG neuron in T6 sympathetic ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in T6 sympathetic ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1342,7 +1379,7 @@
         },
         {
             "id": "sn-icg_6",
-            "name": "Soma of SPoG neuron in inferior cervical ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in inferior cervical ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1350,7 +1387,7 @@
         },
         {
             "id": "sn-mcg_6",
-            "name": "Soma of SPoG neuron in middle cervical ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in middle cervical ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1358,7 +1395,7 @@
         },
         {
             "id": "sn-scg_6",
-            "name": "Soma of SPoG neuron in superior cervical ganglion_6 (acard)",
+            "name": "Soma of SPoG neuron in superior cervical ganglion_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1366,7 +1403,7 @@
         },
         {
             "id": "sn-med_6",
-            "name": "Soma of SPoG neuron in mediastinal_6 (acard)",
+            "name": "Soma of SPoG neuron in mediastinal_Neuron 6 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1374,15 +1411,16 @@
         },
         {
             "id": "sn-aicg_7",
-            "name": "Soma PPoG neuron in arterial ICG_7 (acard)",
+            "name": "Soma PPoG neuron in arterial ICG_Neuron 7 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-7"
         },
         {
             "id": "sn-vicg_7",
-            "name": "Soma PPoG neuron in ventricular ICG_7 (acard)",
+            "name": "Soma PPoG neuron in ventricular ICG_Neuron 7 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1390,15 +1428,16 @@
         },
         {
             "id": "sn-aicg_8",
-            "name": "Soma PPoG neuron in arterial ICG_8 (acard)",
+            "name": "Soma PPoG neuron in arterial ICG_Neuron 8 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-8"
         },
         {
             "id": "sn-vicg_8",
-            "name": "Soma PPoG neuron in ventricular ICG_8 (acard)",
+            "name": "Soma PPoG neuron in ventricular ICG_Neuron 8 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1406,15 +1445,16 @@
         },
         {
             "id": "sn-aicg_9",
-            "name": "Soma PPoG neuron in arterial ICG_9 (acard)",
+            "name": "Soma PPoG neuron in arterial ICG_Neuron 9 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-9"
         },
         {
             "id": "sn-vicg_9",
-            "name": "Soma PPoG neuron in ventricular ICG_9 (acard)",
+            "name": "Soma PPoG neuron in ventricular ICG_Neuron 9 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1422,15 +1462,16 @@
         },
         {
             "id": "sn-aicg_10",
-            "name": "Soma LCN in in arterial ICG_10 (acard)",
+            "name": "Soma LCN in in arterial ICG_Neuron 10 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-10"
         },
         {
             "id": "sn-vicg_10",
-            "name": "Soma in LCN in in ventricular ICG_10 (acard)",
+            "name": "Soma in LCN in in ventricular ICG_Neuron 10 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1438,23 +1479,25 @@
         },
         {
             "id": "sn-ng_11",
-            "name": "Soma in sensory neuron in nodose ganglia_11 (acard)",
+            "name": "Soma in sensory neuron in nodose ganglia_Neuron 11 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-11"
         },
         {
             "id": "sn-mcg_12",
-            "name": "Soma of sensory neuron in middle cervical ganglion_12 (acard)",
+            "name": "Soma of sensory neuron in middle cervical ganglion_Neuron 12 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-12"
         },
         {
             "id": "sn-icg_12",
-            "name": "Soma of sensory neuron in inferior cervical ganglion_12 (acard)",
+            "name": "Soma of sensory neuron in inferior cervical ganglion_Neuron 12 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1462,15 +1505,16 @@
         },
         {
             "id": "sn-c6drg_13",
-            "name": "Soma of sensory neuron in C6 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in C6 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "seedIn": "neuron-13"
         },
         {
             "id": "sn-c7drg_13",
-            "name": "Soma of sensory neuron in C7 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in C7 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1478,7 +1522,7 @@
         },
         {
             "id": "sn-c8drg_13",
-            "name": "Soma of sensory neuron in C8 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in C8 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1486,7 +1530,7 @@
         },
         {
             "id": "sn-t1drg_13",
-            "name": "Soma of sensory neuron in T1 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in T1 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1494,7 +1538,7 @@
         },
         {
             "id": "sn-t2drg_13",
-            "name": "Soma of sensory neuron in T2 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in T2 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1502,7 +1546,7 @@
         },
         {
             "id": "sn-t3drg_13",
-            "name": "Soma of sensory neuron in T3 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in T3 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1510,7 +1554,7 @@
         },
         {
             "id": "sn-t4drg_13",
-            "name": "Soma of sensory neuron in T4 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in T4 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1518,7 +1562,7 @@
         },
         {
             "id": "sn-t5drg_13",
-            "name": "Soma of sensory neuron in T5 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in T5 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1526,7 +1570,7 @@
         },
         {
             "id": "sn-t6drg_13",
-            "name": "Soma of sensory neuron in T6 dorsal root ganglia_13 (acard)",
+            "name": "Soma of sensory neuron in T6 dorsal root ganglia_Neuron 13 (acard)",
             "external": [
                 "NLX:154731"
             ],
@@ -1953,7 +1997,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns2",
             "leaf": "ns3",
             "housingLayers": [
@@ -1993,7 +2037,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns6",
             "leaf": "ns7",
             "housingLyphs": [
@@ -2018,7 +2062,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns9",
             "leaf": "ns10",
             "housingLyphs": [
@@ -2091,7 +2135,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns13",
             "leaf": "ns16",
             "housingLayers": [
@@ -2111,7 +2155,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns13",
             "leaf": "ns17",
             "housingLayers": [
@@ -3334,7 +3378,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns122",
             "leaf": "ns123",
             "housingLayers": [
@@ -3352,7 +3396,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns122",
             "leaf": "ns124",
             "housingLayers": [
@@ -3404,7 +3448,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns127",
             "leaf": "ns128",
             "housingLayers": [
@@ -3422,7 +3466,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns127",
             "leaf": "ns129",
             "housingLayers": [
@@ -3474,8 +3518,8 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
-            "root": "ns130",
+            "lyphTemplate": "229bag",
+            "root": "ns132",
             "leaf": "ns133",
             "housingLyphs": [
                 "A80"
@@ -3487,7 +3531,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns132",
             "leaf": "ns134",
             "housingLayers": [
@@ -3505,7 +3549,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns132",
             "leaf": "ns135",
             "housingLayers": [
@@ -3557,8 +3601,8 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
-            "root": "ns140",
+            "lyphTemplate": "229bag",
+            "root": "ns141",
             "leaf": "ns143",
             "housingLyphs": [
                 "A81"
@@ -3570,7 +3614,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns143",
             "leaf": "ns144",
             "housingLayers": [
@@ -3588,7 +3632,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns143",
             "leaf": "ns145",
             "housingLayers": [
@@ -3610,6 +3654,7 @@
             ],
             "lyphTemplate": "229bag",
             "root": "ns150",
+            "leaf": "150_5",
             "housingLyphs": [
                 "A80"
             ]
@@ -3660,25 +3705,23 @@
             ],
             "lyphTemplate": "229bag",
             "root": "ns160",
-            "housingLyphs": [
-                "A73"
-            ]
-        },
-        {
-            "id": "ac-sn-ng_11",
-            "name": "Axon in the nodose ganglia to heart split_Neuron 11 (acard)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "229",
-            "root": "ns161",
             "leaf": "ns162",
             "housingLayers": [
                 0,
+                0,
+                1,
+                2,
+                3,
+                4,
                 5
             ],
             "housingLyphs": [
                 "A73",
+                "A74",
+                "A74",
+                "A74",
+                "A74",
+                "A74",
                 "A74"
             ]
         },
@@ -3689,7 +3732,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "229",
-            "root": "ns160",
+            "root": "ns161",
             "leaf": "ns163",
             "housingLayers": [
                 0,
@@ -3704,9 +3747,9 @@
         },
         {
             "id": "ac-sn-la_11",
-            "name": "Axon from heart_layer 5 to heartla_Neuron 11 (acard)",
+            "name": "Dendrite from heart_layer 5 to heartla2_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229",
             "root": "ns162",
@@ -3720,11 +3763,11 @@
         },
         {
             "id": "ac-sn-la2_11",
-            "name": "Axon from heart_layer 5 to heartla2_Neuron 11 (acard)",
+            "name": "Dendrite from heart_layer 5 to area around left atrium_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns164",
             "leaf": "ns165",
             "housingLayers": [
@@ -3736,12 +3779,12 @@
         },
         {
             "id": "ac-sn-la0_11",
-            "name": "Axon from heart to left atrium_layer 0_Neuron 11 (acard)",
+            "name": "Dendrite from heart to left atrium_layer 0_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
-            "root": "ns165",
+            "lyphTemplate": "229bag",
+            "root": "ns164",
             "leaf": "ns166",
             "housingLayers": [
                 5,
@@ -3754,12 +3797,12 @@
         },
         {
             "id": "ac-sn-la1_11",
-            "name": "Axon from heart to left atrium_layer 1_Neuron 11 (acard)",
+            "name": "Dendrite from heart to left atrium_layer 1_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
-            "root": "ns165",
+            "lyphTemplate": "229bag",
+            "root": "ns164",
             "leaf": "ns167",
             "housingLayers": [
                 5,
@@ -3774,28 +3817,12 @@
         },
         {
             "id": "ac-sn-lv_11",
-            "name": "Axon from heart_layer 5 to heartlv_Neuron 11 (acard)",
+            "name": "Dendrite from heart_layer 5 of heart to left ventricle and aorta_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229",
-            "root": "ns162",
-            "leaf": "ns167",
-            "housingLayers": [
-                5
-            ],
-            "housingLyphs": [
-                "A74"
-            ]
-        },
-        {
-            "id": "ac-sn-lv2_11",
-            "name": "Axon from heart_layer 5 to heartlv2_Neuron 11 (acard)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "229",
-            "root": "ns167",
+            "root": "ns164",
             "leaf": "ns168",
             "housingLayers": [
                 5
@@ -3805,14 +3832,30 @@
             ]
         },
         {
-            "id": "ac-sn-lv0_11",
-            "name": "Axon from heart to left ventricle_layer 0_Neuron 11 (acard)",
+            "id": "ac-sn-lv2_11",
+            "name": "Dendrite from heart_layer 5 to heartlv2_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229",
-            "root": "ns167",
+            "root": "ns168",
             "leaf": "ns169",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "A74"
+            ]
+        },
+        {
+            "id": "ac-sn-lv0_11",
+            "name": "Dendrite from heart to left ventricle_layer 0_Neuron 11 (acard)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "229bag",
+            "root": "ns169",
+            "leaf": "ns169_1",
             "housingLayers": [
                 5,
                 0
@@ -3824,13 +3867,13 @@
         },
         {
             "id": "ac-sn-lv1_11",
-            "name": "Axon from heart to left ventricle_layer 1_Neuron 11 (acard)",
+            "name": "Dendrite from heart to left ventricle_layer 1_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
-            "root": "ns167",
-            "leaf": "ns170",
+            "lyphTemplate": "229bag",
+            "root": "ns169",
+            "leaf": "ns169_2",
             "housingLayers": [
                 5,
                 0,
@@ -3843,13 +3886,29 @@
             ]
         },
         {
-            "id": "ac-sn-ra_11",
-            "name": "Axon from heart_layer 5 to heartra_Neuron 11 (acard)",
+            "id": "ac-sn-olv_11",
+            "name": "Dendrite from heart_layer 5 to area outside of left ventricle_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "229bag",
+            "root": "ns169",
+            "leaf": "ns170",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "A74"
+            ]
+        },
+        {
+            "id": "ac-sn-out_11",
+            "name": "Dendrite to blood supply_Neuron 11 (acard)",
+            "external": [
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229",
-            "root": "ns162",
+            "root": "ns168",
             "leaf": "ns171",
             "housingLayers": [
                 5
@@ -3859,12 +3918,12 @@
             ]
         },
         {
-            "id": "ac-sn-ra0_11",
-            "name": "Axon from heart to right atrium_layer 0_Neuron 11 (acard)",
+            "id": "ac-sn-aorta_11",
+            "name": "Dendrite to aorta - layer 0_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns171",
             "leaf": "ns172",
             "housingLayers": [
@@ -3873,72 +3932,18 @@
             ],
             "housingLyphs": [
                 "A74",
-                "A75"
-            ]
-        },
-        {
-            "id": "ac-sn-ra1_11",
-            "name": "Axon from heart to right atrium_layer 1_Neuron 11 (acard)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "229",
-            "root": "ns171",
-            "leaf": "ns173",
-            "housingLayers": [
-                5,
-                0,
-                1
-            ],
-            "housingLyphs": [
-                "A74",
-                "A75",
-                "A75"
-            ]
-        },
-        {
-            "id": "ac-sn-out_11",
-            "name": "Axon to blood supply_Neuron 11 (acard)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "229",
-            "root": "ns162",
-            "leaf": "ns174",
-            "housingLayers": [
-                5
-            ],
-            "housingLyphs": [
-                "A74"
-            ]
-        },
-        {
-            "id": "ac-sn-aorta_11",
-            "name": "Axon to aorta - layer 0_Neuron 11 (acard)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "229",
-            "root": "ns174",
-            "leaf": "ns175",
-            "housingLayers": [
-                5,
-                0
-            ],
-            "housingLyphs": [
-                "A74",
-                "A78"
+                "A79"
             ]
         },
         {
             "id": "ac-sn-pulartery_11",
-            "name": "Axon to pulmonary artery - layer 0_Neuron 11 (acard)",
+            "name": "Dendrite to pulmonary artery - layer 0_Neuron 11 (acard)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
-            "root": "ns175",
-            "leaf": "ns176",
+            "lyphTemplate": "229bag",
+            "root": "ns171",
+            "leaf": "ns173",
             "housingLayers": [
                 5,
                 0
@@ -4387,343 +4392,58 @@
     ],
     "groups": [
         {
-            "id": "Neuron1",
-            "name": "Neuron1",
-            "links": [
-                "lnk-sn-nts_1"
-            ],
-            "nodes": [
-                "ns1",
-                "ns2",
-                "ns3"
-            ]
+            "id": "neuron-1",
+            "name": "Neuron 1"
         },
         {
-            "id": "Neuron2",
-            "name": "Neuron2",
-            "links": [
-                "lnk-sn-mcg_2",
-                "lnk-sn-icg_2"
-            ],
-            "nodes": [
-                "ns5",
-                "ns6",
-                "ns7",
-                "ns8",
-                "ns9",
-                "ns10"
-            ]
+            "id": "neuron-2",
+            "name": "Neuron 2"
         },
         {
-            "id": "Neuron4",
-            "name": "Neuron4",
-            "lyphs": [
-                "A80",
-                "A81"
-            ],
-            "links": [
-                "lnk-snna_4",
-                "lnk-snmv_4"
-            ],
-            "nodes": [
-                "ns11",
-                "ns12",
-                "ns13",
-                "ns14",
-                "ns15",
-                "ns16",
-                "ns17"
-            ]
+            "id": "neuron-4",
+            "name": "Neuron 4"
         },
         {
-            "id": "Neuron5",
-            "name": "Neuron5",
-            "lyphs": [
-                "A80",
-                "A81"
-            ],
-            "links": [
-                "lnk-sn-t1_5",
-                "lnk-sn-t2_5",
-                "lnk-sn-t3_5",
-                "lnk-sn-t4_5",
-                "lnk-sn-t5_5",
-                "lnk-sn-t6_5"
-            ],
-            "nodes": [
-                "ns35",
-                "ns36",
-                "ns37",
-                "ns38",
-                "ns50",
-                "ns32",
-                "ns33",
-                "ns34",
-                "ns40",
-                "ns41",
-                "ns29",
-                "ns30",
-                "ns31",
-                "ns42",
-                "ns43",
-                "ns26",
-                "ns27",
-                "ns28",
-                "ns44",
-                "ns45",
-                "ns23",
-                "ns24",
-                "ns25",
-                "ns46",
-                "ns47",
-                "ns20",
-                "ns21",
-                "ns22",
-                "ns48",
-                "ns49",
-                "ns51",
-                "ns52",
-                "ns53"
-            ],
+            "id": "neuron-5",
+            "name": "Neuron 5",
             "publications": [
                 "PMID:27783854"
             ]
         },
         {
-            "id": "Neuron6",
-            "name": "Neuron6",
-            "lyphs": [
-                "A80",
-                "A81"
-            ],
-            "links": [
-                "lnk-sn-sgt1_6",
-                "lnk-sn-sgt2_6",
-                "lnk-sn-sgt3_6",
-                "lnk-sn-sgt4_6",
-                "lnk-sn-sgt5_6",
-                "lnk-sn-sgt6_6",
-                "lnk-sn-icg_6",
-                "lnk-sn-mcg_6",
-                "lnk-sn-scg_6",
-                "lnk-sn-med_6"
-            ],
-            "nodes": [
-                "ns80",
-                "ns81",
-                "ns101",
-                "ns83",
-                "ns84",
-                "ns85",
-                "ns86",
-                "ns87",
-                "ns88",
-                "ns89",
-                "ns90",
-                "ns91",
-                "ns92",
-                "ns93",
-                "ns94",
-                "ns95",
-                "ns96",
-                "ns97",
-                "ns98",
-                "ns99",
-                "ns102",
-                "ns102_0",
-                "ns102_1",
-                "ns103_0",
-                "ns103_1",
-                "ns104",
-                "ns105_0",
-                "ns105_1",
-                "ns106_0",
-                "ns106_1"
-            ]
+            "id": "neuron-6",
+            "name": "Neuron 6"
         },
         {
-            "id": "Neuron7",
-            "name": "Neuron7",
-            "lyphs": [
-                "A80",
-                "A81"
-            ],
-            "links": [
-                "lnk-sn-aicg_7",
-                "lnk-sn-vicg_7"
-            ],
-            "nodes": [
-                "ns110",
-                "ns111",
-                "ns113",
-                "ns112",
-                "ns114",
-                "ns115",
-                "ns116",
-                "ns118",
-                "ns117",
-                "ns119"
-            ]
+            "id": "neuron-7",
+            "name": "Neuron 7"
         },
         {
-            "id": "Neuron8",
-            "name": "Neuron8",
-            "lyphs": [
-                "A80",
-                "A81"
-            ],
-            "links": [
-                "lnk-sn-aicg_8",
-                "lnk-sn-vicg_8"
-            ],
-            "nodes": [
-                "ns120",
-                "ns121",
-                "ns122",
-                "ns123",
-                "ns124",
-                "ns125",
-                "ns126",
-                "ns127",
-                "ns128",
-                "ns129"
-            ]
+            "id": "neuron-8",
+            "name": "Neuron 8"
         },
         {
-            "id": "Neuron9",
-            "name": "Neuron9",
-            "lyphs": [
-                "A80",
-                "A81"
-            ],
-            "links": [
-                "lnk-sn-aicg_9",
-                "lnk-sn-vicg_9"
-            ],
-            "nodes": [
-                "ns130",
-                "ns131",
-                "ns132",
-                "ns133",
-                "ns134",
-                "ns135",
-                "ns140",
-                "ns141",
-                "ns142",
-                "ns143",
-                "ns144",
-                "ns145"
-            ]
+            "id": "neuron-9",
+            "name": "Neuron 9"
         },
         {
-            "id": "Neuron10",
-            "name": "Neuron10",
-            "lyphs": [
-                "A80",
-                "A81"
-            ],
-            "links": [
-                "lnk-sn-aicg_10",
-                "lnk-sn-vicg_10"
-            ],
-            "nodes": [
-                "ns150",
-                "ns151",
-                "ns152",
-                "ns153",
-                "ns154"
-            ]
+            "id": "neuron-10",
+            "name": "Neuron 10"
         },
         {
-            "id": "Neuron11",
-            "name": "Neuron11",
-            "links": [
-                "lnk-sn-ng_11"
-            ],
-            "nodes": [
-                "ns160",
-                "ns161",
-                "ns163",
-                "ns162",
-                "ns164",
-                "ns165",
-                "ns166",
-                "ns167",
-                "ns168",
-                "ns169",
-                "ns170",
-                "ns171",
-                "ns172",
-                "ns173",
-                "ns174",
-                "ns175",
-                "ns176"
-            ],
+            "id": "neuron-11",
+            "name": "Neuron 11",
             "publications": [
                 "PMID:27783854"
             ]
         },
         {
-            "id": "Neuron12",
-            "name": "Neuron12",
-            "links": [
-                "lnk-sn-mcg_12",
-                "lnk-sn-icg_12"
-            ],
-            "nodes": [
-                "ns180",
-                "ns181",
-                "ns182",
-                "ns185",
-                "ns186",
-                "ns182",
-                "ns182",
-                "ns187",
-                "ns182",
-                "ns188",
-                "ns190",
-                "ns191",
-                "ns193",
-                "ns194",
-                "ns195",
-                "ns196",
-                "ns197",
-                "ns198",
-                "ns199",
-                "ns200",
-                "ns201",
-                "ns202",
-                "ns203",
-                "ns204",
-                "ns205",
-                "ns206",
-                "ns207",
-                "ns208"
-            ]
+            "id": "neuron-12",
+            "name": "Neuron 12"
         },
         {
-            "id": "Neuron13",
-            "name": "Neuron13",
-            "links": [
-                "lnk-sn-c6drg_13",
-                "lnk-sn-c7drg_13",
-                "lnk-sn-c8drg_13",
-                "lnk-sn-t1drg_13",
-                "lnk-sn-t2drg_13",
-                "lnk-sn-t3drg_13",
-                "lnk-sn-t4drg_13",
-                "lnk-sn-t5drg_13",
-                "lnk-sn-t6drg_13"
-            ],
-            "nodes": [
-                "ns193",
-                "ns194",
-                "ns195",
-                "ns196",
-                "ns197",
-                "ns200",
-                "ns201"
-            ],
+            "id": "neuron-13",
+            "name": "Neuron 13",
             "publications": [
                 "PMID:27783854"
             ]

@@ -1201,146 +1201,175 @@
             ]
         },
         {
+            "id": "lnk_soma202",
             "source": "s202",
             "target": "t202",
             "conveyingLyph": "soma202"
         },
         {
+            "id": "lnk_soma228",
             "source": "s228",
             "target": "t228",
             "conveyingLyph": "soma228"
         },
         {
+            "id": "lnk_soma107in214",
             "source": "s107in214",
             "target": "t107in214",
             "conveyingLyph": "soma107in214"
         },
         {
+            "id": "lnk_soma265",
             "source": "s265",
             "target": "t265",
             "conveyingLyph": "soma265"
         },
         {
+            "id": "lnk_soma266",
             "source": "s266",
             "target": "t266",
             "conveyingLyph": "soma266"
         },
         {
+            "id": "lnk_soma262",
             "source": "s262",
             "target": "t262",
             "conveyingLyph": "soma262"
         },
         {
+            "id": "lnk_soma264",
             "source": "s264",
             "target": "t264",
             "conveyingLyph": "soma264"
         },
         {
+            "id": "lnk_soma249_1",
             "source": "s249_1",
             "target": "t249_1",
             "conveyingLyph": "soma249_1"
         },
         {
+            "id": "lnk_soma249_2",
             "source": "s249_2",
             "target": "t249_2",
             "conveyingLyph": "soma249_2"
         },
         {
+            "id": "lnk_soma249_3",
             "source": "s249_3",
             "target": "t249_3",
             "conveyingLyph": "soma249_3"
         },
         {
+            "id": "lnk_soma248_1",
             "source": "s248_1",
             "target": "t248_1",
             "conveyingLyph": "soma248_1"
         },
         {
+            "id": "lnk_soma248_2",
             "source": "s248_2",
             "target": "t248_2",
             "conveyingLyph": "soma248_2"
         },
         {
+            "id": "lnk_soma220_1",
             "source": "s220_1",
             "target": "t220_1",
             "conveyingLyph": "soma220_1"
         },
         {
+            "id": "lnk_soma220_2",
             "source": "s220_2",
             "target": "t220_2",
             "conveyingLyph": "soma220_2"
         },
         {
+            "id": "lnk_soma220_3",
             "source": "s220_3",
             "target": "t220_3",
             "conveyingLyph": "soma220_3"
         },
         {
+            "id": "lnk_soma220_4",
             "source": "s220_4",
             "target": "t220_4",
             "conveyingLyph": "soma220_4"
         },
         {
+            "id": "lnk_soma220_5",
             "source": "s220_5",
             "target": "t220_5",
             "conveyingLyph": "soma220_5"
         },
         {
+            "id": "lnk_soma220_6",
             "source": "s220_6",
             "target": "t220_6",
             "conveyingLyph": "soma220_6"
         },
         {
+            "id": "lnk_soma220_7",
             "source": "s220_7",
             "target": "t220_7",
             "conveyingLyph": "soma220_7"
         },
         {
+            "id": "lnk_soma220_8",
             "source": "s220_8",
             "target": "t220_8",
             "conveyingLyph": "soma220_8"
         },
         {
+            "id": "lnk_soma220_9",
             "source": "s220_9",
             "target": "t220_9",
             "conveyingLyph": "soma220_9"
         },
         {
+            "id": "lnk_soma220_10",
             "source": "s220_10",
             "target": "t220_10",
             "conveyingLyph": "soma220_10"
         },
         {
+            "id": "lnk_soma220_11",
             "source": "s220_11",
             "target": "t220_11",
             "conveyingLyph": "soma220_11"
         },
         {
+            "id": "lnk_soma220_12",
             "source": "s220_12",
             "target": "t220_12",
             "conveyingLyph": "soma220_12"
         },
         {
+            "id": "lnk_soma220_13",
             "source": "s220_13",
             "target": "t220_13",
             "conveyingLyph": "soma220_13"
         },
         {
+            "id": "lnk_soma220_14",
             "source": "s220_14",
             "target": "t220_14",
             "conveyingLyph": "soma220_14"
         },
         {
+            "id": "lnk_soma220_15",
             "source": "s220_15",
             "target": "t220_15",
             "conveyingLyph": "soma220_15"
         },
         {
+            "id": "lnk_soma220_16",
             "source": "s220_16",
             "target": "t220_16",
             "conveyingLyph": "soma220_16"
         },
         {
+            "id": "lnk_soma220_17",
             "source": "s220_17",
             "target": "t220_17",
             "conveyingLyph": "soma220_17"
@@ -1919,9 +1948,6 @@
             "supertype": "114",
             "internalLyphs": [
                 "258"
-            ],
-            "bundlesChains": [
-                "t3"
             ]
         },
         {
@@ -1931,10 +1957,7 @@
                 "UBERON:0005020",
                 "ILX:0731712"
             ],
-            "supertype": "112",
-            "bundlesChains": [
-                "t3"
-            ]
+            "supertype": "112"
         },
         {
             "id": "242",
@@ -2197,7 +2220,7 @@
         },
         {
             "id": "soma202",
-            "name": "Soma in Paraventricular nucleus",
+            "name": "Soma in Paraventricular nucleus (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2205,7 +2228,7 @@
         },
         {
             "id": "soma228",
-            "name": "Soma in T1 Rexed Lamina VII",
+            "name": "Soma in T1 Rexed Lamina VII (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2213,7 +2236,7 @@
         },
         {
             "id": "soma107in214",
-            "name": "Soma in Central nervous system of T1 spinal segment",
+            "name": "Soma in Central nervous system of T1 spinal segment (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2221,7 +2244,7 @@
         },
         {
             "id": "soma265",
-            "name": "Soma in 265",
+            "name": "Soma in 265 (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2229,7 +2252,7 @@
         },
         {
             "id": "soma266",
-            "name": "Soma in 266",
+            "name": "Soma in 266 (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2237,7 +2260,7 @@
         },
         {
             "id": "soma262",
-            "name": "Soma in 262",
+            "name": "Soma in 262 (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2245,7 +2268,7 @@
         },
         {
             "id": "soma264",
-            "name": "Soma in 264",
+            "name": "Soma in 264 (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2253,7 +2276,7 @@
         },
         {
             "id": "soma249_1",
-            "name": "Soma in 249 (1)",
+            "name": "Soma in 249 (1) (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2261,7 +2284,7 @@
         },
         {
             "id": "soma249_2",
-            "name": "Soma in 249 (2)",
+            "name": "Soma in 249 (2) (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2269,7 +2292,7 @@
         },
         {
             "id": "soma249_3",
-            "name": "Soma in 249 (3)",
+            "name": "Soma in 249 (3) (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2277,7 +2300,7 @@
         },
         {
             "id": "soma248_1",
-            "name": "Soma in 248 (1)",
+            "name": "Soma in 248 (1) (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2285,7 +2308,7 @@
         },
         {
             "id": "soma248_2",
-            "name": "Soma in 248 (2)",
+            "name": "Soma in 248 (2) (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2293,7 +2316,7 @@
         },
         {
             "id": "soma220_1",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2301,7 +2324,7 @@
         },
         {
             "id": "soma220_2",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2309,7 +2332,7 @@
         },
         {
             "id": "soma220_3",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2317,7 +2340,7 @@
         },
         {
             "id": "soma220_4",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2325,7 +2348,7 @@
         },
         {
             "id": "soma220_5",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2333,7 +2356,7 @@
         },
         {
             "id": "soma220_6",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2341,7 +2364,7 @@
         },
         {
             "id": "soma220_7",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2349,7 +2372,7 @@
         },
         {
             "id": "soma220_8",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2357,7 +2380,7 @@
         },
         {
             "id": "soma220_9",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2365,7 +2388,7 @@
         },
         {
             "id": "soma220_10",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2373,7 +2396,7 @@
         },
         {
             "id": "soma220_11",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2381,7 +2404,7 @@
         },
         {
             "id": "soma220_12",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2389,7 +2412,7 @@
         },
         {
             "id": "soma220_13",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2397,7 +2420,7 @@
         },
         {
             "id": "soma220_14",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2405,7 +2428,7 @@
         },
         {
             "id": "soma220_15",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2413,7 +2436,7 @@
         },
         {
             "id": "soma220_16",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2421,7 +2444,7 @@
         },
         {
             "id": "soma220_17",
-            "name": "Soma in Superior cervical ganglion",
+            "name": "Soma in Superior cervical ganglion (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2557,11 +2580,17 @@
         },
         {
             "id": "100",
-            "name": "Fluid"
+            "name": "Fluid",
+            "external": [
+                "UBERON:0006314"
+            ]
         },
         {
             "id": "101",
             "name": "Gas",
+            "external": [
+                "NCIT:C45299"
+            ],
             "materials": [
                 "100"
             ]
@@ -2569,6 +2598,9 @@
         {
             "id": "102",
             "name": "Liquid",
+            "external": [
+                "FMA:85815"
+            ],
             "materials": [
                 "100"
             ]
@@ -2576,6 +2608,9 @@
         {
             "id": "103",
             "name": "Air",
+            "external": [
+                "NCIT:C73434"
+            ],
             "materials": [
                 "101"
             ]
@@ -2741,7 +2776,7 @@
         },
         {
             "id": "PVN-IML1-d",
-            "name": "Dnd PVN-IML1",
+            "name": "Dnd PVN-IML1 (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2753,7 +2788,7 @@
         },
         {
             "id": "IML1-SCG-d",
-            "name": "Dnd IML1-SCG",
+            "name": "Dnd IML1-SCG (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2765,7 +2800,7 @@
         },
         {
             "id": "T1-INTERCOSTAL-d",
-            "name": "Dnd T1-INTERCOSTAL",
+            "name": "Dnd T1-INTERCOSTAL (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2777,7 +2812,7 @@
         },
         {
             "id": "P4-DIAPHRGM-d",
-            "name": "Dnd P4-DIAPHRGM",
+            "name": "Dnd P4-DIAPHRGM (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2789,7 +2824,7 @@
         },
         {
             "id": "P5-DIAPHRGM-d",
-            "name": "Dnd P5-DIAPHRGM",
+            "name": "Dnd P5-DIAPHRGM (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2801,7 +2836,7 @@
         },
         {
             "id": "NTS-IML1-d",
-            "name": "Dnd NTS-IML1",
+            "name": "Dnd NTS-IML1 (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2813,7 +2848,7 @@
         },
         {
             "id": "RVLM-IML1-d",
-            "name": "Dnd RVLM-IML1",
+            "name": "Dnd RVLM-IML1 (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2825,7 +2860,7 @@
         },
         {
             "id": "AB-NTS-d",
-            "name": "Dnd AB-NTS",
+            "name": "Dnd AB-NTS (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2841,7 +2876,7 @@
         },
         {
             "id": "CB-NTS-d",
-            "name": "Dnd CB-NTS",
+            "name": "Dnd CB-NTS (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2857,7 +2892,7 @@
         },
         {
             "id": "CS-NTS-d",
-            "name": "Dnd CS-NTS",
+            "name": "Dnd CS-NTS (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2873,7 +2908,7 @@
         },
         {
             "id": "LM-NTS-d",
-            "name": "Dnd LM-NTS",
+            "name": "Dnd LM-NTS (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2889,7 +2924,7 @@
         },
         {
             "id": "EM-NTS-d",
-            "name": "Dnd EM-NTS",
+            "name": "Dnd EM-NTS (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2905,7 +2940,7 @@
         },
         {
             "id": "SCG-AB-d",
-            "name": "Dnd SCG-AB",
+            "name": "Dnd SCG-AB (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2917,7 +2952,7 @@
         },
         {
             "id": "SCG-CB-d",
-            "name": "Dnd SCG-CB",
+            "name": "Dnd SCG-CB (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2929,7 +2964,7 @@
         },
         {
             "id": "SCG-CS-d",
-            "name": "Dnd SCG-CS",
+            "name": "Dnd SCG-CS (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2941,7 +2976,7 @@
         },
         {
             "id": "SCG-eSLN-LRYNX-d",
-            "name": "Dnd SCG-eSLN-LRYNX",
+            "name": "Dnd SCG-eSLN-LRYNX (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2953,7 +2988,7 @@
         },
         {
             "id": "SCG-iSLN-LRYNX-d",
-            "name": "Dnd SCG-iSLN-LRYNX",
+            "name": "Dnd SCG-iSLN-LRYNX (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2965,7 +3000,7 @@
         },
         {
             "id": "SCG-eSLN-EM-d",
-            "name": "Dnd SCG-eSLN-EM",
+            "name": "Dnd SCG-eSLN-EM (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2977,7 +3012,7 @@
         },
         {
             "id": "SCG-iSLN-EM-d",
-            "name": "Dnd SCG-iSLN-EM",
+            "name": "Dnd SCG-iSLN-EM (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2989,7 +3024,7 @@
         },
         {
             "id": "SCG-eILN-EM-d",
-            "name": "Dnd SCG-eILN-EM",
+            "name": "Dnd SCG-eILN-EM (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3001,7 +3036,7 @@
         },
         {
             "id": "SCG-iILN-EM-d",
-            "name": "Dnd SCG-iILN-EM",
+            "name": "Dnd SCG-iILN-EM (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3013,7 +3048,7 @@
         },
         {
             "id": "SCG-ECN-TONG-d",
-            "name": "Dnd SCG-ECN-TONG",
+            "name": "Dnd SCG-ECN-TONG (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3025,7 +3060,7 @@
         },
         {
             "id": "SCG-ICN-TONG-d",
-            "name": "Dnd SCG-ICN-TONG",
+            "name": "Dnd SCG-ICN-TONG (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3037,7 +3072,7 @@
         },
         {
             "id": "SCG-TRCHA-d",
-            "name": "Dnd SCG-TRCHA",
+            "name": "Dnd SCG-TRCHA (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3049,7 +3084,7 @@
         },
         {
             "id": "SCG-ICN-TRCHA-d",
-            "name": "Dnd SCG-ICN-TRCHA",
+            "name": "Dnd SCG-ICN-TRCHA (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3061,7 +3096,7 @@
         },
         {
             "id": "SCG-PVN-d",
-            "name": "Dnd SCG-PVN",
+            "name": "Dnd SCG-PVN (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3073,7 +3108,7 @@
         },
         {
             "id": "SCG-RTRPZ-d",
-            "name": "Dnd SCG-RTRPZ",
+            "name": "Dnd SCG-RTRPZ (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3085,7 +3120,7 @@
         },
         {
             "id": "SCG-RVLM-d",
-            "name": "Dnd SCG-RVLM",
+            "name": "Dnd SCG-RVLM (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3097,7 +3132,7 @@
         },
         {
             "id": "SCG-NTS-d",
-            "name": "Dnd SCG-NTS",
+            "name": "Dnd SCG-NTS (bolew)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3109,7 +3144,7 @@
         },
         {
             "id": "PVN-IML1-a",
-            "name": "Axn PVN-IML1",
+            "name": "Axn PVN-IML1 (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3136,7 +3171,7 @@
         },
         {
             "id": "IML1-SCG-a",
-            "name": "Axn IML1-SCG",
+            "name": "Axn IML1-SCG (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3158,7 +3193,7 @@
         },
         {
             "id": "T1-INTERCOSTAL-a",
-            "name": "Axn T1-INTERCOSTAL",
+            "name": "Axn T1-INTERCOSTAL (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3172,7 +3207,7 @@
         },
         {
             "id": "P4-DIAPHRGM-a",
-            "name": "Axn P4-DIAPHRGM",
+            "name": "Axn P4-DIAPHRGM (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3187,7 +3222,7 @@
         },
         {
             "id": "P5-DIAPHRGM-a",
-            "name": "Axn P5-DIAPHRGM",
+            "name": "Axn P5-DIAPHRGM (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3202,7 +3237,7 @@
         },
         {
             "id": "NTS-IML1-a",
-            "name": "Axn NTS-IML1",
+            "name": "Axn NTS-IML1 (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3225,7 +3260,7 @@
         },
         {
             "id": "RVLM-IML1-a",
-            "name": "Axn RVLM-IML1",
+            "name": "Axn RVLM-IML1 (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3248,7 +3283,7 @@
         },
         {
             "id": "AB-NTS-a",
-            "name": "Axn AB-NTS",
+            "name": "Axn AB-NTS (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3263,7 +3298,7 @@
         },
         {
             "id": "CB-NTS-a",
-            "name": "Axn CB-NTS",
+            "name": "Axn CB-NTS (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3278,7 +3313,7 @@
         },
         {
             "id": "CS-NTS-a",
-            "name": "Axn CS-NTS",
+            "name": "Axn CS-NTS (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3293,7 +3328,7 @@
         },
         {
             "id": "LM-NTS-a",
-            "name": "Axn LM-NTS",
+            "name": "Axn LM-NTS (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3308,7 +3343,7 @@
         },
         {
             "id": "EM-NTS-a",
-            "name": "Axn EM-NTS",
+            "name": "Axn EM-NTS (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3323,7 +3358,7 @@
         },
         {
             "id": "SCG-AB-a",
-            "name": "Axn SCG-AB",
+            "name": "Axn SCG-AB (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3341,7 +3376,7 @@
         },
         {
             "id": "SCG-CB-a",
-            "name": "Axn SCG-CB",
+            "name": "Axn SCG-CB (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3357,7 +3392,7 @@
         },
         {
             "id": "SCG-CS-a",
-            "name": "Axn SCG-CS",
+            "name": "Axn SCG-CS (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3373,7 +3408,7 @@
         },
         {
             "id": "SCG-eSLN-LRYNX-a",
-            "name": "Axn SCG-eSLN-LRYNX",
+            "name": "Axn SCG-eSLN-LRYNX (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3390,7 +3425,7 @@
         },
         {
             "id": "SCG-iSLN-LRYNX-a",
-            "name": "Axn SCG-iSLN-LRYNX",
+            "name": "Axn SCG-iSLN-LRYNX (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3407,7 +3442,7 @@
         },
         {
             "id": "SCG-eSLN-EM-a",
-            "name": "Axn SCG-eSLN-EM",
+            "name": "Axn SCG-eSLN-EM (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3424,7 +3459,7 @@
         },
         {
             "id": "SCG-iSLN-EM-a",
-            "name": "Axn SCG-iSLN-EM",
+            "name": "Axn SCG-iSLN-EM (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3441,7 +3476,7 @@
         },
         {
             "id": "SCG-eILN-EM-a",
-            "name": "Axn SCG-eILN-EM",
+            "name": "Axn SCG-eILN-EM (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3458,7 +3493,7 @@
         },
         {
             "id": "SCG-iILN-EM-a",
-            "name": "Axn SCG-iILN-EM",
+            "name": "Axn SCG-iILN-EM (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3475,7 +3510,7 @@
         },
         {
             "id": "SCG-ECN-TONG-a",
-            "name": "Axn SCG-ECN-TONG",
+            "name": "Axn SCG-ECN-TONG (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3489,7 +3524,7 @@
         },
         {
             "id": "SCG-ICN-TONG-a",
-            "name": "Axn SCG-ICN-TONG",
+            "name": "Axn SCG-ICN-TONG (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3503,7 +3538,7 @@
         },
         {
             "id": "SCG-TRCHA-a",
-            "name": "Axn SCG-TRCHA",
+            "name": "Axn SCG-TRCHA (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3516,7 +3551,7 @@
         },
         {
             "id": "SCG-ICN-TRCHA-a",
-            "name": "Axn SCG-ICN-TRCHA",
+            "name": "Axn SCG-ICN-TRCHA (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3530,7 +3565,7 @@
         },
         {
             "id": "SCG-PVN-a",
-            "name": "Axn SCG-PVN",
+            "name": "Axn SCG-PVN (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3546,7 +3581,7 @@
         },
         {
             "id": "SCG-RTRPZ-a",
-            "name": "Axn SCG-RTRPZ",
+            "name": "Axn SCG-RTRPZ (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3561,7 +3596,7 @@
         },
         {
             "id": "SCG-RVLM-a",
-            "name": "Axn SCG-RVLM",
+            "name": "Axn SCG-RVLM (bolew)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3576,7 +3611,7 @@
         },
         {
             "id": "SCG-NTS-a",
-            "name": "Axn SCG-NTS",
+            "name": "Axn SCG-NTS (bolew)",
             "external": [
                 "SAO:1770195789"
             ],

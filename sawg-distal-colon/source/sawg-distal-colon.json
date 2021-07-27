@@ -61,14 +61,14 @@
             }
         },
         {
-            "id": "img",
+            "id": "img1",
             "layout": {
                 "x": 10,
                 "y": -10
             }
         },
         {
-            "id": "col",
+            "id": "col1",
             "layout": {
                 "x": 10,
                 "y": -20
@@ -417,7 +417,8 @@
             "name": "L5 Dorsal Root ganglion (fcolon)",
             "external": [
                 "UBERON:0002859"
-            ]
+            ],
+            "isTemplate": true
         },
         {
             "id": "S19",
@@ -571,7 +572,8 @@
             "name": "L4 white ramus (fcolon)",
             "external": [
                 "FMA:5875"
-            ]
+            ],
+            "isTemplate": true
         },
         {
             "id": "S41",
@@ -583,8 +585,7 @@
                 "dcn-img_d",
                 "dcn-img_f",
                 "dcn-img_g",
-                "dcn-img_h",
-                ""
+                "dcn-img_h"
             ],
             "internalLyphsInLayers": [
                 0,
@@ -918,7 +919,8 @@
             "name": "Soma of Symp preganglionic neuron in L3_Neuron B (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-b"
         },
         {
             "id": "dcn-l4_b",
@@ -932,7 +934,8 @@
             "name": "Soma of spinal afferent neuron in T13 DRG_Neuron C (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-c"
         },
         {
             "id": "dcn-l1drg_c",
@@ -974,105 +977,120 @@
             "name": "Soma of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-d"
         },
         {
             "id": "dcn-img_f",
             "name": "Soma of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-f"
         },
         {
             "id": "dcn-img_g",
             "name": "Soma of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-g"
         },
         {
             "id": "dcn-img_h",
             "name": "Soma of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-h"
         },
         {
             "id": "dcn-mp_i",
             "name": "Soma of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-i"
         },
         {
             "id": "dcn_mp_j",
             "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-j"
         },
         {
             "id": "dcn_mp2_j",
             "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-j2"
         },
         {
             "id": "dcn-mp_k",
             "name": "Soma of interneuron in myenteric plexus_Neuron K(fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-k"
         },
         {
             "id": "dcn-mp_l",
             "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-l"
         },
         {
             "id": "dcn-mp2_l",
             "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-l2"
         },
         {
             "id": "dcn-mp_m",
             "name": "Soma of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-m"
         },
         {
             "id": "dcn-mp_n",
             "name": "Soma of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-n"
         },
         {
             "id": "dcn-sp-o",
             "name": "Soma of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-o"
         },
         {
             "id": "dcn-mp-p",
             "name": "Soma of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-p"
         },
         {
             "id": "dcn-mp_q",
             "name": "Soma of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "seedIn": "neuron-q"
         },
         {
             "id": "n-lumspl",
@@ -3026,504 +3044,72 @@
     ],
     "groups": [
         {
-            "id": "neuron_b",
-            "name": "Neuron b",
-            "links": [
-                "lnk-dcn-l3_b",
-                "lnk-dcn-l4_b"
-            ],
-            "nodes": [
-                "ns1",
-                "ns2",
-                "ns3",
-                "ns4",
-                "ns5",
-                "ns6"
-            ],
-            "chains": [
-                "dc-l3_b",
-                "ac-l3_b",
-                "dc-l4_b",
-                "ac-l4_b",
-                "ac-l42_b"
-            ],
-            "groups": [
-                "group_dc-l3_b",
-                "group_ac-l3_b",
-                "group_dc-l4_b",
-                "group_ac-l4_b",
-                "group_ac-l42_b"
-            ]
+            "id": "neuron-b",
+            "name": "Neuron b"
         },
         {
-            "id": "neuron_c",
-            "name": "Neuron c",
-            "links": [
-                "lnk-dcn-t13drg_c",
-                "lnk-dcn-l1drg_c",
-                "lnk-dcn-l2drg_c",
-                "lnk-dcn-l3drg_c",
-                "lnk-dcn-l4drg_c",
-                "lnk-dcn-l5drg_c"
-            ],
-            "nodes": [
-                "ns7",
-                "ns9",
-                "ns8",
-                "ns10",
-                "ns11_1",
-                "ns11_8",
-                "ns11_6",
-                "ns11_2",
-                "ns12",
-                "ns13",
-                "ns15",
-                "ns16_1",
-                "ns16_8",
-                "ns16_6",
-                "ns16_2",
-                "ns17",
-                "ns18",
-                "ns20",
-                "ns21_1",
-                "ns21_8",
-                "ns21_6",
-                "ns21_2",
-                "ns22",
-                "ns23",
-                "ns25",
-                "ns25_1",
-                "ns25_8",
-                "ns25_6",
-                "ns25_2",
-                "ns26",
-                "ns27",
-                "ns29",
-                "ns29_1",
-                "ns29_8",
-                "ns29_6",
-                "ns29_2",
-                "ns30",
-                "ns31",
-                "ns33",
-                "ns33_1",
-                "ns33_8",
-                "ns33_6",
-                "ns33_2",
-                "ns9_5"
-            ],
-            "chains": [
-                "dc-t13drg_c",
-                "ac-t13drgout_c",
-                "ac-t13drgsc_c",
-                "ac-t13drgl11_c",
-                "ac-t13drgl8_c",
-                "ac-t13drgl6_c",
-                "ac-t13drgl2_c",
-                "dc-l1drg_c",
-                "ac-drgl1out_c",
-                "ac-l1drgl12_c",
-                "ac-l1drgl11_c",
-                "ac-l1drgl8_c",
-                "ac-l1drgl6_c",
-                "ac-l1drgl2_c",
-                "dc-l2drg_c",
-                "ac-drgl2out_c",
-                "ac-l2drgl12_c",
-                "ac-l2drgl11_c",
-                "ac-l2drgl8_c",
-                "ac-l2drgl6_c",
-                "ac-l2drgl2_c",
-                "dc-l3drg_c",
-                "ac-l3drgout_c",
-                "ac-l3drgl12_c",
-                "ac-l3drgl11_c",
-                "ac-l3drgl8_c",
-                "ac-l3drgl6_c",
-                "ac-l3drgl2_c",
-                "dc-l4drg_c",
-                "ac-l4drgout_c",
-                "ac-l4drgl12_c",
-                "ac-l4drgl11_c",
-                "ac-l4drgl8_c",
-                "ac-l4drgl6_c",
-                "ac-l4drgl2_c",
-                "dc-l5drg_c",
-                "ac-l5drgout_c",
-                "ac-l5drgl12_c",
-                "ac-l5drgl11_c",
-                "ac-l5drgl8_c",
-                "ac-l5drgl6_c",
-                "ac-l5drgl2_c",
-                "ac_col_c",
-                "ac_col-lay7_c",
-                "ac_col-lay5_c",
-                "ac_col-lay3_c",
-                "ac_col-lay2_c"
-            ],
-            "groups": [
-                "group_dc-t13drg_c",
-                "group_ac-t13drgout_c",
-                "group_ac-t13drgsc_c",
-                "group_ac-t13drgl11_c",
-                "group_ac-t13drgl8_c",
-                "group_ac-t13drgl6_c",
-                "group_ac-t13drgl2_c",
-                "group_dc-l1drg_c",
-                "group_ac-drgl1out_c",
-                "group_ac-l1drgl12_c",
-                "group_ac-l1drgl11_c",
-                "group_ac-l1drgl8_c",
-                "group_ac-l1drgl6_c",
-                "group_ac-l1drgl2_c",
-                "group_dc-l2drg_c",
-                "group_ac-drgl2out_c",
-                "group_ac-l2drgl12_c",
-                "group_ac-l2drgl11_c",
-                "group_ac-l2drgl8_c",
-                "group_ac-l2drgl6_c",
-                "group_ac-l2drgl2_c",
-                "group_dc-l3drg_c",
-                "group_ac-l3drgout_c",
-                "group_ac-l3drgl12_c",
-                "group_ac-l3drgl11_c",
-                "group_ac-l3drgl8_c",
-                "group_ac-l3drgl6_c",
-                "group_ac-l3drgl2_c",
-                "group_dc-l4drg_c",
-                "group_ac-l4drgout_c",
-                "group_ac-l4drgl12_c",
-                "group_ac-l4drgl11_c",
-                "group_ac-l4drgl8_c",
-                "group_ac-l4drgl6_c",
-                "group_ac-l4drgl2_c",
-                "group_dc-l5drg_c",
-                "group_ac-l5drgout_c",
-                "group_ac-l5drgl12_c",
-                "group_ac-l5drgl11_c",
-                "group_ac-l5drgl8_c",
-                "group_ac-l5drgl6_c",
-                "group_ac-l5drgl2_c",
-                "group_ac_col_c",
-                "group_ac_col-lay7_c",
-                "group_ac_col-lay5_c",
-                "group_ac_col-lay3_c",
-                "group_ac_col-lay2_c"
-            ]
+            "id": "neuron-c",
+            "name": "Neuron c"
         },
         {
-            "id": "neuron_d",
-            "name": "Neuron d",
-            "links": [
-                "lnk-dcn-img_d"
-            ],
-            "nodes": [
-                "ns34",
-                "ns35",
-                "ns35_5"
-            ],
-            "chains": [
-                "dc-img_d",
-                "ac-img_d"
-            ],
-            "groups": [
-                "group_dc-img_d",
-                "group_ac-img_d"
-            ]
+            "id": "neuron-d",
+            "name": "Neuron d"
         },
         {
-            "id": "neuron_f",
-            "name": "Neuron f",
-            "links": [
-                "lnk-dcn-img_f"
-            ],
-            "nodes": [
-                "ns36",
-                "ns37",
-                "ns38"
-            ],
-            "chains": [
-                "dc-img_f",
-                "ac-img_f"
-            ],
-            "groups": [
-                "group_dc-img_f",
-                "group_ac-img_f"
-            ]
+            "id": "neuron-f",
+            "name": "Neuron f"
         },
         {
-            "id": "neuron_g",
-            "name": "Neuron g",
-            "links": [
-                "lnk-dcn-img_g"
-            ],
-            "nodes": [
-                "ns39",
-                "ns40",
-                "ns41"
-            ],
-            "chains": [
-                "dc-img_g",
-                "ac-img_g"
-            ],
-            "groups": [
-                "group_dc-img_g",
-                "group_ac-img_g"
-            ]
+            "id": "neuron-g",
+            "name": "Neuron g"
         },
         {
-            "id": "neuron_h",
-            "name": "Neuron h",
-            "links": [
-                "lnk-dcn-img_h"
-            ],
-            "nodes": [
-                "ns42",
-                "ns43",
-                "ns44"
-            ],
-            "chains": [
-                "dc-img_h",
-                "ac-img_h"
-            ],
-            "groups": [
-                "group_dc-img_h",
-                "group_ac-img_h"
-            ]
+            "id": "neuron-h",
+            "name": "Neuron h"
         },
         {
-            "id": "neuron_i",
-            "name": "Neuron i",
-            "links": [
-                "lnk-dcn-mp_i"
-            ],
-            "nodes": [
-                "ns45",
-                "ns46",
-                "ns47"
-            ],
-            "chains": [
-                "dc-mp_i",
-                "ac-mp_i"
-            ],
-            "groups": [
-                "group_dc-mp_i",
-                "group_ac-mp_i"
-            ]
+            "id": "neuron-i",
+            "name": "Neuron i"
         },
         {
-            "id": "neuron_j",
-            "name": "Neuron j",
-            "links": [
-                "lnk-dcn_mp_j"
-            ],
-            "nodes": [
-                "ns48",
-                "ns49",
-                "ns50"
-            ],
-            "chains": [
-                "dc_mp_j",
-                "ac_mp_j"
-            ],
-            "groups": [
-                "group_dc_mp_j",
-                "group_ac_mp_j"
-            ]
+            "id": "neuron-j",
+            "name": "Neuron j"
         },
         {
-            "id": "neuron_j2",
-            "name": "Neuron j2",
-            "links": [
-                "lnk-dcn_mp2_j"
-            ],
-            "nodes": [
-                "ns51",
-                "ns52",
-                "ns53"
-            ],
-            "chains": [
-                "dc_mp2_j",
-                "ac_mp2_j"
-            ],
-            "groups": [
-                "group_dc_mp2_j",
-                "group_ac_mp2_j"
-            ]
+            "id": "neuron-j2",
+            "name": "Neuron j2"
         },
         {
-            "id": "neuron_k",
-            "name": "Neuron k",
-            "links": [
-                "lnk-mp_k"
-            ],
-            "nodes": [
-                "ns54",
-                "ns55",
-                "ns56"
-            ],
-            "chains": [
-                "dc-mp_k",
-                "ac-mp_k"
-            ],
-            "groups": [
-                "group_dc-mp_k",
-                "group_ac-mp_k"
-            ]
+            "id": "neuron-k",
+            "name": "Neuron k"
         },
         {
-            "id": "neuron_l",
-            "name": "Neuron l",
-            "links": [
-                "lnk-dcn-mp_l"
-            ],
-            "nodes": [
-                "ns57",
-                "ns58",
-                "ns59"
-            ],
-            "chains": [
-                "dc-mp_l",
-                "ac-mp_l"
-            ],
-            "groups": [
-                "group_dc-mp_l",
-                "group_ac-mp_l"
-            ]
+            "id": "neuron-l",
+            "name": "Neuron l"
         },
         {
-            "id": "neuron_l2",
-            "name": "Neuron l2",
-            "links": [
-                "lnk-dcn-mp2_l"
-            ],
-            "nodes": [
-                "ns60",
-                "ns61",
-                "ns62"
-            ],
-            "chains": [
-                "dc-mp2_l",
-                "ac-mp2_l"
-            ],
-            "groups": [
-                "group_dc-mp2_l",
-                "group_ac-mp2_l"
-            ]
+            "id": "neuron-l2",
+            "name": "Neuron l2"
         },
         {
-            "id": "neuron_m",
-            "name": "Neuron m",
-            "links": [
-                "lnk-dcn-mp_m"
-            ],
-            "nodes": [
-                "ns63",
-                "ns64",
-                "ns65",
-                "ns66",
-                "ns67"
-            ],
-            "chains": [
-                "dc-mp_m",
-                "ac-mp_m",
-                "ac-mp2c_m",
-                "ac-mp23_m",
-                "ac-mp22_m"
-            ],
-            "groups": [
-                "group_dc-mp_m",
-                "group_ac-mp_m",
-                "group_ac-mp23_m",
-                "group_ac-mp22_m"
-            ]
+            "id": "neuron-m",
+            "name": "Neuron m"
         },
         {
-            "id": "neuron_n",
-            "name": "Neuron n",
-            "links": [
-                "lnk-dcn-mp_n"
-            ],
-            "nodes": [
-                "ns69",
-                "ns70",
-                "ns71",
-                "ns72",
-                "ns72_5"
-            ],
-            "chains": [
-                "dc-mp_n",
-                "ac-mp2_n",
-                "ac-mpc5c_n",
-                "ac-mp5_n",
-                "ac-mp3_n"
-            ],
-            "groups": [
-                "group_dc-mp_n",
-                "group_ac-mp2_n",
-                "group_ac-mp3_n",
-                "group_ac-mp5_n"
-            ]
+            "id": "neuron-n",
+            "name": "Neuron n"
         },
         {
-            "id": "neuron_o",
-            "name": "Neuron o",
-            "links": [
-                "lnk-dcn-sp-o"
-            ],
-            "nodes": [
-                "ns73",
-                "ns74",
-                "ns75"
-            ],
-            "chains": [
-                "dc-sp_o",
-                "ac-sp_o"
-            ],
-            "groups": [
-                "group_dc-sp_o",
-                "group_ac-sp_o"
-            ]
+            "id": "neuron-o",
+            "name": "Neuron o"
         },
         {
-            "id": "neuron_p",
-            "name": "Neuron p",
-            "links": [
-                "lnk-dcn-mp-p"
-            ],
-            "nodes": [
-                "ns76",
-                "ns77",
-                "ns78"
-            ],
-            "chains": [
-                "dc-mp-p",
-                "ac-mp-p"
-            ],
-            "groups": [
-                "group_dc-mp-p",
-                "group_ac-mp-p"
-            ]
+            "id": "neuron-p",
+            "name": "Neuron p"
         },
         {
-            "id": "neuron_q",
-            "name": "Neuron q",
-            "links": [
-                "lnk-dcn-mp_q"
-            ],
-            "nodes": [
-                "ns79",
-                "ns80",
-                "ns81"
-            ],
-            "chains": [
-                "dc-mp_q",
-                "ac-mp_q"
-            ],
-            "groups": [
-                "group_dc-mp_q",
-                "group_ac-mp_q"
-            ]
+            "id": "neuron-q",
+            "name": "Neuron q"
         }
     ],
     "localConventions": [

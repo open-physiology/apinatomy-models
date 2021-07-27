@@ -1289,16 +1289,17 @@
         },
         {
             "id": "snt1_1",
-            "name": "Soma of SPRG in T1-1",
+            "name": "Soma of SPR in T1-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
             "topology": "BAG",
-            "supertype": "ns"
+            "supertype": "ns",
+            "seedIn": "neuron-1"
         },
         {
             "id": "snt2_1",
-            "name": "Soma of SPRG in T2-1",
+            "name": "Soma of SPR in T2-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1307,7 +1308,7 @@
         },
         {
             "id": "snt3_1",
-            "name": "Soma of SPRG in T3-1",
+            "name": "Soma of SPR in T3-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1316,7 +1317,7 @@
         },
         {
             "id": "snt4_1",
-            "name": "Soma of SPRG in T4-1",
+            "name": "Soma of SPR in T4-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1325,7 +1326,7 @@
         },
         {
             "id": "snt5_1",
-            "name": "Soma of SPRG in T5-1",
+            "name": "Soma of SPR in T5-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1334,7 +1335,7 @@
         },
         {
             "id": "snt6_1",
-            "name": "Soma of SPRG in T6-1",
+            "name": "Soma of SPR in T6-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1343,7 +1344,7 @@
         },
         {
             "id": "snt7_1",
-            "name": "Soma of SPRG in T7-1",
+            "name": "Soma of SPR in T7-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1352,7 +1353,7 @@
         },
         {
             "id": "snt8_1",
-            "name": "Soma of SPRG in T8-1",
+            "name": "Soma of SPR in T8-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1361,7 +1362,7 @@
         },
         {
             "id": "snt9_1",
-            "name": "Soma of SPRG in T9-1",
+            "name": "Soma of SPR in T9-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1370,7 +1371,7 @@
         },
         {
             "id": "snt10_1",
-            "name": "Soma of SPRG in T10-1",
+            "name": "Soma of SPR in T10-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1379,7 +1380,7 @@
         },
         {
             "id": "snt11_1",
-            "name": "Soma of SPRG in T11-1",
+            "name": "Soma of SPR in T11-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1388,7 +1389,7 @@
         },
         {
             "id": "snt12_1",
-            "name": "Soma of SPRG in T12-1",
+            "name": "Soma of SPR in T12-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1397,7 +1398,7 @@
         },
         {
             "id": "snt13_1",
-            "name": "Soma of SPRG in T13-1",
+            "name": "Soma of SPR in T13-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1406,7 +1407,7 @@
         },
         {
             "id": "snl1_1",
-            "name": "Soma of SPRG in L1-1",
+            "name": "Soma of SPR in L1-Neuron 1(bron)",
             "external": [
                 "NLX:154731"
             ],
@@ -1415,48 +1416,53 @@
         },
         {
             "id": "snna_2",
-            "name": "Soma of PPRG in N_ambiguus-2",
+            "name": "Soma of PSPR in N_ambiguus-Neuron 2(bron)",
             "external": [
                 "NLX:154731"
             ],
             "topology": "BAG",
-            "supertype": "ns"
+            "supertype": "ns",
+            "seedIn": "neuron-2"
         },
         {
             "id": "sn-trac_3",
-            "name": "Soma of PPRG in trachea_3",
+            "name": "Soma of PSPR in trachea_Neuron 3(bron)",
             "external": [
                 "NLX:154731"
             ],
             "topology": "BAG",
-            "supertype": "ns"
+            "supertype": "ns",
+            "seedIn": "neuron-3"
         },
         {
             "id": "sn-bron_4",
-            "name": "Soma of PPRG in bronchus_4",
+            "name": "Soma of PSPR in bronchus_Neuron 4(bron)",
             "external": [
                 "NLX:154731"
             ],
             "topology": "BAG",
-            "supertype": "ns"
+            "supertype": "ns",
+            "seedIn": "neuron-4"
         },
         {
             "id": "sn-bronle_5",
-            "name": "Soma of PPRG in bronchiole_5",
+            "name": "Soma of PSPR in bronchiole_Neuron 5(bron)",
             "external": [
                 "NLX:154731"
             ],
             "topology": "BAG",
-            "supertype": "ns"
+            "supertype": "ns",
+            "seedIn": "neuron-5"
         },
         {
             "id": "sn_termbronle_6",
-            "name": "Soma of PPRG in terminal bronchiole_6",
+            "name": "Soma of PSPR in terminal bronchiole_Neuron 6(bron)",
             "external": [
                 "NLX:154731"
             ],
             "topology": "BAG",
-            "supertype": "ns"
+            "supertype": "ns",
+            "seedIn": "neuron-6"
         },
         {
             "id": "229",
@@ -1820,7 +1826,7 @@
     "chains": [
         {
             "id": "dc-snt1_1",
-            "name": "T1-1 SPRG dendrite chain",
+            "name": "T1-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1835,7 +1841,7 @@
         },
         {
             "id": "ac-snt1_1",
-            "name": "T1-1 SPRG axon chain",
+            "name": "T1-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1861,7 +1867,7 @@
         },
         {
             "id": "dc-snt2_1",
-            "name": "T2-1 SPRG dendrite chain",
+            "name": "T2-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1876,7 +1882,7 @@
         },
         {
             "id": "ac-snt2_1",
-            "name": "T2-1 SPRG axon chain",
+            "name": "T2-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1902,7 +1908,7 @@
         },
         {
             "id": "dc-snt3_1",
-            "name": "T3-1 SPRG dendrite chain",
+            "name": "T3-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1917,7 +1923,7 @@
         },
         {
             "id": "ac-snt3_1",
-            "name": "T3-1 SPRG axon chain",
+            "name": "T3-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1943,7 +1949,7 @@
         },
         {
             "id": "dc-snt4_1",
-            "name": "T4-1 SPRG dendrite chain",
+            "name": "T4-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1958,7 +1964,7 @@
         },
         {
             "id": "ac-snt4_1",
-            "name": "T4-1 SPRG axon chain",
+            "name": "T4-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1984,7 +1990,7 @@
         },
         {
             "id": "dc-snt5_1",
-            "name": "T5-1 SPRG dendrite chain",
+            "name": "T5-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1999,7 +2005,7 @@
         },
         {
             "id": "ac-snt5_1",
-            "name": "T5-1 SPRG axon chain",
+            "name": "T5-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2025,7 +2031,7 @@
         },
         {
             "id": "dc-snt6_1",
-            "name": "T6-1 SPRG dendrite chain",
+            "name": "T6-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2040,7 +2046,7 @@
         },
         {
             "id": "ac-snt6_1",
-            "name": "T6-1 SPRG axon chain",
+            "name": "T6-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2066,7 +2072,7 @@
         },
         {
             "id": "dc-snt7_1",
-            "name": "T7-1 SPRG dendrite chain",
+            "name": "T7-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2081,7 +2087,7 @@
         },
         {
             "id": "ac-snt7_1",
-            "name": "T7-1 SPRG axon chain",
+            "name": "T7-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2107,7 +2113,7 @@
         },
         {
             "id": "dc-snt8_1",
-            "name": "T8-1 SPRG dendrite chain",
+            "name": "T8-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2122,7 +2128,7 @@
         },
         {
             "id": "ac-snt8_1",
-            "name": "T8-1 SPRG axon chain",
+            "name": "T8-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2148,7 +2154,7 @@
         },
         {
             "id": "dc-snt9_1",
-            "name": "T9-1 SPRG dendrite chain",
+            "name": "T9-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2163,7 +2169,7 @@
         },
         {
             "id": "ac-snt9_1",
-            "name": "T9-1 SPRG axon chain",
+            "name": "T9-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2189,7 +2195,7 @@
         },
         {
             "id": "dc-snt10_1",
-            "name": "T10-1 SPRG dendrite chain",
+            "name": "T10-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2204,7 +2210,7 @@
         },
         {
             "id": "ac-snt10_1",
-            "name": "T10-1 SPRG axon chain",
+            "name": "T10-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2230,7 +2236,7 @@
         },
         {
             "id": "dc-snt11_1",
-            "name": "T11-1 SPRG dendrite chain",
+            "name": "T11-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2245,7 +2251,7 @@
         },
         {
             "id": "ac-snt11_1",
-            "name": "T11-1 SPRG axon chain",
+            "name": "T11-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2271,7 +2277,7 @@
         },
         {
             "id": "dc-snt12_1",
-            "name": "T12-1 SPRG dendrite chain",
+            "name": "T12-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2286,7 +2292,7 @@
         },
         {
             "id": "ac-snt12_1",
-            "name": "T12-1 SPRG axon chain",
+            "name": "T12-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2312,7 +2318,7 @@
         },
         {
             "id": "dc-snt13_1",
-            "name": "T13-1 SPRG dendrite chain",
+            "name": "T13-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2327,7 +2333,7 @@
         },
         {
             "id": "ac-snt13_1",
-            "name": "T13-1 SPRG axon chain",
+            "name": "T13-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2353,7 +2359,7 @@
         },
         {
             "id": "dc-snl1_1",
-            "name": "L1-1 SPRG dendrite chain",
+            "name": "L1-1 SPRG dendrite chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2368,7 +2374,7 @@
         },
         {
             "id": "ac-snl1_1",
-            "name": "L1-1 SPRG axon chain",
+            "name": "L1-1 SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2394,7 +2400,7 @@
         },
         {
             "id": "ac-am_1",
-            "name": "spinal cord to adrenal medulla SPRG axon chain",
+            "name": "spinal cord to adrenal medulla SPRG axon chain_Neuron 1 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2414,7 +2420,7 @@
         },
         {
             "id": "dc-snna_2",
-            "name": "Med-2 PPRG dendrite chain",
+            "name": "Med-2 PPRG dendrite chain_Neuron 2 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2426,7 +2432,7 @@
         },
         {
             "id": "ac-snna_2",
-            "name": "N_ambiguus-2 PPRG axon chain",
+            "name": "N_ambiguus-2 PPRG axon chain_Neuron 2 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2446,7 +2452,7 @@
         },
         {
             "id": "ac-tra_2",
-            "name": "PPRG in trachea_2 axon chain",
+            "name": "PPRG in trachea_2 axon chainNeuron 2 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2464,7 +2470,7 @@
         },
         {
             "id": "ac-bron_2",
-            "name": "PPRG in bronchus_2 axon chain",
+            "name": "PPRG in bronchus_2 axon chain_Neuron 2 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2482,7 +2488,7 @@
         },
         {
             "id": "ac-bronl_2",
-            "name": "PPRG in bronchiole_2 axon chain",
+            "name": "PPRG in bronchiole_2 axon chain_Neuron 2 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2500,7 +2506,7 @@
         },
         {
             "id": "ac-terbronl_2",
-            "name": "PPRG in terminal bronchiole_2 axon chain",
+            "name": "PPRG in terminal bronchiole_2 axon chain_Neuron 2 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2518,7 +2524,7 @@
         },
         {
             "id": "dc-trac_3",
-            "name": "PPRG in trachea_3 dendrite chain",
+            "name": "PPRG in trachea_3 dendrite chain_Neuron 3 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2530,7 +2536,7 @@
         },
         {
             "id": "ac-trac_3",
-            "name": "PPRG in trachea_3 axon chain",
+            "name": "PPRG in trachea_3 axon chain_Neuron 3 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2548,7 +2554,7 @@
         },
         {
             "id": "dc-bron_4",
-            "name": "PPRG in bronchus_4 axon chain",
+            "name": "PPRG in bronchus_4 axon chain_Neuron 4 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2560,7 +2566,7 @@
         },
         {
             "id": "ac-bron_4",
-            "name": "PPRG in bronchus_4 dendrite chain",
+            "name": "PPRG in bronchus_4 dendrite chain_Neuron 4 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2578,7 +2584,7 @@
         },
         {
             "id": "dc-bronle_5",
-            "name": "PPRG in bronchiole_5 dendrite chain",
+            "name": "PPRG in bronchiole_5 dendrite chain_Neuron 5 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2590,7 +2596,7 @@
         },
         {
             "id": "ac-bronle_5",
-            "name": "PPRG in bronchiole_5 axon chain",
+            "name": "PPRG in bronchiole_5 axon chain_Neuron 5 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2608,7 +2614,7 @@
         },
         {
             "id": "dc_termbronle_6",
-            "name": "PPRG in terminal bronchiole_6 dendrite chain",
+            "name": "PPRG in terminal bronchiole_6 dendrite chain_Neuron 6 (bron)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2620,7 +2626,7 @@
         },
         {
             "id": "ac_termbronle_6",
-            "name": "PPRG in terminal bronchiole_6 axon chain",
+            "name": "PPRG in terminal bronchiole_6 axon chain_Neuron 6 (bron)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2665,56 +2671,8 @@
     ],
     "groups": [
         {
-            "id": "Neuron1",
-            "name": "Neuron1",
-            "links": [
-                "lnk-snt1_1",
-                "lnk-snt2_1",
-                "lnk-snt3_1",
-                "lnk-snt4_1",
-                "lnk-snt5_1",
-                "lnk-snt6_1",
-                "lnk-snt7_1",
-                "lnk-snt8_1",
-                "lnk-snt9_1",
-                "lnk-snt10_1",
-                "lnk-snt11_1",
-                "lnk-snt12_1",
-                "lnk-snt13_1",
-                "lnk-snl1_1"
-            ],
-            "nodes": [
-                "ns1",
-                "ns2",
-                "ns3",
-                "ns4",
-                "ns5",
-                "ns6",
-                "ns7",
-                "ns8",
-                "ns9",
-                "ns10",
-                "ns11",
-                "ns12",
-                "ns13",
-                "ns14",
-                "ns15",
-                "ns16",
-                "ns17",
-                "ns18",
-                "ns19",
-                "ns20",
-                "ns21",
-                "ns22",
-                "ns23",
-                "ns24",
-                "ns25",
-                "ns26",
-                "ns27",
-                "ns28",
-                "ns29",
-                "ns29_5"
-            ],
+            "id": "neuron-1",
+            "name": "Neuron 1",
             "publications": [
                 "PMID:8300416",
                 "PMID:3198482",
@@ -2722,80 +2680,36 @@
             ]
         },
         {
-            "id": "Neuron2",
-            "name": "Neuron2",
-            "links": [
-                "lnk-snna_2"
-            ],
-            "nodes": [
-                "ns30",
-                "ns31",
-                "ns32",
-                "ns33",
-                "ns34",
-                "ns35",
-                "ns35_5"
-            ],
+            "id": "neuron-2",
+            "name": "Neuron 2",
             "publications": [
                 "DOI:10.1016/B978-0-444-53491-0.09985-5"
             ]
         },
         {
-            "id": "Neuron3",
-            "name": "Neuron3",
-            "links": [
-                "lnk-sn-trac_3"
-            ],
-            "nodes": [
-                "ns40",
-                "ns41",
-                "ns42"
-            ],
+            "id": "neuron-3",
+            "name": "Neuron 3",
             "publications": [
                 "DOI:10.1016/B978-0-444-53491-0.09985-5"
             ]
         },
         {
-            "id": "Neuron4",
-            "name": "Neuron4",
-            "links": [
-                "lnk-sn-bron_4"
-            ],
-            "nodes": [
-                "ns45",
-                "ns46",
-                "ns47"
-            ],
+            "id": "neuron-4",
+            "name": "Neuron 4",
             "publications": [
                 "DOI:10.1016/B978-0-444-53491-0.09985-5"
             ]
         },
         {
-            "id": "Neuron5",
-            "name": "Neuron5",
-            "links": [
-                "lnk-sn-bronle_5"
-            ],
-            "nodes": [
-                "ns50",
-                "ns51",
-                "ns52"
-            ],
+            "id": "neuron-5",
+            "name": "Neuron 5",
             "publications": [
                 "DOI:10.1016/B978-0-444-53491-0.09985-5"
             ]
         },
         {
-            "id": "Neuron6",
-            "name": "Neuron6",
-            "links": [
-                "lnk-sn_termbronle_6"
-            ],
-            "nodes": [
-                "ns55",
-                "ns56",
-                "ns57"
-            ],
+            "id": "neuron-6",
+            "name": "Neuron 6",
             "publications": [
                 "DOI:10.1016/B978-0-444-53491-0.09985-5"
             ]

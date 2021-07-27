@@ -4446,7 +4446,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag2",
+            "lyphTemplate": "229bag",
             "root": "leafroot-ac-4-n-blad",
             "leaf": "leaf-ac-4-K100",
             "housingLayers": [
@@ -4466,7 +4466,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag2",
+            "lyphTemplate": "229bag",
             "root": "leafroot-ac-4-n-blad",
             "leaf": "leaf-ac-4-K99",
             "housingLayers": [
