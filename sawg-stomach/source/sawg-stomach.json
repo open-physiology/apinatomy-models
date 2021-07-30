@@ -807,7 +807,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns3",
             "leaf": "ns4",
             "housingLyphs": [
@@ -834,7 +834,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns7",
             "leaf": "ns8",
             "housingLyphs": [
@@ -861,7 +861,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns11",
             "leaf": "ns12",
             "housingLyphs": [
@@ -888,7 +888,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns15",
             "leaf": "ns16",
             "housingLyphs": [

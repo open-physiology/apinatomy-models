@@ -1534,7 +1534,7 @@
             ],
             "root": "ns2",
             "leaf": "ns5",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
                 6,
                 0,
@@ -1593,7 +1593,7 @@
             ],
             "root": "ns5",
             "leaf": "ns6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
                 0,
                 0,

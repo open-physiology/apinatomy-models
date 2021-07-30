@@ -1786,6 +1786,51 @@
             ]
         },
         {
+            "id": "229bag",
+            "name": "Segment of neuron (kblad)",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true,
+            "topology": "BAG"
+        },
+        {
+            "id": "axon-bag",
+            "name": "Axon terminal (kblad)",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "BAG"
+        },
+        {
+            "id": "axon-tube",
+            "name": "Axon segment (kblad)",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE"
+        },
+        {
+            "id": "dend-bag",
+            "name": "Dendrite terminal (kblad)",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "BAG"
+        },
+        {
+            "id": "dend-tube",
+            "name": "Dendrite segment (kblad)",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE"
+        },
+        {
             "id": "107in214",
             "name": "Neural tissue of T1",
             "external": [
@@ -2224,7 +2269,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-1"
         },
         {
             "id": "soma228",
@@ -2232,7 +2278,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-2"
         },
         {
             "id": "soma107in214",
@@ -2240,7 +2287,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-3"
         },
         {
             "id": "soma265",
@@ -2248,7 +2296,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-4"
         },
         {
             "id": "soma266",
@@ -2256,7 +2305,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-5"
         },
         {
             "id": "soma262",
@@ -2264,7 +2314,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-6"
         },
         {
             "id": "soma264",
@@ -2272,7 +2323,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-7"
         },
         {
             "id": "soma249_1",
@@ -2280,7 +2332,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-8"
         },
         {
             "id": "soma249_2",
@@ -2288,7 +2341,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-9"
         },
         {
             "id": "soma249_3",
@@ -2296,7 +2350,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-10"
         },
         {
             "id": "soma248_1",
@@ -2304,7 +2359,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-11"
         },
         {
             "id": "soma248_2",
@@ -2312,143 +2368,161 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-12"
         },
         {
             "id": "soma220_1",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (1) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-13"
         },
         {
             "id": "soma220_2",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (2) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-14"
         },
         {
             "id": "soma220_3",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (3) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-15"
         },
         {
             "id": "soma220_4",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (4) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-16"
         },
         {
             "id": "soma220_5",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (5) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-17"
         },
         {
             "id": "soma220_6",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (6) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-18"
         },
         {
             "id": "soma220_7",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (7) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-19"
         },
         {
             "id": "soma220_8",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (8) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-20"
         },
         {
             "id": "soma220_9",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (9) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-21"
         },
         {
             "id": "soma220_10",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (10) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-22"
         },
         {
             "id": "soma220_11",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (11) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-23"
         },
         {
             "id": "soma220_12",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (12) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-24"
         },
         {
             "id": "soma220_13",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (13) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-25"
         },
         {
             "id": "soma220_14",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (14) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-26"
         },
         {
             "id": "soma220_15",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (15) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-27"
         },
         {
             "id": "soma220_16",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (16) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-28"
         },
         {
             "id": "soma220_17",
-            "name": "Soma in Superior cervical ganglion (bolew)",
+            "name": "Soma in superior cervical ganglion (17) (bolew)",
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229"
+            "supertype": "229",
+            "seedIn": "neuron-29"
         }
     ],
     "materials": [
@@ -2781,7 +2855,7 @@
                 "SAO:1211023249"
             ],
             "root": "s202",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "202"
             ]
@@ -2793,7 +2867,7 @@
                 "SAO:1211023249"
             ],
             "root": "s228",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "228"
             ]
@@ -2805,7 +2879,7 @@
                 "SAO:1211023249"
             ],
             "root": "s107in214",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "107in214"
             ]
@@ -2817,7 +2891,7 @@
                 "SAO:1211023249"
             ],
             "root": "s265",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "265"
             ]
@@ -2829,7 +2903,7 @@
                 "SAO:1211023249"
             ],
             "root": "s266",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "266"
             ]
@@ -2841,7 +2915,7 @@
                 "SAO:1211023249"
             ],
             "root": "s262",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "262"
             ]
@@ -2853,7 +2927,7 @@
                 "SAO:1211023249"
             ],
             "root": "s264",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "264"
             ]
@@ -2865,7 +2939,7 @@
                 "SAO:1211023249"
             ],
             "root": "s249_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "249",
                 "239",
@@ -2881,7 +2955,7 @@
                 "SAO:1211023249"
             ],
             "root": "s248_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "248",
                 "240",
@@ -2897,7 +2971,7 @@
                 "SAO:1211023249"
             ],
             "root": "s248_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "248",
                 "240",
@@ -2913,7 +2987,7 @@
                 "SAO:1211023249"
             ],
             "root": "s249_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "249",
                 "239",
@@ -2929,7 +3003,7 @@
                 "SAO:1211023249"
             ],
             "root": "s249_3",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "249",
                 "239",
@@ -2945,7 +3019,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -2957,7 +3031,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -2969,7 +3043,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_3",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -2981,7 +3055,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_4",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -2993,7 +3067,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_5",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3005,7 +3079,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3017,7 +3091,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_7",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3029,7 +3103,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_8",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3041,7 +3115,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_9",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3053,7 +3127,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_10",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3065,7 +3139,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_11",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3077,7 +3151,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_12",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3089,7 +3163,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_13",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3101,7 +3175,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_14",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3113,7 +3187,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_15",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3125,7 +3199,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_16",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3137,7 +3211,7 @@
                 "SAO:1211023249"
             ],
             "root": "s220_17",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "220"
             ]
@@ -3149,7 +3223,7 @@
                 "SAO:1770195789"
             ],
             "root": "t202",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "202",
                 "201",
@@ -3176,7 +3250,7 @@
                 "SAO:1770195789"
             ],
             "root": "t228",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "228",
                 "214",
@@ -3198,7 +3272,7 @@
                 "SAO:1770195789"
             ],
             "root": "t107in214",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "107in214",
                 "230",
@@ -3212,7 +3286,7 @@
                 "SAO:1770195789"
             ],
             "root": "t265",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "265",
                 "107in209",
@@ -3227,7 +3301,7 @@
                 "SAO:1770195789"
             ],
             "root": "t266",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "266",
                 "107in210",
@@ -3242,7 +3316,7 @@
                 "SAO:1770195789"
             ],
             "root": "t262",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "262",
                 "107in205",
@@ -3265,7 +3339,7 @@
                 "SAO:1770195789"
             ],
             "root": "t264",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "264",
                 "107in205",
@@ -3288,7 +3362,7 @@
                 "SAO:1770195789"
             ],
             "root": "t249_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "249",
                 "239",
@@ -3303,7 +3377,7 @@
                 "SAO:1770195789"
             ],
             "root": "t248_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "248",
                 "240",
@@ -3318,7 +3392,7 @@
                 "SAO:1770195789"
             ],
             "root": "t248_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "248",
                 "240",
@@ -3333,7 +3407,7 @@
                 "SAO:1770195789"
             ],
             "root": "t249_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "249",
                 "239",
@@ -3348,7 +3422,7 @@
                 "SAO:1770195789"
             ],
             "root": "t249_3",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "249",
                 "239",
@@ -3363,7 +3437,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "234",
@@ -3381,7 +3455,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3397,7 +3471,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_3",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3413,7 +3487,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_4",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3430,7 +3504,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_5",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3447,7 +3521,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3464,7 +3538,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_7",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3481,7 +3555,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_8",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3498,7 +3572,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_9",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3515,7 +3589,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_10",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "235",
@@ -3529,7 +3603,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_11",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "237",
@@ -3543,7 +3617,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_12",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "109in222"
@@ -3556,7 +3630,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_13",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "237",
@@ -3570,7 +3644,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_14",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "237",
@@ -3586,7 +3660,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_15",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "237",
@@ -3601,7 +3675,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_16",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "237",
@@ -3616,7 +3690,7 @@
                 "SAO:1770195789"
             ],
             "root": "t220_17",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "220",
                 "237",
@@ -3629,6 +3703,15 @@
         {
             "id": "b1",
             "name": "Blood vessels",
+            "links": [
+                "lnk100",
+                "lnk101",
+                "lnk102",
+                "lnk103",
+                "lnk200",
+                "lnk201",
+                "lnk202"
+            ],
             "nodes": [
                 "100a",
                 "100b",
@@ -3639,15 +3722,6 @@
                 "200b",
                 "200c",
                 "200d"
-            ],
-            "links": [
-                "lnk100",
-                "lnk101",
-                "lnk102",
-                "lnk103",
-                "lnk200",
-                "lnk201",
-                "lnk202"
             ]
         },
         {
@@ -3674,6 +3748,24 @@
         {
             "id": "b3",
             "name": "Housing lyphs",
+            "links": [
+                "lnk1",
+                "lnk2",
+                "lnk3",
+                "lnk4",
+                "lnk5",
+                "lnk6",
+                "lnk7",
+                "lnk8",
+                "lnk9",
+                "lnk10",
+                "lnk11",
+                "lnk12",
+                "lnk13",
+                "lnk14",
+                "lnk15",
+                "lnk16"
+            ],
             "nodes": [
                 "1a",
                 "2a",
@@ -3707,24 +3799,209 @@
                 "14b",
                 "15b",
                 "16b"
-            ],
-            "links": [
-                "lnk1",
-                "lnk2",
-                "lnk3",
-                "lnk4",
-                "lnk5",
-                "lnk6",
-                "lnk7",
-                "lnk8",
-                "lnk9",
-                "lnk10",
-                "lnk11",
-                "lnk12",
-                "lnk13",
-                "lnk14",
-                "lnk15",
-                "lnk16"
+            ]
+        },
+        {
+            "id": "neuron-1",
+            "name": "Neuron population in Paraventricular nucleus (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-1"
+            ]
+        },
+        {
+            "id": "neuron-2",
+            "name": "Neuron population in T1 Rexed Lamina VII (scg projecting) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-2"
+            ]
+        },
+        {
+            "id": "neuron-3",
+            "name": "Neuron population in T1 Rexed Lamina VII (intercostal projecting) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-3"
+            ]
+        },
+        {
+            "id": "neuron-4",
+            "name": "Neuron population in phrenic nucleus of C4 (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-4"
+            ]
+        },
+        {
+            "id": "neuron-5",
+            "name": "Neuron population in phrenic nucleus of C5 (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-5"
+            ]
+        },
+        {
+            "id": "neuron-6",
+            "name": "Neuron population in nucleus tractus solitarius (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-6"
+            ]
+        },
+        {
+            "id": "neuron-7",
+            "name": "Neuron population in rostral ventrolateral medulla (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-7"
+            ]
+        },
+        {
+            "id": "neuron-8",
+            "name": "Neuron population in nodose ganglion aa proj (1) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-8"
+            ]
+        },
+        {
+            "id": "neuron-9",
+            "name": "Neuron population in nodose ganglion lar proj (2) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-9"
+            ]
+        },
+        {
+            "id": "neuron-10",
+            "name": "Neuron population in nodose ganglion epi proj (3) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-10"
+            ]
+        },
+        {
+            "id": "neuron-11",
+            "name": "Neuron population in petrosal ganglion cb proj (1) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-11"
+            ]
+        },
+        {
+            "id": "neuron-12",
+            "name": "Neuron population in petrosal ganglion cs proj (2) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-12"
+            ]
+        },
+        {
+            "id": "neuron-13",
+            "name": "Neuron population in superior cervical ganglion (1) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-13"
+            ]
+        },
+        {
+            "id": "neuron-14",
+            "name": "Neuron population in superior cervical ganglion (2) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-14"
+            ]
+        },
+        {
+            "id": "neuron-15",
+            "name": "Neuron population in superior cervical ganglion (3) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-15"
+            ]
+        },
+        {
+            "id": "neuron-16",
+            "name": "Neuron population in superior cervical ganglion (4) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-16"
+            ]
+        },
+        {
+            "id": "neuron-17",
+            "name": "Neuron population in superior cervical ganglion (5) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-17"
+            ]
+        },
+        {
+            "id": "neuron-18",
+            "name": "Neuron population in superior cervical ganglion (6) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-18"
+            ]
+        },
+        {
+            "id": "neuron-19",
+            "name": "Neuron population in superior cervical ganglion (7) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-19"
+            ]
+        },
+        {
+            "id": "neuron-20",
+            "name": "Neuron population in superior cervical ganglion (8) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-20"
+            ]
+        },
+        {
+            "id": "neuron-21",
+            "name": "Neuron population in superior cervical ganglion (9) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-21"
+            ]
+        },
+        {
+            "id": "neuron-22",
+            "name": "Neuron population in superior cervical ganglion (10) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-22"
+            ]
+        },
+        {
+            "id": "neuron-23",
+            "name": "Neuron population in superior cervical ganglion (11) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-23"
+            ]
+        },
+        {
+            "id": "neuron-24",
+            "name": "Neuron population in superior cervical ganglion (12) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-24"
+            ]
+        },
+        {
+            "id": "neuron-25",
+            "name": "Neuron population in superior cervical ganglion (13) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-25"
+            ]
+        },
+        {
+            "id": "neuron-26",
+            "name": "Neuron population in superior cervical ganglion (14) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-26"
+            ]
+        },
+        {
+            "id": "neuron-27",
+            "name": "Neuron population in superior cervical ganglion (15) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-27"
+            ]
+        },
+        {
+            "id": "neuron-28",
+            "name": "Neuron population in superior cervical ganglion (16) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-28"
+            ]
+        },
+        {
+            "id": "neuron-29",
+            "name": "Neuron population in superior cervical ganglion (17) (bolew)",
+            "external": [
+                "ilxtr:neuron-type-bolew-29"
             ]
         }
     ],

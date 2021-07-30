@@ -731,6 +731,10 @@
         {
             "prefix": "NCBITaxon",
             "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        },
+        {
+            "prefix": "NCIT",
+            "namespace": "http://purl.obolibrary.org/obo/NCIT_"
         }
     ],
     "id": "vagus-nerve",
