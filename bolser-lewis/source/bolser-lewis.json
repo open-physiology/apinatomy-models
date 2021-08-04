@@ -3805,203 +3805,203 @@
             "id": "neuron-1",
             "name": "Neuron population in Paraventricular nucleus (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-1"
+                "ilxtr:neuron-type-bolew-unbranched-1"
             ]
         },
         {
             "id": "neuron-2",
             "name": "Neuron population in T1 Rexed Lamina VII (scg projecting) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-2"
+                "ilxtr:neuron-type-bolew-unbranched-2"
             ]
         },
         {
             "id": "neuron-3",
             "name": "Neuron population in T1 Rexed Lamina VII (intercostal projecting) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-3"
+                "ilxtr:neuron-type-bolew-unbranched-3"
             ]
         },
         {
             "id": "neuron-4",
             "name": "Neuron population in phrenic nucleus of C4 (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-4"
+                "ilxtr:neuron-type-bolew-unbranched-4"
             ]
         },
         {
             "id": "neuron-5",
             "name": "Neuron population in phrenic nucleus of C5 (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-5"
+                "ilxtr:neuron-type-bolew-unbranched-5"
             ]
         },
         {
             "id": "neuron-6",
             "name": "Neuron population in nucleus tractus solitarius (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-6"
+                "ilxtr:neuron-type-bolew-unbranched-6"
             ]
         },
         {
             "id": "neuron-7",
             "name": "Neuron population in rostral ventrolateral medulla (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-7"
+                "ilxtr:neuron-type-bolew-unbranched-7"
             ]
         },
         {
             "id": "neuron-8",
             "name": "Neuron population in nodose ganglion aa proj (1) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-8"
+                "ilxtr:neuron-type-bolew-unbranched-8"
             ]
         },
         {
             "id": "neuron-9",
             "name": "Neuron population in nodose ganglion lar proj (2) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-9"
+                "ilxtr:neuron-type-bolew-unbranched-9"
             ]
         },
         {
             "id": "neuron-10",
             "name": "Neuron population in nodose ganglion epi proj (3) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-10"
+                "ilxtr:neuron-type-bolew-unbranched-10"
             ]
         },
         {
             "id": "neuron-11",
             "name": "Neuron population in petrosal ganglion cb proj (1) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-11"
+                "ilxtr:neuron-type-bolew-unbranched-11"
             ]
         },
         {
             "id": "neuron-12",
             "name": "Neuron population in petrosal ganglion cs proj (2) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-12"
+                "ilxtr:neuron-type-bolew-unbranched-12"
             ]
         },
         {
             "id": "neuron-13",
             "name": "Neuron population in superior cervical ganglion (1) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-13"
+                "ilxtr:neuron-type-bolew-unbranched-13"
             ]
         },
         {
             "id": "neuron-14",
             "name": "Neuron population in superior cervical ganglion (2) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-14"
+                "ilxtr:neuron-type-bolew-unbranched-14"
             ]
         },
         {
             "id": "neuron-15",
             "name": "Neuron population in superior cervical ganglion (3) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-15"
+                "ilxtr:neuron-type-bolew-unbranched-15"
             ]
         },
         {
             "id": "neuron-16",
             "name": "Neuron population in superior cervical ganglion (4) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-16"
+                "ilxtr:neuron-type-bolew-unbranched-16"
             ]
         },
         {
             "id": "neuron-17",
             "name": "Neuron population in superior cervical ganglion (5) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-17"
+                "ilxtr:neuron-type-bolew-unbranched-17"
             ]
         },
         {
             "id": "neuron-18",
             "name": "Neuron population in superior cervical ganglion (6) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-18"
+                "ilxtr:neuron-type-bolew-unbranched-18"
             ]
         },
         {
             "id": "neuron-19",
             "name": "Neuron population in superior cervical ganglion (7) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-19"
+                "ilxtr:neuron-type-bolew-unbranched-19"
             ]
         },
         {
             "id": "neuron-20",
             "name": "Neuron population in superior cervical ganglion (8) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-20"
+                "ilxtr:neuron-type-bolew-unbranched-20"
             ]
         },
         {
             "id": "neuron-21",
             "name": "Neuron population in superior cervical ganglion (9) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-21"
+                "ilxtr:neuron-type-bolew-unbranched-21"
             ]
         },
         {
             "id": "neuron-22",
             "name": "Neuron population in superior cervical ganglion (10) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-22"
+                "ilxtr:neuron-type-bolew-unbranched-22"
             ]
         },
         {
             "id": "neuron-23",
             "name": "Neuron population in superior cervical ganglion (11) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-23"
+                "ilxtr:neuron-type-bolew-unbranched-23"
             ]
         },
         {
             "id": "neuron-24",
             "name": "Neuron population in superior cervical ganglion (12) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-24"
+                "ilxtr:neuron-type-bolew-unbranched-24"
             ]
         },
         {
             "id": "neuron-25",
             "name": "Neuron population in superior cervical ganglion (13) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-25"
+                "ilxtr:neuron-type-bolew-unbranched-25"
             ]
         },
         {
             "id": "neuron-26",
             "name": "Neuron population in superior cervical ganglion (14) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-26"
+                "ilxtr:neuron-type-bolew-unbranched-26"
             ]
         },
         {
             "id": "neuron-27",
             "name": "Neuron population in superior cervical ganglion (15) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-27"
+                "ilxtr:neuron-type-bolew-unbranched-27"
             ]
         },
         {
             "id": "neuron-28",
             "name": "Neuron population in superior cervical ganglion (16) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-28"
+                "ilxtr:neuron-type-bolew-unbranched-28"
             ]
         },
         {
             "id": "neuron-29",
             "name": "Neuron population in superior cervical ganglion (17) (bolew)",
             "external": [
-                "ilxtr:neuron-type-bolew-29"
+                "ilxtr:neuron-type-bolew-unbranched-29"
             ]
         }
     ],
@@ -4049,6 +4049,10 @@
         {
             "prefix": "NCBITaxon",
             "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        },
+        {
+            "prefix": "NCIT",
+            "namespace": "http://purl.obolibrary.org/obo/NCIT_"
         },
         {
             "prefix": "ilxtr",
