@@ -190,8 +190,8 @@
         },
         {
             "id": "lnk-sn-vicg_10",
-            "source": "ns52",
-            "target": "ns53",
+            "source": "ns152",
+            "target": "ns153",
             "conveyingLyph": "sn-vicg_10"
         },
         {
@@ -1237,6 +1237,42 @@
             "supertype": "ns"
         },
         {
+            "id": "axon-bag",
+            "name": "Axon terminal (kblad)",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-"
+        },
+        {
+            "id": "axon-tube",
+            "name": "Axon segment (kblad)",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE"
+        },
+        {
+            "id": "dend-bag",
+            "name": "Dendrite terminal (kblad)",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-"
+        },
+        {
+            "id": "dend-tube",
+            "name": "Dendrite segment (kblad)",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE"
+        },
+        {
             "id": "sn-nts_1",
             "name": "Soma of sensory neuron in Nucleus Tractus Soltarius_Neuron 1 (aacar)",
             "external": [
@@ -1985,7 +2021,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns1",
             "housingLyphs": [
                 "A72"
@@ -1997,7 +2033,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns2",
             "leaf": "ns3",
             "housingLayers": [
@@ -2025,7 +2061,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns5",
             "housingLyphs": [
                 "A62"
@@ -2037,7 +2073,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns6",
             "leaf": "ns7",
             "housingLyphs": [
@@ -2050,7 +2086,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns8",
             "housingLyphs": [
                 "A61"
@@ -2062,7 +2098,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns9",
             "leaf": "ns10",
             "housingLyphs": [
@@ -2075,7 +2111,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns11",
             "housingLyphs": [
                 "A70"
@@ -2087,7 +2123,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns12",
             "leaf": "ns13",
             "housingLayers": [
@@ -2105,7 +2141,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns14",
             "housingLyphs": [
                 "A71"
@@ -2117,7 +2153,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns15",
             "leaf": "ns13",
             "housingLayers": [
@@ -2135,7 +2171,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns13",
             "leaf": "ns16",
             "housingLayers": [
@@ -2155,7 +2191,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns13",
             "leaf": "ns17",
             "housingLayers": [
@@ -2175,7 +2211,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns35",
             "housingLayers": [
                 6
@@ -2190,7 +2226,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns36",
             "leaf": "ns37",
             "housingLayers": [
@@ -2214,7 +2250,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns37",
             "leaf": "ns38",
             "housingLayers": [
@@ -2262,7 +2298,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns38",
             "leaf": "ns50",
             "housingLyphs": [
@@ -2275,7 +2311,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns32",
             "housingLayers": [
                 6
@@ -2290,7 +2326,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns33",
             "leaf": "ns34",
             "housingLayers": [
@@ -2314,7 +2350,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns34",
             "leaf": "ns40",
             "housingLayers": [
@@ -2358,7 +2394,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns40",
             "leaf": "ns41",
             "housingLyphs": [
@@ -2371,7 +2407,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns29",
             "housingLayers": [
                 6
@@ -2386,7 +2422,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns30",
             "leaf": "ns31",
             "housingLayers": [
@@ -2410,7 +2446,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns31",
             "leaf": "ns42",
             "housingLayers": [
@@ -2450,7 +2486,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns42",
             "leaf": "ns43",
             "housingLyphs": [
@@ -2463,7 +2499,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns26",
             "housingLayers": [
                 6
@@ -2478,7 +2514,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns27",
             "leaf": "ns28",
             "housingLayers": [
@@ -2502,7 +2538,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns28",
             "leaf": "ns44",
             "housingLayers": [
@@ -2538,7 +2574,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns44",
             "leaf": "ns45",
             "housingLyphs": [
@@ -2551,7 +2587,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns23",
             "housingLayers": [
                 6
@@ -2566,7 +2602,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns24",
             "leaf": "ns25",
             "housingLayers": [
@@ -2590,7 +2626,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns25",
             "leaf": "ns46",
             "housingLayers": [
@@ -2622,7 +2658,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns46",
             "leaf": "ns47",
             "housingLyphs": [
@@ -2635,7 +2671,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns20",
             "housingLayers": [
                 6
@@ -2650,7 +2686,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns21",
             "leaf": "ns22",
             "housingLayers": [
@@ -2674,7 +2710,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns22",
             "leaf": "ns48",
             "housingLayers": [
@@ -2702,7 +2738,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns48",
             "leaf": "ns49",
             "housingLyphs": [
@@ -2715,7 +2751,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns50",
             "leaf": "ns51",
             "housingLyphs": [
@@ -2728,7 +2764,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns50",
             "leaf": "ns52",
             "housingLayers": [
@@ -2746,7 +2782,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns50",
             "leaf": "ns53",
             "housingLayers": [
@@ -2764,7 +2800,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns80",
             "housingLyphs": [
                 "A55"
@@ -2776,7 +2812,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns81",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2789,7 +2825,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns83",
             "housingLyphs": [
                 "A54"
@@ -2801,7 +2837,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns84",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2814,7 +2850,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns85",
             "housingLyphs": [
                 "A53"
@@ -2826,7 +2862,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns86",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2839,7 +2875,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns87",
             "housingLyphs": [
                 "A52"
@@ -2851,7 +2887,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns88",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2864,7 +2900,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns89",
             "housingLyphs": [
                 "A51"
@@ -2876,7 +2912,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns90",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2889,7 +2925,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns91",
             "housingLyphs": [
                 "A50"
@@ -2901,7 +2937,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns92",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2914,7 +2950,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns93",
             "housingLyphs": [
                 "A61"
@@ -2926,7 +2962,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns94",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2939,7 +2975,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns95",
             "housingLyphs": [
                 "A62"
@@ -2951,7 +2987,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns96",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2964,7 +3000,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns97",
             "housingLyphs": [
                 "A63"
@@ -2976,7 +3012,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns98",
             "leaf": "ns101",
             "housingLyphs": [
@@ -2989,7 +3025,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns99",
             "housingLyphs": [
                 "A82"
@@ -3001,7 +3037,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns100",
             "leaf": "ns101",
             "housingLyphs": [
@@ -3014,7 +3050,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns101",
             "leaf": "ns102",
             "housingLayers": [
@@ -3042,7 +3078,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns102",
             "leaf": "ns102_0",
             "housingLayers": [
@@ -3060,7 +3096,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns102",
             "leaf": "ns102_1",
             "housingLayers": [
@@ -3080,7 +3116,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns102",
             "leaf": "ns103_0",
             "housingLayers": [
@@ -3098,7 +3134,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns102",
             "leaf": "ns103_1",
             "housingLayers": [
@@ -3118,7 +3154,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns101",
             "leaf": "ns104",
             "housingLayers": [
@@ -3138,7 +3174,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns104",
             "leaf": "ns105_0",
             "housingLayers": [
@@ -3156,7 +3192,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns104",
             "leaf": "ns105_1",
             "housingLayers": [
@@ -3176,7 +3212,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns104",
             "leaf": "ns106_0",
             "housingLayers": [
@@ -3194,7 +3230,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns104",
             "leaf": "ns106_1",
             "housingLayers": [
@@ -3214,7 +3250,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns110",
             "housingLyphs": [
                 "A80"
@@ -3226,7 +3262,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns111",
             "leaf": "ns112",
             "housingLayers": [
@@ -3254,7 +3290,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns112",
             "leaf": "ns113",
             "housingLayers": [
@@ -3272,7 +3308,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns112",
             "leaf": "ns114",
             "housingLayers": [
@@ -3292,7 +3328,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns115",
             "housingLyphs": [
                 "A81"
@@ -3304,7 +3340,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns116",
             "leaf": "ns117",
             "housingLayers": [
@@ -3324,7 +3360,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns117",
             "leaf": "ns118",
             "housingLayers": [
@@ -3342,7 +3378,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns117",
             "leaf": "ns119",
             "housingLayers": [
@@ -3362,7 +3398,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns120",
             "housingLyphs": [
                 "A80"
@@ -3374,7 +3410,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns121",
             "leaf": "ns122",
             "housingLayers": [
@@ -3402,7 +3438,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns122",
             "leaf": "ns123",
             "housingLayers": [
@@ -3420,7 +3456,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns122",
             "leaf": "ns124",
             "housingLayers": [
@@ -3440,7 +3476,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns125",
             "housingLyphs": [
                 "A81"
@@ -3452,7 +3488,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns126",
             "leaf": "ns127",
             "housingLayers": [
@@ -3472,7 +3508,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns127",
             "leaf": "ns128",
             "housingLayers": [
@@ -3490,7 +3526,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns127",
             "leaf": "ns129",
             "housingLayers": [
@@ -3510,7 +3546,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns130",
             "housingLyphs": [
                 "A80"
@@ -3522,7 +3558,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns131",
             "leaf": "ns132",
             "housingLayers": [
@@ -3542,7 +3578,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns132",
             "leaf": "ns133",
             "housingLyphs": [
@@ -3555,7 +3591,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns132",
             "leaf": "ns134",
             "housingLayers": [
@@ -3573,7 +3609,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns132",
             "leaf": "ns135",
             "housingLayers": [
@@ -3593,7 +3629,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns140",
             "housingLyphs": [
                 "A81"
@@ -3605,7 +3641,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "root": "ns141",
             "leaf": "ns142",
             "housingLayers": [
@@ -3625,8 +3661,8 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
-            "root": "ns141",
+            "lyphTemplate": "axon-tube",
+            "root": "ns142",
             "leaf": "ns143",
             "housingLyphs": [
                 "A81"
@@ -3638,7 +3674,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns143",
             "leaf": "ns144",
             "housingLayers": [
@@ -3656,7 +3692,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns143",
             "leaf": "ns145",
             "housingLayers": [
@@ -3676,7 +3712,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns150",
             "leaf": "150_5",
             "housingLyphs": [
@@ -3689,9 +3725,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns151",
-            "leaf": "ns152",
+            "leaf": "ns151_1",
             "housingLyphs": [
                 "A80"
             ]
@@ -3702,8 +3738,8 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
-            "root": "ns153",
+            "lyphTemplate": "dend-bag",
+            "root": "ns152",
             "housingLyphs": [
                 "A81"
             ]
@@ -3714,7 +3750,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns153",
             "leaf": "ns154",
             "housingLyphs": [
@@ -3727,7 +3763,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns160",
             "leaf": "ns162",
             "housingLayers": [
@@ -3755,7 +3791,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns161",
             "leaf": "ns163",
             "housingLayers": [
@@ -3775,7 +3811,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-tube",
             "root": "ns162",
             "leaf": "ns164",
             "housingLayers": [
@@ -3791,7 +3827,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns164",
             "leaf": "ns165",
             "housingLayers": [
@@ -3807,7 +3843,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns164",
             "leaf": "ns166",
             "housingLayers": [
@@ -3825,7 +3861,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns164",
             "leaf": "ns167",
             "housingLayers": [
@@ -3845,7 +3881,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-tube",
             "root": "ns164",
             "leaf": "ns168",
             "housingLayers": [
@@ -3861,7 +3897,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-tube",
             "root": "ns168",
             "leaf": "ns169",
             "housingLayers": [
@@ -3877,7 +3913,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns169",
             "leaf": "ns169_1",
             "housingLayers": [
@@ -3895,7 +3931,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns169",
             "leaf": "ns169_2",
             "housingLayers": [
@@ -3915,7 +3951,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns169",
             "leaf": "ns170",
             "housingLayers": [
@@ -3931,7 +3967,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-tube",
             "root": "ns168",
             "leaf": "ns171",
             "housingLayers": [
@@ -3947,7 +3983,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns171",
             "leaf": "ns172",
             "housingLayers": [
@@ -3965,7 +4001,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns171",
             "leaf": "ns173",
             "housingLayers": [
@@ -3983,7 +4019,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns180",
             "leaf": "ns180_1",
             "housingLyphs": [
@@ -3996,7 +4032,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-tube",
             "root": "ns181",
             "leaf": "ns182",
             "housingLyphs": [
@@ -4009,7 +4045,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns185",
             "leaf": "ns180_1",
             "housingLyphs": [
@@ -4022,7 +4058,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-tube",
             "root": "ns180_1",
             "leaf": "ns182",
             "housingLyphs": [
@@ -4035,7 +4071,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns182",
             "leaf": "ns187",
             "housingLyphs": [
@@ -4048,7 +4084,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns182",
             "leaf": "ns188",
             "housingLyphs": [
@@ -4061,7 +4097,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns190",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4074,7 +4110,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns191",
             "leaf": "ns192",
             "housingLayers": [
@@ -4092,7 +4128,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns193",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4105,9 +4141,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns194",
-            "leaf": "ns192",
+            "leaf": "ns192_1",
             "housingLayers": [
                 0,
                 5
@@ -4123,7 +4159,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns195",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4136,9 +4172,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns196",
-            "leaf": "ns192",
+            "leaf": "ns192_2",
             "housingLayers": [
                 0,
                 5
@@ -4154,7 +4190,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "root": "ns197",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4167,9 +4203,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns198",
-            "leaf": "ns192",
+            "leaf": "ns192_3",
             "housingLayers": [
                 0,
                 5
@@ -4185,7 +4221,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns199",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4198,9 +4234,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns200",
-            "leaf": "ns192",
+            "leaf": "ns192_4",
             "housingLayers": [
                 0,
                 5
@@ -4216,7 +4252,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns201",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4229,9 +4265,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns202",
-            "leaf": "ns192",
+            "leaf": "ns192_5",
             "housingLayers": [
                 0,
                 5
@@ -4247,7 +4283,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "root": "ns203",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4260,9 +4296,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns204",
-            "leaf": "ns192",
+            "leaf": "ns192_6",
             "housingLayers": [
                 0,
                 5
@@ -4278,7 +4314,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-bag",
             "root": "ns205",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4291,9 +4327,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns206",
-            "leaf": "ns192",
+            "leaf": "ns192_7",
             "housingLayers": [
                 0,
                 5
@@ -4309,7 +4345,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns207",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4322,9 +4358,9 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "root": "ns208",
-            "leaf": "ns192",
+            "leaf": "ns192_8",
             "housingLayers": [
                 0,
                 5
@@ -4340,7 +4376,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-tube",
             "root": "ns190_1",
             "leaf": "ns194",
             "housingLayers": [
@@ -4356,7 +4392,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns194",
             "leaf": "ns195",
             "housingLayers": [
@@ -4372,7 +4408,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns194",
             "leaf": "ns196",
             "housingLyphs": [
@@ -4385,7 +4421,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns194",
             "leaf": "ns197",
             "housingLayers": [
@@ -4401,7 +4437,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns194",
             "leaf": "ns200",
             "housingLyphs": [
@@ -4414,7 +4450,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns194",
             "leaf": "ns201",
             "housingLayers": [
@@ -4428,57 +4464,93 @@
     "groups": [
         {
             "id": "neuron-1",
-            "name": "Neuron 1"
+            "name": "Neuron 1",
+            "external": [
+                "ilxtr:neuron-type-aacar-1"
+            ]
         },
         {
             "id": "neuron-2",
-            "name": "Neuron 2"
+            "name": "Neuron 2",
+            "external": [
+                "ilxtr:neuron-type-aacar-2"
+            ]
         },
         {
             "id": "neuron-4",
-            "name": "Neuron 4"
+            "name": "Neuron 4",
+            "external": [
+                "ilxtr:neuron-type-aacar-4"
+            ]
         },
         {
             "id": "neuron-5",
             "name": "Neuron 5",
+            "external": [
+                "ilxtr:neuron-type-aacar-5"
+            ],
             "publications": [
                 "PMID:27783854"
             ]
         },
         {
             "id": "neuron-6",
-            "name": "Neuron 6"
+            "name": "Neuron 6",
+            "external": [
+                "ilxtr:neuron-type-aacar-6"
+            ]
         },
         {
             "id": "neuron-7",
-            "name": "Neuron 7"
+            "name": "Neuron 7",
+            "external": [
+                "ilxtr:neuron-type-aacar-7"
+            ]
         },
         {
             "id": "neuron-8",
-            "name": "Neuron 8"
+            "name": "Neuron 8",
+            "external": [
+                "ilxtr:neuron-type-aacar-8"
+            ]
         },
         {
             "id": "neuron-9",
-            "name": "Neuron 9"
+            "name": "Neuron 9",
+            "external": [
+                "ilxtr:neuron-type-aacar-9"
+            ]
         },
         {
             "id": "neuron-10",
-            "name": "Neuron 10"
+            "name": "Neuron 10",
+            "external": [
+                "ilxtr:neuron-type-aacar-10"
+            ]
         },
         {
             "id": "neuron-11",
             "name": "Neuron 11",
+            "external": [
+                "ilxtr:neuron-type-aacar-11"
+            ],
             "publications": [
                 "PMID:27783854"
             ]
         },
         {
             "id": "neuron-12",
-            "name": "Neuron 12"
+            "name": "Neuron 12",
+            "external": [
+                "ilxtr:neuron-type-aacar-12"
+            ]
         },
         {
             "id": "neuron-13",
             "name": "Neuron 13",
+            "external": [
+                "ilxtr:neuron-type-aacar-13"
+            ],
             "publications": [
                 "PMID:27783854"
             ]
@@ -4532,6 +4604,10 @@
         {
             "prefix": "NCIT",
             "namespace": "http://purl.obolibrary.org/obo/NCIT_"
+        },
+        {
+            "prefix": "ilxtr",
+            "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
         }
     ],
     "id": "ard-arm-cardiac",

@@ -599,16 +599,6 @@
                 "UBERON:0001155"
             ],
             "isTemplate": true,
-            "layers": [
-                "S50",
-                "S49",
-                "S48",
-                "S47",
-                "S46",
-                "S43",
-                "S45",
-                "S44"
-            ],
             "internalLyphs": [
                 "dcn-mp_i",
                 "dcn_mp_j",
@@ -633,8 +623,7 @@
                 3,
                 3,
                 3,
-                5,
-                null
+                5
             ]
         },
         {
@@ -643,6 +632,7 @@
             "external": [
                 "UBERON:0002439"
             ],
+            "supertype": "S42",
             "internalLyphs": [
                 "S62"
             ],
@@ -656,6 +646,7 @@
             "external": [
                 "UBERON:0003335"
             ],
+            "supertype": "S42",
             "internalLyphs": [
                 "S60"
             ],
@@ -669,7 +660,7 @@
             "external": [
                 "FMA:14987"
             ],
-            "isTemplate": true,
+            "supertype": "S42",
             "internalLyphs": [
                 "S51",
                 "S61"
@@ -685,7 +676,7 @@
             "external": [
                 "FMA:14988"
             ],
-            "isTemplate": true,
+            "supertype": "S42",
             "internalLyphs": [
                 "S51",
                 "S63"
@@ -701,7 +692,7 @@
             "external": [
                 "FMA:21542"
             ],
-            "isTemplate": true,
+            "supertype": "S42",
             "internalLyphs": [
                 "S64"
             ]
@@ -712,7 +703,7 @@
             "external": [
                 "UBERON:0007177"
             ],
-            "isTemplate": true,
+            "supertype": "S42",
             "internalLyphs": [
                 "S52",
                 "S54",
@@ -730,7 +721,7 @@
             "external": [
                 "FMA:17302"
             ],
-            "isTemplate": true,
+            "supertype": "S42",
             "internalLyphs": [
                 "S55",
                 "S57"
@@ -746,7 +737,7 @@
             "external": [
                 "UBERON:0007159"
             ],
-            "isTemplate": true,
+            "supertype": "S42",
             "internalLyphs": [
                 "S56",
                 "S58"
@@ -761,8 +752,7 @@
             "name": "smooth muscle fiber of colon (fcolon)",
             "external": [
                 "FMA:15663"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "S52",
@@ -1463,7 +1453,6 @@
                 "UBERON:0000407"
             ],
             "lyphs": [
-                "S18",
                 "S19",
                 "S20",
                 "S21",

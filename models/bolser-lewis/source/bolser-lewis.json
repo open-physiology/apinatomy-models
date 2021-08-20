@@ -977,6 +977,7 @@
             "conveyingLyph": "227",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
+                "113",
                 "103"
             ]
         },
@@ -987,7 +988,8 @@
             "conveyingLyph": "226",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "103"
+                "103",
+                "115"
             ]
         },
         {
@@ -1047,7 +1049,7 @@
             "conveyingLyph": "217",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1057,7 +1059,7 @@
             "conveyingLyph": "218",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1067,7 +1069,7 @@
             "conveyingLyph": "219",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1077,7 +1079,7 @@
             "conveyingLyph": "220",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1087,7 +1089,7 @@
             "conveyingLyph": "230",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1097,7 +1099,7 @@
             "conveyingLyph": "231",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1107,7 +1109,7 @@
             "conveyingLyph": "232",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1117,7 +1119,7 @@
             "conveyingLyph": "233",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1127,7 +1129,7 @@
             "conveyingLyph": "234",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1137,7 +1139,7 @@
             "conveyingLyph": "235",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1147,7 +1149,7 @@
             "conveyingLyph": "236",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1157,7 +1159,7 @@
             "conveyingLyph": "237",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1167,7 +1169,7 @@
             "conveyingLyph": "238",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1177,7 +1179,7 @@
             "conveyingLyph": "239",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1187,7 +1189,7 @@
             "conveyingLyph": "240",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1197,7 +1199,7 @@
             "conveyingLyph": "241",
             "conveyingType": "ADVECTIVE",
             "conveyingMaterials": [
-                "116"
+                "117"
             ]
         },
         {
@@ -1787,7 +1789,7 @@
         },
         {
             "id": "229bag",
-            "name": "Segment of neuron (kblad)",
+            "name": "Segment of neuron (bolew)",
             "external": [
                 "CL:0000540"
             ],
@@ -1796,7 +1798,7 @@
         },
         {
             "id": "axon-bag",
-            "name": "Axon terminal (kblad)",
+            "name": "Axon terminal (bolew)",
             "external": [
                 "SAO:280355188"
             ],
@@ -1805,7 +1807,7 @@
         },
         {
             "id": "axon-tube",
-            "name": "Axon segment (kblad)",
+            "name": "Axon segment (bolew)",
             "external": [
                 "SAO:280355188"
             ],
@@ -1814,7 +1816,7 @@
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (kblad)",
+            "name": "Dendrite terminal (bolew)",
             "external": [
                 "SAO:420754792"
             ],
@@ -1823,7 +1825,7 @@
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (kblad)",
+            "name": "Dendrite segment (bolew)",
             "external": [
                 "SAO:420754792"
             ],
@@ -1902,6 +1904,12 @@
             "layers": [
                 "117"
             ]
+        },
+        {
+            "id": "nerve-sheath",
+            "name": "Nerve sheath",
+            "isTemplate": true,
+            "topology": "TUBE"
         },
         {
             "id": "235",

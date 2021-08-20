@@ -29,14 +29,6 @@
             "uri": "https://pubmed.ncbi.nlm.nih.gov/2902218"
         },
         {
-            "id": "PMID:24306100",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/24306100"
-        },
-        {
-            "id": "PMID:18364578",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/18364578"
-        },
-        {
             "id": "PMID:18286675",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/18286675"
         }
@@ -417,6 +409,10 @@
             "external": [
                 "UBERON:0009961"
             ]
+        },
+        {
+            "id": "ob_eso",
+            "name": "oblique muscle layer of esophagus"
         },
         {
             "id": "my_plex_e",
@@ -810,6 +806,10 @@
             "lyphTemplate": "229bag",
             "root": "ns3",
             "leaf": "ns4",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "pn",
                 "ins"
@@ -837,6 +837,10 @@
             "lyphTemplate": "229bag",
             "root": "ns7",
             "leaf": "ns8",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "ins",
                 "pn"
@@ -864,6 +868,10 @@
             "lyphTemplate": "229bag",
             "root": "ns11",
             "leaf": "ns12",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "ins",
                 "nts"
@@ -891,6 +899,10 @@
             "lyphTemplate": "229bag",
             "root": "ns15",
             "leaf": "ns16",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "nts",
                 "pn"
@@ -915,9 +927,13 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "root": "ns19",
             "leaf": "ns20",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "nod",
                 "nts"
@@ -925,13 +941,17 @@
         },
         {
             "id": "ac_vag5b",
-            "name": "Axon chain in the nodose ganglia to vagus_Neuron 5 (sto)",
+            "name": "Dendrite chain in the nodose ganglia to vagus_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229",
-            "root": "ns19",
+            "root": "ns18",
             "leaf": "ns21",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "nod",
                 "vn"
@@ -939,9 +959,9 @@
         },
         {
             "id": "ac_lm5b_ds",
-            "name": "Axon chain in the vagus to distal stomach_long muscle_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to distal stomach_long muscle_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -959,9 +979,9 @@
         },
         {
             "id": "ac_mp5b_ds",
-            "name": "Axon chain in the vagus to distal stomach_myenteric plexus_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to distal stomach_myenteric plexus_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -981,9 +1001,9 @@
         },
         {
             "id": "ac_cm5b_ds",
-            "name": "Axon chain in the vagus to distal stomach_cir muscle_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to distal stomach_cir muscle_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -1005,9 +1025,9 @@
         },
         {
             "id": "ac_muc5b_ds",
-            "name": "Axon chain in the vagus to distal stomach_mucosa_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to distal stomach_mucosa_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -1037,9 +1057,9 @@
         },
         {
             "id": "ac_lm5b_ps",
-            "name": "Axon chain in the vagus to proximal stomach_long muscle_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to proximal stomach_long muscle_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -1057,9 +1077,9 @@
         },
         {
             "id": "ac_mp5b_ps",
-            "name": "Axon chain in the vagus to proximal stomach_myenteric plexus_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to proximal stomach_myenteric plexus_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -1079,9 +1099,9 @@
         },
         {
             "id": "ac_cm5b_ps",
-            "name": "Axon chain in the vagus to proximal stomach_cir muscle_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to proximal stomach_cir muscle_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -1103,9 +1123,9 @@
         },
         {
             "id": "ac_muc5b_ps",
-            "name": "Axon chain in the vagus to proximal  stomach_mucosa_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to proximal  stomach_mucosa_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -1135,9 +1155,9 @@
         },
         {
             "id": "ac_lm5b_le",
-            "name": "Axon chain in the vagus to lower esophagus_long muscle_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to lower esophagus_long muscle_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -1155,9 +1175,9 @@
         },
         {
             "id": "ac_cm5b_le",
-            "name": "Axon chain in the vagus to lower esophagus_cir muscle_Neuron 5 (sto)",
+            "name": "Dendrite chain in the vagus to lower esophagus_cir muscle_Neuron 5 (sto)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "229bag",
             "root": "ns21",
@@ -1398,7 +1418,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "229bag",
-            "root": "ns54",
+            "root": "ns55",
             "leaf": "ns56",
             "housingLayers": [
                 6,
@@ -1416,7 +1436,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "229bag",
-            "root": "ns54",
+            "root": "ns55",
             "leaf": "ns57",
             "housingLayers": [
                 6,
@@ -1665,7 +1685,8 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "root": "ns69",
+            "lyphTemplate": "229bag",
+            "root": "ns70",
             "leaf": "ns74",
             "housingLayers": [
                 6,
@@ -1782,6 +1803,7 @@
             "external": [
                 "SAO:1770195789"
             ],
+            "lyphTemplate": "229bag",
             "root": "ns80",
             "leaf": "ns83",
             "housingLayers": [
@@ -1799,6 +1821,7 @@
             "external": [
                 "SAO:1770195789"
             ],
+            "lyphTemplate": "229bag",
             "root": "ns83",
             "leaf": "ns84",
             "housingLayers": [

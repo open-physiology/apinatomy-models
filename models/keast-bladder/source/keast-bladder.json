@@ -1068,7 +1068,12 @@
                 "SAO:280355188"
             ],
             "isTemplate": true,
-            "topology": "BAG-"
+            "topology": "BAG-",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
         },
         {
             "id": "axon-tube",
@@ -1077,7 +1082,12 @@
                 "SAO:280355188"
             ],
             "isTemplate": true,
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
         },
         {
             "id": "dend-bag",
@@ -1086,7 +1096,12 @@
                 "SAO:420754792"
             ],
             "isTemplate": true,
-            "topology": "BAG-"
+            "topology": "BAG-",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
         },
         {
             "id": "dend-tube",
@@ -1095,7 +1110,12 @@
                 "SAO:420754792"
             ],
             "isTemplate": true,
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
         },
         {
             "id": "sn16",
@@ -1688,7 +1708,6 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K22",
             "seedIn": "neuron-8"
         },
         {
@@ -1697,8 +1716,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "supertype": "229",
-            "internalIn": "K23"
+            "supertype": "229"
         },
         {
             "id": "snl17",
@@ -2833,6 +2851,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns24",
+            "leaf": "ns24_5",
             "housingLayers": [
                 6
             ],
@@ -2872,6 +2891,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns26",
+            "leaf": "ns26_5",
             "housingLayers": [
                 6
             ],
@@ -2904,25 +2924,15 @@
             ]
         },
         {
-            "id": "ac-t12sg_8",
-            "name": "T12 sympathetic ganglia SPR axon chain_Neuron 8 (kblad)",
+            "id": "ac-sgt12-t13",
+            "name": "T12 sympathetic ganglia SPR axon chain to T13_Neuron 8 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns28",
-            "leaf": "ns28_5",
+            "lyphTemplate": "axon-tube",
+            "root": "ns38",
+            "leaf": "ns40",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0,
                 0,
                 0
@@ -2930,39 +2940,19 @@
             "housingLyphs": [
                 "K78",
                 "K70",
-                "K79",
-                "K71",
-                "K80",
-                "K72",
-                "K81",
-                "K73",
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K79"
             ]
         },
         {
-            "id": "ac-t13sg_8",
-            "name": "T13 sympathetic ganglia SPR axon chain_Neuron 8 (kblad)",
+            "id": "ac-sgt13-l1",
+            "name": "T13 sympathetic ganglia SPR axon chain to L1_Neuron 8 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns29",
-            "leaf": "ns29_5",
+            "lyphTemplate": "axon-tube",
+            "root": "ns40",
+            "leaf": "ns41",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0,
                 0,
                 0
@@ -2970,35 +2960,32 @@
             "housingLyphs": [
                 "K79",
                 "K71",
-                "K80",
-                "K72",
-                "K81",
-                "K73",
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K80"
             ]
         },
         {
-            "id": "ac-l1sg_8",
-            "name": "L1 sympathetic ganglia SPR axon chain_Neuron 8 (kblad)",
+            "id": "ac-sgt13-l1join",
+            "name": "T13 sympathetic ganglia SPR axon chain to L1 join_Neuron 8 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "axon-tube",
             "root": "ns34",
-            "leaf": "ns30",
+            "leaf": "ns41",
+            "housingLyphs": [
+                "K80"
+            ]
+        },
+        {
+            "id": "ac-sgl1-l2",
+            "name": "L1 sympathetic ganglia SPR axon chain to L2_Neuron 8 (kblad)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns41",
+            "leaf": "ns42",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0,
                 0,
                 0
@@ -3006,31 +2993,32 @@
             "housingLyphs": [
                 "K80",
                 "K72",
-                "K81",
-                "K73",
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K81"
             ]
         },
         {
-            "id": "ac-l2sg_8",
-            "name": "L2 sympathetic ganglia SPR axon chain_Neuron 8 (kblad)",
+            "id": "ac-sgl1-l2join",
+            "name": "L1 sympathetic ganglia SPR axon chain to L2 join_Neuron 8 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "axon-tube",
             "root": "ns37",
-            "leaf": "ns31",
+            "leaf": "ns42",
+            "housingLyphs": [
+                "K81"
+            ]
+        },
+        {
+            "id": "ac-sgl2-l3",
+            "name": "L2 sympathetic ganglia SPR axon chain to L3_Neuron 8 (kblad)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns42",
+            "leaf": "ns43",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
                 0,
                 0,
                 0
@@ -3038,27 +3026,19 @@
             "housingLyphs": [
                 "K81",
                 "K73",
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K82"
             ]
         },
         {
-            "id": "ac-l3sg_8",
-            "name": "L3 sympathetic ganglia SPR axon chain_Neuron 8",
+            "id": "ac-sgl3-l4",
+            "name": "L3 sympathetic ganglia SPR axon chain to L4_Neuron 8 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns32",
-            "leaf": "ns32_5",
+            "lyphTemplate": "axon-tube",
+            "root": "ns43",
+            "leaf": "ns44",
             "housingLayers": [
-                0,
-                0,
                 0,
                 0,
                 0
@@ -3066,25 +3046,19 @@
             "housingLyphs": [
                 "K82",
                 "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K83"
             ]
         },
         {
-            "id": "ac-l4sg_8",
-            "name": "L4 sympathetic ganglia SPR axon chain_Neuron 8 (kblad)",
+            "id": "ac-sgl4-l5",
+            "name": "L4 sympathetic ganglia SPR axon chain to L5_Neuron 8 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns33",
-            "leaf": "ns33_5",
+            "lyphTemplate": "axon-tube",
+            "root": "ns44",
+            "leaf": "ns45",
             "housingLayers": [
-                0,
-                0,
                 0,
                 0,
                 0
@@ -3092,22 +3066,19 @@
             "housingLyphs": [
                 "K83",
                 "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K84"
             ]
         },
         {
-            "id": "ac-l5sg_8",
-            "name": "L5 sympathetic ganglia SPR axon chain_Neuron 8 (kblad)",
+            "id": "ac-sgl5-l6in",
+            "name": "L5 sympathetic ganglia SPR axon chain to L6 term_Neuron 8 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns34",
-            "leaf": "ns34_5",
+            "lyphTemplate": "axon-tube",
+            "root": "ns46",
+            "leaf": "ns47",
             "housingLayers": [
-                0,
                 0,
                 0
             ],
@@ -3380,7 +3351,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "axon-tube",
             "root": "ns65",
             "leaf": "ns66",
             "housingLayers": [
@@ -3403,7 +3374,8 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns67",
+            "root": "ns66",
+            "leaf": "ns67",
             "housingLayers": [
                 0,
                 0

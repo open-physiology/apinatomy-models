@@ -53,8 +53,8 @@
             ],
             "isTemplate": true,
             "materials": [
-                "vm_3",
-                "vm_9"
+                "mat-epineurium",
+                "mat-fld-endoneurial"
             ]
         },
         {
@@ -233,39 +233,39 @@
     ],
     "materials": [
         {
-            "id": "vm_1",
+            "id": "mat-endoneurium",
             "name": "endoneurium",
             "external": [
                 "UBERON:0000123"
             ],
             "materials": [
-                "vm_4",
-                "vm_6",
-                "vm_7"
+                "mat-collagen-fibers",
+                "mat-lymphocyte",
+                "mat-fibroblasts"
             ]
         },
         {
-            "id": "vm_2",
+            "id": "mat-perineurium",
             "name": "perineurium",
             "external": [
                 "UBERON:0000121"
             ],
             "materials": [
-                "vm_4"
+                "mat-fibroblasts"
             ]
         },
         {
-            "id": "vm_3",
+            "id": "mat-epineurium",
             "name": "epineurium",
             "external": [
                 "UBERON:0000124"
             ],
             "materials": [
-                "vm_4"
+                "mat-conn-tiss"
             ]
         },
         {
-            "id": "vm_4",
+            "id": "mat-conn-tiss",
             "name": "connective tissue",
             "external": [
                 "NCIT:C32367"
@@ -279,28 +279,28 @@
             ]
         },
         {
-            "id": "vm_6",
+            "id": "mat-lymphocyte",
             "name": "lymphocyte",
             "external": [
                 "FMA:62863"
             ]
         },
         {
-            "id": "vm_7",
+            "id": "mat-fibroblasts",
             "name": "fibroblasts",
             "external": [
                 "FMA:63877"
             ]
         },
         {
-            "id": "vm_8",
+            "id": "mat-collagen-fibers",
             "name": "collagen fibers",
             "external": [
                 "FMA:63891"
             ]
         },
         {
-            "id": "vm_9",
+            "id": "mat-fld-endoneurial",
             "name": "endoneurial fluid",
             "external": [
                 "UBERON:0011893"
@@ -311,9 +311,6 @@
             "name": "Blood",
             "external": [
                 "UBERON:0000178"
-            ],
-            "materials": [
-                "vm_9"
             ]
         },
         {
