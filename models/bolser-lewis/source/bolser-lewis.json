@@ -2300,7 +2300,7 @@
         },
         {
             "id": "soma265",
-            "name": "Soma in 265 (bolew)",
+            "name": "Soma in 265 - Phrenic nucleus of C4 (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2309,7 +2309,7 @@
         },
         {
             "id": "soma266",
-            "name": "Soma in 266 (bolew)",
+            "name": "Soma in 266 - Phrenic nucleus of C5 (bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2318,7 +2318,7 @@
         },
         {
             "id": "soma262",
-            "name": "Soma in 262 (bolew)",
+            "name": "Soma in 262 - Nucleus tractus solitarius(bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2327,7 +2327,7 @@
         },
         {
             "id": "soma264",
-            "name": "Soma in 264 (bolew)",
+            "name": "Soma in 264 - Rostral ventrolateral medulla(bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2336,7 +2336,7 @@
         },
         {
             "id": "soma249_1",
-            "name": "Soma in 249 (1) (bolew)",
+            "name": "Soma in 249 (1) - Nodose ganglion of the Vagus nerve(bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2345,7 +2345,7 @@
         },
         {
             "id": "soma249_2",
-            "name": "Soma in 249 (2) (bolew)",
+            "name": "Soma in 249 (2) - Nodose ganglion of the Vagus nerve(bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2354,7 +2354,7 @@
         },
         {
             "id": "soma249_3",
-            "name": "Soma in 249 (3) (bolew)",
+            "name": "Soma in 249 (3) - Nodose ganglion of the Vagus nerve(bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2363,7 +2363,7 @@
         },
         {
             "id": "soma248_1",
-            "name": "Soma in 248 (1) (bolew)",
+            "name": "Soma in 248 (1) - Petrosal ganglion of the Glossopharyngeal nerve(bolew)",
             "external": [
                 "NLX:154731"
             ],
@@ -2372,7 +2372,7 @@
         },
         {
             "id": "soma248_2",
-            "name": "Soma in 248 (2) (bolew)",
+            "name": "Soma in 248 (2) - Petrosal ganglion of the Glossopharyngeal nerve(bolew)",
             "external": [
                 "NLX:154731"
             ],
