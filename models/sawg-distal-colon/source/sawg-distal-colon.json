@@ -2349,12 +2349,10 @@
             ],
             "root": "ns9_5",
             "leaf": "ns_lay6",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                7
-            ],
+            "lyphTemplate": "229bag",
             "housingLyphs": [
-                "S42"
+                "n-lumcol",
+                "S44"
             ]
         },
         {
@@ -2365,16 +2363,17 @@
             ],
             "root": "ns9_5",
             "leaf": "ns_lay4",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
-                7,
-                6,
-                5
+                0,
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42",
-                "S42"
+                "n-lumcol",
+                "S44",
+                "S45",
+                "S43"
             ]
         },
         {
@@ -2385,20 +2384,22 @@
             ],
             "root": "ns9_5",
             "leaf": "ns_lay2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
-                7,
-                6,
-                5,
-                4,
-                3
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42",
-                "S42",
-                "S42",
-                "S42"
+                "n-lumcol",
+                "S44",
+                "S45",
+                "S43",
+                "S46",
+                "S47"
             ]
         },
         {
@@ -2409,22 +2410,24 @@
             ],
             "root": "ns9_5",
             "leaf": "ns_lay1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
-                7,
-                6,
-                5,
-                4,
-                3,
-                2
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42",
-                "S42",
-                "S42",
-                "S42",
-                "S42"
+                "n-lumcol",
+                "S44",
+                "S45",
+                "S43",
+                "S46",
+                "S47",
+                "S48"
             ]
         },
         {
@@ -2447,27 +2450,27 @@
             ],
             "root": "ns35",
             "leaf": "ns35_5",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
                 0,
                 0,
-                7,
-                6,
-                5,
-                4,
-                3,
-                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "S41",
                 "n-lumcol",
-                "S42",
-                "S42",
-                "S42",
-                "S42",
-                "S42",
-                "S42",
+                "S44",
+                "S45",
+                "S43",
+                "S46",
+                "S47",
+                "S48",
                 "S52"
             ]
         },
@@ -2491,7 +2494,7 @@
             ],
             "root": "ns37",
             "leaf": "ns38",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
                 0,
                 0,
@@ -2533,20 +2536,24 @@
             ],
             "root": "ns40",
             "leaf": "ns41",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
                 0,
                 0,
-                7,
-                6,
-                5
+                0,
+                0,
+                0
             ],
             "housingLyphs": [
                 "S41",
                 "n-lumcol",
-                "S42",
-                "S42",
-                "S42"
+                "S44",
+                "S45",
+                "S43",
+                "S46",
+                "S47",
+                "S48",
+                "S52"
             ]
         },
         {
@@ -2569,24 +2576,26 @@
             ],
             "root": "ns43",
             "leaf": "ns44",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
                 0,
                 0,
-                7,
-                6,
-                5,
-                4,
-                3
+                0,
+                0,
+                0,
+                0,
+                0
             ],
             "housingLyphs": [
                 "S41",
                 "n-lumcol",
-                "S42",
-                "S42",
-                "S42",
-                "S42",
-                "S42"
+                "S44",
+                "S45",
+                "S43",
+                "S46",
+                "S47",
+                "S48",
+                "S52"
             ]
         },
         {
@@ -2597,11 +2606,8 @@
             ],
             "root": "ns45",
             "lyphTemplate": "229bag",
-            "housingLayers": [
-                5
-            ],
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2612,12 +2618,9 @@
             ],
             "root": "ns46",
             "leaf": "ns47",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                5
-            ],
+            "lyphTemplate": "229bag",
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2628,11 +2631,8 @@
             ],
             "root": "ns48",
             "lyphTemplate": "229bag",
-            "housingLayers": [
-                5
-            ],
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2643,14 +2643,14 @@
             ],
             "root": "ns49",
             "leaf": "ns50",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
-                5,
-                6
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42"
+                "S43",
+                "S45"
             ]
         },
         {
@@ -2661,11 +2661,8 @@
             ],
             "root": "ns51",
             "lyphTemplate": "229bag",
-            "housingLayers": [
-                5
-            ],
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2676,14 +2673,14 @@
             ],
             "root": "ns52",
             "leaf": "ns53",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
-                5,
-                6
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42"
+                "S43",
+                "S46"
             ]
         },
         {
@@ -2694,11 +2691,8 @@
             ],
             "root": "ns54",
             "lyphTemplate": "229bag",
-            "housingLayers": [
-                5
-            ],
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2709,12 +2703,9 @@
             ],
             "root": "ns55",
             "leaf": "ns56",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                5
-            ],
+            "lyphTemplate": "229bag",
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2725,11 +2716,8 @@
             ],
             "root": "ns57",
             "lyphTemplate": "229bag",
-            "housingLayers": [
-                5
-            ],
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2740,14 +2728,14 @@
             ],
             "root": "ns58",
             "leaf": "ns59",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
-                5,
-                6
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42"
+                "S43",
+                "S45"
             ]
         },
         {
@@ -2758,11 +2746,8 @@
             ],
             "root": "ns60",
             "lyphTemplate": "229bag",
-            "housingLayers": [
-                5
-            ],
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2773,14 +2758,14 @@
             ],
             "root": "ns61",
             "leaf": "ns62",
-            "lyphTemplate": "229",
+            "lyphTemplate": "229bag",
             "housingLayers": [
-                5,
-                6
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42"
+                "S43",
+                "S46"
             ]
         },
         {
