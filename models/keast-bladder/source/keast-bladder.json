@@ -228,7 +228,7 @@
             "id": "lnk-K102",
             "source": "g102a",
             "target": "g102b",
-            "conveyingLyph": "K102",
+            "conveyingLyph": "housing#img",
             "length": 16
         },
         {
@@ -1631,7 +1631,7 @@
             ]
         },
         {
-            "id": "K102",
+            "id": "housing#img",
             "name": "Inferior Mesenteric Ganglion (kblad)",
             "external": [
                 "UBERON:0005453"
@@ -1869,7 +1869,7 @@
                 "NLX:154731"
             ],
             "supertype": "229",
-            "internalIn": "K102",
+            "internalIn": "housing#img",
             "seedIn": "neuron-3"
         },
         {
@@ -2838,7 +2838,7 @@
             ],
             "housingLyphs": [
                 "n-lumspl",
-                "K102",
+                "housing#img",
                 "n-hypo",
                 "K104"
             ]
@@ -3188,7 +3188,7 @@
             ],
             "housingLyphs": [
                 "n-lumspl",
-                "K102"
+                "housing#img"
             ]
         },
         {
@@ -3504,7 +3504,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns120",
             "leaf": "ns128",
             "housingLayers": [
@@ -3522,7 +3522,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns130",
             "leaf": "ns128",
             "housingLayers": [
@@ -3768,7 +3768,7 @@
             ],
             "housingLyphs": [
                 "n-lumspl",
-                "K102",
+                "housing#img",
                 "n-hypo",
                 "K104",
                 "n-blad"
@@ -3977,7 +3977,7 @@
             "lyphTemplate": "dend-bag",
             "root": "ns300",
             "housingLyphs": [
-                "K102"
+                "housing#img"
             ]
         },
         {
@@ -3996,7 +3996,7 @@
                 0
             ],
             "housingLyphs": [
-                "K102",
+                "housing#img",
                 "n-hypo",
                 "K104",
                 "n-blad"
@@ -5300,7 +5300,7 @@
             "id": "housingLyphs",
             "name": "IMG and PG",
             "lyphs": [
-                "K102",
+                "housing#img",
                 "K104"
             ],
             "links": [

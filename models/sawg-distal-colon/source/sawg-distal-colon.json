@@ -576,8 +576,8 @@
             "isTemplate": true
         },
         {
-            "id": "S41",
-            "name": "inferior Mesenteric Ganglion (fcolon)",
+            "id": "housing#img",
+            "name": "Inferior Mesenteric Ganglion (fcolon)",
             "external": [
                 "UBERON:0005453"
             ],
@@ -586,10 +586,6 @@
                 "dcn-img_f",
                 "dcn-img_g",
                 "dcn-img_h"
-            ],
-            "internalLyphsInLayers": [
-                0,
-                0
             ]
         },
         {
@@ -598,7 +594,6 @@
             "external": [
                 "UBERON:0001155"
             ],
-            "isTemplate": true,
             "internalLyphs": [
                 "dcn-mp_i",
                 "dcn_mp_j",
@@ -752,7 +747,8 @@
             "name": "smooth muscle fiber of colon (fcolon)",
             "external": [
                 "FMA:15663"
-            ]
+            ],
+            "isTemplate": true
         },
         {
             "id": "S52",
@@ -851,6 +847,62 @@
             "supertype": "229"
         },
         {
+            "id": "axon-bag",
+            "name": "Axon terminal (fcolon)",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-",
+            "layers": [
+                "SM_54",
+                "SM_56",
+                "SM_116"
+            ]
+        },
+        {
+            "id": "axon-tube",
+            "name": "Axon segment (fcolon)",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE",
+            "layers": [
+                "SM_54",
+                "SM_56",
+                "SM_116"
+            ]
+        },
+        {
+            "id": "dend-bag",
+            "name": "Dendrite terminal (fcolon)",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-",
+            "layers": [
+                "SM_54",
+                "SM_56",
+                "SM_116"
+            ]
+        },
+        {
+            "id": "dend-tube",
+            "name": "Dendrite segment (fcolon)",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE",
+            "layers": [
+                "SM_54",
+                "SM_56",
+                "SM_116"
+            ]
+        },
+        {
             "id": "S59",
             "name": "Blood vessel (fcolon)",
             "external": [
@@ -910,6 +962,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-b"
         },
         {
@@ -917,7 +970,8 @@
             "name": "Soma of Symp preganglionic neuron in L4_Neuron B (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "supertype": "229"
         },
         {
             "id": "dcn-t13drg_c",
@@ -925,6 +979,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-c"
         },
         {
@@ -932,35 +987,40 @@
             "name": "Soma of spinal afferent neuron in L1 DRG_Neuron C (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "supertype": "229"
         },
         {
             "id": "dcn-l2drg_c",
             "name": "Soma of spinal afferent neuron in L2 DRG_Neuron C (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "supertype": "229"
         },
         {
             "id": "dcn-l3drg_c",
             "name": "Soma of spinal afferent neuron in L3 DRG_Neuron C (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "supertype": "229"
         },
         {
             "id": "dcn-l4drg_c",
             "name": "Soma of spinal afferent neuron in L4 DRG_Neuron C (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "supertype": "229"
         },
         {
             "id": "dcn-l5drg_c",
             "name": "Soma of spinal afferent neuron in L5 DRG_Neuron C (fcolon)",
             "external": [
                 "NLX:154731"
-            ]
+            ],
+            "supertype": "229"
         },
         {
             "id": "dcn-img_d",
@@ -968,6 +1028,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-d"
         },
         {
@@ -976,6 +1037,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-f"
         },
         {
@@ -984,6 +1046,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-g"
         },
         {
@@ -992,6 +1055,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-h"
         },
         {
@@ -1000,6 +1064,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-i"
         },
         {
@@ -1008,6 +1073,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-j"
         },
         {
@@ -1016,6 +1082,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-j2"
         },
         {
@@ -1024,6 +1091,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-k"
         },
         {
@@ -1032,6 +1100,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-l"
         },
         {
@@ -1040,6 +1109,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-l2"
         },
         {
@@ -1048,6 +1118,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-m"
         },
         {
@@ -1056,6 +1127,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-n"
         },
         {
@@ -1064,6 +1136,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-o"
         },
         {
@@ -1072,6 +1145,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-p"
         },
         {
@@ -1080,6 +1154,7 @@
             "external": [
                 "NLX:154731"
             ],
+            "supertype": "229",
             "seedIn": "neuron-q"
         },
         {
@@ -1485,7 +1560,7 @@
                 "UBERON:0005453"
             ],
             "lyphs": [
-                "S41"
+                "housing#img"
             ],
             "root": "img1"
         },
@@ -1507,7 +1582,7 @@
                 "SAO:1211023249"
             ],
             "root": "ns1",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLayers": [
                 6
             ],
@@ -1523,7 +1598,7 @@
             ],
             "root": "ns2",
             "leaf": "ns5",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-tube",
             "housingLayers": [
                 6,
                 0,
@@ -1546,7 +1621,7 @@
                 "SAO:1211023249"
             ],
             "root": "ns3",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLayers": [
                 6
             ],
@@ -1562,7 +1637,7 @@
             ],
             "root": "ns4",
             "leaf": "ns5",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "housingLayers": [
                 6,
                 0,
@@ -1582,7 +1657,7 @@
             ],
             "root": "ns5",
             "leaf": "ns6",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0,
@@ -1590,10 +1665,10 @@
                 0
             ],
             "housingLyphs": [
-                "S41",
+                "S40",
                 "S34",
                 "n-lumspl",
-                "S42"
+                "housing#img"
             ]
         },
         {
@@ -1603,27 +1678,10 @@
                 "SAO:1211023249"
             ],
             "root": "ns7",
-            "lyphTemplate": "229bag",
+            "leaf": "ns7_1",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S7"
-            ]
-        },
-        {
-            "id": "ac-t13drgout_c",
-            "name": "Axon chain of spinal afferent neuron in T13 DRG out_Neuron C (fcolon)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "root": "ns8",
-            "leaf": "ns9",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "S7",
-                "n-lumcol"
             ]
         },
         {
@@ -1634,7 +1692,7 @@
             ],
             "root": "ns8",
             "leaf": "ns10",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "housingLayers": [
                 0,
                 13,
@@ -1654,7 +1712,7 @@
             ],
             "root": "ns10",
             "leaf": "ns11_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 11
@@ -1672,7 +1730,7 @@
             ],
             "root": "ns10",
             "leaf": "ns11_8",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 8
@@ -1690,7 +1748,7 @@
             ],
             "root": "ns10",
             "leaf": "ns11_6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 6
@@ -1708,7 +1766,7 @@
             ],
             "root": "ns10",
             "leaf": "ns11_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 2
@@ -1725,27 +1783,10 @@
                 "SAO:1211023249"
             ],
             "root": "ns12",
-            "lyphTemplate": "229bag",
+            "leaf": "ns7_1",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S8"
-            ]
-        },
-        {
-            "id": "ac-drgl1out_c",
-            "name": "Axon chain of spinal afferent neuron in L1 DRG out_Neuron C (fcolon)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "root": "ns13",
-            "leaf": "ns9",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "S8",
-                "n-lumcol"
             ]
         },
         {
@@ -1756,7 +1797,7 @@
             ],
             "root": "ns13",
             "leaf": "ns15",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "housingLayers": [
                 0,
                 13,
@@ -1776,7 +1817,7 @@
             ],
             "root": "ns15",
             "leaf": "ns16_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 11
@@ -1794,7 +1835,7 @@
             ],
             "root": "ns15",
             "leaf": "ns16_8",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 8
@@ -1812,7 +1853,7 @@
             ],
             "root": "ns15",
             "leaf": "ns16_6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 6
@@ -1830,7 +1871,7 @@
             ],
             "root": "ns15",
             "leaf": "ns16_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 2
@@ -1847,27 +1888,10 @@
                 "SAO:1211023249"
             ],
             "root": "ns17",
-            "lyphTemplate": "229bag",
+            "leaf": "ns7_1",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S9"
-            ]
-        },
-        {
-            "id": "ac-drgl2out_c",
-            "name": "Axon chain of spinal afferent neuron in L2 DRG out_Neuron C (fcolon)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "root": "ns18",
-            "leaf": "ns9",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "S9",
-                "n-lumcol"
             ]
         },
         {
@@ -1878,7 +1902,7 @@
             ],
             "root": "ns18",
             "leaf": "ns20",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "housingLayers": [
                 0,
                 13,
@@ -1898,7 +1922,7 @@
             ],
             "root": "ns20",
             "leaf": "ns21_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 11
@@ -1916,7 +1940,7 @@
             ],
             "root": "ns20",
             "leaf": "ns21_8",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 8
@@ -1934,7 +1958,7 @@
             ],
             "root": "ns20",
             "leaf": "ns21_6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 6
@@ -1952,7 +1976,7 @@
             ],
             "root": "ns20",
             "leaf": "ns21_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 2
@@ -1969,27 +1993,10 @@
                 "SAO:1211023249"
             ],
             "root": "ns22",
-            "lyphTemplate": "229bag",
+            "leaf": "ns7_1",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S15"
-            ]
-        },
-        {
-            "id": "ac-l3drgout_c",
-            "name": "Axon chain of spinal afferent neuron in L3 DRG out_Neuron C (fcolon)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "root": "ns23",
-            "leaf": "ns9",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "S10",
-                "n-lumcol"
             ]
         },
         {
@@ -2000,7 +2007,7 @@
             ],
             "root": "ns23",
             "leaf": "ns25",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "housingLayers": [
                 0,
                 13,
@@ -2020,7 +2027,7 @@
             ],
             "root": "ns25",
             "leaf": "ns25_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 11
@@ -2038,7 +2045,7 @@
             ],
             "root": "ns25",
             "leaf": "ns25_8",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 8
@@ -2056,7 +2063,7 @@
             ],
             "root": "ns25",
             "leaf": "ns25_6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 6
@@ -2074,7 +2081,7 @@
             ],
             "root": "ns25",
             "leaf": "ns25_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 2
@@ -2091,27 +2098,10 @@
                 "SAO:1211023249"
             ],
             "root": "ns26",
-            "lyphTemplate": "229bag",
+            "leaf": "ns7_1",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S11"
-            ]
-        },
-        {
-            "id": "ac-l4drgout_c",
-            "name": "Axon chain of spinal afferent neuron in L4 DRG out_Neuron C (fcolon)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "root": "ns27",
-            "leaf": "ns9",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "S11",
-                "n-lumcol"
             ]
         },
         {
@@ -2122,7 +2112,7 @@
             ],
             "root": "ns27",
             "leaf": "ns29",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "housingLayers": [
                 0,
                 13,
@@ -2142,7 +2132,7 @@
             ],
             "root": "ns29",
             "leaf": "ns29_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 11
@@ -2160,7 +2150,7 @@
             ],
             "root": "ns29",
             "leaf": "ns29_8",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 8
@@ -2178,7 +2168,7 @@
             ],
             "root": "ns29",
             "leaf": "ns29_6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 6
@@ -2196,7 +2186,7 @@
             ],
             "root": "ns29",
             "leaf": "ns29_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 2
@@ -2213,27 +2203,10 @@
                 "SAO:1211023249"
             ],
             "root": "ns30",
-            "lyphTemplate": "229bag",
+            "leaf": "ns7_1",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S12"
-            ]
-        },
-        {
-            "id": "ac-l5drgout_c",
-            "name": "Axon chain of spinal afferent neuron in L5 DRG out_Neuron C (fcolon)",
-            "external": [
-                "SAO:1770195789"
-            ],
-            "root": "ns31",
-            "leaf": "ns9",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "S12",
-                "n-lumcol"
             ]
         },
         {
@@ -2244,7 +2217,7 @@
             ],
             "root": "ns31",
             "leaf": "ns33",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-tube",
             "housingLayers": [
                 0,
                 13,
@@ -2264,7 +2237,7 @@
             ],
             "root": "ns33",
             "leaf": "ns33_1",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 11
@@ -2282,7 +2255,7 @@
             ],
             "root": "ns33",
             "leaf": "ns33_8",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 8
@@ -2300,7 +2273,7 @@
             ],
             "root": "ns33",
             "leaf": "ns33_6",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 6
@@ -2318,7 +2291,7 @@
             ],
             "root": "ns33",
             "leaf": "ns33_2",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 12,
                 2
@@ -2329,41 +2302,41 @@
             ]
         },
         {
-            "id": "ac_col_c",
-            "name": "Axon chain from DRG to colon_layer1_Neuron C (fcolon)",
+            "id": "dc_col_c",
+            "name": "Dendrite chain from DRG to colon_layer1_Neuron C (fcolon)",
             "external": [
                 "SAO:1770195789"
             ],
-            "root": "ns9",
+            "root": "ns7_1",
             "leaf": "ns9_5",
-            "lyphTemplate": "229",
+            "lyphTemplate": "dend-tube",
             "housingLyphs": [
                 "n-lumcol"
             ]
         },
         {
-            "id": "ac_col-lay7_c",
-            "name": "Axon chain to colon layer 7_Neuron C (fcolon)",
+            "id": "dc_col-lay7_c",
+            "name": "Dendrite chain to colon layer 7_Neuron C (fcolon)",
             "external": [
                 "SAO:1770195789"
             ],
             "root": "ns9_5",
             "leaf": "ns_lay6",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "n-lumcol",
                 "S44"
             ]
         },
         {
-            "id": "ac_col-lay5_c",
-            "name": "Axon chain to colon layer 5_Neuron C (fcolon)",
+            "id": "dc_col-lay5_c",
+            "name": "Dendrite chain to colon layer 5_Neuron C (fcolon)",
             "external": [
                 "SAO:1770195789"
             ],
             "root": "ns9_5",
             "leaf": "ns_lay4",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLayers": [
                 0,
                 0,
@@ -2377,14 +2350,14 @@
             ]
         },
         {
-            "id": "ac_col-lay3_c",
-            "name": "Axon chain to colon layer 3_Neuron C (fcolon)",
+            "id": "dc_col-lay3_c",
+            "name": "Dendrite chain to colon layer 3_Neuron C (fcolon)",
             "external": [
                 "SAO:1770195789"
             ],
             "root": "ns9_5",
             "leaf": "ns_lay2",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLayers": [
                 0,
                 0,
@@ -2403,14 +2376,14 @@
             ]
         },
         {
-            "id": "ac_col-lay2_c",
-            "name": "Axon chain to colon layer 2_Neuron C (fcolon)",
+            "id": "dc_col-lay2_c",
+            "name": "Dendrite chain to colon layer 2_Neuron C (fcolon)",
             "external": [
                 "SAO:1770195789"
             ],
             "root": "ns9_5",
             "leaf": "ns_lay1",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLayers": [
                 0,
                 0,
@@ -2437,9 +2410,9 @@
                 "SAO:1211023249"
             ],
             "root": "ns34",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "S41"
+                "housing#img"
             ]
         },
         {
@@ -2450,7 +2423,7 @@
             ],
             "root": "ns35",
             "leaf": "ns35_5",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0,
@@ -2463,7 +2436,7 @@
                 0
             ],
             "housingLyphs": [
-                "S41",
+                "housing#img",
                 "n-lumcol",
                 "S44",
                 "S45",
@@ -2481,9 +2454,9 @@
                 "SAO:1211023249"
             ],
             "root": "ns36",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "S41"
+                "housing#img"
             ]
         },
         {
@@ -2494,7 +2467,7 @@
             ],
             "root": "ns37",
             "leaf": "ns38",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0,
@@ -2506,7 +2479,7 @@
                 0
             ],
             "housingLyphs": [
-                "S41",
+                "housing#img",
                 "n-lumcol",
                 "S60",
                 "S61",
@@ -2523,9 +2496,9 @@
                 "SAO:1211023249"
             ],
             "root": "ns39",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "S41"
+                "housing#img"
             ]
         },
         {
@@ -2536,7 +2509,7 @@
             ],
             "root": "ns40",
             "leaf": "ns41",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0,
@@ -2545,7 +2518,7 @@
                 0
             ],
             "housingLyphs": [
-                "S41",
+                "housing#img",
                 "n-lumcol",
                 "S44",
                 "S45",
@@ -2563,9 +2536,9 @@
                 "SAO:1211023249"
             ],
             "root": "ns42",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "S41"
+                "housing#img"
             ]
         },
         {
@@ -2576,7 +2549,7 @@
             ],
             "root": "ns43",
             "leaf": "ns44",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0,
@@ -2587,7 +2560,7 @@
                 0
             ],
             "housingLyphs": [
-                "S41",
+                "housing#img",
                 "n-lumcol",
                 "S44",
                 "S45",
@@ -2605,7 +2578,7 @@
                 "SAO:1211023249"
             ],
             "root": "ns45",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S43"
             ]
@@ -2618,7 +2591,7 @@
             ],
             "root": "ns46",
             "leaf": "ns47",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "S43"
             ]
@@ -2630,7 +2603,7 @@
                 "SAO:1211023249"
             ],
             "root": "ns48",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S43"
             ]
@@ -2643,7 +2616,7 @@
             ],
             "root": "ns49",
             "leaf": "ns50",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0
@@ -2660,7 +2633,7 @@
                 "SAO:1211023249"
             ],
             "root": "ns51",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S43"
             ]
@@ -2673,7 +2646,7 @@
             ],
             "root": "ns52",
             "leaf": "ns53",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0
@@ -2690,7 +2663,7 @@
                 "SAO:1211023249"
             ],
             "root": "ns54",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S43"
             ]
@@ -2703,7 +2676,7 @@
             ],
             "root": "ns55",
             "leaf": "ns56",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
                 "S43"
             ]
@@ -2715,7 +2688,7 @@
                 "SAO:1211023249"
             ],
             "root": "ns57",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S43"
             ]
@@ -2728,7 +2701,7 @@
             ],
             "root": "ns58",
             "leaf": "ns59",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0
@@ -2745,7 +2718,7 @@
                 "SAO:1211023249"
             ],
             "root": "ns60",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
                 "S43"
             ]
@@ -2758,7 +2731,7 @@
             ],
             "root": "ns61",
             "leaf": "ns62",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
                 0,
                 0
@@ -2775,12 +2748,9 @@
                 "SAO:1211023249"
             ],
             "root": "ns63",
-            "lyphTemplate": "229bag",
-            "housingLayers": [
-                5
-            ],
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2791,12 +2761,9 @@
             ],
             "root": "ns64",
             "leaf": "ns65",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                5
-            ],
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2807,16 +2774,16 @@
             ],
             "root": "ns64",
             "leaf": "ns66",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
-                5,
-                4,
-                3
+                0,
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42",
-                "S42"
+                "S43",
+                "S46",
+                "S47"
             ]
         },
         {
@@ -2827,18 +2794,18 @@
             ],
             "root": "ns64",
             "leaf": "ns67",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
-                5,
-                4,
-                3,
-                2
+                0,
+                0,
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42",
-                "S42",
-                "S42"
+                "S43",
+                "S46",
+                "S47",
+                "S48"
             ]
         },
         {
@@ -2848,12 +2815,9 @@
                 "SAO:1211023249"
             ],
             "root": "ns68",
-            "lyphTemplate": "229bag",
-            "housingLayers": [
-                3
-            ],
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "S42"
+                "S47"
             ]
         },
         {
@@ -2864,14 +2828,14 @@
             ],
             "root": "ns69",
             "leaf": "ns70",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
-                3,
-                2
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42"
+                "S47",
+                "S48"
             ]
         },
         {
@@ -2882,12 +2846,9 @@
             ],
             "root": "ns69",
             "leaf": "ns71",
-            "lyphTemplate": "229",
-            "housingLayers": [
-                3
-            ],
+            "lyphTemplate": "axon-bag",
             "housingLyphs": [
-                "S42"
+                "S47"
             ]
         },
         {
@@ -2898,16 +2859,16 @@
             ],
             "root": "ns69",
             "leaf": "ns72",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
-                3,
-                4,
-                5
+                0,
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42",
-                "S42"
+                "S47",
+                "S46",
+                "S43"
             ]
         },
         {
@@ -2917,12 +2878,9 @@
                 "SAO:1211023249"
             ],
             "root": "ns73",
-            "lyphTemplate": "229bag",
-            "housingLayers": [
-                3
-            ],
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "S42"
+                "S47"
             ]
         },
         {
@@ -2933,13 +2891,13 @@
             ],
             "root": "ns74",
             "leaf": "ns75",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
-                3,
+                0,
                 0
             ],
             "housingLyphs": [
-                "S42",
+                "S47",
                 "S64"
             ]
         },
@@ -2950,12 +2908,9 @@
                 "SAO:1211023249"
             ],
             "root": "ns76",
-            "lyphTemplate": "229bag",
-            "housingLayers": [
-                3
-            ],
+            "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "S42"
+                "S47"
             ]
         },
         {
@@ -2966,14 +2921,14 @@
             ],
             "root": "ns77",
             "leaf": "ns78",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
-                3,
-                2
+                0,
+                0
             ],
             "housingLyphs": [
-                "S42",
-                "S42"
+                "S47",
+                "S48"
             ]
         },
         {
@@ -2983,12 +2938,12 @@
                 "SAO:1211023249"
             ],
             "root": "ns79",
-            "lyphTemplate": "229bag",
+            "lyphTemplate": "dend-bag",
             "housingLayers": [
                 5
             ],
             "housingLyphs": [
-                "S42"
+                "S43"
             ]
         },
         {
@@ -2999,20 +2954,20 @@
             ],
             "root": "ns80",
             "leaf": "ns81",
-            "lyphTemplate": "229",
+            "lyphTemplate": "axon-bag",
             "housingLayers": [
-                5,
-                6,
-                7,
+                0,
+                0,
+                0,
                 0,
                 0
             ],
             "housingLyphs": [
-                "S42",
-                "S42",
-                "S42",
+                "S43",
+                "S45",
+                "S44",
                 "n-lumcol",
-                "S41"
+                "housing#img"
             ]
         }
     ],
@@ -3084,6 +3039,13 @@
         {
             "id": "neuron-q",
             "name": "Neuron q"
+        },
+        {
+            "id": "img-group",
+            "name": "IMG group",
+            "lyphs": [
+                "housing#img"
+            ]
         }
     ],
     "localConventions": [
