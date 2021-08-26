@@ -1383,7 +1383,6 @@
             "name": "Diencephalon",
             "external": [
                 "UBERON:0001894",
-                "NCBITaxon:99999",
                 "ILX:0103217"
             ],
             "layers": [

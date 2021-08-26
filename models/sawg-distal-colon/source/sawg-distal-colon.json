@@ -576,7 +576,7 @@
             "isTemplate": true
         },
         {
-            "id": "housing#img",
+            "id": "S41",
             "name": "Inferior Mesenteric Ganglion (fcolon)",
             "external": [
                 "UBERON:0005453"
@@ -593,6 +593,16 @@
             "name": "colon (fcolon)",
             "external": [
                 "UBERON:0001155"
+            ],
+            "layers": [
+                "S44",
+                "S45",
+                "S43",
+                "S46",
+                "S47",
+                "S48",
+                "S49",
+                "S50"
             ],
             "internalLyphs": [
                 "dcn-mp_i",
@@ -627,7 +637,6 @@
             "external": [
                 "UBERON:0002439"
             ],
-            "supertype": "S42",
             "internalLyphs": [
                 "S62"
             ],
@@ -641,7 +650,6 @@
             "external": [
                 "UBERON:0003335"
             ],
-            "supertype": "S42",
             "internalLyphs": [
                 "S60"
             ],
@@ -655,7 +663,6 @@
             "external": [
                 "FMA:14987"
             ],
-            "supertype": "S42",
             "internalLyphs": [
                 "S51",
                 "S61"
@@ -671,7 +678,6 @@
             "external": [
                 "FMA:14988"
             ],
-            "supertype": "S42",
             "internalLyphs": [
                 "S51",
                 "S63"
@@ -687,7 +693,6 @@
             "external": [
                 "FMA:21542"
             ],
-            "supertype": "S42",
             "internalLyphs": [
                 "S64"
             ]
@@ -698,7 +703,6 @@
             "external": [
                 "UBERON:0007177"
             ],
-            "supertype": "S42",
             "internalLyphs": [
                 "S52",
                 "S54",
@@ -716,7 +720,6 @@
             "external": [
                 "FMA:17302"
             ],
-            "supertype": "S42",
             "internalLyphs": [
                 "S55",
                 "S57"
@@ -732,7 +735,6 @@
             "external": [
                 "UBERON:0007159"
             ],
-            "supertype": "S42",
             "internalLyphs": [
                 "S56",
                 "S58"
@@ -1560,7 +1562,7 @@
                 "UBERON:0005453"
             ],
             "lyphs": [
-                "housing#img"
+                "S41"
             ],
             "root": "img1"
         },
@@ -1668,7 +1670,7 @@
                 "S40",
                 "S34",
                 "n-lumspl",
-                "housing#img"
+                "S41"
             ]
         },
         {
@@ -2323,9 +2325,13 @@
             "root": "ns9_5",
             "leaf": "ns_lay6",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "n-lumcol",
-                "S44"
+                "S42"
             ]
         },
         {
@@ -2340,13 +2346,14 @@
             "housingLayers": [
                 0,
                 0,
-                0
+                1,
+                2
             ],
             "housingLyphs": [
                 "n-lumcol",
-                "S44",
-                "S45",
-                "S43"
+                "S42",
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2361,18 +2368,18 @@
             "housingLayers": [
                 0,
                 0,
-                0,
-                0,
-                0,
-                0
+                1,
+                2,
+                3,
+                4
             ],
             "housingLyphs": [
                 "n-lumcol",
-                "S44",
-                "S45",
-                "S43",
-                "S46",
-                "S47"
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2387,20 +2394,20 @@
             "housingLayers": [
                 0,
                 0,
-                0,
-                0,
-                0,
-                0,
-                0
+                1,
+                2,
+                3,
+                4,
+                5
             ],
             "housingLyphs": [
                 "n-lumcol",
-                "S44",
-                "S45",
-                "S43",
-                "S46",
-                "S47",
-                "S48"
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2412,7 +2419,7 @@
             "root": "ns34",
             "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "housing#img"
+                "S41"
             ]
         },
         {
@@ -2436,7 +2443,7 @@
                 0
             ],
             "housingLyphs": [
-                "housing#img",
+                "S41",
                 "n-lumcol",
                 "S44",
                 "S45",
@@ -2456,7 +2463,7 @@
             "root": "ns36",
             "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "housing#img"
+                "S41"
             ]
         },
         {
@@ -2479,7 +2486,7 @@
                 0
             ],
             "housingLyphs": [
-                "housing#img",
+                "S41",
                 "n-lumcol",
                 "S60",
                 "S61",
@@ -2498,7 +2505,7 @@
             "root": "ns39",
             "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "housing#img"
+                "S41"
             ]
         },
         {
@@ -2514,19 +2521,15 @@
                 0,
                 0,
                 0,
-                0,
-                0
+                1,
+                2
             ],
             "housingLyphs": [
-                "housing#img",
+                "S41",
                 "n-lumcol",
-                "S44",
-                "S45",
-                "S43",
-                "S46",
-                "S47",
-                "S48",
-                "S52"
+                "S42",
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2538,7 +2541,7 @@
             "root": "ns42",
             "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "housing#img"
+                "S41"
             ]
         },
         {
@@ -2554,21 +2557,19 @@
                 0,
                 0,
                 0,
-                0,
-                0,
-                0,
-                0
+                1,
+                2,
+                3,
+                4
             ],
             "housingLyphs": [
-                "housing#img",
+                "S41",
                 "n-lumcol",
-                "S44",
-                "S45",
-                "S43",
-                "S46",
-                "S47",
-                "S48",
-                "S52"
+                "S42",
+                "S42",
+                "S42",
+                "42",
+                "S42"
             ]
         },
         {
@@ -2579,8 +2580,11 @@
             ],
             "root": "ns45",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2592,8 +2596,11 @@
             "root": "ns46",
             "leaf": "ns47",
             "lyphTemplate": "axon-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2604,8 +2611,11 @@
             ],
             "root": "ns48",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2618,12 +2628,12 @@
             "leaf": "ns50",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0
+                2,
+                1
             ],
             "housingLyphs": [
                 "S43",
-                "S45"
+                "S42"
             ]
         },
         {
@@ -2634,8 +2644,11 @@
             ],
             "root": "ns51",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2648,12 +2661,12 @@
             "leaf": "ns53",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0
+                2,
+                3
             ],
             "housingLyphs": [
                 "S43",
-                "S46"
+                "S42"
             ]
         },
         {
@@ -2664,8 +2677,11 @@
             ],
             "root": "ns54",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2677,8 +2693,11 @@
             "root": "ns55",
             "leaf": "ns56",
             "lyphTemplate": "axon-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2689,8 +2708,11 @@
             ],
             "root": "ns57",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2703,12 +2725,12 @@
             "leaf": "ns59",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0
+                2,
+                1
             ],
             "housingLyphs": [
-                "S43",
-                "S45"
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2719,8 +2741,11 @@
             ],
             "root": "ns60",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2733,12 +2758,12 @@
             "leaf": "ns62",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0
+                2,
+                3
             ],
             "housingLyphs": [
-                "S43",
-                "S46"
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2749,8 +2774,11 @@
             ],
             "root": "ns63",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2762,8 +2790,11 @@
             "root": "ns64",
             "leaf": "ns65",
             "lyphTemplate": "axon-bag",
+            "housingLayers": [
+                2
+            ],
             "housingLyphs": [
-                "S43"
+                "S42"
             ]
         },
         {
@@ -2776,14 +2807,14 @@
             "leaf": "ns66",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0,
-                0
+                2,
+                3,
+                4
             ],
             "housingLyphs": [
-                "S43",
-                "S46",
-                "S47"
+                "S42",
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2796,16 +2827,16 @@
             "leaf": "ns67",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0
+                2,
+                3,
+                4,
+                5
             ],
             "housingLyphs": [
-                "S43",
-                "S46",
-                "S47",
-                "S48"
+                "S42",
+                "S42",
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2816,8 +2847,11 @@
             ],
             "root": "ns68",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                4
+            ],
             "housingLyphs": [
-                "S47"
+                "S42"
             ]
         },
         {
@@ -2830,12 +2864,12 @@
             "leaf": "ns70",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0
+                4,
+                5
             ],
             "housingLyphs": [
-                "S47",
-                "S48"
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2847,8 +2881,11 @@
             "root": "ns69",
             "leaf": "ns71",
             "lyphTemplate": "axon-bag",
+            "housingLayers": [
+                4
+            ],
             "housingLyphs": [
-                "S47"
+                "S42"
             ]
         },
         {
@@ -2861,14 +2898,14 @@
             "leaf": "ns72",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0,
-                0
+                4,
+                3,
+                2
             ],
             "housingLyphs": [
-                "S47",
-                "S46",
-                "S43"
+                "S42",
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2879,8 +2916,11 @@
             ],
             "root": "ns73",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                4
+            ],
             "housingLyphs": [
-                "S47"
+                "S42"
             ]
         },
         {
@@ -2893,11 +2933,11 @@
             "leaf": "ns75",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
+                4,
                 0
             ],
             "housingLyphs": [
-                "S47",
+                "S42",
                 "S64"
             ]
         },
@@ -2909,6 +2949,9 @@
             ],
             "root": "ns76",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                4
+            ],
             "housingLyphs": [
                 "S47"
             ]
@@ -2923,12 +2966,12 @@
             "leaf": "ns78",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0
+                4,
+                5
             ],
             "housingLyphs": [
-                "S47",
-                "S48"
+                "S42",
+                "S42"
             ]
         },
         {
@@ -2940,7 +2983,7 @@
             "root": "ns79",
             "lyphTemplate": "dend-bag",
             "housingLayers": [
-                5
+                2
             ],
             "housingLyphs": [
                 "S43"
@@ -2956,8 +2999,8 @@
             "leaf": "ns81",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0,
-                0,
+                2,
+                1,
                 0,
                 0,
                 0
@@ -2967,7 +3010,7 @@
                 "S45",
                 "S44",
                 "n-lumcol",
-                "housing#img"
+                "S41"
             ]
         }
     ],
@@ -3044,7 +3087,7 @@
             "id": "img-group",
             "name": "IMG group",
             "lyphs": [
-                "housing#img"
+                "S41"
             ]
         }
     ],

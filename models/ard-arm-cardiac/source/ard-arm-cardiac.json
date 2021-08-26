@@ -273,56 +273,68 @@
             "name": "C1 spinal segment (aacar)",
             "external": [
                 "UBERON:0006469"
-            ]
+            ],
+            "supertype": "A96",
+            "scale": {
+                "width": 500,
+                "height": 60
+            }
         },
         {
             "id": "A2",
             "name": "C2 spinal segment (aacar)",
             "external": [
                 "UBERON:0006489"
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A3",
             "name": "C3 spinal segment (aacar)",
             "external": [
                 "UBERON:0006488"
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A4",
             "name": "C4 spinal segment (aacar)",
             "external": [
                 "UBERON:0006490"
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A5",
             "name": "C5 spinal segment (aacar)",
             "external": [
                 "UBERON:0006491"
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A6",
             "name": "C6 spinal segment (aacar)",
             "external": [
                 "UBERON:0006492"
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A7",
             "name": "C7 spinal segment (aacar)",
             "external": [
                 "UBERON:0006493"
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A8",
             "name": "C8 spinal segment (aacar)",
             "external": [
                 "UBERON:0006470"
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A9",
@@ -335,7 +347,8 @@
             ],
             "internalLyphsInLayers": [
                 6
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A10",
@@ -348,7 +361,8 @@
             ],
             "internalLyphsInLayers": [
                 6
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A11",
@@ -361,7 +375,8 @@
             ],
             "internalLyphsInLayers": [
                 6
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A12",
@@ -374,7 +389,8 @@
             ],
             "internalLyphsInLayers": [
                 6
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A13",
@@ -387,7 +403,8 @@
             ],
             "internalLyphsInLayers": [
                 6
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A14",
@@ -400,7 +417,8 @@
             ],
             "internalLyphsInLayers": [
                 6
-            ]
+            ],
+            "supertype": "A96"
         },
         {
             "id": "A15",
@@ -1004,6 +1022,11 @@
             "name": "Right Atrium (aacar)",
             "external": [
                 "FMA:7096"
+            ],
+            "layers": [
+                "AM_45",
+                "AM_46",
+                "AM_47"
             ]
         },
         {
@@ -1011,6 +1034,11 @@
             "name": "Right Ventricle (aacar)",
             "external": [
                 "FMA:7098"
+            ],
+            "layers": [
+                "AM_45",
+                "AM_46",
+                "AM_47"
             ]
         },
         {
@@ -1018,6 +1046,11 @@
             "name": "Left Atrium (aacar)",
             "external": [
                 "FMA:7097"
+            ],
+            "layers": [
+                "AM_45",
+                "AM_46",
+                "AM_47"
             ]
         },
         {
@@ -1025,6 +1058,11 @@
             "name": "Left Ventricle (aacar)",
             "external": [
                 "FMA:7101"
+            ],
+            "layers": [
+                "AM_45",
+                "AM_46",
+                "AM_47"
             ]
         },
         {
@@ -1090,72 +1128,63 @@
             "name": "Epicardium (aacar)",
             "external": [
                 "UBERON:0002348"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A84",
             "name": "Myocardium (aacar)",
             "external": [
                 "UBERON:0002349"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A85",
             "name": "Endocardium (aacar)",
             "external": [
                 "UBERON:0002165"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A86",
             "name": "Pericardium (aacar)",
             "external": [
                 "EMAPA:16133"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A87",
             "name": "Visceral Pericardium (aacar)",
             "external": [
                 "EMAPA:16589"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A88",
             "name": "Pericardial Fluid (aacar)",
             "external": [
                 "UBERON:0002409"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A89",
             "name": "Parietal Pericardium (aacar)",
             "external": [
                 "EMAPA:16588"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A90",
             "name": "Fibrous Pericardium (aacar)",
             "external": [
                 "UBERON:0002359"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A91",
             "name": "Epicardial fat (aacar)",
             "external": [
                 "UBERON:0015129"
-            ],
-            "isTemplate": true
+            ]
         },
         {
             "id": "A92",
@@ -1234,11 +1263,21 @@
             ],
             "isTemplate": true,
             "topology": "BAG",
-            "supertype": "ns"
+            "supertype": "229"
+        },
+        {
+            "id": "229bag2",
+            "name": "Segment of neuron  (aacar)",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true,
+            "topology": "BAG+",
+            "supertype": "229"
         },
         {
             "id": "axon-bag",
-            "name": "Axon terminal (kblad)",
+            "name": "Axon terminal (aacar)",
             "external": [
                 "SAO:280355188"
             ],
@@ -1247,7 +1286,7 @@
         },
         {
             "id": "axon-tube",
-            "name": "Axon segment (kblad)",
+            "name": "Axon segment (aacar)",
             "external": [
                 "SAO:280355188"
             ],
@@ -1256,7 +1295,7 @@
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (kblad)",
+            "name": "Dendrite terminal (aacar)",
             "external": [
                 "SAO:420754792"
             ],
@@ -1265,7 +1304,7 @@
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (kblad)",
+            "name": "Dendrite segment (aacar)",
             "external": [
                 "SAO:420754792"
             ],
@@ -1279,6 +1318,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-1"
         },
         {
@@ -1288,6 +1328,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-2"
         },
         {
@@ -1296,7 +1337,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "snna_4",
@@ -1305,6 +1347,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-4"
         },
         {
@@ -1313,7 +1356,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t1_5",
@@ -1322,6 +1366,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-5"
         },
         {
@@ -1330,7 +1375,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t3_5",
@@ -1338,7 +1384,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t4_5",
@@ -1346,7 +1393,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t5_5",
@@ -1354,7 +1402,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t6_5",
@@ -1362,7 +1411,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-sgt1_6",
@@ -1371,6 +1421,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-6"
         },
         {
@@ -1379,7 +1430,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-sgt3_6",
@@ -1387,7 +1439,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-sgt4_6",
@@ -1395,7 +1448,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-sgt5_6",
@@ -1403,7 +1457,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-sgt6_6",
@@ -1411,7 +1466,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-icg_6",
@@ -1419,7 +1475,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-mcg_6",
@@ -1427,7 +1484,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-scg_6",
@@ -1435,7 +1493,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-med_6",
@@ -1443,7 +1502,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-aicg_7",
@@ -1452,6 +1512,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-7"
         },
         {
@@ -1460,7 +1521,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-aicg_8",
@@ -1469,6 +1531,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-8"
         },
         {
@@ -1477,7 +1540,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-aicg_9",
@@ -1486,6 +1550,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-9"
         },
         {
@@ -1494,7 +1559,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-aicg_10",
@@ -1503,6 +1569,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-10"
         },
         {
@@ -1511,7 +1578,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-ng_11",
@@ -1520,6 +1588,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-11"
         },
         {
@@ -1529,6 +1598,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-12"
         },
         {
@@ -1537,7 +1607,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-c6drg_13",
@@ -1546,6 +1617,7 @@
                 "NLX:154731"
             ],
             "topology": "BAG",
+            "supertype": "229",
             "seedIn": "neuron-13"
         },
         {
@@ -1554,7 +1626,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-c8drg_13",
@@ -1562,7 +1635,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t1drg_13",
@@ -1570,7 +1644,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t2drg_13",
@@ -1578,7 +1653,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t3drg_13",
@@ -1586,7 +1662,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t4drg_13",
@@ -1594,7 +1671,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t5drg_13",
@@ -1602,7 +1680,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         },
         {
             "id": "sn-t6drg_13",
@@ -1610,7 +1689,8 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG"
+            "topology": "BAG",
+            "supertype": "229"
         }
     ],
     "materials": [
@@ -1986,16 +2066,11 @@
     "chains": [
         {
             "id": "sc1",
-            "name": "Spinal Cord_plus (aacar)",
+            "name": "Spinal Cord segments(aacar)",
             "external": [
                 "UBERON:0002240"
             ],
             "lyphs": [
-                "A64",
-                "A66",
-                "A67",
-                "A68",
-                "A69",
                 "A1",
                 "A2",
                 "A3",
@@ -4145,12 +4220,12 @@
             "root": "ns194",
             "leaf": "ns192_1",
             "housingLayers": [
-                0,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
-                "A21",
-                "A74"
+                "A74",
+                "A21"
             ]
         },
         {
@@ -4267,7 +4342,7 @@
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns202",
-            "leaf": "ns192_5",
+            "leaf": "ns190_1",
             "housingLayers": [
                 0,
                 5
@@ -4285,7 +4360,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns203",
-            "leaf": "ns190_1",
+            "leaf": "ns203_1",
             "housingLyphs": [
                 "A26"
             ]
@@ -4377,8 +4452,8 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
-            "root": "ns190_1",
-            "leaf": "ns194",
+            "root": "ns194",
+            "leaf": "ns190_1",
             "housingLayers": [
                 5
             ],
@@ -4409,9 +4484,14 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns194",
+            "root": "ns195",
             "leaf": "ns196",
+            "housingLayers": [
+                5,
+                0
+            ],
             "housingLyphs": [
+                "A74",
                 "A78"
             ]
         },
@@ -4422,12 +4502,16 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns194",
+            "root": "ns195",
             "leaf": "ns197",
             "housingLayers": [
+                5,
+                0,
                 1
             ],
             "housingLyphs": [
+                "A74",
+                "A78",
                 "A78"
             ]
         },
@@ -4438,10 +4522,15 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns194",
+            "root": "ns195",
             "leaf": "ns200",
+            "housingLayers": [
+                5,
+                0
+            ],
             "housingLyphs": [
-                "A78"
+                "A74",
+                "A76"
             ]
         },
         {
@@ -4451,13 +4540,17 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns194",
+            "root": "ns195",
             "leaf": "ns201",
             "housingLayers": [
+                5,
+                0,
                 1
             ],
             "housingLyphs": [
-                "A78"
+                "A74",
+                "A76",
+                "A76"
             ]
         }
     ],
