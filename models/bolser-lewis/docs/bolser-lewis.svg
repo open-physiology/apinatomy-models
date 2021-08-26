@@ -32,13 +32,14 @@
    inkscape:window-height="979"
    id="namedview1449"
    showgrid="false"
-   inkscape:zoom="0.58792278"
-   inkscape:cx="820.07422"
-   inkscape:cy="738.46932"
-   inkscape:window-x="1259"
-   inkscape:window-y="429"
+   inkscape:zoom="2.3516911"
+   inkscape:cx="711.36223"
+   inkscape:cy="359.74651"
+   inkscape:window-x="1250"
+   inkscape:window-y="430"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
 <style
    type="text/css"
    id="style2">
@@ -1388,42 +1389,7 @@
    transform="matrix(1 0 0 1 164.2744 896.6334)"
    class="st7 st20 st11"
    id="text522">Flow of CSF</text>
-<g
-   id="g540">
-	<g
-   id="g538">
-		<path
-   class="st16"
-   d="M845.69,668.46c-132.31-24.24-180-25.69-241.51-22.34c-3.31,0.18-303.93,25.43-323.65,27.14"
-   id="path524" />
-		<g
-   id="g532">
-			<g
-   id="g530">
-				<polygon
-   class="st17"
-   points="851.11,666.13 845.1,668.4 849.96,672.61     "
-   id="polygon526" />
-				<path
-   class="st7"
-   d="M851.54,665.61l-7.08,2.68l5.72,4.95L851.54,665.61z M845.73,668.52l4.95-1.87l-0.95,5.34L845.73,668.52z"
-   id="path528" />
-			</g>
-		</g>
-		<g
-   id="g536">
-			
-				<rect
-   x="280.03"
-   y="670.01"
-   transform="matrix(0.9965 -0.0836 0.0836 0.9965 -55.275 25.7954)"
-   class="st7"
-   width="1"
-   height="6.5"
-   id="rect534" />
-		</g>
-	</g>
-</g>
+
 <circle
    class="st18"
    cx="661.68"
@@ -2562,42 +2528,7 @@
    height="6.03"
    id="rect894" />
 </g>
-<g
-   id="g914">
-	<g
-   id="g912">
-		<path
-   class="st16"
-   d="M258.31,652.88c-36.3-87.26-66.38-378.99,2.7-416.98c14.42-7.94,99.54-51.98,371.1-6.69"
-   id="path898" />
-		<g
-   id="g906">
-			<g
-   id="g904">
-				<polygon
-   class="st17"
-   points="263.31,656.12 258.12,652.32 257.25,658.69     "
-   id="polygon900" />
-				<path
-   class="st7"
-   d="M263.97,656.2l-6.1-4.48l-1.03,7.5L263.97,656.2z M258.37,652.91l4.27,3.13l-4.99,2.11L258.37,652.91z"
-   id="path902" />
-			</g>
-		</g>
-		<g
-   id="g910">
-			
-				<rect
-   x="628.87"
-   y="228.72"
-   transform="matrix(0.1518 -0.9884 0.9884 0.1518 309.6153 819.2193)"
-   class="st7"
-   width="6.5"
-   height="1"
-   id="rect908" />
-		</g>
-	</g>
-</g>
+
 <g
    id="g918">
 	<polygon
@@ -2999,42 +2930,7 @@
 		</g>
 	</g>
 </g>
-<g
-   id="g1134">
-	<g
-   id="g1132">
-		<path
-   class="st16"
-   d="M607.44,281.72c3.28,46.34,45.73,317.61,117.69,317.61c75.62,0,585.29,0,603.74,0    c18.38,0,45.69,18.45,10.11,56.61"
-   id="path1118" />
-		<g
-   id="g1126">
-			<g
-   id="g1124">
-				<polygon
-   class="st17"
-   points="603.99,276.94 607.52,282.32 610.56,276.65     "
-   id="polygon1120" />
-				<path
-   class="st7"
-   d="M603.39,276.64l4.15,6.32l3.58-6.67L603.39,276.64z M607.49,281.67l-2.91-4.43l5.41-0.24L607.49,281.67z"
-   id="path1122" />
-			</g>
-		</g>
-		<g
-   id="g1130">
-			
-				<rect
-   x="1338.47"
-   y="652.7"
-   transform="matrix(0.6703 -0.7421 0.7421 0.6703 -45.295 1209.9497)"
-   class="st7"
-   width="1"
-   height="6.5"
-   id="rect1128" />
-		</g>
-	</g>
-</g>
+
 <g
    id="g1152">
 	<g
@@ -3215,42 +3111,7 @@
 		</g>
 	</g>
 </g>
-<g
-   id="g1242">
-	<g
-   id="g1240">
-		<path
-   class="st16"
-   d="M1335.45,670.38c-171.27-31.4-783.44-77.25-1054.92-12.79"
-   id="path1226" />
-		<g
-   id="g1234">
-			<g
-   id="g1232">
-				<polygon
-   class="st17"
-   points="1340.83,668.07 1334.84,670.39 1339.74,674.56     "
-   id="polygon1228" />
-				<path
-   class="st7"
-   d="M1341.26,667.55l-7.05,2.74l5.77,4.9L1341.26,667.55z M1335.48,670.5l4.94-1.92l-0.9,5.34L1335.48,670.5z"
-   id="path1230" />
-			</g>
-		</g>
-		<g
-   id="g1238">
-			
-				<rect
-   x="280.03"
-   y="654.35"
-   transform="matrix(0.9772 -0.2122 0.2122 0.9772 -133.1634 74.5105)"
-   class="st7"
-   width="1"
-   height="6.5"
-   id="rect1236" />
-		</g>
-	</g>
-</g>
+
 <circle
    class="st18"
    cx="842.01"
@@ -3365,42 +3226,7 @@
 		</g>
 	</g>
 </g>
-<g
-   id="g1310">
-	<g
-   id="g1308">
-		<path
-   class="st16"
-   d="M268.49,657.27c-12.57-172.42,26.36-210.96-177.23-182.7"
-   id="path1294" />
-		<g
-   id="g1302">
-			<g
-   id="g1300">
-				<polygon
-   class="st17"
-   points="272.13,661.98 268.49,656.68 265.56,662.4     "
-   id="polygon1296" />
-				<path
-   class="st7"
-   d="M272.73,662.27l-4.28-6.24l-3.45,6.73L272.73,662.27z M268.53,657.32l2.99,4.37l-5.41,0.34L268.53,657.32z"
-   id="path1298" />
-			</g>
-		</g>
-		<g
-   id="g1306">
-			
-				<rect
-   x="90.76"
-   y="471.33"
-   transform="matrix(0.992 -0.1263 0.1263 0.992 -59.2006 15.3233)"
-   class="st7"
-   width="1"
-   height="6.5"
-   id="rect1304" />
-		</g>
-	</g>
-</g>
+
 <text
    transform="matrix(1 0 0 1 1154.9155 817.026)"
    class="st7 st10 st11"
@@ -3421,42 +3247,7 @@
    transform="matrix(1 0 0 1 665.8663 973.0416)"
    class="st7 st10 st11"
    id="text1320">LM: Laryngeal mechanoreceptors</text>
-<g
-   id="g1338">
-	<g
-   id="g1336">
-		<path
-   class="st16"
-   d="M966.39,656.42c-167.77-48.58-616.88,8.97-690.86,9.98"
-   id="path1322" />
-		<g
-   id="g1330">
-			<g
-   id="g1328">
-				<polygon
-   class="st17"
-   points="972.04,654.7 965.81,656.29 970.18,661.01     "
-   id="polygon1324" />
-				<path
-   class="st7"
-   d="M972.52,654.24l-7.33,1.88l5.14,5.55L972.52,654.24z M966.43,656.48l5.13-1.31l-1.53,5.2L966.43,656.48z"
-   id="path1326" />
-			</g>
-		</g>
-		<g
-   id="g1334">
-			
-				<rect
-   x="275.04"
-   y="663.14"
-   transform="matrix(0.9991 -0.0435 0.0435 0.9991 -28.6989 12.6035)"
-   class="st7"
-   width="1"
-   height="6.5"
-   id="rect1332" />
-		</g>
-	</g>
-</g>
+
 <g
    id="g1356">
 	<g
@@ -3604,8 +3395,12 @@
 </g>
 <g
    id="g1422">
-	<g
-   id="g1420">
+	
+<g
+   id="g2292"><g
+     id="g1420"
+     ontid="ntbu:10"
+     inkscape:label="10">
 		<path
    class="st16"
    d="M988.45,468.83c77.12-117.77,29.38-115.9-105.97-115.9c-137.01,0-164.56,12.42-150.65,110.66    c14.53,102.59,147.8,83.02,157.85,197.71"
@@ -3636,8 +3431,16 @@
    height="1"
    id="rect1416" />
 		</g>
-	</g>
-</g>
+	</g><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="899.1673"
+     y="366.69632"
+     id="text2280"><tspan
+       sodipodi:role="line"
+       id="tspan2278"
+       x="899.1673"
+       y="366.69632">10</tspan></text></g></g>
 <rect
    x="878.14"
    y="462.83"
@@ -3686,4 +3489,316 @@
    transform="matrix(1 0 0 1 960.2255 479.221)"
    class="st7 st14 st15"
    id="text1446">EM</text>
-</svg>
+<g
+   id="g2309"><g
+     id="g914"
+     ontid="ntbu:2">
+	<g
+   id="g912">
+		<path
+   class="st16"
+   d="M258.31,652.88c-36.3-87.26-66.38-378.99,2.7-416.98c14.42-7.94,99.54-51.98,371.1-6.69"
+   id="path898" />
+		<g
+   id="g906">
+			<g
+   id="g904">
+				<polygon
+   class="st17"
+   points="263.31,656.12 258.12,652.32 257.25,658.69     "
+   id="polygon900" />
+				<path
+   class="st7"
+   d="M263.97,656.2l-6.1-4.48l-1.03,7.5L263.97,656.2z M258.37,652.91l4.27,3.13l-4.99,2.11L258.37,652.91z"
+   id="path902" />
+			</g>
+		</g>
+		<g
+   id="g910">
+			
+				<rect
+   x="628.87"
+   y="228.72"
+   transform="matrix(0.1518 -0.9884 0.9884 0.1518 309.6153 819.2193)"
+   class="st7"
+   width="6.5"
+   height="1"
+   id="rect908" />
+		</g>
+	</g>
+</g><text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+     x="228.32346"
+     y="597.75671"
+     id="text2296"><tspan
+       sodipodi:role="line"
+       id="tspan2294"
+       x="228.32346"
+       y="597.75671">2</tspan></text></g><g
+   id="g2326"><g
+     id="g2339"><g
+       id="g1310">
+	<g
+   id="g1308">
+		<path
+   class="st16"
+   d="M268.49,657.27c-12.57-172.42,26.36-210.96-177.23-182.7"
+   id="path1294" />
+		<g
+   id="g1302">
+			<g
+   id="g1300">
+				<polygon
+   class="st17"
+   points="272.13,661.98 268.49,656.68 265.56,662.4     "
+   id="polygon1296" />
+				<path
+   class="st7"
+   d="M272.73,662.27l-4.28-6.24l-3.45,6.73L272.73,662.27z M268.53,657.32l2.99,4.37l-5.41,0.34L268.53,657.32z"
+   id="path1298" />
+			</g>
+		</g>
+		<g
+   id="g1306">
+			
+				<rect
+   x="90.76"
+   y="471.33"
+   transform="matrix(0.992 -0.1263 0.1263 0.992 -59.2006 15.3233)"
+   class="st7"
+   width="1"
+   height="6.5"
+   id="rect1304" />
+		</g>
+	</g>
+</g><text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+       x="271.93521"
+       y="598.40839"
+       id="text2313"><tspan
+         sodipodi:role="line"
+         id="tspan2311"
+         x="271.93521"
+         y="598.40839">3</tspan></text></g></g><g
+   id="g2376"><g
+     id="g2356"><g
+       id="g1242">
+	<g
+   id="g1240">
+		<path
+   class="st16"
+   d="M1335.45,670.38c-171.27-31.4-783.44-77.25-1054.92-12.79"
+   id="path1226" />
+		<g
+   id="g1234">
+			<g
+   id="g1232">
+				<polygon
+   class="st17"
+   points="1340.83,668.07 1334.84,670.39 1339.74,674.56     "
+   id="polygon1228" />
+				<path
+   class="st7"
+   d="M1341.26,667.55l-7.05,2.74l5.77,4.9L1341.26,667.55z M1335.48,670.5l4.94-1.92l-0.9,5.34L1335.48,670.5z"
+   id="path1230" />
+			</g>
+		</g>
+		<g
+   id="g1238">
+			
+				<rect
+   x="280.03"
+   y="654.35"
+   transform="matrix(0.9772 -0.2122 0.2122 0.9772 -133.1634 74.5105)"
+   class="st7"
+   width="1"
+   height="6.5"
+   id="rect1236" />
+		</g>
+	</g>
+</g><text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+       x="1279.558"
+       y="658.31891"
+       id="text2343"><tspan
+         sodipodi:role="line"
+         id="tspan2341"
+         x="1279.558"
+         y="658.31891">1</tspan></text></g><text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+     x="303.6246"
+     y="645.28168"
+     id="text2360"><tspan
+       sodipodi:role="line"
+       id="tspan2358"
+       x="303.6246"
+       y="645.28168">1</tspan></text></g><g
+   id="g2433"><g
+     id="g2405"><g
+       id="g540">
+	<g
+   id="g538">
+		<path
+   class="st16"
+   d="M845.69,668.46c-132.31-24.24-180-25.69-241.51-22.34c-3.31,0.18-303.93,25.43-323.65,27.14"
+   id="path524" />
+		<g
+   id="g532">
+			<g
+   id="g530">
+				<polygon
+   class="st17"
+   points="851.11,666.13 845.1,668.4 849.96,672.61     "
+   id="polygon526" />
+				<path
+   class="st7"
+   d="M851.54,665.61l-7.08,2.68l5.72,4.95L851.54,665.61z M845.73,668.52l4.95-1.87l-0.95,5.34L845.73,668.52z"
+   id="path528" />
+			</g>
+		</g>
+		<g
+   id="g536">
+			
+				<rect
+   x="280.03"
+   y="670.01"
+   transform="matrix(0.9965 -0.0836 0.0836 0.9965 -55.275 25.7954)"
+   class="st7"
+   width="1"
+   height="6.5"
+   id="rect534" />
+		</g>
+	</g>
+</g><text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+       x="799.34595"
+       y="656.23547"
+       id="text2380"><tspan
+         sodipodi:role="line"
+         id="tspan2378"
+         x="799.34595"
+         y="656.23547">6</tspan></text></g><text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+     x="303.95621"
+     y="685.79309"
+     id="text2380-1"><tspan
+       sodipodi:role="line"
+       id="tspan2378-5"
+       x="303.95621"
+       y="685.79309">6</tspan></text></g><g
+   id="g2470"><g
+     id="g2450"><g
+       id="g1338">
+	<g
+   id="g1336">
+		<path
+   class="st16"
+   d="M966.39,656.42c-167.77-48.58-616.88,8.97-690.86,9.98"
+   id="path1322" />
+		<g
+   id="g1330">
+			<g
+   id="g1328">
+				<polygon
+   class="st17"
+   points="972.04,654.7 965.81,656.29 970.18,661.01     "
+   id="polygon1324" />
+				<path
+   class="st7"
+   d="M972.52,654.24l-7.33,1.88l5.14,5.55L972.52,654.24z M966.43,656.48l5.13-1.31l-1.53,5.2L966.43,656.48z"
+   id="path1326" />
+			</g>
+		</g>
+		<g
+   id="g1334">
+			
+				<rect
+   x="275.04"
+   y="663.14"
+   transform="matrix(0.9991 -0.0435 0.0435 0.9991 -28.6989 12.6035)"
+   class="st7"
+   width="1"
+   height="6.5"
+   id="rect1332" />
+		</g>
+	</g>
+</g><text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+       x="305.38773"
+       y="663.19073"
+       id="text2437"><tspan
+         sodipodi:role="line"
+         id="tspan2435"
+         x="305.38773"
+         y="663.19073">7</tspan></text></g><text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+     x="937.58246"
+     y="664.14496"
+     id="text2454"><tspan
+       sodipodi:role="line"
+       id="tspan2452"
+       x="937.58246"
+       y="664.14496">7</tspan></text></g><g
+   id="g3282"><g
+     id="g3254"><g
+       id="g1134">
+	<g
+   id="g1132">
+		<path
+   class="st16"
+   d="M607.44,281.72c3.28,46.34,45.73,317.61,117.69,317.61c75.62,0,585.29,0,603.74,0    c18.38,0,45.69,18.45,10.11,56.61"
+   id="path1118" />
+		<g
+   id="g1126">
+			<g
+   id="g1124">
+				<polygon
+   class="st17"
+   points="603.99,276.94 607.52,282.32 610.56,276.65     "
+   id="polygon1120" />
+				<path
+   class="st7"
+   d="M603.39,276.64l4.15,6.32l3.58-6.67L603.39,276.64z M607.49,281.67l-2.91-4.43l5.41-0.24L607.49,281.67z"
+   id="path1122" />
+			</g>
+		</g>
+		<g
+   id="g1130">
+			
+				<rect
+   x="1338.47"
+   y="652.7"
+   transform="matrix(0.6703 -0.7421 0.7421 0.6703 -45.295 1209.9497)"
+   class="st7"
+   width="1"
+   height="6.5"
+   id="rect1128" />
+		</g>
+	</g>
+</g><text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+       x="1350.9238"
+       y="603.69916"
+       id="text3229"><tspan
+         sodipodi:role="line"
+         id="tspan3227"
+         x="1350.9238"
+         y="603.69916">26</tspan></text></g><text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal'"
+     x="607.17413"
+     y="398.61743"
+     id="text3229-9"><tspan
+       sodipodi:role="line"
+       id="tspan3227-7"
+       x="607.17413"
+       y="398.61743">26</tspan></text></g></svg>
