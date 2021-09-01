@@ -1934,99 +1934,99 @@
         {
             "id": "neuron-1",
             "name": "Neuron 1",
-            "links": [
-                "lnk-soma_dn_1"
+            "external": [
+                "ilxtr:neuron-type-sstom-1"
             ]
         },
         {
             "id": "neuron-2",
             "name": "Neuron 2",
-            "links": [
-                "lnk-soma_in_2"
+            "external": [
+                "ilxtr:neuron-type-sstom-2"
             ]
         },
         {
             "id": "neuron-3",
             "name": "Neuron 3",
-            "links": [
-                "lnk-soma_in_3"
+            "external": [
+                "ilxtr:neuron-type-sstom-3"
             ]
         },
         {
             "id": "neuron-4",
             "name": "Neuron 4",
-            "links": [
-                "lnk-soma_nts_4"
+            "external": [
+                "ilxtr:neuron-type-sstom-4"
             ]
         },
         {
             "id": "neuron-5",
             "name": "Neuron 5",
-            "links": [
-                "lnk-soma_ng_5"
+            "external": [
+                "ilxtr:neuron-type-sstom-5"
             ]
         },
         {
             "id": "neuron-6",
             "name": "Neuron 6",
-            "links": [
-                "lnk-soma_nts_6"
+            "external": [
+                "ilxtr:neuron-type-sstom-6"
             ]
         },
         {
             "id": "neuron-7",
             "name": "Neuron 7",
-            "links": [
-                "lnk-soma_dmv_7"
+            "external": [
+                "ilxtr:neuron-type-sstom-7"
             ]
         },
         {
             "id": "neuron-8",
             "name": "Neuron 8",
-            "links": [
-                "lnk-soma_dmv_8"
+            "external": [
+                "ilxtr:neuron-type-sstom-8"
             ]
         },
         {
             "id": "neuron-9",
             "name": "Neuron 9",
-            "links": [
-                "lnk-soma_dmv_9"
+            "external": [
+                "ilxtr:neuron-type-sstom-9"
             ]
         },
         {
             "id": "neuron-10",
             "name": "Neuron 10",
-            "links": [
-                "lnk-soma_dmv_10"
+            "external": [
+                "ilxtr:neuron-type-sstom-10"
             ]
         },
         {
             "id": "neuron-11",
             "name": "Neuron 11",
-            "links": [
-                "lnk-soma_mp_11"
+            "external": [
+                "ilxtr:neuron-type-sstom-11"
             ]
         },
         {
             "id": "neuron-12",
             "name": "Neuron 12",
-            "links": [
-                "lnk-soma_mp_12"
+            "external": [
+                "ilxtr:neuron-type-sstom-12"
             ]
         },
         {
             "id": "neuron-13",
             "name": "Neuron 13",
-            "links": [
-                "lnk-soma_mp_13"
+            "external": [
+                "ilxtr:neuron-type-sstom-13"
             ]
         },
         {
             "id": "neuron-14",
             "name": "Neuron 14",
-            "links": [
-                "lnk-soma_mp_14"
+            "external": [
+                "ilxtr:neuron-type-sstom-14"
             ]
         }
     ],
@@ -2082,6 +2082,10 @@
         {
             "prefix": "XAO",
             "namespace": "http://purl.obolibrary.org/obo/XAO_"
+        },
+        {
+            "prefix": "ilxtr",
+            "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
         }
     ],
     "id": "sawg-stomach",

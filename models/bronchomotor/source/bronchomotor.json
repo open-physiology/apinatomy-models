@@ -2708,6 +2708,9 @@
         {
             "id": "neuron-1",
             "name": "Neuron 1",
+            "external": [
+                "ilxtr:neuron-type-bromo-1"
+            ],
             "publications": [
                 "PMID:8300416",
                 "PMID:3198482",
@@ -2717,6 +2720,9 @@
         {
             "id": "neuron-2",
             "name": "Neuron 2",
+            "external": [
+                "ilxtr:neuron-type-bromo-2"
+            ],
             "publications": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
@@ -2724,6 +2730,9 @@
         {
             "id": "neuron-3",
             "name": "Neuron 3",
+            "external": [
+                "ilxtr:neuron-type-bromo-3"
+            ],
             "publications": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
@@ -2731,6 +2740,9 @@
         {
             "id": "neuron-4",
             "name": "Neuron 4",
+            "external": [
+                "ilxtr:neuron-type-bromo-4"
+            ],
             "publications": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
@@ -2738,6 +2750,9 @@
         {
             "id": "neuron-5",
             "name": "Neuron 5",
+            "external": [
+                "ilxtr:neuron-type-bromo-5"
+            ],
             "publications": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
@@ -2745,6 +2760,9 @@
         {
             "id": "neuron-6",
             "name": "Neuron 6",
+            "external": [
+                "ilxtr:neuron-type-bromo-6"
+            ],
             "publications": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
@@ -2802,6 +2820,10 @@
         {
             "prefix": "doi",
             "namespace": "https://doi.org/"
+        },
+        {
+            "prefix": "ilxtr",
+            "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
         }
     ],
     "id": "bronchomotor",

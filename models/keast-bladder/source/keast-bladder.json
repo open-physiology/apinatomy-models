@@ -2631,7 +2631,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "axon-tube",
             "root": "ns15_5",
             "leaf": "ns16",
             "housingLayers": [
@@ -3254,7 +3254,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "axon-tube",
             "root": "ns59",
             "leaf": "ns60",
             "housingLayers": [
@@ -3314,7 +3314,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "axon-tube",
             "root": "ns63",
             "leaf": "ns66",
             "housingLayers": [
@@ -3500,7 +3500,7 @@
         },
         {
             "id": "dc-sn-drgl1_11",
-            "name": "L1 DRG POS_11 dendrite chain (kblad)",
+            "name": "L1 DRG FOS_11 dendrite chain (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3518,7 +3518,7 @@
         },
         {
             "id": "dc-sn-drgl2_11",
-            "name": "L2 DRG POS_11 dendrite chain (kblad)",
+            "name": "L2 DRG FOS_11 dendrite chain (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3536,7 +3536,7 @@
         },
         {
             "id": "ac-sn-drgl1_11",
-            "name": "L1 DRG POS_11 axon chain to spinal cord segment_Neuron 11 (kblad)",
+            "name": "L1 DRG FOS_11 axon chain to spinal cord segment_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3554,7 +3554,7 @@
         },
         {
             "id": "ac-sn-drgl1-2_11",
-            "name": "L1 DRG POS_11 axon chain to spinal cord segment-layer2_Neuron 11 (kblad)",
+            "name": "L1 DRG FOS_11 axon chain to spinal cord segment-layer2_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3572,7 +3572,7 @@
         },
         {
             "id": "ac-sn-drgl1-6_11",
-            "name": "L1 DRG POS_11 axon chain to spinal cord segment-layer6_Neuron 11 (kblad)",
+            "name": "L1 DRG FOS_11 axon chain to spinal cord segment-layer6_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3590,7 +3590,7 @@
         },
         {
             "id": "ac-sn-drgl1-8_11",
-            "name": "L1 DRG POS_11 axon chain to spinal cord segment-layer8_Neuron 11 (kblad)",
+            "name": "L1 DRG FOS_11 axon chain to spinal cord segment-layer8_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3608,7 +3608,7 @@
         },
         {
             "id": "ac-sn-drgl1-11_11",
-            "name": "L1 DRG POS_11 axon chain to spinal cord segment-layer 11_Neuron 11 (kblad)",
+            "name": "L1 DRG FOS_11 axon chain to spinal cord segment-layer 11_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3626,7 +3626,7 @@
         },
         {
             "id": "ac-sn-drgl1-12_11",
-            "name": "L1 DRG POS_11 axon chain to spinal cord segment-layer 12_Neuron 11 (kblad)",
+            "name": "L1 DRG FOS_11 axon chain to spinal cord segment-layer 12_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3644,7 +3644,7 @@
         },
         {
             "id": "ac-sn-drgl2_11",
-            "name": "L2 DRG POS_11 axon chain to spinal cord segment_Neuron 11 (kblad)",
+            "name": "L2 DRG FOS_11 axon chain to spinal cord segment_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3662,7 +3662,7 @@
         },
         {
             "id": "ac-sn-drgl2-2_11",
-            "name": "L2 DRG POS_11 axon chain to spinal cord segment-layer2_Neuron 11 (kblad)",
+            "name": "L2 DRG FOS_11 axon chain to spinal cord segment-layer2_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3680,7 +3680,7 @@
         },
         {
             "id": "ac-sn-drgl2-6_11",
-            "name": "L2 DRG POS_11 axon chain to spinal cord segment-layer6_Neuron 11 (kblad)",
+            "name": "L2 DRG FOS_11 axon chain to spinal cord segment-layer6_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3698,7 +3698,7 @@
         },
         {
             "id": "ac-sn-drgl2-8_11",
-            "name": "L2 DRG POS_11 axon chain to spinal cord segment-layer8_Neuron 11 (kblad)",
+            "name": "L2 DRG FOS_11 axon chain to spinal cord segment-layer8_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3716,7 +3716,7 @@
         },
         {
             "id": "ac-sn-drgl2-11_11",
-            "name": "L2 DRG POS_11 axon chain to spinal cord segment-layer 11_Neuron 11 (kblad)",
+            "name": "L2 DRG FOS_11 axon chain to spinal cord segment-layer 11_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3734,7 +3734,7 @@
         },
         {
             "id": "ac-sn-drgl2-12_11",
-            "name": "L2 DRG POS_11 axon chain to spinal cord segment-layer 12_Neuron 11 (kblad)",
+            "name": "L2 DRG FOS_11 axon chain to spinal cord segment-layer 12_Neuron 11 (kblad)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3752,7 +3752,7 @@
         },
         {
             "id": "dc-img-bn_11",
-            "name": "L1 L2 DRG POS_11 dendrite chain from img_Neuron 11 (kblad)",
+            "name": "L1 L2 DRG FOS_11 dendrite chain from img_Neuron 11 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3776,7 +3776,7 @@
         },
         {
             "id": "dc-img-bn3_11",
-            "name": "L1 L2 DRG POS_11 dendrite chain from bladder nerve to bladder neck_layer3bv_Neuron 11 (kblad)",
+            "name": "L1 L2 DRG FOS_11 dendrite chain from bladder nerve to bladder neck_layer3bv_Neuron 11 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3796,7 +3796,7 @@
         },
         {
             "id": "dc-img-bn2_11",
-            "name": "L1 L2 DRG POS_11 dendrite chain from bladder nerve to bladder neck_layer2_Neuron 11 (kblad)",
+            "name": "L1 L2 DRG FOS_11 dendrite chain from bladder nerve to bladder neck_layer2_Neuron 11 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3816,7 +3816,7 @@
         },
         {
             "id": "dc-img-bn1_11",
-            "name": "L1 L2 DRG POS_11 dendrite chain from bladder nerve to bladder neck_layer1_Neuron 11 (kblad)",
+            "name": "L1 L2 DRG FOS_11 dendrite chain from bladder nerve to bladder neck_layer1_Neuron 11 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3838,7 +3838,7 @@
         },
         {
             "id": "dc-img-bd3_11",
-            "name": "L1 L2 DRG POS_11 dendrite chain from bladder nerve to bladder dome_layer3bv_Neuron 11 (kblad)",
+            "name": "L1 L2 DRG FOS_11 dendrite chain from bladder nerve to bladder dome_layer3bv_Neuron 11 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3858,7 +3858,7 @@
         },
         {
             "id": "dc-img-bd2_11",
-            "name": "L1 L2 DRG POS_11 dendrite chain from bladder nerve to bladder dome_layer2_Neuron 11 (kblad)",
+            "name": "L1 L2 DRG FOS_11 dendrite chain from bladder nerve to bladder dome_layer2_Neuron 11 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -3878,7 +3878,7 @@
         },
         {
             "id": "dc-img-bd1_11",
-            "name": "L1 L2 DRG POS_11 dendrite chain from bladder nerve to bladder dome_layer1_Neuron 11 (kblad)",
+            "name": "L1 L2 DRG FOS_11 dendrite chain from bladder nerve to bladder dome_layer1_Neuron 11 (kblad)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -4902,7 +4902,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns200",
             "leaf": "ns208",
             "housingLayers": [
@@ -5034,7 +5034,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns209",
             "leaf": "ns208",
             "housingLayers": [

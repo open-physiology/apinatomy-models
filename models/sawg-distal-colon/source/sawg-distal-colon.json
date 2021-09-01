@@ -78,161 +78,161 @@
     "links": [
         {
             "id": "lnk-dcn-l3_b",
-            "name": "link to Soma of Symp preganglionic neuron in L3_Neuron B (fcolon)",
+            "name": "link to Soma of Symp preganglionic neuron in L3_Neuron B (sdcol)",
             "source": "ns1",
             "target": "ns2",
             "conveyingLyph": "dcn-l3_b"
         },
         {
             "id": "lnk-dcn-l4_b",
-            "name": "link to Soma of Symp preganglionic neuron in L4_Neuron B (fcolon)",
+            "name": "link to Soma of Symp preganglionic neuron in L4_Neuron B (sdcol)",
             "source": "ns3",
             "target": "ns4",
             "conveyingLyph": "dcn-l4_b"
         },
         {
             "id": "lnk-dcn-t13drg_c",
-            "name": "link to Soma of spinal afferent neuron in T13 DRG_Neuron C (fcolon)",
+            "name": "link to Soma of spinal afferent neuron in T13 DRG_Neuron C (sdcol)",
             "source": "ns7",
             "target": "ns8",
             "conveyingLyph": "dcn-t13drg_c"
         },
         {
             "id": "lnk-dcn-l1drg_c",
-            "name": "link to Soma of spinal afferent neuron in L1 DRG_Neuron C (fcolon)",
+            "name": "link to Soma of spinal afferent neuron in L1 DRG_Neuron C (sdcol)",
             "source": "ns12",
             "target": "ns13",
             "conveyingLyph": "dcn-l1drg_c"
         },
         {
             "id": "lnk-dcn-l2drg_c",
-            "name": "link to Soma of spinal afferent neuron in L2 DRG_Neuron C (fcolon)",
+            "name": "link to Soma of spinal afferent neuron in L2 DRG_Neuron C (sdcol)",
             "source": "ns17",
             "target": "ns18",
             "conveyingLyph": "dcn-l2drg_c"
         },
         {
             "id": "lnk-dcn-l3drg_c",
-            "name": "link to Soma of spinal afferent neuron in L3 DRG_Neuron C (fcolon)",
+            "name": "link to Soma of spinal afferent neuron in L3 DRG_Neuron C (sdcol)",
             "source": "ns22",
             "target": "ns23",
             "conveyingLyph": "dcn-l3drg_c"
         },
         {
             "id": "lnk-dcn-l4drg_c",
-            "name": "link to Soma of spinal afferent neuron in L4 DRG_Neuron C (fcolon)",
+            "name": "link to Soma of spinal afferent neuron in L4 DRG_Neuron C (sdcol)",
             "source": "ns26",
             "target": "ns27",
             "conveyingLyph": "dcn-l4drg_c"
         },
         {
             "id": "lnk-dcn-l5drg_c",
-            "name": "link to Soma of spinal afferent neuron in L5 DRG_Neuron C (fcolon)",
+            "name": "link to Soma of spinal afferent neuron in L5 DRG_Neuron C (sdcol)",
             "source": "ns30",
             "target": "ns31",
             "conveyingLyph": "dcn-l5drg_c"
         },
         {
             "id": "lnk-dcn-img_d",
-            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
+            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron D (sdcol)",
             "source": "ns34",
             "target": "ns35",
             "conveyingLyph": "dcn-img_d"
         },
         {
             "id": "lnk-dcn-img_f",
-            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
+            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron F (sdcol)",
             "source": "ns36",
             "target": "ns37",
             "conveyingLyph": "dcn-img_f"
         },
         {
             "id": "lnk-dcn-img_g",
-            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
+            "name": "link to Soma of Symp postganglionic neuron in IMG_Neuron G (sdcol)",
             "source": "ns39",
             "target": "ns40",
             "conveyingLyph": "dcn-img_g"
         },
         {
             "id": "lnk-dcn-img_h",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron H (sdcol)",
             "source": "ns42",
             "target": "ns43",
             "conveyingLyph": "dcn-img_h"
         },
         {
             "id": "lnk-dcn-mp_i",
-            "name": "link to Soma of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
+            "name": "link to Soma of interneuron neuron in myenteric plexus of colon_Neuron I (sdcol)",
             "source": "ns45",
             "target": "ns46",
             "conveyingLyph": "dcn-mp_i"
         },
         {
             "id": "lnk-dcn_mp_j",
-            "name": "link to Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
+            "name": "link to Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J (sdcol)",
             "source": "ns48",
             "target": "ns49",
             "conveyingLyph": "dcn_mp_j"
         },
         {
             "id": "lnk-dcn_mp2_j",
-            "name": "link to Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
+            "name": "link to Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J' (sdcol)",
             "source": "ns51",
             "target": "ns52",
             "conveyingLyph": "dcn_mp2_j"
         },
         {
             "id": "lnk-mp_k",
-            "name": "link to Soma of interneuron in myenteric plexus_Neuron K(fcolon)",
+            "name": "link to Soma of interneuron in myenteric plexus_Neuron K(sdcol)",
             "source": "ns54",
             "target": "ns55",
             "conveyingLyph": "dcn-mp_k"
         },
         {
             "id": "lnk-dcn-mp_l",
-            "name": "link to Soma of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
+            "name": "link to Soma of inhibitory motor neuron in myenteric plexus_Neuron L(sdcol)",
             "source": "ns57",
             "target": "ns58",
             "conveyingLyph": "dcn-mp_l"
         },
         {
             "id": "lnk-dcn-mp2_l",
-            "name": "link to Soma of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
+            "name": "link to Soma of inhibitory motor neuron in myenteric plexus_Neuron L'(sdcol)",
             "source": "ns60",
             "target": "ns61",
             "conveyingLyph": "dcn-mp2_l"
         },
         {
             "id": "lnk-dcn-mp_m",
-            "name": "link to Soma of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(fcolon)",
+            "name": "link to Soma of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(sdcol)",
             "source": "ns63",
             "target": "ns64",
             "conveyingLyph": "dcn-mp_m"
         },
         {
             "id": "lnk-dcn-mp_n",
-            "name": "link to Soma of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(fcolon)",
+            "name": "link to Soma of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(sdcol)",
             "source": "ns68",
             "target": "ns69",
             "conveyingLyph": "dcn-mp_n"
         },
         {
             "id": "lnk-dcn-sp-o",
-            "name": "link to Soma of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
+            "name": "link to Soma of vasodilatory motor neuron in submucosal plexus_Neuron O(sdcol)",
             "source": "ns73",
             "target": "ns74",
             "conveyingLyph": "dcn-sp-o"
         },
         {
             "id": "lnk-dcn-mp-p",
-            "name": "link to Soma of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
+            "name": "link to Soma of secretomotor neuron in submucosal plexus of colon_Neuron P (sdcol)",
             "source": "ns76",
             "target": "ns77",
             "conveyingLyph": "dcn-mp-p"
         },
         {
             "id": "lnk-dcn-mp_q",
-            "name": "link to Soma of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
+            "name": "link to Soma of intestinafugal neuron in myenteric plexus of colon_Neuron Q (sdcol)",
             "source": "ns79",
             "target": "ns80",
             "conveyingLyph": "dcn-mp_q"
@@ -241,7 +241,7 @@
     "lyphs": [
         {
             "id": "S1",
-            "name": "T13 spinal segment (fcolon)",
+            "name": "T13 spinal segment (sdcol)",
             "external": [
                 "EMAPA:19554"
             ],
@@ -249,7 +249,7 @@
         },
         {
             "id": "S2",
-            "name": "L1 spinal segment (fcolon)",
+            "name": "L1 spinal segment (sdcol)",
             "external": [
                 "UBERON:0006448"
             ],
@@ -257,7 +257,7 @@
         },
         {
             "id": "S3",
-            "name": "L2 spinal segment (fcolon)",
+            "name": "L2 spinal segment (sdcol)",
             "external": [
                 "UBERON:0006450"
             ],
@@ -265,7 +265,7 @@
         },
         {
             "id": "S4",
-            "name": "L3 spinal segment (fcolon)",
+            "name": "L3 spinal segment (sdcol)",
             "external": [
                 "UBERON:0006449"
             ],
@@ -279,7 +279,7 @@
         },
         {
             "id": "S5",
-            "name": "L4 spinal segment (fcolon)",
+            "name": "L4 spinal segment (sdcol)",
             "external": [
                 "UBERON:0006451"
             ],
@@ -293,7 +293,7 @@
         },
         {
             "id": "S6",
-            "name": "L5 spinal segment (fcolon)",
+            "name": "L5 spinal segment (sdcol)",
             "external": [
                 "UBERON:0006447"
             ],
@@ -301,7 +301,7 @@
         },
         {
             "id": "S7",
-            "name": "T13 Dorsal Root ganglion (fcolon)",
+            "name": "T13 Dorsal Root ganglion (sdcol)",
             "external": [
                 "EMAPA:25186"
             ],
@@ -314,7 +314,7 @@
         },
         {
             "id": "S8",
-            "name": "L1 Dorsal Root ganglion (fcolon)",
+            "name": "L1 Dorsal Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002857"
             ],
@@ -327,7 +327,7 @@
         },
         {
             "id": "S9",
-            "name": "L2 Dorsal Root ganglion (fcolon)",
+            "name": "L2 Dorsal Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002856"
             ],
@@ -340,7 +340,7 @@
         },
         {
             "id": "S10",
-            "name": "L3 Dorsal Root ganglion (fcolon)",
+            "name": "L3 Dorsal Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002858"
             ],
@@ -353,7 +353,7 @@
         },
         {
             "id": "S11",
-            "name": "L4 Dorsal Root ganglion (fcolon)",
+            "name": "L4 Dorsal Root ganglion (sdcol)",
             "external": [
                 "UBERON:0003943"
             ],
@@ -366,7 +366,7 @@
         },
         {
             "id": "S12",
-            "name": "L5 Dorsal Root ganglion (fcolon)",
+            "name": "L5 Dorsal Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002261"
             ],
@@ -379,42 +379,42 @@
         },
         {
             "id": "S13",
-            "name": "T13 Ventral Root ganglion (fcolon)",
+            "name": "T13 Ventral Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S14",
-            "name": "L1 Ventral Root ganglion (fcolon)",
+            "name": "L1 Ventral Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S15",
-            "name": "L2 Ventral Root ganglion (fcolon)",
+            "name": "L2 Ventral Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S16",
-            "name": "L3 Ventral Root ganglion (fcolon)",
+            "name": "L3 Ventral Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S17",
-            "name": "L4 Ventral Root ganglion (fcolon)",
+            "name": "L4 Ventral Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S18",
-            "name": "L5 Dorsal Root ganglion (fcolon)",
+            "name": "L5 Dorsal Root ganglion (sdcol)",
             "external": [
                 "UBERON:0002859"
             ],
@@ -422,154 +422,154 @@
         },
         {
             "id": "S19",
-            "name": "T13 - L1 Interganglionic segment (fcolon)",
+            "name": "T13 - L1 Interganglionic segment (sdcol)",
             "external": [
                 "ILX:0777087"
             ]
         },
         {
             "id": "S20",
-            "name": "L1 - L2 Interganglionic segment (fcolon)",
+            "name": "L1 - L2 Interganglionic segment (sdcol)",
             "external": [
                 "ILX:0777088"
             ]
         },
         {
             "id": "S21",
-            "name": "L2 - L3 Interganglionic segment (fcolon)",
+            "name": "L2 - L3 Interganglionic segment (sdcol)",
             "external": [
                 "ILX:0777089"
             ]
         },
         {
             "id": "S22",
-            "name": "L3 - L4 Interganglionic segment (fcolon)",
+            "name": "L3 - L4 Interganglionic segment (sdcol)",
             "external": [
                 "ILX:0777090"
             ]
         },
         {
             "id": "S23",
-            "name": "L4 - L5 Interganglionic segment (fcolon)",
+            "name": "L4 - L5 Interganglionic segment (sdcol)",
             "external": [
                 "ILX:0777091"
             ]
         },
         {
             "id": "S24",
-            "name": "T13 sympathetic ganglion (fcolon)",
+            "name": "T13 sympathetic ganglion (sdcol)",
             "external": [
                 "ILX:0739295"
             ]
         },
         {
             "id": "S25",
-            "name": "L1 sympathetic ganglion (fcolon)",
+            "name": "L1 sympathetic ganglion (sdcol)",
             "external": [
                 "FMA:6540"
             ]
         },
         {
             "id": "S26",
-            "name": "L2 sympathetic ganglion (fcolon)",
+            "name": "L2 sympathetic ganglion (sdcol)",
             "external": [
                 "FMA:6541"
             ]
         },
         {
             "id": "S27",
-            "name": "L3 sympathetic ganglion (fcolon)",
+            "name": "L3 sympathetic ganglion (sdcol)",
             "external": [
                 "FMA:6542"
             ]
         },
         {
             "id": "S28",
-            "name": "L4 sympathetic ganglion (fcolon)",
+            "name": "L4 sympathetic ganglion (sdcol)",
             "external": [
                 "FMA:6543"
             ]
         },
         {
             "id": "S29",
-            "name": "L5 sympathetic ganglion (fcolon)",
+            "name": "L5 sympathetic ganglion (sdcol)",
             "external": [
                 "ILX:0739296"
             ]
         },
         {
             "id": "S30",
-            "name": "T13 gray ramus (fcolon)",
+            "name": "T13 gray ramus (sdcol)",
             "external": [
                 "FMA:5876"
             ]
         },
         {
             "id": "S31",
-            "name": "L1 gray ramus (fcolon)",
+            "name": "L1 gray ramus (sdcol)",
             "external": [
                 "FMA:65910"
             ]
         },
         {
             "id": "S32",
-            "name": "L2 gray ramus (fcolon)",
+            "name": "L2 gray ramus (sdcol)",
             "external": [
                 "FMA:65911"
             ]
         },
         {
             "id": "S33",
-            "name": "L3 gray ramus (fcolon)",
+            "name": "L3 gray ramus (sdcol)",
             "external": [
                 "FMA:65912"
             ]
         },
         {
             "id": "S34",
-            "name": "L4 gray ramus (fcolon)",
+            "name": "L4 gray ramus (sdcol)",
             "external": [
                 "FMA:65913"
             ]
         },
         {
             "id": "S35",
-            "name": "L5 gray ramus (fcolon)",
+            "name": "L5 gray ramus (sdcol)",
             "external": [
                 "FMA:65914"
             ]
         },
         {
             "id": "S36",
-            "name": "T13 white ramus (fcolon)",
+            "name": "T13 white ramus (sdcol)",
             "external": [
                 "FMA:5875"
             ]
         },
         {
             "id": "S37",
-            "name": "L1 white ramus (fcolon)",
+            "name": "L1 white ramus (sdcol)",
             "external": [
                 "FMA:12697"
             ]
         },
         {
             "id": "S38",
-            "name": "L2 white ramus (fcolon)",
+            "name": "L2 white ramus (sdcol)",
             "external": [
                 "FMA:12698"
             ]
         },
         {
             "id": "S39",
-            "name": "L3 white ramus (fcolon)",
+            "name": "L3 white ramus (sdcol)",
             "external": [
                 "FMA:12699"
             ]
         },
         {
             "id": "S40",
-            "name": "L4 white ramus (fcolon)",
+            "name": "L4 white ramus (sdcol)",
             "external": [
                 "FMA:5875"
             ],
@@ -577,7 +577,7 @@
         },
         {
             "id": "S41",
-            "name": "Inferior Mesenteric Ganglion (fcolon)",
+            "name": "Inferior Mesenteric Ganglion (sdcol)",
             "external": [
                 "UBERON:0005453"
             ],
@@ -590,7 +590,7 @@
         },
         {
             "id": "S42",
-            "name": "colon (fcolon)",
+            "name": "colon (sdcol)",
             "external": [
                 "UBERON:0001155"
             ],
@@ -633,7 +633,7 @@
         },
         {
             "id": "S43",
-            "name": "myenteric nerve plexus (fcolon)",
+            "name": "myenteric nerve plexus (sdcol)",
             "external": [
                 "UBERON:0002439"
             ],
@@ -646,7 +646,7 @@
         },
         {
             "id": "S44",
-            "name": "serosa of colon (fcolon)",
+            "name": "serosa of colon (sdcol)",
             "external": [
                 "UBERON:0003335"
             ],
@@ -659,7 +659,7 @@
         },
         {
             "id": "S45",
-            "name": "Longitudinal muscle layer of colon (fcolon)",
+            "name": "Longitudinal muscle layer of colon (sdcol)",
             "external": [
                 "FMA:14987"
             ],
@@ -674,7 +674,7 @@
         },
         {
             "id": "S46",
-            "name": "circular muscle layer of colon (fcolon)",
+            "name": "circular muscle layer of colon (sdcol)",
             "external": [
                 "FMA:14988"
             ],
@@ -689,7 +689,7 @@
         },
         {
             "id": "S47",
-            "name": "submucosal nerve plexus (fcolon)",
+            "name": "submucosal nerve plexus (sdcol)",
             "external": [
                 "FMA:21542"
             ],
@@ -699,7 +699,7 @@
         },
         {
             "id": "S48",
-            "name": "lamina propria of mucosa of colon (fcolon)",
+            "name": "lamina propria of mucosa of colon (sdcol)",
             "external": [
                 "UBERON:0007177"
             ],
@@ -716,7 +716,7 @@
         },
         {
             "id": "S49",
-            "name": "epithelium of colon (fcolon)",
+            "name": "epithelium of colon (sdcol)",
             "external": [
                 "FMA:17302"
             ],
@@ -731,7 +731,7 @@
         },
         {
             "id": "S50",
-            "name": "lumen of colon (fcolon)",
+            "name": "lumen of colon (sdcol)",
             "external": [
                 "UBERON:0007159"
             ],
@@ -746,7 +746,7 @@
         },
         {
             "id": "S51",
-            "name": "smooth muscle fiber of colon (fcolon)",
+            "name": "smooth muscle fiber of colon (sdcol)",
             "external": [
                 "FMA:15663"
             ],
@@ -754,14 +754,14 @@
         },
         {
             "id": "S52",
-            "name": "Peyer's patch in lamina propria (fcolon)",
+            "name": "Peyer's patch in lamina propria (sdcol)",
             "external": [
                 "UBERON:0001211"
             ]
         },
         {
             "id": "S53",
-            "name": "goblet cell (fcolon)",
+            "name": "goblet cell (sdcol)",
             "external": [
                 "FMA:13148"
             ],
@@ -769,42 +769,42 @@
         },
         {
             "id": "S54",
-            "name": "enterocyte (fcolon)",
+            "name": "enterocyte (sdcol)",
             "external": [
                 "FMA:62122"
             ]
         },
         {
             "id": "S55",
-            "name": "goblet cell in lumen of colon (fcolon)",
+            "name": "goblet cell in lumen of colon (sdcol)",
             "external": [
                 "FMA:13148"
             ]
         },
         {
             "id": "S56",
-            "name": "goblet cell in epitehium of colon (fcolon)",
+            "name": "goblet cell in epitehium of colon (sdcol)",
             "external": [
                 "FMA:13148"
             ]
         },
         {
             "id": "S57",
-            "name": "enterocyte cell in lumen of colon (fcolon)",
+            "name": "enterocyte cell in lumen of colon (sdcol)",
             "external": [
                 "FMA:62122"
             ]
         },
         {
             "id": "S58",
-            "name": "enterocyte cell in epitehium of colon (fcolon)",
+            "name": "enterocyte cell in epitehium of colon (sdcol)",
             "external": [
                 "FMA:62122"
             ]
         },
         {
             "id": "S_129",
-            "name": "Segment of Spinal Cord (fcolon)",
+            "name": "Segment of Spinal Cord (sdcol)",
             "external": [
                 "UBERON:0005844"
             ],
@@ -832,7 +832,7 @@
         },
         {
             "id": "229",
-            "name": "Segment of neuron (fcolon)",
+            "name": "Segment of neuron (sdcol)",
             "external": [
                 "CL:0000540"
             ],
@@ -840,7 +840,7 @@
         },
         {
             "id": "229bag",
-            "name": "Segment of neuron (fcolon)",
+            "name": "Segment of neuron (sdcol)",
             "external": [
                 "CL:0000540"
             ],
@@ -850,7 +850,7 @@
         },
         {
             "id": "axon-bag",
-            "name": "Axon terminal (fcolon)",
+            "name": "Axon terminal (sdcol)",
             "external": [
                 "SAO:280355188"
             ],
@@ -864,7 +864,7 @@
         },
         {
             "id": "axon-tube",
-            "name": "Axon segment (fcolon)",
+            "name": "Axon segment (sdcol)",
             "external": [
                 "SAO:280355188"
             ],
@@ -878,7 +878,7 @@
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (fcolon)",
+            "name": "Dendrite terminal (sdcol)",
             "external": [
                 "SAO:420754792"
             ],
@@ -892,7 +892,7 @@
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (fcolon)",
+            "name": "Dendrite segment (sdcol)",
             "external": [
                 "SAO:420754792"
             ],
@@ -906,7 +906,7 @@
         },
         {
             "id": "S59",
-            "name": "Blood vessel (fcolon)",
+            "name": "Blood vessel (sdcol)",
             "external": [
                 "UBERON:0001981"
             ],
@@ -918,49 +918,49 @@
         },
         {
             "id": "S60",
-            "name": "Blood vessel in serosa of colon (fcolon)",
+            "name": "Blood vessel in serosa of colon (sdcol)",
             "external": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S61",
-            "name": "Blood vessel in longitudinal muscle layer of colon (fcolon)",
+            "name": "Blood vessel in longitudinal muscle layer of colon (sdcol)",
             "external": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S62",
-            "name": "Blood vessel in myenteric nerve plexus in colon (fcolon)",
+            "name": "Blood vessel in myenteric nerve plexus in colon (sdcol)",
             "external": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S63",
-            "name": "Blood vessel in circular muscle layer in colon (fcolon)",
+            "name": "Blood vessel in circular muscle layer in colon (sdcol)",
             "external": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S64",
-            "name": "Blood vessel in submucosal nerve plexus of colon (fcolon)",
+            "name": "Blood vessel in submucosal nerve plexus of colon (sdcol)",
             "external": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S65",
-            "name": "Blood vessel in lamina propria of mucosa of colon (fcolon)",
+            "name": "Blood vessel in lamina propria of mucosa of colon (sdcol)",
             "external": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "dcn-l3_b",
-            "name": "Soma of Symp preganglionic neuron in L3_Neuron B (fcolon)",
+            "name": "Soma of Symp preganglionic neuron in L3_Neuron B (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -969,7 +969,7 @@
         },
         {
             "id": "dcn-l4_b",
-            "name": "Soma of Symp preganglionic neuron in L4_Neuron B (fcolon)",
+            "name": "Soma of Symp preganglionic neuron in L4_Neuron B (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -977,7 +977,7 @@
         },
         {
             "id": "dcn-t13drg_c",
-            "name": "Soma of spinal afferent neuron in T13 DRG_Neuron C (fcolon)",
+            "name": "Soma of spinal afferent neuron in T13 DRG_Neuron C (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -986,7 +986,7 @@
         },
         {
             "id": "dcn-l1drg_c",
-            "name": "Soma of spinal afferent neuron in L1 DRG_Neuron C (fcolon)",
+            "name": "Soma of spinal afferent neuron in L1 DRG_Neuron C (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -994,7 +994,7 @@
         },
         {
             "id": "dcn-l2drg_c",
-            "name": "Soma of spinal afferent neuron in L2 DRG_Neuron C (fcolon)",
+            "name": "Soma of spinal afferent neuron in L2 DRG_Neuron C (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1002,7 +1002,7 @@
         },
         {
             "id": "dcn-l3drg_c",
-            "name": "Soma of spinal afferent neuron in L3 DRG_Neuron C (fcolon)",
+            "name": "Soma of spinal afferent neuron in L3 DRG_Neuron C (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1010,7 +1010,7 @@
         },
         {
             "id": "dcn-l4drg_c",
-            "name": "Soma of spinal afferent neuron in L4 DRG_Neuron C (fcolon)",
+            "name": "Soma of spinal afferent neuron in L4 DRG_Neuron C (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1018,7 +1018,7 @@
         },
         {
             "id": "dcn-l5drg_c",
-            "name": "Soma of spinal afferent neuron in L5 DRG_Neuron C (fcolon)",
+            "name": "Soma of spinal afferent neuron in L5 DRG_Neuron C (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1026,7 +1026,7 @@
         },
         {
             "id": "dcn-img_d",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron D (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1035,7 +1035,7 @@
         },
         {
             "id": "dcn-img_f",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron F (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1044,7 +1044,7 @@
         },
         {
             "id": "dcn-img_g",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron G (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1053,7 +1053,7 @@
         },
         {
             "id": "dcn-img_h",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
+            "name": "Soma of Symp postganglionic neuron in IMG_Neuron H (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1062,7 +1062,7 @@
         },
         {
             "id": "dcn-mp_i",
-            "name": "Soma of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
+            "name": "Soma of interneuron neuron in myenteric plexus of colon_Neuron I (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1071,7 +1071,7 @@
         },
         {
             "id": "dcn_mp_j",
-            "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
+            "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1080,7 +1080,7 @@
         },
         {
             "id": "dcn_mp2_j",
-            "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
+            "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J' (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1089,7 +1089,7 @@
         },
         {
             "id": "dcn-mp_k",
-            "name": "Soma of interneuron in myenteric plexus_Neuron K(fcolon)",
+            "name": "Soma of interneuron in myenteric plexus_Neuron K(sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1098,7 +1098,7 @@
         },
         {
             "id": "dcn-mp_l",
-            "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
+            "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1107,7 +1107,7 @@
         },
         {
             "id": "dcn-mp2_l",
-            "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
+            "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L' (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1116,7 +1116,7 @@
         },
         {
             "id": "dcn-mp_m",
-            "name": "Soma of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(fcolon)",
+            "name": "Soma of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1125,7 +1125,7 @@
         },
         {
             "id": "dcn-mp_n",
-            "name": "Soma of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(fcolon)",
+            "name": "Soma of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1134,7 +1134,7 @@
         },
         {
             "id": "dcn-sp-o",
-            "name": "Soma of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
+            "name": "Soma of vasodilatory motor neuron in submucosal plexus_Neuron O (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1143,7 +1143,7 @@
         },
         {
             "id": "dcn-mp-p",
-            "name": "Soma of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
+            "name": "Soma of secretomotor neuron in submucosal plexus of colon_Neuron P (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1152,7 +1152,7 @@
         },
         {
             "id": "dcn-mp_q",
-            "name": "Soma of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
+            "name": "Soma of intestinafugal neuron in myenteric plexus of colon_Neuron Q (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1579,7 +1579,7 @@
         },
         {
             "id": "dc-l3_b",
-            "name": "Dendrite chain of Symp preganglionic neuron in L3_Neuron B (fcolon)",
+            "name": "Dendrite chain of Symp preganglionic neuron in L3_Neuron B (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1594,7 +1594,7 @@
         },
         {
             "id": "ac-l3_b",
-            "name": "Axon chain of Symp preganglionic neuron in L3_Neuron B (fcolon)",
+            "name": "Axon chain of Symp preganglionic neuron in L3_Neuron B (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1618,7 +1618,7 @@
         },
         {
             "id": "dc-l4_b",
-            "name": "Dendrite chain of Symp preganglionic neuron in L4_Neuron B (fcolon)",
+            "name": "Dendrite chain of Symp preganglionic neuron in L4_Neuron B (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1633,7 +1633,7 @@
         },
         {
             "id": "ac-l4_b",
-            "name": "Axon chain of Symp preganglionic neuron in L4_Neuron B (fcolon)",
+            "name": "Axon chain of Symp preganglionic neuron in L4_Neuron B (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1653,7 +1653,7 @@
         },
         {
             "id": "ac-l42_b",
-            "name": "Axon chain from L3 and L4 Symp preganglionic neuron to IMG_Neuron B (fcolon)",
+            "name": "Axon chain from L3 and L4 Symp preganglionic neuron to IMG_Neuron B (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1675,7 +1675,7 @@
         },
         {
             "id": "dc-t13drg_c",
-            "name": "Dendrite chain of spinal afferent neuron in T13 DRG_Neuron C (fcolon)",
+            "name": "Dendrite chain of spinal afferent neuron in T13 DRG_Neuron C (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1688,7 +1688,7 @@
         },
         {
             "id": "ac-t13drgsc_c",
-            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1708,7 +1708,7 @@
         },
         {
             "id": "ac-t13drgl11_c",
-            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer11_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer11_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1726,7 +1726,7 @@
         },
         {
             "id": "ac-t13drgl8_c",
-            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer8_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer8_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1744,7 +1744,7 @@
         },
         {
             "id": "ac-t13drgl6_c",
-            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer6_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer6_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1762,7 +1762,7 @@
         },
         {
             "id": "ac-t13drgl2_c",
-            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer 2_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer 2_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1780,7 +1780,7 @@
         },
         {
             "id": "dc-l1drg_c",
-            "name": "Dendrite chain of spinal afferent neuron in L1 DRG_Neuron C (fcolon)",
+            "name": "Dendrite chain of spinal afferent neuron in L1 DRG_Neuron C (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1793,7 +1793,7 @@
         },
         {
             "id": "ac-l1drgl12_c",
-            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer12_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer12_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1813,7 +1813,7 @@
         },
         {
             "id": "ac-l1drgl11_c",
-            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer11_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer11_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1831,7 +1831,7 @@
         },
         {
             "id": "ac-l1drgl8_c",
-            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer8_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer8_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1849,7 +1849,7 @@
         },
         {
             "id": "ac-l1drgl6_c",
-            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer6_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer6_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1867,7 +1867,7 @@
         },
         {
             "id": "ac-l1drgl2_c",
-            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer 2_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer 2_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1885,7 +1885,7 @@
         },
         {
             "id": "dc-l2drg_c",
-            "name": "Dendrite chain of spinal afferent neuron in L2 DRG_Neuron C (fcolon)",
+            "name": "Dendrite chain of spinal afferent neuron in L2 DRG_Neuron C (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -1898,7 +1898,7 @@
         },
         {
             "id": "ac-l2drgl12_c",
-            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer12_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer12_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1918,7 +1918,7 @@
         },
         {
             "id": "ac-l2drgl11_c",
-            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer11_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer11_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1936,7 +1936,7 @@
         },
         {
             "id": "ac-l2drgl8_c",
-            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer8_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer8_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1954,7 +1954,7 @@
         },
         {
             "id": "ac-l2drgl6_c",
-            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer6_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer6_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1972,7 +1972,7 @@
         },
         {
             "id": "ac-l2drgl2_c",
-            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer 2_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer 2_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -1990,7 +1990,7 @@
         },
         {
             "id": "dc-l3drg_c",
-            "name": "Dendrite chain of spinal afferent neuron in L3 DRG_Neuron C (fcolon)",
+            "name": "Dendrite chain of spinal afferent neuron in L3 DRG_Neuron C (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2003,7 +2003,7 @@
         },
         {
             "id": "ac-l3drgl12_c",
-            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer12_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer12_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2023,7 +2023,7 @@
         },
         {
             "id": "ac-l3drgl11_c",
-            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer11_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer11_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2041,7 +2041,7 @@
         },
         {
             "id": "ac-l3drgl8_c",
-            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer8_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer8_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2059,7 +2059,7 @@
         },
         {
             "id": "ac-l3drgl6_c",
-            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer6_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer6_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2077,7 +2077,7 @@
         },
         {
             "id": "ac-l3drgl2_c",
-            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer 2_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer 2_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2095,7 +2095,7 @@
         },
         {
             "id": "dc-l4drg_c",
-            "name": "Dendrite chain of spinal afferent neuron in L4 DRG_Neuron C (fcolon)",
+            "name": "Dendrite chain of spinal afferent neuron in L4 DRG_Neuron C (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2108,7 +2108,7 @@
         },
         {
             "id": "ac-l4drgl12_c",
-            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer12_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer12_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2128,7 +2128,7 @@
         },
         {
             "id": "ac-l4drgl11_c",
-            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer11_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer11_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2146,7 +2146,7 @@
         },
         {
             "id": "ac-l4drgl8_c",
-            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer8_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer8_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2164,7 +2164,7 @@
         },
         {
             "id": "ac-l4drgl6_c",
-            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer6_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer6_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2182,7 +2182,7 @@
         },
         {
             "id": "ac-l4drgl2_c",
-            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer 2_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer 2_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2200,7 +2200,7 @@
         },
         {
             "id": "dc-l5drg_c",
-            "name": "Dendrite chain of spinal afferent neuron in L5 DRG_Neuron C (fcolon)",
+            "name": "Dendrite chain of spinal afferent neuron in L5 DRG_Neuron C (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2213,7 +2213,7 @@
         },
         {
             "id": "ac-l5drgl12_c",
-            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer12_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer12_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2233,7 +2233,7 @@
         },
         {
             "id": "ac-l5drgl11_c",
-            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer11_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer11_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2251,7 +2251,7 @@
         },
         {
             "id": "ac-l5drgl8_c",
-            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer8_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer8_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2269,7 +2269,7 @@
         },
         {
             "id": "ac-l5drgl6_c",
-            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer6_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer6_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2287,7 +2287,7 @@
         },
         {
             "id": "ac-l5drgl2_c",
-            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer 2_Neuron C (fcolon)",
+            "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer 2_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2305,7 +2305,7 @@
         },
         {
             "id": "dc_col_c",
-            "name": "Dendrite chain from DRG to colon_layer1_Neuron C (fcolon)",
+            "name": "Dendrite chain from DRG to colon_layer1_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2318,7 +2318,7 @@
         },
         {
             "id": "dc_col-lay7_c",
-            "name": "Dendrite chain to colon layer 7_Neuron C (fcolon)",
+            "name": "Dendrite chain to colon layer 7_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2336,7 +2336,7 @@
         },
         {
             "id": "dc_col-lay5_c",
-            "name": "Dendrite chain to colon layer 5_Neuron C (fcolon)",
+            "name": "Dendrite chain to colon layer 5_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2358,7 +2358,7 @@
         },
         {
             "id": "dc_col-lay3_c",
-            "name": "Dendrite chain to colon layer 3_Neuron C (fcolon)",
+            "name": "Dendrite chain to colon layer 3_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2384,7 +2384,7 @@
         },
         {
             "id": "dc_col-lay2_c",
-            "name": "Dendrite chain to colon layer 2_Neuron C (fcolon)",
+            "name": "Dendrite chain to colon layer 2_Neuron C (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2412,7 +2412,7 @@
         },
         {
             "id": "dc-img_d",
-            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
+            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron D (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2424,7 +2424,7 @@
         },
         {
             "id": "ac-img_d",
-            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron D (fcolon)",
+            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron D (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2456,7 +2456,7 @@
         },
         {
             "id": "dc-img_f",
-            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
+            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron F (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2468,7 +2468,7 @@
         },
         {
             "id": "ac-img_f",
-            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron F (fcolon)",
+            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron F (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2498,7 +2498,7 @@
         },
         {
             "id": "dc-img_g",
-            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
+            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron G (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2510,7 +2510,7 @@
         },
         {
             "id": "ac-img_g",
-            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron G (fcolon)",
+            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron G (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2534,7 +2534,7 @@
         },
         {
             "id": "dc-img_h",
-            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
+            "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron H (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2546,7 +2546,7 @@
         },
         {
             "id": "ac-img_h",
-            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron H (fcolon)",
+            "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron H (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2574,7 +2574,7 @@
         },
         {
             "id": "dc-mp_i",
-            "name": "Dendrite chain of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
+            "name": "Dendrite chain of interneuron neuron in myenteric plexus of colon_Neuron I (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2589,7 +2589,7 @@
         },
         {
             "id": "ac-mp_i",
-            "name": "Axon chain of interneuron neuron in myenteric plexus of colon_Neuron I (fcolon)",
+            "name": "Axon chain of interneuron neuron in myenteric plexus of colon_Neuron I (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2605,7 +2605,7 @@
         },
         {
             "id": "dc_mp_j",
-            "name": "Dendrite chain of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
+            "name": "Dendrite chain of excitatory motor neuron in myenteric plexus of colon_Neuron J (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2620,7 +2620,7 @@
         },
         {
             "id": "ac_mp_j",
-            "name": "Axon chain of excitatory motor neuron in myenteric plexus of colon_Neuron J (fcolon)",
+            "name": "Axon chain of excitatory motor neuron in myenteric plexus of colon_Neuron J (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2638,7 +2638,7 @@
         },
         {
             "id": "dc_mp2_j",
-            "name": "Dendrite chain of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
+            "name": "Dendrite chain of excitatory motor neuron in myenteric plexus of colon_Neuron J' (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2653,7 +2653,7 @@
         },
         {
             "id": "ac_mp2_j",
-            "name": "Axon chain of excitatory motor neuron in myenteric plexus of colon_Neuron J' (fcolon)",
+            "name": "Axon chain of excitatory motor neuron in myenteric plexus of colon_Neuron J' (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2671,7 +2671,7 @@
         },
         {
             "id": "dc-mp_k",
-            "name": "Dendrite chain of interneuron in myenteric plexus_Neuron K(fcolon)",
+            "name": "Dendrite chain of interneuron in myenteric plexus_Neuron K(sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2686,7 +2686,7 @@
         },
         {
             "id": "ac-mp_k",
-            "name": "Axon chain of interneuron in myenteric plexus_Neuron K(fcolon)",
+            "name": "Axon chain of interneuron in myenteric plexus_Neuron K(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2702,7 +2702,7 @@
         },
         {
             "id": "dc-mp_l",
-            "name": "Dendrite chain of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
+            "name": "Dendrite chain of inhibitory motor neuron in myenteric plexus_Neuron L(sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2717,7 +2717,7 @@
         },
         {
             "id": "ac-mp_l",
-            "name": "Axon chain of inhibitory motor neuron in myenteric plexus_Neuron L(fcolon)",
+            "name": "Axon chain of inhibitory motor neuron in myenteric plexus_Neuron L(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2735,7 +2735,7 @@
         },
         {
             "id": "dc-mp2_l",
-            "name": "Dendrite chain of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
+            "name": "Dendrite chain of inhibitory motor neuron in myenteric plexus_Neuron L'(sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2750,7 +2750,7 @@
         },
         {
             "id": "ac-mp2_l",
-            "name": "Axon chain of inhibitory motor neuron in myenteric plexus_Neuron L'(fcolon)",
+            "name": "Axon chain of inhibitory motor neuron in myenteric plexus_Neuron L'(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2768,7 +2768,7 @@
         },
         {
             "id": "dc-mp_m",
-            "name": "Dendrite chain of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(fcolon)",
+            "name": "Dendrite chain of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2783,7 +2783,7 @@
         },
         {
             "id": "ac-mp_m",
-            "name": "Axon chain of intrinsic primary afferent neuron to layer 5_Neuron M(fcolon)",
+            "name": "Axon chain of intrinsic primary afferent neuron to layer 5_Neuron M(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2799,7 +2799,7 @@
         },
         {
             "id": "ac-mp23_m",
-            "name": "Axon chain of intrinsic primary afferent neuron to layer 3_Neuron M(fcolon)",
+            "name": "Axon chain of intrinsic primary afferent neuron to layer 3_Neuron M(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2819,7 +2819,7 @@
         },
         {
             "id": "ac-mp22_m",
-            "name": "Axon chain of intrinsic primary afferent neuron to layer 2_Neuron M(fcolon)",
+            "name": "Axon chain of intrinsic primary afferent neuron to layer 2_Neuron M(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2841,7 +2841,7 @@
         },
         {
             "id": "dc-mp_n",
-            "name": "Dendrite chain of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(fcolon)",
+            "name": "Dendrite chain of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2856,7 +2856,7 @@
         },
         {
             "id": "ac-mp2_n",
-            "name": "Axon chain of intrinsic primary afferent neurons to layer 2 of colon_Neuron N(fcolon)",
+            "name": "Axon chain of intrinsic primary afferent neurons to layer 2 of colon_Neuron N(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2874,7 +2874,7 @@
         },
         {
             "id": "ac-mp3_n",
-            "name": "Axon chain of intrinsic primary afferent neurons connect in layer 3 _Neuron N(fcolon)",
+            "name": "Axon chain of intrinsic primary afferent neurons connect in layer 3 _Neuron N(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2890,7 +2890,7 @@
         },
         {
             "id": "ac-mp5_n",
-            "name": "Axon chain of intrinsic primary afferent neurons to from connect to layer 5_Neuron N(fcolon)",
+            "name": "Axon chain of intrinsic primary afferent neurons to from connect to layer 5_Neuron N(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2910,7 +2910,7 @@
         },
         {
             "id": "dc-sp_o",
-            "name": "Dendrite chain of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
+            "name": "Dendrite chain of vasodilatory motor neuron in submucosal plexus_Neuron O(sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2925,7 +2925,7 @@
         },
         {
             "id": "ac-sp_o",
-            "name": "Axon chain of vasodilatory motor neuron in submucosal plexus_Neuron O(fcolon)",
+            "name": "Axon chain of vasodilatory motor neuron in submucosal plexus_Neuron O(sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2943,7 +2943,7 @@
         },
         {
             "id": "dc-mp-p",
-            "name": "Dendrite chain of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
+            "name": "Dendrite chain of secretomotor neuron in submucosal plexus of colon_Neuron P (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2958,7 +2958,7 @@
         },
         {
             "id": "ac-mp-p",
-            "name": "Axon chain of secretomotor neuron in submucosal plexus of colon_Neuron P (fcolon)",
+            "name": "Axon chain of secretomotor neuron in submucosal plexus of colon_Neuron P (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -2976,7 +2976,7 @@
         },
         {
             "id": "dc-mp_q",
-            "name": "Dendrite chain of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
+            "name": "Dendrite chain of intestinafugal neuron in myenteric plexus of colon_Neuron Q (sdcol)",
             "external": [
                 "SAO:1211023249"
             ],
@@ -2991,7 +2991,7 @@
         },
         {
             "id": "ac-mp_q",
-            "name": "Axon chain of intestinafugal neuron in myenteric plexus of colon_Neuron Q (fcolon)",
+            "name": "Axon chain of intestinafugal neuron in myenteric plexus of colon_Neuron Q (sdcol)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3017,71 +3017,122 @@
     "groups": [
         {
             "id": "neuron-b",
-            "name": "Neuron b"
+            "name": "Neuron b",
+            "external": [
+                "ilxtr:neuron-type-sdcol-b"
+            ]
         },
         {
             "id": "neuron-c",
-            "name": "Neuron c"
+            "name": "Neuron c",
+            "external": [
+                "ilxtr:neuron-type-sdcol-c"
+            ]
         },
         {
             "id": "neuron-d",
-            "name": "Neuron d"
+            "name": "Neuron d",
+            "external": [
+                "ilxtr:neuron-type-sdcol-d"
+            ]
         },
         {
             "id": "neuron-f",
-            "name": "Neuron f"
+            "name": "Neuron f",
+            "external": [
+                "ilxtr:neuron-type-sdcol-f"
+            ]
         },
         {
             "id": "neuron-g",
-            "name": "Neuron g"
+            "name": "Neuron g",
+            "external": [
+                "ilxtr:neuron-type-sdcol-g"
+            ]
         },
         {
             "id": "neuron-h",
-            "name": "Neuron h"
+            "name": "Neuron h",
+            "external": [
+                "ilxtr:neuron-type-sdcol-h"
+            ]
         },
         {
             "id": "neuron-i",
-            "name": "Neuron i"
+            "name": "Neuron i",
+            "external": [
+                "ilxtr:neuron-type-sdcol-i"
+            ]
         },
         {
             "id": "neuron-j",
-            "name": "Neuron j"
+            "name": "Neuron j",
+            "external": [
+                "ilxtr:neuron-type-sdcol-j"
+            ]
         },
         {
             "id": "neuron-j2",
-            "name": "Neuron j2"
+            "name": "Neuron j2",
+            "external": [
+                "ilxtr:neuron-type-sdcol-j-prime"
+            ]
         },
         {
             "id": "neuron-k",
-            "name": "Neuron k"
+            "name": "Neuron k",
+            "external": [
+                "ilxtr:neuron-type-sdcol-k"
+            ]
         },
         {
             "id": "neuron-l",
-            "name": "Neuron l"
+            "name": "Neuron l",
+            "external": [
+                "ilxtr:neuron-type-sdcol-l"
+            ]
         },
         {
             "id": "neuron-l2",
-            "name": "Neuron l2"
+            "name": "Neuron l2",
+            "external": [
+                "ilxtr:neuron-type-sdcol-l-prime"
+            ]
         },
         {
             "id": "neuron-m",
-            "name": "Neuron m"
+            "name": "Neuron m",
+            "external": [
+                "ilxtr:neuron-type-sdcol-m"
+            ]
         },
         {
             "id": "neuron-n",
-            "name": "Neuron n"
+            "name": "Neuron n",
+            "external": [
+                "ilxtr:neuron-type-sdcol-n"
+            ]
         },
         {
             "id": "neuron-o",
-            "name": "Neuron o"
+            "name": "Neuron o",
+            "external": [
+                "ilxtr:neuron-type-sdcol-o"
+            ]
         },
         {
             "id": "neuron-p",
-            "name": "Neuron p"
+            "name": "Neuron p",
+            "external": [
+                "ilxtr:neuron-type-sdcol-p"
+            ]
         },
         {
             "id": "neuron-q",
-            "name": "Neuron q"
+            "name": "Neuron q",
+            "external": [
+                "ilxtr:neuron-type-sdcol-q"
+            ]
         },
         {
             "id": "img-group",
@@ -3135,6 +3186,10 @@
         {
             "prefix": "NCBITaxon",
             "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        },
+        {
+            "prefix": "ilxtr",
+            "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
         }
     ],
     "id": "sawg-distal-colon",

@@ -1024,9 +1024,9 @@
                 "FMA:7096"
             ],
             "layers": [
-                "AM_45",
                 "AM_46",
-                "AM_47"
+                "AM_47",
+                "AM_7"
             ]
         },
         {
@@ -1036,9 +1036,9 @@
                 "FMA:7098"
             ],
             "layers": [
-                "AM_45",
                 "AM_46",
-                "AM_47"
+                "AM_47",
+                "AM_7"
             ]
         },
         {
@@ -1048,9 +1048,9 @@
                 "FMA:7097"
             ],
             "layers": [
-                "AM_45",
                 "AM_46",
-                "AM_47"
+                "AM_47",
+                "AM_7"
             ]
         },
         {
@@ -1060,9 +1060,9 @@
                 "FMA:7101"
             ],
             "layers": [
-                "AM_45",
                 "AM_46",
-                "AM_47"
+                "AM_47",
+                "AM_7"
             ]
         },
         {
@@ -1081,15 +1081,15 @@
             "internalLyphs": [
                 "sn-aicg_8",
                 "sn-aicg_9",
-                "sn-aicg_10"
+                "sn-aicg_10",
+                "sn-aicg_7"
             ],
             "internalLyphsInLayers": [
                 0,
                 0,
                 0,
                 0
-            ],
-            "internalIn": "A91"
+            ]
         },
         {
             "id": "A81",
@@ -1100,15 +1100,15 @@
             "internalLyphs": [
                 "sn-vicg_8",
                 "sn-vicg_9",
-                "sn-vicg_10"
+                "sn-vicg_10",
+                "sn-vicg_7"
             ],
             "internalLyphsInLayers": [
                 0,
                 0,
                 0,
                 0
-            ],
-            "internalIn": "A91"
+            ]
         },
         {
             "id": "A82",
@@ -1282,7 +1282,12 @@
                 "SAO:280355188"
             ],
             "isTemplate": true,
-            "topology": "BAG-"
+            "topology": "BAG-",
+            "layers": [
+                "AM_38",
+                "AM_40",
+                "AM_41"
+            ]
         },
         {
             "id": "axon-tube",
@@ -1291,7 +1296,12 @@
                 "SAO:280355188"
             ],
             "isTemplate": true,
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "AM_38",
+                "AM_40",
+                "AM_41"
+            ]
         },
         {
             "id": "dend-bag",
@@ -1300,7 +1310,12 @@
                 "SAO:420754792"
             ],
             "isTemplate": true,
-            "topology": "BAG-"
+            "topology": "BAG-",
+            "layers": [
+                "AM_38",
+                "AM_40",
+                "AM_41"
+            ]
         },
         {
             "id": "dend-tube",
@@ -1317,7 +1332,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
             "seedIn": "neuron-1"
         },
@@ -1327,9 +1342,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
-            "seedIn": "neuron-2"
+            "seedIn": "neuron-2m"
         },
         {
             "id": "sn-icg_2",
@@ -1337,8 +1352,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
-            "supertype": "229"
+            "topology": "TUBE",
+            "supertype": "229",
+            "seedIn": "neuron-2i"
         },
         {
             "id": "snna_4",
@@ -1346,7 +1362,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
             "seedIn": "neuron-4"
         },
@@ -1356,7 +1372,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1365,7 +1381,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
             "seedIn": "neuron-5"
         },
@@ -1375,7 +1391,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1384,7 +1400,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1393,7 +1409,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1402,7 +1418,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1411,7 +1427,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1420,7 +1436,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
             "seedIn": "neuron-6"
         },
@@ -1430,7 +1446,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1439,7 +1455,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1448,7 +1464,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1457,7 +1473,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1466,7 +1482,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1475,7 +1491,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1484,7 +1500,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1493,7 +1509,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1502,7 +1518,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1511,9 +1527,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
-            "seedIn": "neuron-7"
+            "seedIn": "neuron-7a"
         },
         {
             "id": "sn-vicg_7",
@@ -1521,8 +1537,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
-            "supertype": "229"
+            "topology": "TUBE",
+            "supertype": "229",
+            "seedIn": "neuron-7v"
         },
         {
             "id": "sn-aicg_8",
@@ -1530,9 +1547,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
-            "seedIn": "neuron-8"
+            "seedIn": "neuron-8a"
         },
         {
             "id": "sn-vicg_8",
@@ -1540,8 +1557,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
-            "supertype": "229"
+            "topology": "TUBE",
+            "supertype": "229",
+            "seedIn": "neuron-8v"
         },
         {
             "id": "sn-aicg_9",
@@ -1549,9 +1567,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
-            "seedIn": "neuron-9"
+            "seedIn": "neuron-9a"
         },
         {
             "id": "sn-vicg_9",
@@ -1559,8 +1577,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
-            "supertype": "229"
+            "topology": "TUBE",
+            "supertype": "229",
+            "seedIn": "neuron-9v"
         },
         {
             "id": "sn-aicg_10",
@@ -1568,9 +1587,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
-            "seedIn": "neuron-10"
+            "seedIn": "neuron-10a"
         },
         {
             "id": "sn-vicg_10",
@@ -1578,8 +1597,9 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
-            "supertype": "229"
+            "topology": "TUBE",
+            "supertype": "229",
+            "seedIn": "neuron-10v"
         },
         {
             "id": "sn-ng_11",
@@ -1587,7 +1607,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
             "seedIn": "neuron-11"
         },
@@ -1597,7 +1617,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
             "seedIn": "neuron-12"
         },
@@ -1607,7 +1627,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1616,7 +1636,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229",
             "seedIn": "neuron-13"
         },
@@ -1626,7 +1646,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1635,7 +1655,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1644,7 +1664,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1653,7 +1673,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1662,7 +1682,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1671,7 +1691,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1680,7 +1700,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         },
         {
@@ -1689,7 +1709,7 @@
             "external": [
                 "NLX:154731"
             ],
-            "topology": "BAG",
+            "topology": "TUBE",
             "supertype": "229"
         }
     ],
@@ -2138,6 +2158,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns5",
+            "leaf": "ns5_2",
             "housingLyphs": [
                 "A62"
             ]
@@ -2163,6 +2184,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns8",
+            "leaf": "ns8_2",
             "housingLyphs": [
                 "A61"
             ]
@@ -2327,7 +2349,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns37",
-            "leaf": "ns38",
+            "leaf": "nsLOL5",
             "housingLayers": [
                 0,
                 0,
@@ -2373,8 +2395,8 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns38",
+            "lyphTemplate": "axon-bag",
+            "root": "ns37",
             "leaf": "ns50",
             "housingLyphs": [
                 "A55"
@@ -2427,7 +2449,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns34",
-            "leaf": "ns40",
+            "leaf": "nsLOL5",
             "housingLayers": [
                 0,
                 0,
@@ -2470,7 +2492,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns40",
+            "root": "ns34",
             "leaf": "ns41",
             "housingLyphs": [
                 "A54"
@@ -2523,7 +2545,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns31",
-            "leaf": "ns42",
+            "leaf": "nsLOL5",
             "housingLayers": [
                 0,
                 0,
@@ -2561,8 +2583,8 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns42",
+            "lyphTemplate": "axon-bag",
+            "root": "ns31",
             "leaf": "ns43",
             "housingLyphs": [
                 "A53"
@@ -2615,7 +2637,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns28",
-            "leaf": "ns44",
+            "leaf": "nsLOL5",
             "housingLayers": [
                 0,
                 0,
@@ -2650,7 +2672,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns44",
+            "root": "ns28",
             "leaf": "ns45",
             "housingLyphs": [
                 "A52"
@@ -2703,7 +2725,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns25",
-            "leaf": "ns46",
+            "leaf": "nsLOL5",
             "housingLayers": [
                 0,
                 0,
@@ -2734,8 +2756,12 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns46",
+            "root": "ns25",
             "leaf": "ns47",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "A51"
             ]
@@ -2787,7 +2813,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns22",
-            "leaf": "ns48",
+            "leaf": "nsLOL5",
             "housingLayers": [
                 0,
                 0,
@@ -2814,10 +2840,22 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns48",
+            "root": "ns22",
             "leaf": "ns49",
             "housingLyphs": [
-                "A51"
+                "A50"
+            ]
+        },
+        {
+            "id": "ac_common_scg_5",
+            "name": "Axon terminal in SCG of Neuron 5",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "nsLOL5",
+            "housingLyphs": [
+                "A63"
             ]
         },
         {
@@ -2844,9 +2882,11 @@
             "leaf": "ns52",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
+                "A82",
                 "A74",
                 "A81"
             ]
@@ -2862,9 +2902,11 @@
             "leaf": "ns53",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
+                "A82",
                 "A74",
                 "A80"
             ]
@@ -3327,6 +3369,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns110",
+            "leaf": "ns110_5",
             "housingLyphs": [
                 "A80"
             ]
@@ -3360,14 +3403,68 @@
             ]
         },
         {
-            "id": "ac-la_7",
+            "id": "ac-atr-epi_7",
+            "name": "Axon in left atrium to epicardium from atrial ICG _Neuron 7 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns112",
+            "leaf": "ns115",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "A74"
+            ]
+        },
+        {
+            "id": "ac-la0_7",
             "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 7 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns112",
-            "leaf": "ns113",
+            "leaf": "ns115_0",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A77"
+            ]
+        },
+        {
+            "id": "ac-la1_7",
+            "name": "Axon in left atrium layer 1 from atrial ICG _Neuron 7 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns112",
+            "leaf": "ns115_1",
+            "housingLayers": [
+                5,
+                0,
+                1
+            ],
+            "housingLyphs": [
+                "A74",
+                "A77",
+                "A77"
+            ]
+        },
+        {
+            "id": "ac-ra0_7",
+            "name": "Axon in right atrium layer 0 from atrial ICG_Neuron 7 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns112",
+            "leaf": "ns116_0",
             "housingLayers": [
                 5,
                 0
@@ -3378,14 +3475,14 @@
             ]
         },
         {
-            "id": "ac-ra_7",
+            "id": "ac-ra1_7",
             "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 7 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns112",
-            "leaf": "ns114",
+            "leaf": "ns116_1",
             "housingLayers": [
                 5,
                 0,
@@ -3404,7 +3501,7 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns115",
+            "root": "ns113",
             "housingLyphs": [
                 "A81"
             ]
@@ -3416,7 +3513,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns116",
+            "root": "ns114",
             "leaf": "ns117",
             "housingLayers": [
                 0,
@@ -3430,14 +3527,67 @@
             ]
         },
         {
-            "id": "ac-lv_7",
-            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
+            "id": "ac-ven-epi_7",
+            "name": "Axon in epicardium near left ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns117",
             "leaf": "ns118",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "A74"
+            ]
+        },
+        {
+            "id": "ac-lv0_7",
+            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns117",
+            "leaf": "ns118_0",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A78"
+            ]
+        },
+        {
+            "id": "ac-lv1_7",
+            "name": "Axon in left ventricle layer 1 from ventricular ICG_Neuron 7 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns117",
+            "leaf": "ns118_1",
+            "housingLayers": [
+                5,
+                0,
+                1
+            ],
+            "housingLyphs": [
+                "A74",
+                "A78"
+            ]
+        },
+        {
+            "id": "ac-rv0_7",
+            "name": "Axon in right ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns117",
+            "leaf": "ns119_0",
             "housingLayers": [
                 5,
                 0
@@ -3448,18 +3598,18 @@
             ]
         },
         {
-            "id": "ac-rv_7",
+            "id": "ac-rv1_7",
             "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 7 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns117",
-            "leaf": "ns119",
+            "leaf": "ns119_1",
             "housingLayers": [
+                5,
                 0,
-                0,
-                5
+                1
             ],
             "housingLyphs": [
                 "A74",
@@ -3508,14 +3658,68 @@
             ]
         },
         {
-            "id": "ac-la_8",
-            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 8 (aacar)",
+            "id": "ac-atr-epi_8",
+            "name": "Axon in epicardium from atrial ICG _Neuron 8 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns122",
             "leaf": "ns123",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "A74"
+            ]
+        },
+        {
+            "id": "ac-la0_8",
+            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 8 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns122",
+            "leaf": "ns123_0",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A77"
+            ]
+        },
+        {
+            "id": "ac-la1_8",
+            "name": "Axon in left atrium layer 1 from atrial ICG _Neuron 8 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns122",
+            "leaf": "ns123_1",
+            "housingLayers": [
+                5,
+                0,
+                1
+            ],
+            "housingLyphs": [
+                "A74",
+                "A77",
+                "A77"
+            ]
+        },
+        {
+            "id": "ac-ra0_8",
+            "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 8 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns122",
+            "leaf": "ns124_0",
             "housingLayers": [
                 5,
                 0
@@ -3526,14 +3730,14 @@
             ]
         },
         {
-            "id": "ac-ra_8",
+            "id": "ac-ra1_8",
             "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 8 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns122",
-            "leaf": "ns124",
+            "leaf": "ns124_1",
             "housingLayers": [
                 5,
                 0,
@@ -3578,14 +3782,68 @@
             ]
         },
         {
-            "id": "ac-lv_8",
-            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 8 (aacar)",
+            "id": "ac-ven-epi_8",
+            "name": "Axon in epicardium from ventricular ICG_Neuron 8 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns127",
             "leaf": "ns128",
+            "housingLayers": [
+                5
+            ],
+            "housingLyphs": [
+                "A74"
+            ]
+        },
+        {
+            "id": "ac-lv0_8",
+            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 8 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns127",
+            "leaf": "ns128_0",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A78"
+            ]
+        },
+        {
+            "id": "ac-lv1_8",
+            "name": "Axon in left ventricle layer 1 from ventricular ICG_Neuron 8 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns127",
+            "leaf": "ns128_1",
+            "housingLayers": [
+                5,
+                0,
+                1
+            ],
+            "housingLyphs": [
+                "A74",
+                "A78",
+                "A78"
+            ]
+        },
+        {
+            "id": "ac-rv0_8",
+            "name": "Axon in right ventricle layer 0 from ventricular ICG_Neuron 8 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns127",
+            "leaf": "ns129",
             "housingLayers": [
                 5,
                 0
@@ -3596,7 +3854,7 @@
             ]
         },
         {
-            "id": "ac-rv_8",
+            "id": "ac-rv1_8",
             "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 8 (aacar)",
             "external": [
                 "SAO:1770195789"
@@ -3605,9 +3863,9 @@
             "root": "ns127",
             "leaf": "ns129",
             "housingLayers": [
+                5,
                 0,
-                0,
-                5
+                1
             ],
             "housingLyphs": [
                 "A74",
@@ -3648,27 +3906,30 @@
             ]
         },
         {
-            "id": "ac-aicg2_9",
-            "name": "Axon in atrial ICG2_Neuron 9 (aacar)",
+            "id": "ac-atr-epi_9",
+            "name": "Axon in epicardium from atrial ICG _Neuron 9  (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns132",
             "leaf": "ns133",
+            "housingLayers": [
+                5
+            ],
             "housingLyphs": [
-                "A80"
+                "A74"
             ]
         },
         {
-            "id": "ac-la_9",
+            "id": "ac-la0_9",
             "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 9  (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns132",
-            "leaf": "ns134",
+            "leaf": "ns133_0",
             "housingLayers": [
                 5,
                 0
@@ -3679,14 +3940,51 @@
             ]
         },
         {
-            "id": "ac-ra_9",
+            "id": "ac-la1_9",
+            "name": "Axon in left atrium layer 1 from atrial ICG _Neuron 9  (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns132",
+            "leaf": "ns133_1",
+            "housingLayers": [
+                5,
+                0,
+                1
+            ],
+            "housingLyphs": [
+                "A74",
+                "A77A77"
+            ]
+        },
+        {
+            "id": "ac-ra0_9",
+            "name": "Axon in right atrium layer 0 from atrial ICG_Neuron 9 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns132",
+            "leaf": "ns134_0",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A75"
+            ]
+        },
+        {
+            "id": "ac-ra1_9",
             "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 9 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns132",
-            "leaf": "ns135",
+            "leaf": "ns134_1",
             "housingLayers": [
                 5,
                 0,
@@ -3731,8 +4029,8 @@
             ]
         },
         {
-            "id": "ac-vicg2_9",
-            "name": "Axon in ventricular ICG2_Neuron 9 (aacar)",
+            "id": "ac-ven-epi_9",
+            "name": "Axon in epicardium from ventricular ICG_Neuron 9 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -3740,18 +4038,56 @@
             "root": "ns142",
             "leaf": "ns143",
             "housingLyphs": [
-                "A81"
+                "A74"
             ]
         },
         {
-            "id": "ac-lv_9",
+            "id": "ac-lv0_9",
             "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 9 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns143",
-            "leaf": "ns144",
+            "root": "ns142",
+            "leaf": "ns143_0",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A78"
+            ]
+        },
+        {
+            "id": "ac-lv1_9",
+            "name": "Axon in left ventricle layer 1 from ventricular ICG_Neuron 9 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns142",
+            "leaf": "ns143_1",
+            "housingLayers": [
+                5,
+                0,
+                1
+            ],
+            "housingLyphs": [
+                "A74",
+                "A78",
+                "A78"
+            ]
+        },
+        {
+            "id": "ac-rv0_9",
+            "name": "Axon in right ventricle layer 0 from ventricular ICG_Neuron 9 (aacar)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns142",
+            "leaf": "ns144_0",
             "housingLayers": [
                 5,
                 0
@@ -3762,18 +4098,18 @@
             ]
         },
         {
-            "id": "ac-rv_9",
+            "id": "ac-rv1_9",
             "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 9 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns143",
-            "leaf": "ns145",
+            "root": "ns142",
+            "leaf": "ns144_1",
             "housingLayers": [
+                5,
                 0,
-                0,
-                5
+                1
             ],
             "housingLyphs": [
                 "A74",
@@ -4563,10 +4899,17 @@
             ]
         },
         {
-            "id": "neuron-2",
-            "name": "Neuron 2",
+            "id": "neuron-2m",
+            "name": "Neuron 2m",
             "external": [
-                "ilxtr:neuron-type-aacar-2"
+                "ilxtr:neuron-type-aacar-2m"
+            ]
+        },
+        {
+            "id": "neuron-2i",
+            "name": "Neuron 2i",
+            "external": [
+                "ilxtr:neuron-type-aacar-2i"
             ]
         },
         {
@@ -4594,31 +4937,59 @@
             ]
         },
         {
-            "id": "neuron-7",
-            "name": "Neuron 7",
+            "id": "neuron-7a",
+            "name": "Neuron 7a",
             "external": [
-                "ilxtr:neuron-type-aacar-7"
+                "ilxtr:neuron-type-aacar-7a"
             ]
         },
         {
-            "id": "neuron-8",
-            "name": "Neuron 8",
+            "id": "neuron-8a",
+            "name": "Neuron 8a",
             "external": [
-                "ilxtr:neuron-type-aacar-8"
+                "ilxtr:neuron-type-aacar-8a"
             ]
         },
         {
-            "id": "neuron-9",
-            "name": "Neuron 9",
+            "id": "neuron-9a",
+            "name": "Neuron 9a",
             "external": [
-                "ilxtr:neuron-type-aacar-9"
+                "ilxtr:neuron-type-aacar-9a"
             ]
         },
         {
-            "id": "neuron-10",
-            "name": "Neuron 10",
+            "id": "neuron-10a",
+            "name": "Neuron 10a",
             "external": [
-                "ilxtr:neuron-type-aacar-10"
+                "ilxtr:neuron-type-aacar-10a"
+            ]
+        },
+        {
+            "id": "neuron-7v",
+            "name": "Neuron 7v",
+            "external": [
+                "ilxtr:neuron-type-aacar-7v"
+            ]
+        },
+        {
+            "id": "neuron-8v",
+            "name": "Neuron 8v",
+            "external": [
+                "ilxtr:neuron-type-aacar-8v"
+            ]
+        },
+        {
+            "id": "neuron-9v",
+            "name": "Neuron 9v",
+            "external": [
+                "ilxtr:neuron-type-aacar-9v"
+            ]
+        },
+        {
+            "id": "neuron-10v",
+            "name": "Neuron 10v",
+            "external": [
+                "ilxtr:neuron-type-aacar-10v"
             ]
         },
         {
