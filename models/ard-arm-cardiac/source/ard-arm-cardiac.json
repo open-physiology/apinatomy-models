@@ -1070,6 +1070,12 @@
             "name": "Aorta (aacar)",
             "external": [
                 "FMA:3734"
+            ],
+            "layers": [
+                "AM_54",
+                "AM_10",
+                "AM_6",
+                "AM_7"
             ]
         },
         {
@@ -1142,6 +1148,12 @@
             "name": "Endocardium (aacar)",
             "external": [
                 "UBERON:0002165"
+            ],
+            "layers": [
+                "AM_54",
+                "AM_10",
+                "AM_6",
+                "AM_7"
             ]
         },
         {
@@ -2081,6 +2093,10 @@
             "external": [
                 "UBERON:0015129"
             ]
+        },
+        {
+            "id": "AM_54",
+            "name": "Adventitia"
         }
     ],
     "chains": [
@@ -3955,7 +3971,8 @@
             ],
             "housingLyphs": [
                 "A74",
-                "A77A77"
+                "A77",
+                "A77"
             ]
         },
         {
@@ -4004,6 +4021,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns140",
+            "leaf": "ns140_1",
             "housingLyphs": [
                 "A81"
             ]
@@ -4034,7 +4052,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
+            "lyphTemplate": "axon-bag",
             "root": "ns142",
             "leaf": "ns143",
             "housingLyphs": [
@@ -4217,7 +4235,7 @@
             ]
         },
         {
-            "id": "ac-sn-la_11",
+            "id": "dc-sn-la_11",
             "name": "Dendrite from heart_layer 5 to heartla2_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4233,7 +4251,7 @@
             ]
         },
         {
-            "id": "ac-sn-la2_11",
+            "id": "dc-sn-la2_11",
             "name": "Dendrite from heart_layer 5 to area around left atrium_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4249,7 +4267,7 @@
             ]
         },
         {
-            "id": "ac-sn-la0_11",
+            "id": "dc-sn-la0_11",
             "name": "Dendrite from heart to left atrium_layer 0_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4267,7 +4285,7 @@
             ]
         },
         {
-            "id": "ac-sn-la1_11",
+            "id": "dc-sn-la1_11",
             "name": "Dendrite from heart to left atrium_layer 1_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4287,7 +4305,7 @@
             ]
         },
         {
-            "id": "ac-sn-lv_11",
+            "id": "dc-sn-lv_11",
             "name": "Dendrite from heart_layer 5 of heart to left ventricle and aorta_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4303,7 +4321,7 @@
             ]
         },
         {
-            "id": "ac-sn-lv2_11",
+            "id": "dc-sn-lv2_11",
             "name": "Dendrite from heart_layer 5 to heartlv2_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4319,7 +4337,7 @@
             ]
         },
         {
-            "id": "ac-sn-lv0_11",
+            "id": "dc-sn-lv0_11",
             "name": "Dendrite from heart to left ventricle_layer 0_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4337,7 +4355,7 @@
             ]
         },
         {
-            "id": "ac-sn-lv1_11",
+            "id": "dc-sn-lv1_11",
             "name": "Dendrite from heart to left ventricle_layer 1_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4357,7 +4375,7 @@
             ]
         },
         {
-            "id": "ac-sn-olv_11",
+            "id": "dc-sn-olv_11",
             "name": "Dendrite from heart_layer 5 to area outside of left ventricle_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4373,7 +4391,7 @@
             ]
         },
         {
-            "id": "ac-sn-out_11",
+            "id": "dc-sn-out_11",
             "name": "Dendrite to blood supply_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4389,7 +4407,7 @@
             ]
         },
         {
-            "id": "ac-sn-aorta_11",
+            "id": "dc-sn-aorta_11",
             "name": "Dendrite to aorta - layer 0_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4407,7 +4425,7 @@
             ]
         },
         {
-            "id": "ac-sn-pulartery_11",
+            "id": "dc-sn-pulartery_11",
             "name": "Dendrite to pulmonary artery - layer 0_Neuron 11 (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4430,7 +4448,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns180",
             "leaf": "ns180_1",
             "housingLyphs": [
@@ -4443,7 +4461,7 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "dend-tube",
+            "lyphTemplate": "axon-bag",
             "root": "ns181",
             "leaf": "ns182",
             "housingLyphs": [
@@ -4456,7 +4474,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns185",
             "leaf": "ns180_1",
             "housingLyphs": [
@@ -4469,34 +4487,34 @@
             "external": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "dend-tube",
-            "root": "ns180_1",
-            "leaf": "ns182",
+            "lyphTemplate": "axon-bag",
+            "root": "ns186",
+            "leaf": "ns183",
             "housingLyphs": [
                 "A61"
             ]
         },
         {
-            "id": "ac-sn-pulart_12",
-            "name": "Axon from icg and mcg to pulmonary artery-layer 0_Neuron 12 (aacar)",
+            "id": "dc-sn-pulart_12",
+            "name": "Dendrite from icg and mcg to pulmonary artery-layer 0_Neuron 12 (aacar)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns182",
+            "root": "ns180_1",
             "leaf": "ns187",
             "housingLyphs": [
                 "A95"
             ]
         },
         {
-            "id": "ac-sn-aorta_12",
-            "name": "Axon from icg and mcg to aorta-layer 0_Neuron 12 (aacar)",
+            "id": "dc-sn-aorta_12",
+            "name": "Dendrite from icg and mcg to aorta-layer 0_Neuron 12 (aacar)",
             "external": [
-                "SAO:1770195789"
+                "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns182",
+            "root": "ns180_1",
             "leaf": "ns188",
             "housingLyphs": [
                 "A79"
@@ -4504,11 +4522,11 @@
         },
         {
             "id": "dc-sn-c6drg_13",
-            "name": "Dendrite in the C6 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Dendrite in the C6 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns190",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4517,7 +4535,7 @@
         },
         {
             "id": "ac-sn-c6drg_13",
-            "name": "Axon in the C6 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the C6 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -4535,11 +4553,11 @@
         },
         {
             "id": "dc-sn-c7drg_13",
-            "name": "Dendrite in the C7 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Dendrite in the C7 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns193",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4548,7 +4566,7 @@
         },
         {
             "id": "ac-sn-c7drg_13",
-            "name": "Axon in the C7 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the C7 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -4566,11 +4584,11 @@
         },
         {
             "id": "dc-sn-c8drg_13",
-            "name": "Dendrite in the C8 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Dendrite in the C8 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns195",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4579,7 +4597,7 @@
         },
         {
             "id": "ac-sn-c8drg_13",
-            "name": "Axon in the C8 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the C8 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -4597,11 +4615,11 @@
         },
         {
             "id": "dc-sn-t1drg_13",
-            "name": "Dendrite in the T1 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Dendrite in the T1 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns197",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4610,7 +4628,7 @@
         },
         {
             "id": "ac-sn-t1drg_13",
-            "name": "Axon in the T1 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the T1 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -4628,11 +4646,11 @@
         },
         {
             "id": "dc-sn-t2drg_13",
-            "name": "Dendrite in the T2 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Dendrite in the T2 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns199",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4641,7 +4659,7 @@
         },
         {
             "id": "ac-sn-t2drg_13",
-            "name": "Axon in the T2 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the T2 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
@@ -4663,7 +4681,7 @@
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns201",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4672,13 +4690,13 @@
         },
         {
             "id": "ac-sn-t3drg_13",
-            "name": "Axon in the T3 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the T3 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns202",
-            "leaf": "ns190_1",
+            "leaf": "ns202_1",
             "housingLayers": [
                 0,
                 5
@@ -4690,26 +4708,26 @@
         },
         {
             "id": "dc-sn-t4drg_13",
-            "name": "Dendrite in the T4 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Dendrite in the T4 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns203",
-            "leaf": "ns203_1",
+            "leaf": "ns190_1",
             "housingLyphs": [
                 "A26"
             ]
         },
         {
             "id": "ac-sn-t4drg_13",
-            "name": "Axon in the T4 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the T4 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns204",
-            "leaf": "ns192_6",
+            "leaf": "ns204_1",
             "housingLayers": [
                 0,
                 5
@@ -4721,11 +4739,11 @@
         },
         {
             "id": "dc-sn-t5drg_13",
-            "name": "Dendrite in the T5 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Dendrite in the T5 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns205",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4734,13 +4752,13 @@
         },
         {
             "id": "ac-sn-t5drg_13",
-            "name": "Axon in the T5 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the T5 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns206",
-            "leaf": "ns192_7",
+            "leaf": "ns206_1",
             "housingLayers": [
                 0,
                 5
@@ -4752,11 +4770,11 @@
         },
         {
             "id": "dc-sn-t6drg_13",
-            "name": "Dendrite in the T6 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Dendrite in the T6 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns207",
             "leaf": "ns190_1",
             "housingLyphs": [
@@ -4765,13 +4783,13 @@
         },
         {
             "id": "ac-sn-t6drg_13",
-            "name": "Axon in the T6 dorsal root ganglia_Neuron 12 (aacar)",
+            "name": "Axon in the T6 dorsal root ganglia_Neuron 13 (aacar)",
             "external": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns208",
-            "leaf": "ns192_8",
+            "leaf": "ns208_1",
             "housingLayers": [
                 0,
                 5
@@ -4782,14 +4800,14 @@
             ]
         },
         {
-            "id": "ac-out_13",
+            "id": "dc-out_13",
             "name": "Dendrite in heart_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
-            "root": "ns194",
-            "leaf": "ns190_1",
+            "root": "ns190_1",
+            "leaf": "ns194",
             "housingLayers": [
                 5
             ],
@@ -4798,7 +4816,7 @@
             ]
         },
         {
-            "id": "ac-stay_13",
+            "id": "dc-stay_13",
             "name": "Dendrite branch to heart (aacar)",
             "external": [
                 "SAO:1211023249"
@@ -4814,7 +4832,7 @@
             ]
         },
         {
-            "id": "ac-lv0_13",
+            "id": "dc-lv0_13",
             "name": "Dendrite to left ventricle-layer 0_Neuron 13 (aacar)",
             "external": [
                 "SAO:1211023249"
