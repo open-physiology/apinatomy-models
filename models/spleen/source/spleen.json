@@ -1,0 +1,1486 @@
+{
+    "publications": [],
+    "nodes": [],
+    "links": [
+        {
+            "id": "lnk-sn_t8",
+            "name": "link for soma in T8 spinal cord segment (spleen)",
+            "source": "ns_t8s",
+            "target": "ns_t8t",
+            "conveyingLyph": "sn_t8"
+        },
+        {
+            "id": "lnk-sn_t7",
+            "name": "link for soma in T7 spinal cord segment (spleen)",
+            "source": "ns_t7s",
+            "target": "ns_t7t",
+            "conveyingLyph": "sn_t7"
+        },
+        {
+            "id": "lnk-sn_t6",
+            "name": "link for soma in T6 spinal cord segment (spleen)",
+            "source": "ns_t6s",
+            "target": "ns_t6t",
+            "conveyingLyph": "sn_t6"
+        },
+        {
+            "id": "lnk-sn_t5",
+            "name": "link for soma in T5 spinal cord segment (spleen)",
+            "source": "ns_t5s",
+            "target": "ns_t5t",
+            "conveyingLyph": "sn_t5"
+        },
+        {
+            "id": "lnk-sn_dmv",
+            "name": "link for soma in dmv in medulla (spleen)",
+            "source": "ns_dmv-s",
+            "target": "ns_dmv-t",
+            "conveyingLyph": "sn_dmv"
+        },
+        {
+            "id": "lnk-sn_nts",
+            "name": "link for soma in nts in medulla (spleen)",
+            "source": "ns_nts-s",
+            "target": "ns_nts-t",
+            "conveyingLyph": "sn_nts"
+        },
+        {
+            "id": "lnk-sn_ndg",
+            "name": "link for soma in ndg in vagus nerve  (spleen)",
+            "source": "ns_ndg-s",
+            "target": "ns_ndg-t",
+            "conveyingLyph": "sn_ndg"
+        },
+        {
+            "id": "lnk-cg-smg",
+            "name": "soma in CG/SMG fused",
+            "source": "ns_cg-smg-s",
+            "target": "ns_cg-smg-t",
+            "conveyingLyph": "sn-cg-smg"
+        }
+    ],
+    "lyphs": [
+        {
+            "id": "T5",
+            "name": "T5 spinal segment (spleen)",
+            "external": [
+                "UBERON:0006453"
+            ],
+            "topology": "TUBE",
+            "supertype": "seg_sc",
+            "internalLyphs": [
+                "sn_t5"
+            ]
+        },
+        {
+            "id": "T6",
+            "name": "T6 spinal segment (spleen)",
+            "external": [
+                "UBERON:0006454"
+            ],
+            "topology": "TUBE",
+            "supertype": "seg_sc",
+            "internalLyphs": [
+                "sn_t6"
+            ]
+        },
+        {
+            "id": "T7",
+            "name": "T7 spinal segment (spleen)",
+            "external": [
+                "UBERON:0006455"
+            ],
+            "topology": "TUBE",
+            "supertype": "seg_sc",
+            "internalLyphs": [
+                "sn_t7"
+            ]
+        },
+        {
+            "id": "T8",
+            "name": "T8 spinal segment (spleen)",
+            "external": [
+                "UBERON:0006456"
+            ],
+            "topology": "TUBE",
+            "supertype": "seg_sc",
+            "internalLyphs": [
+                "sn_t8"
+            ]
+        },
+        {
+            "id": "seg_sc",
+            "name": "Segment of Spinal Cord (spleen)",
+            "external": [
+                "UBERON:0005844"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "SPL-M_9",
+                "SPL-M_23",
+                "SPL-M_25"
+            ]
+        },
+        {
+            "id": "med",
+            "name": "Medulla (spleen)",
+            "external": [
+                "UBERON:0001896"
+            ],
+            "topology": "TUBE",
+            "layers": [
+                "SPL-M_9",
+                "SPL-M_23",
+                "SPL-M_25"
+            ],
+            "internalLyphs": [
+                "nts",
+                "dmv"
+            ]
+        },
+        {
+            "id": "dmv",
+            "name": "dorsal motor nucleus of the vagus (spleen)",
+            "external": [
+                "UBERON:0002870"
+            ],
+            "internalLyphs": [
+                "sn_dmv"
+            ]
+        },
+        {
+            "id": "nts",
+            "name": "nucleus tractus solitarius (spleen)",
+            "external": [
+                "UBERON:0009050"
+            ],
+            "internalLyphs": [
+                "sn_nts"
+            ]
+        },
+        {
+            "id": "n-vag",
+            "name": "vagus nerve (spleen)",
+            "external": [
+                "UBERON:0001759"
+            ],
+            "internalLyphs": [
+                "ndg"
+            ]
+        },
+        {
+            "id": "ndg",
+            "name": "nodose ganglion (spleen)",
+            "external": [
+                "UBERON:0005363"
+            ],
+            "internalLyphs": [
+                "sn_ndg"
+            ]
+        },
+        {
+            "id": "cg-smg",
+            "name": "celiac ganglion and superior mesenteric ganglion complex (spleen)",
+            "external": [
+                "ILX:0793082"
+            ],
+            "internalLyphs": [
+                "sn-cg-smg"
+            ]
+        },
+        {
+            "id": "spln",
+            "name": "spleen (spleen)",
+            "external": [
+                "UBERON:0002106"
+            ],
+            "topology": "BAG",
+            "layers": [
+                "spln_cap",
+                "r_pulp",
+                "mar_zone",
+                "mar_sin",
+                "w_pulp"
+            ]
+        },
+        {
+            "id": "spln_cap",
+            "name": "splenic capsule (spleen)",
+            "external": [
+                "UBERON:0004641"
+            ],
+            "topology": "BAG"
+        },
+        {
+            "id": "r_pulp",
+            "name": "red pulp (spleen)",
+            "external": [
+                "UBERON:0001250"
+            ],
+            "topology": "BAG"
+        },
+        {
+            "id": "mar_zone",
+            "name": "marginal zone (spleen)",
+            "external": [
+                "UBERON:0001251"
+            ],
+            "topology": "BAG",
+            "internalLyphs": [
+                "a-cent",
+                "art-rad"
+            ]
+        },
+        {
+            "id": "mar_sin",
+            "name": "marginal sinus (spleen)",
+            "external": [
+                "UBERON:0010398"
+            ],
+            "topology": "BAG",
+            "internalLyphs": [
+                "a-cent",
+                "art-rad"
+            ]
+        },
+        {
+            "id": "w_pulp",
+            "name": "white pulp (spleen)",
+            "external": [
+                "UBERON:0001959"
+            ],
+            "topology": "BAG",
+            "internalLyphs": [
+                "a-cent",
+                "art-rad",
+                "pals"
+            ]
+        },
+        {
+            "id": "pals",
+            "name": "periarterial lymphatic sheath (spleen)",
+            "external": [
+                "UBERON:0001960"
+            ]
+        },
+        {
+            "id": "int",
+            "name": "intestine",
+            "external": [
+                "UBERON:0000160"
+            ],
+            "layers": [
+                "lum_int",
+                "epi",
+                "lam_pro",
+                "subm_plex",
+                "cm_gut",
+                "myen_plex",
+                "ser_int"
+            ]
+        },
+        {
+            "id": "epi",
+            "name": "epithelium",
+            "external": [
+                "UBERON:0000483"
+            ]
+        },
+        {
+            "id": "lum_int",
+            "name": "lumen of intestine",
+            "external": [
+                "UBERON:0018543"
+            ]
+        },
+        {
+            "id": "lam_pro",
+            "name": "lamina propria",
+            "external": [
+                "UBERON:0000030"
+            ]
+        },
+        {
+            "id": "subm_plex",
+            "name": "submucosal plexus",
+            "external": [
+                "UBERON:0005304"
+            ]
+        },
+        {
+            "id": "cm_gut",
+            "name": "circular muscle of the gut",
+            "external": [
+                "UBERON:2005279"
+            ]
+        },
+        {
+            "id": "myen_plex",
+            "name": "myenteric plexus",
+            "external": [
+                "UBERON:0002439"
+            ]
+        },
+        {
+            "id": "ser_int",
+            "name": "serosa of instestine",
+            "external": [
+                "FMA:15701"
+            ],
+            "internalIn": "mes_ln"
+        },
+        {
+            "id": "mes_ln",
+            "name": "mesenteric lymph node",
+            "external": [
+                "UBERON:0002509"
+            ],
+            "internalIn": "blo_ves"
+        },
+        {
+            "id": "blo_ves",
+            "name": "Blood vessel (spleen)",
+            "external": [
+                "UBERON:0001981"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_26"
+            ]
+        },
+        {
+            "id": "seg_neu",
+            "name": "Segment of neuron (spleen)",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
+        },
+        {
+            "id": "n-gspl",
+            "name": "greater splanchnic nerve (spleen)",
+            "external": [
+                "UBERON:0018680"
+            ]
+        },
+        {
+            "id": "n-splenic",
+            "name": "splenic nerve (spleen)"
+        },
+        {
+            "id": "axon-bag",
+            "name": "Axon terminal (spleen)",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
+        },
+        {
+            "id": "axon-tube",
+            "name": "Axon segment (spleen)",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
+        },
+        {
+            "id": "dend-bag",
+            "name": "Dendrite terminal (spleen)",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
+        },
+        {
+            "id": "dend-tube",
+            "name": "Dendrite segment (spleen)",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
+        },
+        {
+            "id": "sn_t8",
+            "name": "soma in T8 spinal cord segment (spleen)",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "seg_neu",
+            "seedIn": "neuron1_spl"
+        },
+        {
+            "id": "sn_t7",
+            "name": "soma in T7 spinal cord segment (spleen)",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "seg_neu"
+        },
+        {
+            "id": "sn_t6",
+            "name": "soma in T6 spinal cord segment (spleen)",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "seg_neu"
+        },
+        {
+            "id": "sn_t5",
+            "name": "soma in T5 spinal cord segment (spleen)",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "seg_neu"
+        },
+        {
+            "id": "sn_dmv",
+            "name": "soma in dmv in medulla (spleen)",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "seg_neu",
+            "seedIn": "neuron2_spl"
+        },
+        {
+            "id": "sn_nts",
+            "name": "soma in nts in medulla (spleen)",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "seg_neu",
+            "seedIn": "neuron3_spl"
+        },
+        {
+            "id": "sn_ndg",
+            "name": "soma in ndg in vagus nerve  (spleen)",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "seg_neu",
+            "seedIn": "neuron4_spl"
+        },
+        {
+            "id": "sn-cg-smg",
+            "name": "soma in CG/SMG fused",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "seg_neu",
+            "seedIn": "neuron5_spl"
+        },
+        {
+            "id": "a-splen",
+            "name": "splenic artery",
+            "external": [
+                "UBERON:0001194"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_tm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "v-splen",
+            "name": "splenic vein",
+            "external": [
+                "UBERON:0003713"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_tm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "a-trab",
+            "name": "spleen trabecular artery",
+            "external": [
+                "UBERON:0010399"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_tm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "v-trab",
+            "name": "spleen trabecular vein",
+            "external": [
+                "UBERON:0010400"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_tm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "trab",
+            "name": "trabecula",
+            "external": [
+                "UBERON:0000440"
+            ],
+            "materials": [
+                "SPL-M_tct"
+            ]
+        },
+        {
+            "id": "a-cent",
+            "name": "central artery",
+            "external": [
+                "UBERON:2005020"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_tm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "ven_sin",
+            "name": "venous sinus",
+            "external": [
+                "UBERON:0006615"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_tm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "spl_cord",
+            "name": "splenic cord",
+            "external": [
+                "UBERON:0001266"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_rpm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "cap-shea",
+            "name": "(sheathed) capillary",
+            "external": [
+                "UBERON:0001982"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "art-rad",
+            "name": "(radial) arteriole",
+            "external": [
+                "UBERON:0001980"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "ven-conn",
+            "name": "(connecting) venule",
+            "external": [
+                "UBERON:0001979"
+            ],
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_ta"
+            ]
+        },
+        {
+            "id": "art-pen",
+            "name": "penicillary arteriole",
+            "layers": [
+                "SPL-M_7",
+                "SPL-M_6",
+                "SPL-M_bm",
+                "SPL-M_tm",
+                "SPL-M_ta"
+            ]
+        }
+    ],
+    "materials": [
+        {
+            "id": "SPL-M_2",
+            "name": "Water",
+            "external": [
+                "CHEBI:15377"
+            ]
+        },
+        {
+            "id": "SPL-M_5",
+            "name": "Extracellular fluid",
+            "external": [
+                "CHEBI:24839"
+            ]
+        },
+        {
+            "id": "SPL-M_6",
+            "name": "Endothelium",
+            "external": [
+                "UBERON:0001986"
+            ],
+            "materials": [
+                "SPL-M_8"
+            ]
+        },
+        {
+            "id": "SPL-M_7",
+            "name": "Blood",
+            "external": [
+                "UBERON:0000178"
+            ],
+            "materials": [
+                "SPL-M_8"
+            ]
+        },
+        {
+            "id": "SPL-M_8",
+            "name": "Aqueous solution",
+            "external": [
+                "FMA:85815"
+            ],
+            "materials": [
+                "SPL-M_2",
+                "SPL-M_13",
+                "SPL-M_14",
+                "SPL-M_15",
+                "SPL-M_16",
+                "SPL-M_17",
+                "SPL-M_18",
+                "SPL-M_19",
+                "SPL-M_20",
+                "SPL-M_21"
+            ]
+        },
+        {
+            "id": "SPL-M_9",
+            "name": "Cerebrospinal fluid",
+            "external": [
+                "UBERON:0001359"
+            ],
+            "materials": [
+                "SPL-M_8"
+            ]
+        },
+        {
+            "id": "SPL-M_10",
+            "name": "Smooth muscle",
+            "external": [
+                "UBERON:0001135"
+            ]
+        },
+        {
+            "id": "SPL-M_11",
+            "name": "Connective Tissue",
+            "external": [
+                "UBERON:0002384"
+            ]
+        },
+        {
+            "id": "SPL-M_13",
+            "name": "Sodium ion",
+            "external": [
+                "CHEBI:29101"
+            ]
+        },
+        {
+            "id": "SPL-M_14",
+            "name": "Potassium ion",
+            "external": [
+                "CHEBI:29103"
+            ]
+        },
+        {
+            "id": "SPL-M_15",
+            "name": "Calcium ion",
+            "external": [
+                "CHEBI:29108"
+            ]
+        },
+        {
+            "id": "SPL-M_16",
+            "name": "Chloride ion",
+            "external": [
+                "CHEBI:17996"
+            ]
+        },
+        {
+            "id": "SPL-M_17",
+            "name": "Hydrogen ion",
+            "external": [
+                "CHEBI:24636"
+            ]
+        },
+        {
+            "id": "SPL-M_18",
+            "name": "Hydroxide ion",
+            "external": [
+                "CHEBI:16234"
+            ]
+        },
+        {
+            "id": "SPL-M_19",
+            "name": "Bicarbonate ion",
+            "external": [
+                "CHEBI:17544"
+            ]
+        },
+        {
+            "id": "SPL-M_20",
+            "name": "Liquid",
+            "external": [
+                "FMA:85815"
+            ]
+        },
+        {
+            "id": "SPL-M_21",
+            "name": "Fluid",
+            "external": [
+                "UBERON:0006314"
+            ]
+        },
+        {
+            "id": "SPL-M_22",
+            "name": "Peripheral nervous system tissue",
+            "external": [
+                "UBERON:0000010"
+            ],
+            "materials": [
+                "SPL-M_5"
+            ]
+        },
+        {
+            "id": "SPL-M_23",
+            "name": "Ependyma",
+            "external": [
+                "UBERON:0004670"
+            ]
+        },
+        {
+            "id": "SPL-M_24",
+            "name": "Pia mater",
+            "external": [
+                "UBERON:0002361"
+            ]
+        },
+        {
+            "id": "SPL-M_25",
+            "name": "Central nervous system tissue",
+            "external": [
+                "UBERON:0001017"
+            ],
+            "materials": [
+                "SPL-M_5"
+            ]
+        },
+        {
+            "id": "SPL-M_26",
+            "name": "Wall of vessel",
+            "external": [
+                "UBERON:0035965"
+            ],
+            "materials": [
+                "SPL-M_11"
+            ]
+        },
+        {
+            "id": "SPL-M_27",
+            "name": "White matter of CNS",
+            "external": [
+                "UBERON:0016549"
+            ]
+        },
+        {
+            "id": "SPL-M_28",
+            "name": "Gray matter of CNS",
+            "external": [
+                "UBERON:0016548"
+            ]
+        },
+        {
+            "id": "SPL-M_77",
+            "name": "lamina I of gray matter of spinal cord",
+            "external": [
+                "UBERON:0006118"
+            ]
+        },
+        {
+            "id": "SPL-M_78",
+            "name": "lamina II of gray matter of spinal cord",
+            "external": [
+                "UBERON:0002181"
+            ]
+        },
+        {
+            "id": "SPL-M_79",
+            "name": "lamina III of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016574"
+            ]
+        },
+        {
+            "id": "SPL-M_80",
+            "name": "lamina IV of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016575"
+            ]
+        },
+        {
+            "id": "SPL-M_81",
+            "name": "lamina V of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016576"
+            ]
+        },
+        {
+            "id": "SPL-M_82",
+            "name": "lamina VI of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016577"
+            ]
+        },
+        {
+            "id": "SPL-M_83",
+            "name": "lamina VII of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016578"
+            ]
+        },
+        {
+            "id": "SPL-M_84",
+            "name": "lamina VIII of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016579"
+            ]
+        },
+        {
+            "id": "SPL-M_85",
+            "name": "lamina IX of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016580"
+            ]
+        },
+        {
+            "id": "SPL-M_86",
+            "name": "lamina X of gray matter of spinal cord",
+            "external": [
+                "UBERON:0004677"
+            ]
+        },
+        {
+            "id": "54",
+            "name": "Cytosol",
+            "external": [
+                "GO:0005829"
+            ]
+        },
+        {
+            "id": "55",
+            "name": "Membrane",
+            "external": [
+                "GO:0016020"
+            ]
+        },
+        {
+            "id": "56",
+            "name": "Plasma membrane",
+            "external": [
+                "GO:0005886"
+            ]
+        },
+        {
+            "id": "116",
+            "name": "Extracellular fluid",
+            "external": [
+                "GO:0005615"
+            ]
+        },
+        {
+            "id": "SPL-M_87",
+            "name": "Epithelium",
+            "external": [
+                "UBERON:0000483"
+            ]
+        },
+        {
+            "id": "SPL-M_Lum",
+            "name": "lumen of intestine",
+            "external": [
+                "UBERON:0018543"
+            ]
+        },
+        {
+            "id": "SPL-M_LN",
+            "name": "lamina propria",
+            "external": [
+                "UBERON:0000030"
+            ]
+        },
+        {
+            "id": "SPL-M_SubP",
+            "name": "submucosal plexus",
+            "external": [
+                "UBERON:0005304"
+            ]
+        },
+        {
+            "id": "SPL-M_CirM",
+            "name": "circular muscle of the gut",
+            "external": [
+                "UBERON:2005279"
+            ]
+        },
+        {
+            "id": "SPL-M_MyeP",
+            "name": "myenteric plexus",
+            "external": [
+                "UBERON:0002439"
+            ]
+        },
+        {
+            "id": "SPL-M_Ser",
+            "name": "serosa of instestine",
+            "external": [
+                "FMA:15701"
+            ]
+        },
+        {
+            "id": "SPL-M_Lym",
+            "name": "lymph",
+            "external": [
+                "UBERON:0002391"
+            ]
+        },
+        {
+            "id": "SPL-M_WMB",
+            "name": "leukocyte",
+            "external": [
+                "FMA:62852"
+            ]
+        },
+        {
+            "id": "SPL-M_chy",
+            "name": "chyle",
+            "external": [
+                "FMA:61403"
+            ]
+        },
+        {
+            "id": "SPL-M_bm",
+            "name": "basement membrane"
+        },
+        {
+            "id": "SPL-M_tm",
+            "name": "tunica media"
+        },
+        {
+            "id": "SPL-M_ta",
+            "name": "tunica adventitia"
+        },
+        {
+            "id": "SPL-M_tct",
+            "name": "trabecular connective tissue"
+        },
+        {
+            "id": "SPL-M_rct",
+            "name": "reticular connective tissue"
+        },
+        {
+            "id": "SPL-M_rpm",
+            "name": "splenic red pulp macrophage",
+            "external": [
+                "CL:0000874"
+            ]
+        }
+    ],
+    "coalescences": [
+        {
+            "id": "col-sa_sv",
+            "name": "coalescence of splenic artery and vein",
+            "external": [
+                "UBERON:0001981"
+            ],
+            "lyphs": [
+                "a-splen",
+                "v-splen"
+            ],
+            "topology": "CONNECTING"
+        },
+        {
+            "id": "col-vs_sc",
+            "name": "coalescence of venous sinus and splenic cord",
+            "lyphs": [
+                "ven_sin",
+                "spl_cord"
+            ],
+            "topology": "CONNECTING"
+        }
+    ],
+    "chains": [
+        {
+            "id": "sc-med",
+            "name": "spinal cord and medulla",
+            "lyphs": [
+                "T5",
+                "T6",
+                "T7",
+                "T8",
+                "med"
+            ],
+            "wiredTo": "w-N-T",
+            "startFromLeaf": true
+        },
+        {
+            "id": "int-chain",
+            "name": "intestine",
+            "external": [
+                "UBERON:0000160"
+            ],
+            "lyphs": [
+                "int"
+            ],
+            "wiredTo": "w-O-R",
+            "startFromLeaf": true
+        },
+        {
+            "id": "dc-t8seg",
+            "name": "dendrite chain  in T8 spinal cord segment (spleen)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns_t8s",
+            "housingLyphs": [
+                "T8"
+            ]
+        },
+        {
+            "id": "ac-t8seg",
+            "name": "axon chain  in T8 spinal cord segment (spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_t8t",
+            "leaf": "ns_seg_out",
+            "housingLyphs": [
+                "T8"
+            ]
+        },
+        {
+            "id": "dc-t7seg",
+            "name": "dendrite chain  in T7 spinal cord segment (spleen)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns_t7s",
+            "housingLyphs": [
+                "T7"
+            ]
+        },
+        {
+            "id": "ac-t7seg",
+            "name": "axon chain  in T7 spinal cord segment (spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_t7t",
+            "leaf": "ns_seg_out",
+            "housingLyphs": [
+                "T7"
+            ]
+        },
+        {
+            "id": "dc-t6seg",
+            "name": "dendrite chain  in T6 spinal cord segment (spleen)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns_t6s",
+            "housingLyphs": [
+                "T6"
+            ]
+        },
+        {
+            "id": "ac-t6seg",
+            "name": "axon chain  in T6 spinal cord segment (spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_t6t",
+            "leaf": "ns_seg_out",
+            "housingLyphs": [
+                "T6"
+            ]
+        },
+        {
+            "id": "dc-t5seg",
+            "name": "dendrite chain  in T5 spinal cord segment (spleen)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns_t5s",
+            "housingLyphs": [
+                "T5"
+            ]
+        },
+        {
+            "id": "ac-t5seg",
+            "name": "axon chain  in T5 spinal cord segment (spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_t5t",
+            "leaf": "ns_seg_out",
+            "housingLyphs": [
+                "T5"
+            ]
+        },
+        {
+            "id": "ac-segtocg-smg",
+            "name": "axon chain from spinal segments to CG/SMG\nfused",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns_seg_out",
+            "leaf": "ns_cg-smg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "n-gspl",
+                "cg-smg"
+            ]
+        },
+        {
+            "id": "dc-med",
+            "name": "dendrite chain in dmv in medulla (spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns_dmv-s",
+            "housingLyphs": [
+                "dmv"
+            ]
+        },
+        {
+            "id": "ac-dmv",
+            "name": "axon chain in dmv in medulla to vagus nerve(spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_dmv-t",
+            "leaf": "ns_dmv-out",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "dmv",
+                "n-vag"
+            ]
+        },
+        {
+            "id": "ac-cg_smg",
+            "name": "axon chain in vagus nerve  to CG/SMG\r\nfused(spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns_dmv-out",
+            "leaf": "ns_dmv-cg-smv",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "n-vag",
+                "cg-smg"
+            ]
+        },
+        {
+            "id": "ac-vagout",
+            "name": "axon chain to serosa of the mesenteric lyph node (spleen",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns_dmv-out",
+            "leaf": "ns-mln",
+            "housingLayers": [
+                0,
+                5
+            ],
+            "housingLyphs": [
+                "cg-smg",
+                "int"
+            ]
+        },
+        {
+            "id": "dc-cg-smg",
+            "name": "dendrtite chain from CG/SMG fused to spleen",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns_cg-smg-s",
+            "housingLyphs": [
+                "cg-smg"
+            ]
+        },
+        {
+            "id": "ac-pals",
+            "name": "axon chain in vagus nerve to periarterial lymphatic sheath (spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns_cg-smg-t",
+            "leaf": "ns_pals",
+            "housingLayers": [
+                0,
+                0,
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                0
+            ],
+            "housingLyphs": [
+                "cg-smg",
+                "n-splenic",
+                "spln",
+                "spln",
+                "spln",
+                "spln",
+                "spln",
+                "spln",
+                "pals"
+            ]
+        },
+        {
+            "id": "dc-nts",
+            "name": "dendrite chain  in nts in medulla (spleen)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns_nts-s",
+            "housingLyphs": [
+                "nts"
+            ]
+        },
+        {
+            "id": "ac-nts",
+            "name": "axon chain in nts in medulla to dmv(spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns_nts-t",
+            "leaf": "ns_nts-dmv",
+            "housingLyphs": [
+                "nts",
+                "med",
+                "dmv"
+            ]
+        },
+        {
+            "id": "dc-ndg",
+            "name": "dendrite chain  in ndg in vagus nerve  (spleen)",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns_ndg-s",
+            "leaf": "ns_ndg-nts",
+            "housingLayers": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "ndg",
+                "n-vag",
+                "med",
+                "nts"
+            ]
+        },
+        {
+            "id": "ac-ndg",
+            "name": "axon chain  in ndg in vagus nerve  (spleen)",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns_ndg-t",
+            "leaf": "ns_ndg-unknown",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "ndg",
+                "n-vag"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "id": "neuron1_spl",
+            "name": "Neuron population 1 with somas in t5-t8 spinal cord segments"
+        },
+        {
+            "id": "neuron2_spl",
+            "name": "Neuron population 2 with a soma in the dorsal motor nucleus of the vagus"
+        },
+        {
+            "id": "neuron3_spl",
+            "name": "Neuron population 3 with a soma in the nucleus tractus solitarius"
+        },
+        {
+            "id": "neuron4_spl",
+            "name": "Neuron population 4 with a soma in the nodose ganglion"
+        },
+        {
+            "id": "neuron5_spl",
+            "name": "Neuron population 5 with a soma in the fused celiac ganglion and superior mesenteric ganglion"
+        },
+        {
+            "id": "col-spl",
+            "name": "coalescence of splenic artery and vein",
+            "lyphs": [
+                "a-splen",
+                "v-splen"
+            ]
+        },
+        {
+            "id": "col-vencord",
+            "name": "coalescence of venous sinus and splenic cord",
+            "lyphs": [
+                "ven_sin",
+                "spl_cord"
+            ]
+        }
+    ],
+    "localConventions": [
+        {
+            "prefix": "UBERON",
+            "namespace": "http://purl.obolibrary.org/obo/UBERON_"
+        },
+        {
+            "prefix": "CHEBI",
+            "namespace": "http://purl.obolibrary.org/obo/CHEBI_"
+        },
+        {
+            "prefix": "FMA",
+            "namespace": "http://purl.org/sig/ont/fma/fma"
+        },
+        {
+            "prefix": "GO",
+            "namespace": "http://purl.obolibrary.org/obo/GO_"
+        },
+        {
+            "prefix": "ILX",
+            "namespace": "http://uri.interlex.org/base/ilx_"
+        },
+        {
+            "prefix": "NLX",
+            "namespace": "http://uri.neuinfo.org/nif/nifstd/nlx_"
+        },
+        {
+            "prefix": "SAO",
+            "namespace": "http://uri.neuinfo.org/nif/nifstd/sao"
+        },
+        {
+            "prefix": "PMID",
+            "namespace": "http://www.ncbi.nlm.nih.gov/pubmed/"
+        },
+        {
+            "prefix": "EMAPA",
+            "namespace": "http://purl.obolibrary.org/obo/EMAPA_"
+        },
+        {
+            "prefix": "CL",
+            "namespace": "http://purl.obolibrary.org/obo/CL_"
+        },
+        {
+            "prefix": "NCBITaxon",
+            "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        }
+    ],
+    "id": "spleen",
+    "name": "spleen model"
+}
