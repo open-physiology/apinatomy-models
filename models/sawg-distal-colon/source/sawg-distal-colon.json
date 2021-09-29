@@ -695,6 +695,9 @@
             ],
             "internalLyphs": [
                 "S64"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -1682,6 +1685,9 @@
             "root": "ns7",
             "leaf": "ns7_1",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "S7"
             ]
@@ -1787,6 +1793,9 @@
             "root": "ns12",
             "leaf": "ns7_1",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "S8"
             ]
@@ -1892,6 +1901,9 @@
             "root": "ns17",
             "leaf": "ns7_1",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "S9"
             ]
@@ -1997,6 +2009,9 @@
             "root": "ns22",
             "leaf": "ns7_1",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "S15"
             ]
@@ -2102,6 +2117,9 @@
             "root": "ns26",
             "leaf": "ns7_1",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "S11"
             ]
@@ -2207,6 +2225,9 @@
             "root": "ns30",
             "leaf": "ns7_1",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "S12"
             ]
@@ -2312,6 +2333,9 @@
             "root": "ns7_1",
             "leaf": "ns9_5",
             "lyphTemplate": "dend-tube",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "n-lumcol"
             ]
@@ -2418,6 +2442,9 @@
             ],
             "root": "ns34",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "S41"
             ]
@@ -2462,6 +2489,9 @@
             ],
             "root": "ns36",
             "lyphTemplate": "dend-bag",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "S41"
             ]

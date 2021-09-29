@@ -63,6 +63,7 @@
             "external": [
                 "UBERON:0001759"
             ],
+            "isTemplate": false,
             "supertype": "nseg"
         },
         {

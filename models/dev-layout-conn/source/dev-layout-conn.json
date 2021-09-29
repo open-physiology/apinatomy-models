@@ -1,6 +1,10 @@
 {
     "publications": [],
-    "nodes": [],
+    "nodes": [
+        {
+            "id": "aa-root-3"
+        }
+    ],
     "links": [
         {
             "id": "lnk_soma202",
@@ -201,6 +205,9 @@
             ],
             "internalLyphs": [
                 "202"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -211,6 +218,9 @@
             ],
             "internalLyphs": [
                 "soma202"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -260,8 +270,7 @@
             ],
             "layers": [
                 "117"
-            ],
-            "hostedBy": "n1G"
+            ]
         },
         {
             "id": "218",
@@ -272,8 +281,7 @@
             ],
             "layers": [
                 "117"
-            ],
-            "hostedBy": "n2G"
+            ]
         },
         {
             "id": "219",
@@ -284,8 +292,7 @@
             ],
             "layers": [
                 "117"
-            ],
-            "hostedBy": "n2G"
+            ]
         },
         {
             "id": "220",
@@ -304,8 +311,7 @@
             "internalLyphsInLayers": [
                 0,
                 0
-            ],
-            "hostedBy": "n2G"
+            ]
         },
         {
             "id": "221",
@@ -330,6 +336,10 @@
                 "103",
                 "109in222"
             ]
+        },
+        {
+            "id": "223a",
+            "name": "Aortis arch to demo wiredTo"
         },
         {
             "id": "223",
@@ -375,6 +385,9 @@
             "supertype": "110",
             "internalLyphs": [
                 "254"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -386,6 +399,9 @@
             "supertype": "110",
             "internalLyphs": [
                 "255"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -397,6 +413,9 @@
             "supertype": "110",
             "internalLyphs": [
                 "256"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -433,6 +452,9 @@
             ],
             "internalLyphs": [
                 "soma228"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -502,6 +524,9 @@
             "supertype": "107",
             "internalLyphs": [
                 "228"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -513,6 +538,9 @@
             "supertype": "107",
             "internalLyphs": [
                 "201"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -533,8 +561,7 @@
             ],
             "layers": [
                 "117"
-            ],
-            "hostedBy": "n1G"
+            ]
         },
         {
             "id": "232",
@@ -544,8 +571,7 @@
             ],
             "layers": [
                 "117"
-            ],
-            "hostedBy": "n1G"
+            ]
         },
         {
             "id": "233",
@@ -555,8 +581,7 @@
             ],
             "layers": [
                 "117"
-            ],
-            "hostedBy": "n2G"
+            ]
         },
         {
             "id": "234",
@@ -566,8 +591,7 @@
             ],
             "layers": [
                 "117"
-            ],
-            "hostedBy": "n2G"
+            ]
         },
         {
             "id": "nerve-sheath",
@@ -631,6 +655,9 @@
             ],
             "internalLyphs": [
                 "249"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -645,6 +672,9 @@
             ],
             "internalLyphs": [
                 "248"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -668,6 +698,9 @@
             "supertype": "114",
             "internalLyphs": [
                 "258"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -743,6 +776,9 @@
             ],
             "internalLyphs": [
                 "soma249_1"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -822,16 +858,14 @@
             "name": "T1-T2 intercostal muscle",
             "external": [
                 "ILX:0738319"
-            ],
-            "hostedBy": "n3M"
+            ]
         },
         {
             "id": "261",
             "name": "Diaphragm",
             "external": [
                 "UBERON:0001103"
-            ],
-            "hostedBy": "n3M"
+            ]
         },
         {
             "id": "107in205",
@@ -860,6 +894,9 @@
             "supertype": "107",
             "internalLyphs": [
                 "265"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -871,6 +908,9 @@
             "supertype": "107",
             "internalLyphs": [
                 "266"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -902,6 +942,9 @@
             ],
             "internalLyphs": [
                 "soma265"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -912,6 +955,9 @@
             ],
             "internalLyphs": [
                 "soma266"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -923,6 +969,9 @@
             "supertype": "108",
             "internalLyphs": [
                 "257"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -997,21 +1046,7 @@
         },
         {
             "id": "fac-gang",
-            "name": "faciocervical ganglia",
-            "internalLyphs": [
-                "218",
-                "233",
-                "219",
-                "234",
-                "220"
-            ],
-            "internalLyphsInLayers": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ]
+            "name": "faciocervical ganglia"
         }
     ],
     "materials": [
@@ -1297,6 +1332,15 @@
     ],
     "chains": [
         {
+            "id": "c_lnk_arch",
+            "lyphs": [
+                "223a"
+            ],
+            "root": "s_arch",
+            "leaf": "t_arch",
+            "wiredTo": "w-S-A"
+        },
+        {
             "id": "spinal-chaintoMed",
             "lyphs": [
                 "205",
@@ -1348,7 +1392,7 @@
             ],
             "root": "rt-root-4",
             "leaf": "rt-leaf-4",
-            "wiredTo": "w-X",
+            "wiredTo": "w-X-f1L",
             "startFromLeaf": true
         },
         {
@@ -1380,6 +1424,9 @@
             "lyphTemplate": "dend-bag",
             "root": "s228",
             "leaf": "s228_5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "228"
             ]
@@ -1430,6 +1477,9 @@
             "lyphTemplate": "dend-bag",
             "root": "s265",
             "leaf": "s265_5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "265"
             ]
@@ -1463,6 +1513,9 @@
             "lyphTemplate": "dend-bag",
             "root": "s266",
             "leaf": "s266_5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "266"
             ]
@@ -1496,6 +1549,9 @@
             "lyphTemplate": "axon-bag",
             "root": "join-265-266",
             "leaf": "leaf-265-266",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "261"
             ]
@@ -1509,6 +1565,9 @@
             "lyphTemplate": "dend-bag",
             "root": "s202",
             "leaf": "s202_5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "202"
             ]
@@ -1614,6 +1673,9 @@
             "lyphTemplate": "dend-bag",
             "root": "s220_10",
             "leaf": "s220_10_5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "220"
             ]
@@ -1649,6 +1711,9 @@
             "lyphTemplate": "dend-bag",
             "root": "s220_4",
             "leaf": "s220_4_5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "220"
             ]
@@ -1780,6 +1845,34 @@
                 "244",
                 "226"
             ]
+        },
+        {
+            "id": "faciocervicalganglia",
+            "lyphs": [
+                "218",
+                "233",
+                "219",
+                "234",
+                "220"
+            ],
+            "hostedBy": "n1G"
+        },
+        {
+            "id": "infgang",
+            "lyphs": [
+                "231",
+                "217",
+                "232"
+            ],
+            "hostedBy": "n2G"
+        },
+        {
+            "id": "resp",
+            "lyphs": [
+                "260",
+                "261"
+            ],
+            "hostedBy": "n3M"
         }
     ],
     "groups": [

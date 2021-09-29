@@ -1719,6 +1719,9 @@
             ],
             "internalLyphs": [
                 "sn-pelspl_4"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         }
     ],
@@ -2264,6 +2267,9 @@
             ],
             "lyphTemplate": "229bag",
             "root": "ns250",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K104"
             ]
@@ -2335,6 +2341,9 @@
             "lyphTemplate": "229",
             "root": "root-dc-4-K78",
             "leaf": "leaf-dc-4-K78",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K78"
             ]
@@ -2348,6 +2357,9 @@
             "lyphTemplate": "229",
             "root": "root-dc-4-K79",
             "leaf": "leaf-dc-4-K79",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K79"
             ]
@@ -2361,6 +2373,9 @@
             "lyphTemplate": "229",
             "root": "root-dc-4-K80",
             "leaf": "leaf-dc-4-K80",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K80"
             ]
@@ -2374,6 +2389,9 @@
             "lyphTemplate": "229",
             "root": "root-dc-4-K81",
             "leaf": "leaf-dc-4-K81",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K81"
             ]
@@ -2387,6 +2405,9 @@
             "lyphTemplate": "229",
             "root": "root-dc-4-K82",
             "leaf": "leaf-dc-4-K82",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K82"
             ]
@@ -2400,6 +2421,9 @@
             "lyphTemplate": "229",
             "root": "root-dc-4-K83",
             "leaf": "leaf-dc-4-K83",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K83"
             ]
@@ -2413,6 +2437,9 @@
             "lyphTemplate": "229",
             "root": "root-dc-4-K84",
             "leaf": "leaf-dc-4-K84",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K84"
             ]
@@ -2426,6 +2453,9 @@
             "lyphTemplate": "229",
             "root": "root-dc-4-K85",
             "leaf": "leaf-dc-4-K85",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "K85"
             ]

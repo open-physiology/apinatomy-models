@@ -409,6 +409,9 @@
             ],
             "internalLyphs": [
                 "B17"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -1015,6 +1018,9 @@
             ],
             "internalLyphs": [
                 "B101"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
@@ -2462,6 +2468,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns30",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "B17"
             ]
@@ -2566,6 +2575,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns40",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "B119"
             ]
@@ -2596,6 +2608,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns45",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "B120"
             ]
@@ -2626,6 +2641,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns50",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "B121"
             ]
@@ -2656,6 +2674,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns55",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "B122"
             ]

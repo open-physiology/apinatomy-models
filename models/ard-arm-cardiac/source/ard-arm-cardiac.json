@@ -2134,6 +2134,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A72"
             ]
@@ -2175,6 +2178,9 @@
             "lyphTemplate": "dend-bag",
             "root": "ns5",
             "leaf": "ns5_2",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A62"
             ]
@@ -2188,6 +2194,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns6",
             "leaf": "ns7",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A62"
             ]
@@ -2201,6 +2210,9 @@
             "lyphTemplate": "dend-bag",
             "root": "ns8",
             "leaf": "ns8_2",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A61"
             ]
@@ -2214,6 +2226,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns9",
             "leaf": "ns10",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A61"
             ]
@@ -2226,6 +2241,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns11",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A70"
             ]
@@ -2256,6 +2274,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns14",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A71"
             ]
@@ -2414,6 +2435,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns37",
             "leaf": "ns50",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A55"
             ]
@@ -2510,6 +2534,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns34",
             "leaf": "ns41",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A54"
             ]
@@ -2602,6 +2629,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns31",
             "leaf": "ns43",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A53"
             ]
@@ -2690,6 +2720,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns28",
             "leaf": "ns45",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A52"
             ]
@@ -2858,6 +2891,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns22",
             "leaf": "ns49",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A50"
             ]
@@ -2870,6 +2906,9 @@
             ],
             "lyphTemplate": "axon-bag",
             "root": "nsLOL5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A63"
             ]
@@ -2883,6 +2922,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns50",
             "leaf": "ns51",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A82"
             ]
@@ -2935,6 +2977,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns80",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A55"
             ]
@@ -2948,6 +2993,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns81",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A55"
             ]
@@ -2960,6 +3008,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns83",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A54"
             ]
@@ -2973,6 +3024,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns84",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A54"
             ]
@@ -2985,6 +3039,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns85",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A53"
             ]
@@ -2998,6 +3055,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns86",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A53"
             ]
@@ -3010,6 +3070,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns87",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A52"
             ]
@@ -3023,6 +3086,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns88",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A52"
             ]
@@ -3035,6 +3101,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns89",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A51"
             ]
@@ -3048,6 +3117,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns90",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A51"
             ]
@@ -3060,6 +3132,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns91",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A50"
             ]
@@ -3073,6 +3148,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns92",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A50"
             ]
@@ -3085,6 +3163,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns93",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A61"
             ]
@@ -3098,6 +3179,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns94",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A61"
             ]
@@ -3110,6 +3194,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns95",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A62"
             ]
@@ -3123,6 +3210,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns96",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A62"
             ]
@@ -3135,6 +3225,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns97",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A63"
             ]
@@ -3148,6 +3241,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns98",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A63"
             ]
@@ -3160,6 +3256,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns99",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A82"
             ]
@@ -3173,6 +3272,9 @@
             "lyphTemplate": "axon-tube",
             "root": "ns100",
             "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A82"
             ]
@@ -3386,6 +3488,9 @@
             "lyphTemplate": "dend-bag",
             "root": "ns110",
             "leaf": "ns110_5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A80"
             ]
@@ -3518,6 +3623,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns113",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A81"
             ]
@@ -3641,6 +3749,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns120",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A80"
             ]
@@ -3773,6 +3884,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns125",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A81"
             ]
@@ -3897,6 +4011,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns130",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A80"
             ]
@@ -4022,6 +4139,9 @@
             "lyphTemplate": "dend-bag",
             "root": "ns140",
             "leaf": "ns140_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A81"
             ]
@@ -4055,6 +4175,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns142",
             "leaf": "ns143",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A74"
             ]
@@ -4144,6 +4267,9 @@
             "lyphTemplate": "dend-bag",
             "root": "ns150",
             "leaf": "150_5",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A80"
             ]
@@ -4157,6 +4283,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns151",
             "leaf": "ns151_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A80"
             ]
@@ -4169,6 +4298,9 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns152",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A81"
             ]
@@ -4182,6 +4314,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns153",
             "leaf": "ns154",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A81"
             ]
@@ -4451,6 +4586,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns180",
             "leaf": "ns180_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A62"
             ]
@@ -4464,6 +4602,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns181",
             "leaf": "ns182",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A62"
             ]
@@ -4477,6 +4618,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns185",
             "leaf": "ns180_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A61"
             ]
@@ -4490,6 +4634,9 @@
             "lyphTemplate": "axon-bag",
             "root": "ns186",
             "leaf": "ns183",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A61"
             ]
@@ -4503,6 +4650,9 @@
             "lyphTemplate": "dend-bag",
             "root": "ns180_1",
             "leaf": "ns187",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A95"
             ]
@@ -4516,6 +4666,9 @@
             "lyphTemplate": "dend-bag",
             "root": "ns180_1",
             "leaf": "ns188",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A79"
             ]
@@ -4529,6 +4682,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns190",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A20"
             ]
@@ -4560,6 +4716,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns193",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A21"
             ]
@@ -4591,6 +4750,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns195",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A22"
             ]
@@ -4622,6 +4784,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns197",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A23"
             ]
@@ -4653,6 +4818,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns199",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A24"
             ]
@@ -4684,6 +4852,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns201",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A25"
             ]
@@ -4715,6 +4886,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns203",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A26"
             ]
@@ -4746,6 +4920,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns205",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A27"
             ]
@@ -4777,6 +4954,9 @@
             "lyphTemplate": "dend-tube",
             "root": "ns207",
             "leaf": "ns190_1",
+            "housingLayers": [
+                0
+            ],
             "housingLyphs": [
                 "A28"
             ]
