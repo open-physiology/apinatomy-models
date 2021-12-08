@@ -683,7 +683,7 @@
             "id": "K27",
             "name": "L6 spinal segment (kblad)",
             "external": [
-                "EMAPA:19574"
+                "ILX:0738432"
             ],
             "topology": "TUBE",
             "supertype": "K_129",
@@ -1675,14 +1675,16 @@
             "name": "Blood vessel of bladder neck (kblad)",
             "external": [
                 "UBERON:0001981"
-            ]
+            ],
+            "supertype": "K103"
         },
         {
             "id": "K106",
             "name": "Blood vessel of bladder dome (kblad)",
             "external": [
                 "UBERON:0001981"
-            ]
+            ],
+            "supertype": "K103"
         },
         {
             "id": "snl16",
@@ -4840,7 +4842,6 @@
             "leaf": "ns181",
             "housingLayers": [
                 0,
-                0,
                 3,
                 1
             ],
@@ -4909,7 +4910,7 @@
             "housingLyphs": [
                 "n-blad",
                 "K99",
-                "K104"
+                "K106"
             ]
         },
         {
@@ -5365,9 +5366,6 @@
         {
             "id": "neuron-8",
             "name": "Neuron 8",
-            "publications": [
-                "PMID:1358408"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-8"
             ]
@@ -5405,12 +5403,6 @@
         {
             "id": "neuron-4",
             "name": "Neuron 4",
-            "publications": [
-                "PMID:2713886",
-                "PMID:11382385",
-                "PMID:4700666",
-                "PMID:1358408"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-4"
             ]
@@ -5418,16 +5410,6 @@
         {
             "id": "neuron-11",
             "name": "Neuron 11",
-            "publications": [
-                "PMID:1619047",
-                "PMID:2713886",
-                "PMID:3558884",
-                "PMID:1619047",
-                "PMID:1358408",
-                "PMID:11382385",
-                "PMID:4700666",
-                "PMID:2891149"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-11"
             ]
@@ -5435,12 +5417,6 @@
         {
             "id": "neuron-7",
             "name": "Neuron 7",
-            "publications": [
-                "PMID:3558884",
-                "PMID:1619047",
-                "PMID:135840",
-                "PMID:3225349"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-7"
             ]
@@ -5448,12 +5424,6 @@
         {
             "id": "neuron-9",
             "name": "Neuron 9",
-            "publications": [
-                "PMID:12811806",
-                "PMID:3722467",
-                "PMID:7636036",
-                "PMID:11382385"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-9"
             ]
@@ -5468,14 +5438,6 @@
         {
             "id": "neuron-6",
             "name": "Neuron 6",
-            "publications": [
-                "PMID:3558884",
-                "PMID:1619047",
-                "PMID:1358408",
-                "PMID:3225349",
-                "PMID:2891149",
-                "PMID:30704972"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-6"
             ]
@@ -5483,11 +5445,6 @@
         {
             "id": "neuron-1",
             "name": "Neuron 1",
-            "publications": [
-                "PMID:2713886",
-                "PMID:11382385",
-                "PMID:4700666"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-1"
             ]
@@ -5495,11 +5452,6 @@
         {
             "id": "neuron-2",
             "name": "Neuron 2",
-            "publications": [
-                "PMID:2713886",
-                "PMID:11382385",
-                "PMID:4700666"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-2"
             ]
@@ -5507,12 +5459,6 @@
         {
             "id": "neuron-3",
             "name": "Neuron 3",
-            "publications": [
-                "PMID:2713886",
-                "PMID:11382385",
-                "PMID:4700666",
-                "PMID:2891149"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-3"
             ]
@@ -5520,15 +5466,6 @@
         {
             "id": "neuron-10",
             "name": "Neuron 10",
-            "publications": [
-                "PMID:2713886",
-                "PMID:11382385",
-                "PMID:4700666",
-                "PMID:1619047",
-                "PMID:9442414",
-                "PMID:7174880",
-                "PMID:3722467"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-10"
             ]
@@ -5536,14 +5473,6 @@
         {
             "id": "neuron-12",
             "name": "Neuron 12",
-            "publications": [
-                "PMID:7174880",
-                "PMID:3722467",
-                "PMID:12811806",
-                "PMID:11748568",
-                "PMID:7636036",
-                "PMID:11382385"
-            ],
             "external": [
                 "ilxtr:neuron-type-keast-12"
             ]
