@@ -963,7 +963,7 @@
         },
         {
             "id": "dcn-l3_b",
-            "name": "Soma of Symp preganglionic neuron in L3_Neuron B (sdcol)",
+            "name": "Soma of SPR neuron in L3_Neuron B (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -972,7 +972,7 @@
         },
         {
             "id": "dcn-l4_b",
-            "name": "Soma of Symp preganglionic neuron in L4_Neuron B (sdcol)",
+            "name": "Soma of SPR neuron in L4_Neuron B (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1029,7 +1029,7 @@
         },
         {
             "id": "dcn-img_d",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron D (sdcol)",
+            "name": "Soma of SPO neuron in IMG_Neuron D (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1038,7 +1038,7 @@
         },
         {
             "id": "dcn-img_f",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron F (sdcol)",
+            "name": "Soma of SPO neuron in IMG_Neuron F (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1047,7 +1047,7 @@
         },
         {
             "id": "dcn-img_g",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron G (sdcol)",
+            "name": "Soma of SPO neuron in IMG_Neuron G (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1056,7 +1056,7 @@
         },
         {
             "id": "dcn-img_h",
-            "name": "Soma of Symp postganglionic neuron in IMG_Neuron H (sdcol)",
+            "name": "Soma of SPO neuron in IMG_Neuron H (sdcol)",
             "external": [
                 "NLX:154731"
             ],
@@ -1155,7 +1155,7 @@
         },
         {
             "id": "dcn-mp_q",
-            "name": "Soma of intestinafugal neuron in myenteric plexus of colon_Neuron Q (sdcol)",
+            "name": "Soma of intestinofugal in myenteric plexus of colon_Neuron Q (sdcol)",
             "external": [
                 "NLX:154731"
             ],

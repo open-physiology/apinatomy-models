@@ -1,5 +1,22 @@
 {
-    "publications": [],
+    "publications": [
+        {
+            "id": "PMID:32061636",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/32061636/"
+        },
+        {
+            "id": "PMID:24411268",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/24411268/"
+        },
+        {
+            "id": "PMID:14565534",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/14565534/"
+        },
+        {
+            "id": "PMID:33491187",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/33491187/"
+        }
+    ],
     "nodes": [
         {
             "id": "bloodin_branch",
@@ -1146,7 +1163,8 @@
                 "a-splen",
                 "v-splen",
                 "pals"
-            ]
+            ],
+            "topology": "CONNECTING"
         }
     ],
     "chains": [

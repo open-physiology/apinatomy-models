@@ -339,7 +339,7 @@
         },
         {
             "id": "223a",
-            "name": "Aortis arch to demo wiredTo"
+            "name": "Aortic arch to demo wiredTo"
         },
         {
             "id": "223",
@@ -1068,7 +1068,7 @@
             "id": "107",
             "name": "Central nervous system tissue",
             "external": [
-                "UBERON:0001017"
+                "UBERON:0005158"
             ]
         },
         {
@@ -1402,7 +1402,7 @@
             ],
             "root": "ton-root-5",
             "leaf": "ton-leaf-5",
-            "wiredTo": "w-X-Z",
+            "wiredTo": "w-Z-X",
             "startFromLeaf": true
         },
         {
@@ -1412,7 +1412,7 @@
             ],
             "root": "oeso-root-6",
             "leaf": "oeso-leaf-6",
-            "wiredTo": "w-O-X",
+            "wiredTo": "w-X-O",
             "startFromLeaf": true
         },
         {
