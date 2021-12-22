@@ -14,14 +14,16 @@
             "name": "BUCCAL",
             "color": "#FF0000",
             "hostedBy": "w-F",
-            "offset": 0
+            "offset": 0,
+            "cardinalNode" : true
         },
         {
             "id": "Z",
             "name": "junction of salivary glands with oral mucosa",
             "color": "#006400",
             "hostedBy": "w-B-O",
-            "offset": 0.1
+            "offset": 0.1,
+            "cardinalNode" : true
         },
         {
             "id": "f1S",
@@ -36,7 +38,8 @@
             "name": "junction of esophagus, larynx, and laryngopharynx",
             "color": "#006400",
             "hostedBy": "w-B-O",
-            "offset": 0.2
+            "offset": 0.2,
+            "cardinalNode" : true
         },
         {
             "id": "f1L",
@@ -51,7 +54,8 @@
             "name": "junction of ampulla of Vater with duodenum",
             "color": "#FF0000",
             "hostedBy": "w-F",
-            "offset": 0.25
+            "offset": 0.25,
+            "cardinalNode" : true
         },
         {
             "id": "f1P",
@@ -74,14 +78,16 @@
             "name": "junction of rectum with skin",
             "color": "#FF0000",
             "hostedBy": "w-F",
-            "offset": 0.5
+            "offset": 0.5,
+            "cardinalNode" : true
         },
         {
             "id": "G",
             "name": "genital opening",
             "color": "#006400",
             "hostedBy": "w-R-M",
-            "offset": 0.3
+            "offset": 0.3,
+            "cardinalNode" : true
         },
         {
             "id": "f3G",
@@ -96,7 +102,8 @@
             "name": "urethral meatus",
             "color": "#006400",
             "hostedBy": "w-R-M",
-            "offset": 0.4
+            "offset": 0.4,
+            "cardinalNode" : true
         },
         {
             "id": "f3K",
@@ -111,7 +118,8 @@
             "name": "junction of lactiferous tract with skin",
             "color": "#FF0000",
             "hostedBy": "w-F",
-            "offset": 0.75
+            "offset": 0.75,
+            "cardinalNode" : true
         },
         {
             "id": "f3M",
@@ -126,7 +134,8 @@
             "name": "external auditory meatus",
             "color": "#006400",
             "hostedBy": "w-M-B",
-            "offset": 0.4
+            "offset": 0.55,
+            "cardinalNode" : true
         },
         {
             "id": "f4C",
@@ -141,14 +150,15 @@
             "name": "junction of conjunctiva with skin",
             "color": "#006400",
             "hostedBy": "w-M-B",
-            "offset": 0.6
+            "offset": 0.85,
+            "cardinalNode" : true
         },
         {
             "id": "f4P",
             "name": "junction lacrimal tract with conjuctiva",
             "layout": {
-                "x": 80,
-                "y": -30
+                "x": 92,
+                "y": -17
             }
         },
         {
@@ -164,26 +174,33 @@
             "name": "nostril",
             "color": "#006400",
             "hostedBy": "w-M-B",
-            "offset": 0.8
+            "offset": 0.9,
+            "cardinalNode" : true
         },
         {
             "id": "f4N",
             "name": "junction of nasolacrimal duct with nasal cavity",
             "hostedBy": "w-V-f4N-f4E-X",
-            "offset": 0.95
+            "layout": 			{
+				"x": 96,
+				"y": -9
+			}
         },
         {
             "id": "f4E",
             "name": "junction of nasopharynx, eustachian tube, and nasal cavity",
             "hostedBy": "w-V-f4N-f4E-X",
-            "offset": 0.9
+            "layout": {
+                "x": 92,
+                "y": -5
+            }
         },
         {
             "id": "f4M",
             "name": "eardrum end of eustachian tube",
             "layout": {
-                "x": 60,
-                "y": -50
+                "x": 72,
+                "y": -45
             }
         },
         {
@@ -200,7 +217,8 @@
             "name": "lung capillary",
             "color": "#FF0000",
             "hostedBy": "w-D",
-            "offset": 0
+            "offset": 0,
+            "cardinalNode" : true
         },
         {
             "id": "d1H",
@@ -223,7 +241,8 @@
             "name": "pulmonary valve",
             "color": "#FF0000",
             "hostedBy": "w-D",
-            "offset": 0.25
+            "offset": 0.25,
+            "cardinalNode" : true
         },
         {
             "id": "d2H",
@@ -245,7 +264,8 @@
             "id": "Y",
             "name": "junction of lymphatic ducts with systemic venous system",
             "hostedBy": "w-P-S",
-            "offset": 0.2
+            "offset": 0.2,
+            "cardinalNode" : true
         },
         {
             "id": "d2L",
@@ -260,14 +280,16 @@
             "name": "systemic capillary",
             "color": "#FF0000",
             "hostedBy": "w-D",
-            "offset": 0.5
+            "offset": 0.5,
+            "cardinalNode" : true
         },
         {
             "id": "A",
             "name": "aortic valve",
             "color": "#FF0000",
             "hostedBy": "w-D",
-            "offset": 0.75
+            "offset": 0.75,
+            "cardinalNode" : true
         },
         {
             "id": "N",
@@ -290,7 +312,8 @@
             "name": "ENDOCRINE",
             "color": "#FF0000",
             "hostedBy": "w-N",
-            "offset": 0.25
+            "offset": 0.25,
+            "cardinalNode" : true
         },
         {
             "id": "T",
@@ -304,7 +327,8 @@
             "name": "junction between atrial and ventricular conduction systems",
             "color": "#FF0000",
             "hostedBy": "w-N",
-            "offset": 0.75
+            "offset": 0.75,
+            "cardinalNode" : true
         },
         {
             "id": "C",
@@ -368,7 +392,8 @@
                 "x": 80,
                 "y": 60
             },
-            "stroke": "thick"
+            "stroke": "thick",
+            "color": "#fff"
         },
         {
             "id": "w-F",
@@ -398,6 +423,7 @@
             "name": "Salivary tract",
             "source": "Z",
             "target": "f1S",
+            "controlPoint" : "X",
             "geometry": "spline",
             "color": "#006400",
             "external": [
@@ -422,6 +448,7 @@
             "name": "Naso-oropharynx",
             "source": "X",
             "target": "f4E",
+            "controlPoint": "H",
             "geometry": "spline",
             "color": "#006400",
             "external": [
@@ -475,7 +502,6 @@
             "target": "f1P",
             "geometry": "spline",
             "color": "#006400",
-            "controlPoint": "B",
             "external": [
                 "UBERON:0007329",
                 "UBERON:0001264"
@@ -488,7 +514,6 @@
             "target": "f2L",
             "geometry": "spline",
             "color": "#006400",
-            "controlPoint": "R",
             "external": [
                 "UBERON:0002423"
             ]
@@ -579,6 +604,7 @@
             "name": "Lactiferous Tract",
             "source": "M",
             "target": "f3M",
+            "controlPoint" : "A",
             "geometry": "spline",
             "color": "#006400",
             "external": [
@@ -600,6 +626,7 @@
             "name": "External Ear",
             "source": "W",
             "target": "f4C",
+            "controlPoint":"f4L",
             "geometry": "spline",
             "color": "#006400",
             "external": [
@@ -689,7 +716,7 @@
             "id": "w-V-f4N-f4E-X",
             "source": "V",
             "target": "X",
-            "hidden": true
+            "hidden" : true
         },
         {
             "id": "w-f4E-f4M",
@@ -697,6 +724,7 @@
             "source": "f4E",
             "target": "f4M",
             "geometry": "spline",
+            "controlPoint": "f4P",
             "color": "#006400",
             "external": [
                 "UBERON:0010062"
@@ -780,7 +808,7 @@
             "target": "d2G",
             "geometry": "spline",
             "color": "#9370DB",
-            "controlPoint": "O",
+            "controlPoint": "f2L",
             "external": [
                 "UBERON:0010194"
             ]
@@ -803,7 +831,7 @@
             "target": "d2L",
             "geometry": "spline",
             "color": "#9370DB",
-            "controlPoint": "d2H",
+
             "external": [
                 "UBERON:0006558"
             ]
@@ -917,7 +945,8 @@
             "geometry": "arc",
             "arcCenter": "N",
             "color": "#000",
-            "stroke": "dashed"
+            "stroke": "dashed",
+            "hidden": true
         },
         {
             "id": "w-E-T",
@@ -926,7 +955,8 @@
             "geometry": "arc",
             "arcCenter": "N",
             "color": "#000",
-            "stroke": "dashed"
+            "stroke": "dashed",
+            "hidden": true
         },
         {
             "id": "w-T-K",
@@ -935,7 +965,8 @@
             "geometry": "arc",
             "arcCenter": "N",
             "color": "#000",
-            "stroke": "dashed"
+            "stroke": "dashed",
+            "hidden": true
         },
         {
             "id": "w-K-H",
@@ -944,7 +975,8 @@
             "geometry": "arc",
             "arcCenter": "N",
             "color": "#000",
-            "stroke": "dashed"
+            "stroke": "dashed",
+            "hidden": true
         },
         {
             "id": "w-N-H",
@@ -1011,7 +1043,6 @@
             "target": "n3V",
             "geometry": "spline",
             "color": "#ADD8E6",
-            "controlPoint": "H",
             "external": [
                 "UBERON:0002350"
             ]
@@ -1023,7 +1054,6 @@
             "target": "n4A",
             "geometry": "spline",
             "color": "#ADD8E6",
-            "controlPoint": "T",
             "external": [
                 "UBERON:0002350"
             ]
@@ -1159,7 +1189,8 @@
                 "w-N-H",
                 "w-H-E",
                 "w-N-E"
-            ]
+            ],
+            "hidden":true
         },
         {
             "id": "n2",
@@ -1346,7 +1377,8 @@
             "internalIn": "n1",
             "external": [
                 "UBERON:0001021(excludechildrenofUBERON:0011779)"
-            ]
+            ],
+            "hidden" : true
         },
         {
             "id": "n2G",
@@ -1406,7 +1438,8 @@
             "external": [
                 "FMA:5981",
                 "UBERON:0000044"
-            ]
+            ],
+            "hidden" : true
         },
         {
             "id": "n3A",
@@ -1518,6 +1551,24 @@
             "external": [
                 "UBERON:0003128",
                 "UBERON:0001684"
+            ],
+            "points": [
+                {
+                    "x": 50,
+                    "y": -27
+                },
+                {
+                    "x": 50,
+                    "y": -17
+                },
+                {
+                    "x": 5,
+                    "y": -17
+                },
+                {
+                    "x": 5,
+                    "y": -27
+                }            
             ]
         },
         {
@@ -1525,20 +1576,20 @@
             "name": "Vestibulococchlear",
             "points": [
                 {
-                    "x": 40,
+                    "x": 20,
+                    "y": -55
+                },
+                {
+                    "x": 20,
                     "y": -45
                 },
                 {
-                    "x": 40,
-                    "y": -35
-                },
-                {
-                    "x": 50,
-                    "y": -35
-                },
-                {
-                    "x": 50,
+                    "x": 30,
                     "y": -45
+                },
+                {
+                    "x": 30,
+                    "y": -55
                 }
             ],
             "internalIn": "n4",
@@ -1551,20 +1602,20 @@
             "name": "Retinal",
             "points": [
                 {
+                    "x": 40,
+                    "y": -40
+                },
+                {
+                    "x": 40,
+                    "y": -30
+                },
+                {
                     "x": 50,
                     "y": -30
                 },
                 {
                     "x": 50,
-                    "y": -20
-                },
-                {
-                    "x": 60,
-                    "y": -20
-                },
-                {
-                    "x": 60,
-                    "y": -30
+                    "y": -40
                 }
             ],
             "internalIn": "n4",
@@ -1578,19 +1629,19 @@
             "points": [
                 {
                     "x": 60,
-                    "y": -15
+                    "y": -27
                 },
                 {
                     "x": 60,
-                    "y": -5
+                    "y": -17
                 },
                 {
                     "x": 70,
-                    "y": -5
+                    "y": -17
                 },
                 {
                     "x": 70,
-                    "y": -15
+                    "y": -27
                 }
             ],
             "internalIn": "n4",
@@ -1601,6 +1652,24 @@
         {
             "id": "n4C1N",
             "name": "CN1",
+            "points": [
+                {
+                    "x": 61,
+                    "y": -12
+                },
+                {
+                    "x": 61,
+                    "y": -7
+                },
+                {
+                    "x": 65,
+                    "y": -7
+                },
+                {
+                    "x": 65,
+                    "y": -12
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001579"
@@ -1609,6 +1678,24 @@
         {
             "id": "n4C2N",
             "name": "CN2",
+            "points": [
+                {
+                    "x": 56,
+                    "y": -12
+                },
+                {
+                    "x": 56,
+                    "y": -7
+                },
+                {
+                    "x": 60,
+                    "y": -7
+                },
+                {
+                    "x": 60,
+                    "y": -12
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "FMA:50863"
@@ -1617,6 +1704,24 @@
         {
             "id": "n4C3N",
             "name": "CN3",
+            "points": [
+                {
+                    "x": 50,
+                    "y": -12
+                },
+                {
+                    "x": 50,
+                    "y": -7
+                },
+                {
+                    "x": 54,
+                    "y": -7
+                },
+                {
+                    "x": 54,
+                    "y": -12
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001643"
@@ -1625,6 +1730,24 @@
         {
             "id": "n4C4N",
             "name": "CN4",
+            "points": [
+                {
+                    "x": 44,
+                    "y": -12
+                },
+                {
+                    "x": 44,
+                    "y": -7
+                },
+                {
+                    "x": 48,
+                    "y": -7
+                },
+                {
+                    "x": 48,
+                    "y": -12
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001644"
@@ -1633,6 +1756,24 @@
         {
             "id": "n4C5N",
             "name": "CN5",
+            "points": [
+                {
+                    "x": 38,
+                    "y": -12
+                },
+                {
+                    "x": 38,
+                    "y": -7
+                },
+                {
+                    "x": 42,
+                    "y": -7
+                },
+                {
+                    "x": 42,
+                    "y": -12
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001645"
@@ -1641,6 +1782,24 @@
         {
             "id": "n4C6N",
             "name": "CN6",
+            "points": [
+                {
+                    "x": 32,
+                    "y": -12
+                },
+                {
+                    "x": 32,
+                    "y": -7
+                },
+                {
+                    "x": 36,
+                    "y": -7
+                },
+                {
+                    "x": 36,
+                    "y": -12
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001646"
@@ -1649,6 +1808,24 @@
         {
             "id": "n4C7N",
             "name": "CN7",
+            "points": [
+                {
+                    "x": 26,
+                    "y": -12
+                },
+                {
+                    "x": 26,
+                    "y": -7
+                },
+                {
+                    "x": 30,
+                    "y": -7
+                },
+                {
+                    "x": 30,
+                    "y": -12
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001647"
@@ -1657,6 +1834,24 @@
         {
             "id": "n4C8N",
             "name": "CN8",
+            "points": [
+                {
+                    "x": 20,
+                    "y": -12
+                },
+                {
+                    "x": 20,
+                    "y": -7
+                },
+                {
+                    "x": 24,
+                    "y": -7
+                },
+                {
+                    "x": 24,
+                    "y": -12
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001648"
@@ -1666,6 +1861,24 @@
             "id": "n1C9N",
             "name": "CN9",
             "internalIn": "n1",
+            "points": [
+                {
+                    "x": 42,
+                    "y": 10
+                },
+                {
+                    "x": 42,
+                    "y": 5
+                },
+                {
+                    "x": 46,
+                    "y": 5
+                },
+                {
+                    "x": 46,
+                    "y": 10
+                }
+            ],
             "external": [
                 "UBERON:0001649"
             ]
@@ -1674,6 +1887,24 @@
             "id": "n1C10N",
             "name": "CN10",
             "internalIn": "n1",
+            "points": [
+                {
+                    "x": 36,
+                    "y": 10
+                },
+                {
+                    "x": 36,
+                    "y": 5
+                },
+                {
+                    "x": 40,
+                    "y": 5
+                },
+                {
+                    "x": 40,
+                    "y": 10
+                }
+            ],
             "external": [
                 "UBERON:0001759"
             ]
@@ -1682,6 +1913,24 @@
             "id": "n1C11N",
             "name": "CN11",
             "internalIn": "n1",
+            "points": [
+                {
+                    "x": 30,
+                    "y": 10
+                },
+                {
+                    "x": 30,
+                    "y": 5
+                },
+                {
+                    "x": 34,
+                    "y": 5
+                },
+                {
+                    "x": 34,
+                    "y": 10
+                }
+            ],
             "external": [
                 "UBERON:0002019"
             ]
@@ -1690,6 +1939,24 @@
             "id": "n1C12N",
             "name": "CN12",
             "internalIn": "n1",
+            "points": [
+                {
+                    "x": 24,
+                    "y": 10
+                },
+                {
+                    "x": 24,
+                    "y": 5
+                },
+                {
+                    "x": 28,
+                    "y": 5
+                },
+                {
+                    "x": 28,
+                    "y": 10
+                }
+            ],
             "external": [
                 "UBERON:0001650"
             ]
@@ -1697,8 +1964,6 @@
     ],
     "components": [
         {
-            "id": "anchors-f",
-            "name": "F anchors",
             "anchors": [
                 "F",
                 "B",
@@ -1725,11 +1990,11 @@
                 "f4N",
                 "f4E",
                 "f4M"
-            ]
+            ],
+            "id": "anchors-f",
+            "name": "F anchors"
         },
         {
-            "id": "anchors-d",
-            "name": "D anchors",
             "anchors": [
                 "D",
                 "L",
@@ -1742,11 +2007,11 @@
                 "d2L",
                 "S",
                 "A"
-            ]
+            ],
+            "id": "anchors-d",
+            "name": "D anchors"
         },
         {
-            "id": "anchors-n",
-            "name": "N anchors",
             "anchors": [
                 "N",
                 "H",
@@ -1759,7 +2024,9 @@
                 "n4A",
                 "n2GA",
                 "n2GB"
-            ]
+            ],
+            "id": "anchors-n",
+            "name": "N anchors"
         },
         {
             "id": "wires-f",
