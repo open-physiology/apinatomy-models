@@ -338,10 +338,6 @@
             ]
         },
         {
-            "id": "223a",
-            "name": "Aortic arch to demo wiredTo"
-        },
-        {
             "id": "223",
             "name": "Aortic arch",
             "external": [
@@ -1332,15 +1328,6 @@
     ],
     "chains": [
         {
-            "id": "c_lnk_arch",
-            "lyphs": [
-                "223a"
-            ],
-            "root": "s_arch",
-            "leaf": "t_arch",
-            "wiredTo": "w-S-A"
-        },
-        {
             "id": "spinal-chaintoMed",
             "lyphs": [
                 "205",
@@ -1381,7 +1368,9 @@
                 "225"
             ],
             "root": "aa-root-3",
-            "leaf": "aa-leaf-3"
+            "leaf": "aa-leaf-3",
+            "wiredTo": "w-X-O",
+            "startFromLeaf": true
         },
         {
             "id": "RespTra",
@@ -1413,7 +1402,9 @@
             "root": "oeso-root-6",
             "leaf": "oeso-leaf-6",
             "wiredTo": "w-X-O",
-            "startFromLeaf": true
+            "startFromLeaf": true,
+            "geometry" : "arc", 
+            "controlPoint" : "Xm"
         },
         {
             "id": "IML1-SCG-d",
@@ -1754,7 +1745,8 @@
                 0
             ],
             "housingLyphs": [
-                "242243"
+                "242",
+                "243"
             ]
         },
         {
@@ -1825,7 +1817,8 @@
                 1
             ],
             "housingLyphs": [
-                "244221"
+                "244",
+                "221"
             ]
         },
         {
