@@ -1367,10 +1367,7 @@
                 "224",
                 "225"
             ],
-            "root": "aa-root-3",
-            "leaf": "aa-leaf-3",
-            "wiredTo": "w-X-O",
-            "startFromLeaf": true
+            "root": "aa-root-3"
         },
         {
             "id": "RespTra",
