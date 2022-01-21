@@ -5,96 +5,140 @@
             "uri": "https://pubmed.ncbi.nlm.nih.gov/1358408"
         },
         {
-            "id": "PMID:2713886",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/2713886"
-        },
-        {
-            "id": "PMID:11382385",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/11382385"
-        },
-        {
-            "id": "PMID:4700666",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/4700666"
-        },
-        {
-            "id": "PMID:1619047",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/1619047"
-        },
-        {
-            "id": "PMID:3558884",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/3558884"
+            "id": "PMID:2567744",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2567744"
         },
         {
             "id": "PMID:2891149",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/2891149"
         },
         {
-            "id": "PMID:3225349",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/3225349"
+            "id": "PMID:3416186",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/3416186"
         },
         {
-            "id": "PMID:12811806",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/12811806"
+            "id": "PMID:9622251",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9622251"
         },
         {
-            "id": "PMID:3722467",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/3722467"
+            "id": "PMID:10473279",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/10473279"
         },
         {
-            "id": "PMID:7636036",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/7636036"
-        },
-        {
-            "id": "PMID:30704972",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/30704972"
-        },
-        {
-            "id": "PMID:7174880",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/7174880"
-        },
-        {
-            "id": "PMID:7644029",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/7644029"
-        },
-        {
-            "id": "PMID:6736301",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/6736301"
-        },
-        {
-            "id": "PMID:9442414",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/9442414"
+            "id": "PMID:11382385",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/11382385"
         },
         {
             "id": "PMID:11748568",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/11748568"
         },
         {
-            "id": "PMID:10494620",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/10494620"
+            "id": "PMID:12401325",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12401325"
         },
         {
-            "id": "PMID:9421141",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/9421141"
+            "id": "PMID:12811806",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12811806"
         },
         {
-            "id": "PMID:8786273",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/8786273"
+            "id": "PMID:1358408",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/1358408"
+        },
+        {
+            "id": "PMID:1619047",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/1619047"
         },
         {
             "id": "PMID:1726105",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/1726105"
         },
         {
-            "id": "PMID:20484700",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/20484700"
+            "id": "PMID:21283532",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/21283532"
         },
         {
-            "id": "PMID:8923445",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/8923445"
+            "id": "PMID:2567744",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2567744"
         },
         {
-            "id": "PMID:1765622",
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/1765622"
+            "id": "PMID:2571623",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2571623"
+        },
+        {
+            "id": "PMID:2713886",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2713886"
+        },
+        {
+            "id": "PMID:2891149",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2891149"
+        },
+        {
+            "id": "PMID:2891149",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2891149"
+        },
+        {
+            "id": "PMID:30704972",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/30704972"
+        },
+        {
+            "id": "PMID:3225349",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/3225349"
+        },
+        {
+            "id": "PMID:3558884",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/3558884"
+        },
+        {
+            "id": "PMID:3722467",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/3722467"
+        },
+        {
+            "id": "PMID:4700666",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/4700666"
+        },
+        {
+            "id": "PMID:6736301",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/6736301"
+        },
+        {
+            "id": "PMID:7174880",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/7174880"
+        },
+        {
+            "id": "PMID:7419745",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/7419745"
+        },
+        {
+            "id": "PMID:758335",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/758335"
+        },
+        {
+            "id": "PMID:7636036",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/7636036"
+        },
+        {
+            "id": "PMID:7644029",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/7644029"
+        },
+        {
+            "id": "PMID:86176",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/86176"
+        },
+        {
+            "id": "PMID:9421141",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9421141"
+        },
+        {
+            "id": "PMID:9442414",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9442414"
+        },
+        {
+            "id": "PMID:9622251",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9622251"
+        },
+        {
+            "id": "PMID:9442414",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9442414"
         }
     ],
     "nodes": [
@@ -1942,7 +1986,7 @@
         },
         {
             "id": "n-pelspl",
-            "name": "Pelvic splanchnic nerve",
+            "name": "Pelvic splanchnic nerve (pelvic nerve - human)",
             "external": [
                 "UBERON:0018675"
             ]
@@ -2364,7 +2408,8 @@
             ],
             "root": "cn1",
             "leaf": "cn2",
-            "length": 100
+            "length": 100,
+            "wiredTo": "w-N-T"
         },
         {
             "id": "dcn1",
@@ -3420,7 +3465,8 @@
             ],
             "root": "abc1",
             "leaf": "abc2",
-            "length": 100
+            "length": 100,
+            "wiredTo": "symp-chain-wire"
         },
         {
             "id": "dc-sn-sgt12",
@@ -3914,7 +3960,6 @@
             "lyphTemplate": "dend-bag",
             "root": "ns141",
             "leaf": "ns147",
-            "length": null,
             "housingLayers": [
                 0,
                 3,
@@ -5344,32 +5389,21 @@
                 "K99",
                 "K99"
             ]
+        },
+        {
+            "id": "urinary-chain",
+            "name": "Chain for urinary tract lyphs",
+            "lyphs": [
+                "K99",
+                "K100",
+                "K101"
+            ],
+            "root": "ut-nephron",
+            "leaf": "ut-urthmet",
+            "wiredTo": "w-U-f3K"
         }
     ],
     "groups": [
-        {
-            "id": "internal",
-            "name": "Internal",
-            "lyphs": [
-                "K36",
-                "K37",
-                "K38",
-                "K40",
-                "K41",
-                "K42",
-                "K43",
-                "K45",
-                "K105",
-                "K106"
-            ]
-        },
-        {
-            "id": "neuron-8",
-            "name": "Neuron 8",
-            "external": [
-                "ilxtr:neuron-type-keast-8"
-            ]
-        },
         {
             "id": "housingLyphs",
             "name": "IMG and PG",
@@ -5389,90 +5423,75 @@
             ]
         },
         {
-            "id": "somata",
-            "name": "Somata",
-            "links": [
-                "lnk-snl17",
-                "lnk-snl27",
-                "lnk-sns15",
-                "lnk-snl59",
-                "lnk-snl69",
-                "lnk-snl65"
-            ]
-        },
-        {
-            "id": "neuron-4",
-            "name": "Neuron 4",
-            "external": [
-                "ilxtr:neuron-type-keast-4"
-            ]
-        },
-        {
-            "id": "neuron-11",
-            "name": "Neuron 11",
-            "external": [
-                "ilxtr:neuron-type-keast-11"
-            ]
-        },
-        {
-            "id": "neuron-7",
-            "name": "Neuron 7",
-            "external": [
-                "ilxtr:neuron-type-keast-7"
-            ]
-        },
-        {
-            "id": "neuron-9",
-            "name": "Neuron 9",
-            "external": [
-                "ilxtr:neuron-type-keast-9"
-            ]
-        },
-        {
-            "id": "neuron-5",
-            "name": "Neuron 5",
-            "external": [
-                "ilxtr:neuron-type-keast-5"
-            ]
-        },
-        {
-            "id": "neuron-6",
-            "name": "Neuron 6",
-            "external": [
-                "ilxtr:neuron-type-keast-6"
+            "id": "internal",
+            "name": "Internal",
+            "lyphs": [
+                "K36",
+                "K37",
+                "K38",
+                "K40",
+                "K41",
+                "K42",
+                "K43",
+                "K45",
+                "K105",
+                "K106"
             ]
         },
         {
             "id": "neuron-1",
             "name": "Neuron 1",
+            "publications": [
+                "PMID:2713886",
+                "PMID:4700666",
+                "PMID:2571623",
+                "PMID:7644029",
+                "PMID:1358408",
+                "PMID:30704972"
+            ],
             "external": [
                 "ilxtr:neuron-type-keast-1"
             ]
         },
         {
-            "id": "neuron-2",
-            "name": "Neuron 2",
-            "external": [
-                "ilxtr:neuron-type-keast-2"
-            ]
-        },
-        {
-            "id": "neuron-3",
-            "name": "Neuron 3",
-            "external": [
-                "ilxtr:neuron-type-keast-3"
-            ]
-        },
-        {
             "id": "neuron-10",
             "name": "Neuron 10",
+            "publications": [
+                "PMID:1619047",
+                "PMID:7174880",
+                "PMID:4700666",
+                "PMID:11382385",
+                "PMID:11382385",
+                "PMID:32598494"
+            ],
             "external": [
                 "ilxtr:neuron-type-keast-10"
             ]
         },
         {
+            "id": "neuron-11",
+            "name": "Neuron 11",
+            "publications": [
+                "PMID:4700666",
+                "PMID:11382385",
+                "PMID:3558884",
+                "PMID:1619047",
+                "PMID:2891149",
+                "PMID:11382385"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-11"
+            ]
+        },
+        {
             "id": "neuron-12",
             "name": "Neuron 12",
+            "publications": [
+                "PMID:7174880",
+                "PMID:12811806",
+                "PMID:3722467",
+                "PMID:11382385"
+            ],
             "external": [
                 "ilxtr:neuron-type-keast-12"
             ]
@@ -5527,10 +5546,142 @@
             ]
         },
         {
+            "id": "neuron-2",
+            "name": "Neuron 2",
+            "publications": [
+                "PMID:2713886",
+                "PMID:4700666",
+                "PMID:1358408",
+                "PMID:2571623",
+                "PMID:30704972",
+                "PMID:7644029"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-2"
+            ]
+        },
+        {
             "id": "neuron-20",
             "name": "Neuron 20",
             "external": [
                 "ilxtr:neuron-type-keast-20"
+            ]
+        },
+        {
+            "id": "neuron-3",
+            "name": "Neuron 3",
+            "publications": [
+                "PMID:2891149",
+                "PMID:4700666",
+                "PMID:1358408",
+                "PMID:9622251"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-3"
+            ]
+        },
+        {
+            "id": "neuron-4",
+            "name": "Neuron 4",
+            "publications": [
+                "PMID:11382385",
+                "PMID:9622251",
+                "PMID:7174880",
+                "PMID:9442414"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-4"
+            ]
+        },
+        {
+            "id": "neuron-5",
+            "name": "Neuron 5",
+            "publications": [
+                "PMID:10473279",
+                "PMID:21283532",
+                "PMID:6736301",
+                "PMID:86176",
+                "PMID:12401325",
+                "PMID:7174880",
+                "PMID:9442414"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-5"
+            ]
+        },
+        {
+            "id": "neuron-6",
+            "name": "Neuron 6",
+            "publications": [
+                "PMID:11382385",
+                "PMID:3225349",
+                "PMID:30704972",
+                "PMID:3558884",
+                "PMID:2891149",
+                "PMID:10473279",
+                "PMID:21283532",
+                "PMID:758335",
+                "PMID:1726105"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-6"
+            ]
+        },
+        {
+            "id": "neuron-7",
+            "name": "Neuron 7",
+            "publications": [
+                "PMID:3558884",
+                "PMID:3225349",
+                "PMID:2891149",
+                "PMID:2567744",
+                "PMID:1726105",
+                "PMID:3416186"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-7"
+            ]
+        },
+        {
+            "id": "neuron-8",
+            "name": "Neuron 8",
+            "publications": [
+                "PMID:11382385",
+                "PMID:2891149",
+                "PMID:2567744",
+                "PMID:1726105"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-8"
+            ]
+        },
+        {
+            "id": "neuron-9",
+            "name": "Neuron 9",
+            "publications": [
+                "PMID:11382385",
+                "PMID:3722467",
+                "PMID:12811806",
+                "PMID:9421141",
+                "PMID:11748568",
+                "PMID:7636036",
+                "PMID:7174880",
+                "PMID:7419745"
+            ],
+            "external": [
+                "ilxtr:neuron-type-keast-9"
+            ]
+        },
+        {
+            "id": "somata",
+            "name": "Somata",
+            "links": [
+                "lnk-snl17",
+                "lnk-snl27",
+                "lnk-sns15",
+                "lnk-snl59",
+                "lnk-snl69",
+                "lnk-snl65"
             ]
         }
     ],
