@@ -95,7 +95,7 @@
     "lyphs": [
         {
             "id": "T5",
-            "name": "T5 spinal segment (splen)",
+            "name": "T5 spinal segment (spleen)",
             "external": [
                 "UBERON:0006453"
             ],
@@ -107,7 +107,7 @@
         },
         {
             "id": "T6",
-            "name": "T6 spinal segment (splen)",
+            "name": "T6 spinal segment (spleen)",
             "external": [
                 "UBERON:0006454"
             ],
@@ -119,7 +119,7 @@
         },
         {
             "id": "T7",
-            "name": "T7 spinal segment (splen)",
+            "name": "T7 spinal segment (spleen)",
             "external": [
                 "UBERON:0006455"
             ],
@@ -131,7 +131,7 @@
         },
         {
             "id": "T8",
-            "name": "T8 spinal segment (splen)",
+            "name": "T8 spinal segment (spleen)",
             "external": [
                 "UBERON:0006456"
             ],
@@ -143,7 +143,7 @@
         },
         {
             "id": "seg_sc",
-            "name": "Segment of Spinal Cord (splen)",
+            "name": "Segment of Spinal Cord (spleen)",
             "external": [
                 "UBERON:0005844"
             ],
@@ -156,7 +156,7 @@
         },
         {
             "id": "med",
-            "name": "Medulla (splen)",
+            "name": "Medulla (spleen)",
             "external": [
                 "UBERON:0001896"
             ],
@@ -173,7 +173,7 @@
         },
         {
             "id": "dmv",
-            "name": "dorsal motor nucleus of the vagus (splen)",
+            "name": "dorsal motor nucleus of the vagus (spleen)",
             "external": [
                 "UBERON:0002870"
             ],
@@ -183,7 +183,7 @@
         },
         {
             "id": "nts",
-            "name": "nucleus tractus solitarius (splen)",
+            "name": "nucleus tractus solitarius (spleen)",
             "external": [
                 "UBERON:0009050"
             ],
@@ -193,7 +193,7 @@
         },
         {
             "id": "n-vag",
-            "name": "vagus nerve (splen)",
+            "name": "vagus nerve (spleen)",
             "external": [
                 "UBERON:0001759"
             ],
@@ -203,7 +203,7 @@
         },
         {
             "id": "ndg",
-            "name": "nodose ganglion (splen)",
+            "name": "nodose ganglion (spleen)",
             "external": [
                 "UBERON:0005363"
             ],
@@ -213,7 +213,7 @@
         },
         {
             "id": "cg-smg",
-            "name": "celiac ganglion and superior mesenteric ganglion complex (splen)",
+            "name": "celiac ganglion and superior mesenteric ganglion complex (spleen)",
             "external": [
                 "ILX:0793082"
             ],
@@ -223,7 +223,7 @@
         },
         {
             "id": "spln",
-            "name": "spleen (splen)",
+            "name": "spleen (spleen)",
             "external": [
                 "UBERON:0002106"
             ],
@@ -238,7 +238,7 @@
         },
         {
             "id": "spln_cap",
-            "name": "splenic capsule (splen)",
+            "name": "splenic capsule (spleen)",
             "external": [
                 "UBERON:0004641"
             ],
@@ -254,7 +254,7 @@
         },
         {
             "id": "r_pulp",
-            "name": "red pulp (splen)",
+            "name": "red pulp (spleen)",
             "external": [
                 "UBERON:0001250"
             ],
@@ -270,7 +270,7 @@
         },
         {
             "id": "mar_zone",
-            "name": "marginal zone (splen)",
+            "name": "marginal zone (spleen)",
             "external": [
                 "UBERON:0001251"
             ],
@@ -290,7 +290,7 @@
         },
         {
             "id": "mar_sin",
-            "name": "marginal sinus (splen)",
+            "name": "marginal sinus (spleen)",
             "external": [
                 "UBERON:0010398"
             ],
@@ -310,7 +310,7 @@
         },
         {
             "id": "w_pulp",
-            "name": "white pulp (splen)",
+            "name": "white pulp (spleen)",
             "external": [
                 "UBERON:0001959"
             ],
@@ -331,7 +331,7 @@
         },
         {
             "id": "pals",
-            "name": "periarterial lymphatic sheath (splen)",
+            "name": "periarterial lymphatic sheath (spleen)",
             "external": [
                 "UBERON:0001960"
             ]
@@ -418,7 +418,7 @@
         },
         {
             "id": "blo_ves",
-            "name": "Blood vessel (splen)",
+            "name": "Blood vessel (spleen)",
             "external": [
                 "UBERON:0001981"
             ],
@@ -429,7 +429,7 @@
         },
         {
             "id": "seg_neu",
-            "name": "Segment of neuron (splen)",
+            "name": "Segment of neuron (spleen)",
             "external": [
                 "CL:0000540"
             ],
@@ -442,18 +442,18 @@
         },
         {
             "id": "n-gspl",
-            "name": "greater splanchnic nerve (splen)",
+            "name": "greater splanchnic nerve (spleen)",
             "external": [
                 "UBERON:0018680"
             ]
         },
         {
             "id": "n-splenic",
-            "name": "splenic nerve (splen)"
+            "name": "splenic nerve (spleen)"
         },
         {
             "id": "axon-bag",
-            "name": "Axon terminal (splen)",
+            "name": "Axon terminal (spleen)",
             "external": [
                 "SAO:280355188"
             ],
@@ -467,7 +467,7 @@
         },
         {
             "id": "axon-tube",
-            "name": "Axon segment (splen)",
+            "name": "Axon segment (spleen)",
             "external": [
                 "SAO:280355188"
             ],
@@ -481,7 +481,7 @@
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (splen)",
+            "name": "Dendrite terminal (spleen)",
             "external": [
                 "SAO:420754792"
             ],
@@ -495,7 +495,7 @@
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (splen)",
+            "name": "Dendrite segment (spleen)",
             "external": [
                 "SAO:420754792"
             ],
@@ -509,7 +509,7 @@
         },
         {
             "id": "sn_t8",
-            "name": "soma in T8 spinal cord segment (splen)",
+            "name": "soma in T8 spinal cord segment (spleen)",
             "external": [
                 "NLX:154731"
             ],
@@ -518,7 +518,7 @@
         },
         {
             "id": "sn_t7",
-            "name": "soma in T7 spinal cord segment (splen)",
+            "name": "soma in T7 spinal cord segment (spleen)",
             "external": [
                 "NLX:154731"
             ],
@@ -526,7 +526,7 @@
         },
         {
             "id": "sn_t6",
-            "name": "soma in T6 spinal cord segment (splen)",
+            "name": "soma in T6 spinal cord segment (spleen)",
             "external": [
                 "NLX:154731"
             ],
@@ -534,7 +534,7 @@
         },
         {
             "id": "sn_t5",
-            "name": "soma in T5 spinal cord segment (splen)",
+            "name": "soma in T5 spinal cord segment (spleen)",
             "external": [
                 "NLX:154731"
             ],
@@ -542,7 +542,7 @@
         },
         {
             "id": "sn_dmv",
-            "name": "soma in dmv in medulla (splen)",
+            "name": "soma in dmv in medulla (spleen)",
             "external": [
                 "NLX:154731"
             ],
@@ -551,7 +551,7 @@
         },
         {
             "id": "sn_nts",
-            "name": "soma in nts in medulla (splen)",
+            "name": "soma in nts in medulla (spleen)",
             "external": [
                 "NLX:154731"
             ],
@@ -560,7 +560,7 @@
         },
         {
             "id": "sn_ndg",
-            "name": "soma in ndg in vagus nerve  (splen)",
+            "name": "soma in ndg in vagus nerve  (spleen)",
             "external": [
                 "NLX:154731"
             ],
@@ -730,6 +730,9 @@
         {
             "id": "art-pen",
             "name": "penicillary arteriole",
+            "external": [
+                "UBERON:0013132"
+            ],
             "layers": [
                 "SPL-M_7",
                 "SPL-M_6",
@@ -1428,6 +1431,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns_dmv-s",
+            "leaf": "ns_dmv-s_out",
             "housingLayers": [
                 0
             ],
@@ -1497,6 +1501,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns_cg-smg-s",
+            "leaf": "ns_cg-smg-s_out",
             "housingLayers": [
                 0
             ],
@@ -1545,6 +1550,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns_nts-s",
+            "leaf": "ns_nts-s_out",
             "housingLayers": [
                 0
             ],
@@ -1614,23 +1620,38 @@
     "groups": [
         {
             "id": "neuron1_spl",
-            "name": "Neuron population 1 with somas in t5-t8 spinal cord segments"
+            "name": "Neuron population 1 with somas in t5-t8 spinal cord segments",
+            "external": [
+                "ilxtr:neuron-type-splen-1"
+            ]
         },
         {
             "id": "neuron2_spl",
-            "name": "Neuron population 2 with a soma in the dorsal motor nucleus of the vagus"
+            "name": "Neuron population 2 with a soma in the dorsal motor nucleus of the vagus",
+            "external": [
+                "ilxtr:neuron-type-splen-2"
+            ]
         },
         {
             "id": "neuron3_spl",
-            "name": "Neuron population 3 with a soma in the nucleus tractus solitarius"
+            "name": "Neuron population 3 with a soma in the nucleus tractus solitarius",
+            "external": [
+                "ilxtr:neuron-type-splen-3"
+            ]
         },
         {
             "id": "neuron4_spl",
-            "name": "Neuron population 4 with a soma in the nodose ganglion"
+            "name": "Neuron population 4 with a soma in the nodose ganglion",
+            "external": [
+                "ilxtr:neuron-type-splen-4"
+            ]
         },
         {
             "id": "neuron5_spl",
-            "name": "Neuron population 5 with a soma in the fused celiac ganglion and superior mesenteric ganglion"
+            "name": "Neuron population 5 with a soma in the fused celiac ganglion and superior mesenteric ganglion",
+            "external": [
+                "ilxtr:neuron-type-splen-5"
+            ]
         },
         {
             "id": "col-spl",
