@@ -1,8 +1,9 @@
 {
-    "publications": [],
+    "references": [],
     "nodes": [
         {
-            "id": "aa-root-3"
+            "id": "aa-root-3",
+            "anchoredTo": "A"
         }
     ],
     "links": [
@@ -53,7 +54,7 @@
         {
             "id": "206",
             "name": "C1 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006469"
             ],
             "layers": [
@@ -65,7 +66,7 @@
         {
             "id": "207",
             "name": "C2 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006489"
             ],
             "layers": [
@@ -77,7 +78,7 @@
         {
             "id": "208",
             "name": "C3 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006488"
             ],
             "layers": [
@@ -89,7 +90,7 @@
         {
             "id": "209",
             "name": "C4 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006490"
             ],
             "layers": [
@@ -101,7 +102,7 @@
         {
             "id": "210",
             "name": "C5 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006491"
             ],
             "layers": [
@@ -113,7 +114,7 @@
         {
             "id": "211",
             "name": "C6 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006492"
             ],
             "layers": [
@@ -125,7 +126,7 @@
         {
             "id": "212",
             "name": "C7 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006493"
             ],
             "layers": [
@@ -137,7 +138,7 @@
         {
             "id": "213",
             "name": "C8 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006470"
             ],
             "layers": [
@@ -149,7 +150,7 @@
         {
             "id": "214",
             "name": "T1 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006457"
             ],
             "layers": [
@@ -161,7 +162,7 @@
         {
             "id": "215",
             "name": "T2 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006458"
             ],
             "layers": [
@@ -173,7 +174,7 @@
         {
             "id": "216",
             "name": "T3 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006459"
             ],
             "layers": [
@@ -185,7 +186,7 @@
         {
             "id": "200",
             "name": "Diencephalon",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001894",
                 "NCBITaxon:99999",
                 "ILX:0103217"
@@ -199,7 +200,7 @@
         {
             "id": "201",
             "name": "Hypothalamus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001898",
                 "ILX:0105177"
             ],
@@ -213,7 +214,7 @@
         {
             "id": "202",
             "name": "Paraventricular nucleus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001920"
             ],
             "internalLyphs": [
@@ -226,7 +227,7 @@
         {
             "id": "203",
             "name": "Midbrain",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001891",
                 "ILX:0106935"
             ],
@@ -239,7 +240,7 @@
         {
             "id": "204",
             "name": "Pons",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000988",
                 "ILX:0109019"
             ],
@@ -252,7 +253,7 @@
         {
             "id": "205",
             "name": "Medulla",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001896",
                 "ILX:0738301"
             ],
@@ -265,7 +266,7 @@
         {
             "id": "217",
             "name": "T1 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6474"
             ],
             "layers": [
@@ -275,7 +276,7 @@
         {
             "id": "218",
             "name": "Inferior cervical ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002440",
                 "ILX:0734766"
             ],
@@ -286,7 +287,7 @@
         {
             "id": "219",
             "name": "Middle cervical ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001990",
                 "ILX:0726454"
             ],
@@ -297,7 +298,7 @@
         {
             "id": "220",
             "name": "Superior cervical ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001989",
                 "ILX:0725956"
             ],
@@ -316,7 +317,7 @@
         {
             "id": "221",
             "name": "Larynx",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001737",
                 "ILX:0727818"
             ],
@@ -328,7 +329,7 @@
         {
             "id": "222",
             "name": "Trachea",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003126",
                 "ILX:0729183"
             ],
@@ -344,7 +345,7 @@
         {
             "id": "223",
             "name": "Aortic arch",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001508",
                 "ILX:0738302"
             ],
@@ -356,7 +357,7 @@
         {
             "id": "224",
             "name": "Common carotid artery",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0010197"
             ],
             "layers": [
@@ -367,7 +368,7 @@
         {
             "id": "225",
             "name": "Internal carotid artery",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001532",
                 "ILX:0736647"
             ],
@@ -379,7 +380,7 @@
         {
             "id": "110in223",
             "name": "Wall of aortic arch",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738304"
             ],
             "supertype": "110",
@@ -393,7 +394,7 @@
         {
             "id": "110in224",
             "name": "Wall of common carotid artery",
-            "external": [
+            "ontologyTerms": [
                 "FMA:66284"
             ],
             "supertype": "110",
@@ -407,7 +408,7 @@
         {
             "id": "110in225",
             "name": "Wall of internal carotid artery",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738305"
             ],
             "supertype": "110",
@@ -421,7 +422,7 @@
         {
             "id": "226",
             "name": "Epiglottis",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000388",
                 "ILX:0103886"
             ],
@@ -434,7 +435,7 @@
         {
             "id": "227",
             "name": "Tongue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001723",
                 "ILX:0111810"
             ],
@@ -447,7 +448,7 @@
         {
             "id": "228",
             "name": "Rexed Lamina VII of T1",
-            "external": [
+            "ontologyTerms": [
                 "FMA:68868"
             ],
             "internalLyphs": [
@@ -460,7 +461,7 @@
         {
             "id": "229",
             "name": "Segment of neuron",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -473,7 +474,7 @@
         {
             "id": "229bag",
             "name": "Segment of neuron (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -482,7 +483,7 @@
         {
             "id": "axon-bag",
             "name": "Axon terminal (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -491,7 +492,7 @@
         {
             "id": "axon-tube",
             "name": "Axon segment (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -500,7 +501,7 @@
         {
             "id": "dend-bag",
             "name": "Dendrite terminal (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -509,7 +510,7 @@
         {
             "id": "dend-tube",
             "name": "Dendrite segment (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -518,7 +519,7 @@
         {
             "id": "107in214",
             "name": "Neural tissue of T1",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738306"
             ],
             "supertype": "107",
@@ -532,7 +533,7 @@
         {
             "id": "107in200",
             "name": "Neural tissue of the diencephalon",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738307"
             ],
             "supertype": "107",
@@ -546,7 +547,7 @@
         {
             "id": "230",
             "name": "T1 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7643"
             ],
             "layers": [
@@ -556,7 +557,7 @@
         {
             "id": "231",
             "name": "T1 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ],
             "layers": [
@@ -566,7 +567,7 @@
         {
             "id": "232",
             "name": "T1-ICG sympathetic cord",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738291"
             ],
             "layers": [
@@ -576,7 +577,7 @@
         {
             "id": "233",
             "name": "ICG-MCG sympathetic cord",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738290"
             ],
             "layers": [
@@ -586,7 +587,7 @@
         {
             "id": "234",
             "name": "MCG-SCG sympathetic cord",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738292"
             ],
             "layers": [
@@ -596,7 +597,7 @@
         {
             "id": "nerve-sheath",
             "name": "Nerve sheath",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C41439"
             ],
             "isTemplate": true,
@@ -604,8 +605,8 @@
         },
         {
             "id": "235",
-            "name": "External carotid nerve",
-            "external": [
+            "name": "ontologyTerms carotid nerve",
+            "ontologyTerms": [
                 "FMA:6579"
             ],
             "layers": [
@@ -615,7 +616,7 @@
         {
             "id": "236",
             "name": "Ganglioglomerular nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738293"
             ],
             "layers": [
@@ -625,7 +626,7 @@
         {
             "id": "237",
             "name": "Internal carotid nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002024"
             ],
             "layers": [
@@ -635,7 +636,7 @@
         {
             "id": "238",
             "name": "Phrenic nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001884",
                 "ILX:0736057"
             ],
@@ -646,7 +647,7 @@
         {
             "id": "239",
             "name": "Vagus nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001759",
                 "ILX:0733375"
             ],
@@ -663,7 +664,7 @@
         {
             "id": "240",
             "name": "Glossopharyngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001649",
                 "ILX:0723837"
             ],
@@ -680,7 +681,7 @@
         {
             "id": "241",
             "name": "Hypoglossal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001650",
                 "ILX:0730771"
             ],
@@ -691,7 +692,7 @@
         {
             "id": "114in226",
             "name": "Mucosa of epiglottis",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004982",
                 "ILX:0736652"
             ],
@@ -706,7 +707,7 @@
         {
             "id": "112in227",
             "name": "Mucosa of tongue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005020",
                 "ILX:0731712"
             ],
@@ -715,7 +716,7 @@
         {
             "id": "242",
             "name": "Superior laryngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0011326",
                 "ILX:0731053"
             ],
@@ -725,8 +726,8 @@
         },
         {
             "id": "243",
-            "name": "External branch of superior laryngeal nerve",
-            "external": [
+            "name": "ontologyTerms branch of superior laryngeal nerve",
+            "ontologyTerms": [
                 "FMA:6243"
             ],
             "layers": [
@@ -736,42 +737,42 @@
         {
             "id": "244",
             "name": "Internal branch of superior laryngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6240"
             ]
         },
         {
             "id": "245",
             "name": "Inferior laryngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003716"
             ]
         },
         {
             "id": "246",
-            "name": "External branch of inferior laryngeal nerve",
-            "external": [
+            "name": "ontologyTerms branch of inferior laryngeal nerve",
+            "ontologyTerms": [
                 "ILX:0738308"
             ]
         },
         {
             "id": "247",
             "name": "Internal branch of inferior laryngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738309"
             ]
         },
         {
             "id": "248",
             "name": "Petrosal ganglion of the Glossopharyngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738310"
             ]
         },
         {
             "id": "249",
             "name": "Nodose ganglion of the Vagus nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738311"
             ],
             "internalLyphs": [
@@ -784,42 +785,42 @@
         {
             "id": "250",
             "name": "Aortic arch depressor nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738312"
             ]
         },
         {
             "id": "251",
             "name": "Rami glomi carotici",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738313"
             ]
         },
         {
             "id": "252",
             "name": "Herning's nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738314"
             ]
         },
         {
             "id": "253",
             "name": "Pharyngeal branch of the Hypoglossal nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738315"
             ]
         },
         {
             "id": "254",
             "name": "Aortic arch baroreceptors",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738316"
             ]
         },
         {
             "id": "255",
             "name": "Carotid body",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001629",
                 "ILX:0736966"
             ]
@@ -827,7 +828,7 @@
         {
             "id": "256",
             "name": "Carotid sinus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003708",
                 "ILX:0731873"
             ]
@@ -835,42 +836,42 @@
         {
             "id": "257",
             "name": "Laryngeal mechanoreceptors",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738317"
             ]
         },
         {
             "id": "258",
             "name": "Epiglottic mechanoreceptors",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738318"
             ]
         },
         {
             "id": "259",
             "name": "Oesophafgus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001043"
             ]
         },
         {
             "id": "260",
             "name": "T1-T2 intercostal muscle",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738319"
             ]
         },
         {
             "id": "261",
             "name": "Diaphragm",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001103"
             ]
         },
         {
             "id": "107in205",
             "name": "Neural tissue of medulla",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738320"
             ],
             "supertype": "107",
@@ -888,7 +889,7 @@
         {
             "id": "107in209",
             "name": "Neural tissue of C4",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738321"
             ],
             "supertype": "107",
@@ -902,7 +903,7 @@
         {
             "id": "107in210",
             "name": "Neural tissue of C5",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738322"
             ],
             "supertype": "107",
@@ -916,28 +917,28 @@
         {
             "id": "262",
             "name": "Nucleus tractus solitarius",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738323"
             ]
         },
         {
             "id": "263",
             "name": "Retrotrapezoid nucleus",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0110082"
             ]
         },
         {
             "id": "264",
             "name": "Rostral ventrolateral medulla",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0730074"
             ]
         },
         {
             "id": "265",
             "name": "Phrenic nucleus of C4",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738324"
             ],
             "internalLyphs": [
@@ -950,7 +951,7 @@
         {
             "id": "266",
             "name": "Phrenic nucleus of C5",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738325"
             ],
             "internalLyphs": [
@@ -963,7 +964,7 @@
         {
             "id": "108in221",
             "name": "Wall of larynx",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738326"
             ],
             "supertype": "108",
@@ -977,7 +978,7 @@
         {
             "id": "109in222",
             "name": "Mucosa of trachea",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738327"
             ],
             "supertype": "109"
@@ -985,7 +986,7 @@
         {
             "id": "soma202",
             "name": "Soma in Paraventricular nucleus (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -994,7 +995,7 @@
         {
             "id": "soma228",
             "name": "Soma in T1 Rexed Lamina VII (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1003,7 +1004,7 @@
         {
             "id": "soma265",
             "name": "Soma in 265 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1012,7 +1013,7 @@
         {
             "id": "soma266",
             "name": "Soma in 266 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229"
@@ -1020,7 +1021,7 @@
         {
             "id": "soma249_1",
             "name": "Soma in 249 (1) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1029,7 +1030,7 @@
         {
             "id": "soma220_4",
             "name": "Soma in superior cervical ganglion (4) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1038,7 +1039,7 @@
         {
             "id": "soma220_10",
             "name": "Soma in superior cervical ganglion (10) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1053,28 +1054,28 @@
         {
             "id": "104",
             "name": "Cerebrospinal fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001359"
             ]
         },
         {
             "id": "105",
             "name": "Ependyma",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004670"
             ]
         },
         {
             "id": "107",
             "name": "Central nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005158"
             ]
         },
         {
             "id": "53",
             "name": "Aqueous solution",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ],
             "materials": [
@@ -1092,56 +1093,56 @@
         {
             "id": "48",
             "name": "Water",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:15377"
             ]
         },
         {
             "id": "49",
             "name": "Sodium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29101"
             ]
         },
         {
             "id": "50",
             "name": "Potassium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29103"
             ]
         },
         {
             "id": "51",
             "name": "Calcium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29108"
             ]
         },
         {
             "id": "52",
             "name": "Chloride ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17996"
             ]
         },
         {
             "id": "83",
             "name": "Hydrogen ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24636"
             ]
         },
         {
             "id": "84",
             "name": "Hydroxide ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:16234"
             ]
         },
         {
             "id": "54",
             "name": "Cytosol",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005829"
             ],
             "materials": [
@@ -1151,14 +1152,14 @@
         {
             "id": "55",
             "name": "Membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0016020"
             ]
         },
         {
             "id": "56",
             "name": "Plasma membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005886"
             ],
             "materials": [
@@ -1168,14 +1169,14 @@
         {
             "id": "85",
             "name": "Bicarbonate ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17544"
             ]
         },
         {
             "id": "2",
             "name": "Basement membrane",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005769",
                 "PMID:31102947"
             ]
@@ -1183,14 +1184,14 @@
         {
             "id": "42",
             "name": "Endothelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001986"
             ]
         },
         {
             "id": "41",
             "name": "Blood",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000178"
             ],
             "materials": [
@@ -1200,14 +1201,14 @@
         {
             "id": "100",
             "name": "Fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006314"
             ]
         },
         {
             "id": "101",
             "name": "Gas",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C45299"
             ],
             "materials": [
@@ -1217,7 +1218,7 @@
         {
             "id": "102",
             "name": "Liquid",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ],
             "materials": [
@@ -1227,7 +1228,7 @@
         {
             "id": "103",
             "name": "Air",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C73434"
             ],
             "materials": [
@@ -1237,7 +1238,7 @@
         {
             "id": "106",
             "name": "Pia mater",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002361"
             ],
             "materials": [
@@ -1247,7 +1248,7 @@
         {
             "id": "108",
             "name": "Wall of larynx",
-            "external": [
+            "ontologyTerms": [
                 "FMA:64182"
             ],
             "materials": [
@@ -1257,7 +1258,7 @@
         {
             "id": "109",
             "name": "Wall of trachea",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7470"
             ],
             "materials": [
@@ -1267,7 +1268,7 @@
         {
             "id": "110",
             "name": "Wall of artery",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000415"
             ],
             "materials": [
@@ -1277,42 +1278,42 @@
         {
             "id": "111",
             "name": "Connective tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002384"
             ]
         },
         {
             "id": "112",
             "name": "Mucosa of tongue",
-            "external": [
+            "ontologyTerms": [
                 "FMA:54807"
             ]
         },
         {
             "id": "113",
             "name": "Muscle of tongue",
-            "external": [
+            "ontologyTerms": [
                 "FMA:4668"
             ]
         },
         {
             "id": "114",
             "name": "Mucosa of epiglottis",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004982"
             ]
         },
         {
             "id": "115",
             "name": "Cartilage of epiglottis",
-            "external": [
+            "ontologyTerms": [
                 "FMA:55112"
             ]
         },
         {
             "id": "116",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0492026"
             ],
             "materials": [
@@ -1322,7 +1323,7 @@
         {
             "id": "117",
             "name": "Peripheral nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000010"
             ],
             "materials": [
@@ -1366,12 +1367,12 @@
             "lyphs": [
                 "200",
                 "203",
-                "201"
+                "204"
             ],
             "root": "root-2",
             "leaf": "leaf-2",
             "wiredTo": "w-N-H",
-            "startFromLeaf": true
+            "startFromLeaf": false
         },
         {
             "id": "aorticArch",
@@ -1418,7 +1419,7 @@
         {
             "id": "IML1-SCG-d",
             "name": "Dnd IML1-SCG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1434,7 +1435,7 @@
         {
             "id": "IML1-SCG-a",
             "name": "Axn IML1-SCG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1471,7 +1472,7 @@
         {
             "id": "P4-DIAPHRGM-d",
             "name": "Dnd P4-DIAPHRGM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1487,7 +1488,7 @@
         {
             "id": "P4-DIAPHRGM-a",
             "name": "Axn P4-DIAPHRGM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1507,7 +1508,7 @@
         {
             "id": "P5-DIAPHRGM-d",
             "name": "Dnd P5-DIAPHRGM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1523,7 +1524,7 @@
         {
             "id": "P5-DIAPHRGM-a",
             "name": "Axn P5-DIAPHRGM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1543,7 +1544,7 @@
         {
             "id": "P5-DIAPHRGM-join",
             "name": "Axon from P4-P5 to Diaphrgm (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1559,7 +1560,7 @@
         {
             "id": "PVN-IML1-d",
             "name": "Dnd PVN-IML1 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1575,7 +1576,7 @@
         {
             "id": "PVN-IML1-a",
             "name": "Axn PVN-IML1 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1621,7 +1622,7 @@
         {
             "id": "AB-NTS-d",
             "name": "Dnd AB-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1645,7 +1646,7 @@
         {
             "id": "AB-NTS-a",
             "name": "Axn AB-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1667,7 +1668,7 @@
         {
             "id": "SCG-ECN-TONG-d",
             "name": "Dnd SCG-ECN-TONG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1683,7 +1684,7 @@
         {
             "id": "SCG-ECN-TONG-a",
             "name": "Axn SCG-ECN-TONG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1705,7 +1706,7 @@
         {
             "id": "SCG-eSLN-LRYNX-d",
             "name": "Dnd SCG-eSLN-LRYNX (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1721,7 +1722,7 @@
         {
             "id": "SCG-eSLN-LRYNX-a",
             "name": "Axn SCG-eSLN-LRYNX (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1743,7 +1744,7 @@
         {
             "id": "SLN-eSLN-a",
             "name": "Axn from SLN to eSLN",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1760,7 +1761,7 @@
         {
             "id": "eSLN-LRY-a",
             "name": "Axon from eSLN to LRYNX",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1778,7 +1779,7 @@
         {
             "id": "eSLN-EPI-a",
             "name": "Axon from eSLN to EPIGLOT",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1796,7 +1797,7 @@
         {
             "id": "SLN-iSLN-a",
             "name": "Axn from SLN to iSLN",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1814,7 +1815,7 @@
         {
             "id": "iSLN-LRY-a",
             "name": "Axn from iSLN to LRYNX",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1831,7 +1832,7 @@
         {
             "id": "iSLN-EPI-a",
             "name": "Axn from iSLN to EPIGLOT",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",

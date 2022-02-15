@@ -1,5 +1,5 @@
 {
-    "publications": [
+    "references": [
         {
             "id": "PMID:12576302",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/12576302"
@@ -138,7 +138,7 @@
         {
             "id": "ins",
             "name": "insula",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002022"
             ],
             "internalLyphs": [
@@ -149,7 +149,7 @@
         {
             "id": "pn",
             "name": "parabrachial nucleus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0007634"
             ],
             "internalLyphs": [
@@ -159,7 +159,7 @@
         {
             "id": "nts",
             "name": "nucleus of the solitary tract",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0009050"
             ],
             "internalLyphs": [
@@ -170,7 +170,7 @@
         {
             "id": "nod",
             "name": "nodose",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005363"
             ],
             "internalLyphs": [
@@ -180,7 +180,7 @@
         {
             "id": "dmv",
             "name": "dorsal motor nucleus of the vagus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002870"
             ],
             "internalLyphs": [
@@ -193,14 +193,14 @@
         {
             "id": "vn",
             "name": "vagus nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001759"
             ]
         },
         {
             "id": "sto",
             "name": "stomach",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000945"
             ],
             "isTemplate": true,
@@ -216,7 +216,7 @@
         {
             "id": "ser_st",
             "name": "serosa of stomach",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001201"
             ],
             "isTemplate": true
@@ -224,7 +224,7 @@
         {
             "id": "lm_sto",
             "name": "longitudinal muscle of stomach",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14910"
             ],
             "isTemplate": true
@@ -232,7 +232,7 @@
         {
             "id": "my_plex",
             "name": "myenteric plexus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002439"
             ],
             "isTemplate": true
@@ -240,7 +240,7 @@
         {
             "id": "cir_sto",
             "name": "stomach smooth muscle circular layer",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0008857"
             ],
             "isTemplate": true
@@ -248,7 +248,7 @@
         {
             "id": "ob_sto",
             "name": "oblique muscle layer of stomach",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14912"
             ],
             "isTemplate": true
@@ -256,7 +256,7 @@
         {
             "id": "subm_sto",
             "name": "submucosa of stomach",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001200"
             ],
             "isTemplate": true
@@ -264,7 +264,7 @@
         {
             "id": "mmuc_sto",
             "name": "muscularis mucosae of stomach",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001203"
             ],
             "isTemplate": true
@@ -272,7 +272,7 @@
         {
             "id": "muc_sto",
             "name": "mucosa of stomach",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001199"
             ],
             "isTemplate": true
@@ -280,7 +280,7 @@
         {
             "id": "lum_sto",
             "name": "stomach lumen",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0013525"
             ],
             "isTemplate": true
@@ -288,7 +288,7 @@
         {
             "id": "dis_sto",
             "name": "distal stomach",
-            "external": [
+            "ontologyTerms": [
                 "XAO:0005130"
             ],
             "layers": [
@@ -314,7 +314,7 @@
         {
             "id": "pro_sto",
             "name": "proximal stomach",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C165627"
             ],
             "layers": [
@@ -340,7 +340,7 @@
         {
             "id": "low_eso",
             "name": "lower esophagus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0013473"
             ],
             "layers": [
@@ -357,56 +357,56 @@
         {
             "id": "ms_sto",
             "name": "smooth muscle of stomach",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004222"
             ]
         },
         {
             "id": "par_cell",
             "name": "parietal cell",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C12594"
             ]
         },
         {
             "id": "chie_cell",
             "name": "chief cell of stomach",
-            "external": [
+            "ontologyTerms": [
                 "FMA:62902"
             ]
         },
         {
             "id": "ent_cell",
             "name": "entroendocrine cell",
-            "external": [
+            "ontologyTerms": [
                 "CL:1001517"
             ]
         },
         {
             "id": "pdgfa_recp",
             "name": "Platelet-Derived Growth Factor Receptor Alpha",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C30163"
             ]
         },
         {
             "id": "iic_cell",
             "name": "Intramuscular Interstitial cells of Cajal",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C32871"
             ]
         },
         {
             "id": "ser_eso",
             "name": "serosa of esophagus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001975"
             ]
         },
         {
             "id": "lm_eso",
             "name": "longitudinal muscle of esophagus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0009961"
             ]
         },
@@ -417,35 +417,35 @@
         {
             "id": "my_plex_e",
             "name": "myenteric plexus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002439"
             ]
         },
         {
             "id": "cir_eso",
             "name": "Esophagus smooth muscle circular layer",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0009960"
             ]
         },
         {
             "id": "subm_eso",
             "name": "submucosa of esophagus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001972"
             ]
         },
         {
             "id": "mmuc_eso",
             "name": "muscularis mucosae of esophagus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004648"
             ]
         },
         {
             "id": "229",
             "name": "Segment of neuron",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -458,7 +458,7 @@
         {
             "id": "229bag",
             "name": "Segment of neuron",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -468,7 +468,7 @@
         {
             "id": "axon-bag",
             "name": "Axon terminal (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -482,7 +482,7 @@
         {
             "id": "axon-tube",
             "name": "Axon segment (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -496,7 +496,7 @@
         {
             "id": "dend-bag",
             "name": "Dendrite terminal (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -510,7 +510,7 @@
         {
             "id": "dend-tube",
             "name": "Dendrite segment (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -524,21 +524,21 @@
         {
             "id": "muc_eso",
             "name": "mucosa of esophagus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:62996"
             ]
         },
         {
             "id": "lum_eso",
             "name": "esophagus lumen",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0011566"
             ]
         },
         {
             "id": "soma_dn_1",
             "name": "Soma in parabrachial nucleus_Neuron 1 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -547,7 +547,7 @@
         {
             "id": "soma_in_2",
             "name": "Soma in insula_Neuron 2 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -556,7 +556,7 @@
         {
             "id": "soma_in_3",
             "name": "Soma in insula_Neuron 3 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -565,7 +565,7 @@
         {
             "id": "soma_nts_4",
             "name": "Soma in nucleus of the solitary tract_Neuron 4 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -574,7 +574,7 @@
         {
             "id": "soma_ng_5",
             "name": "Soma in nodose ganglia_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -583,7 +583,7 @@
         {
             "id": "soma_nts_6",
             "name": "Soma in nucleus of the solitary tract_Neuron 6 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -592,7 +592,7 @@
         {
             "id": "soma_dmv_7",
             "name": "Soma in dorsal motor nucleus of the vagus_Neuron 7 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -601,7 +601,7 @@
         {
             "id": "soma_dmv_8",
             "name": "Soma in dorsal motor nucleus of the vagus_Neuron 8 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -610,7 +610,7 @@
         {
             "id": "soma_dmv_9",
             "name": "Soma in dorsal motor nucleus of the vagus_Neuron 9 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -619,7 +619,7 @@
         {
             "id": "soma_dmv_10",
             "name": "Soma in dorsal motor nucleus of the vagus_Neuron 10 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -628,7 +628,7 @@
         {
             "id": "soma_mp_11",
             "name": "Soma in myenteric plexus in the distal stomach_Neuron 11 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -637,7 +637,7 @@
         {
             "id": "soma_mp_12",
             "name": "Soma in myenteric plexus in the distal stomach_Neuron 12 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -646,7 +646,7 @@
         {
             "id": "soma_mp_13",
             "name": "Soma in myenteric plexus in the proximal stomach_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -655,7 +655,7 @@
         {
             "id": "soma_mp_14",
             "name": "Soma in myenteric plexus in the proximal stomach_Neuron 14 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -666,28 +666,28 @@
         {
             "id": "SM_2",
             "name": "Water",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:15377"
             ]
         },
         {
             "id": "SM_5",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24839"
             ]
         },
         {
             "id": "SM_6",
             "name": "Endothelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001986"
             ]
         },
         {
             "id": "SM_7",
             "name": "Blood",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000178"
             ],
             "materials": [
@@ -697,7 +697,7 @@
         {
             "id": "SM_8",
             "name": "Aqueous solution",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ],
             "materials": [
@@ -716,7 +716,7 @@
         {
             "id": "SM_9",
             "name": "Cerebrospinal fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001359"
             ],
             "materials": [
@@ -726,84 +726,84 @@
         {
             "id": "SM_10",
             "name": "Smooth muscle",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001135"
             ]
         },
         {
             "id": "SM_11",
             "name": "Connective Tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002384"
             ]
         },
         {
             "id": "SM_13",
             "name": "Sodium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29101"
             ]
         },
         {
             "id": "SM_14",
             "name": "Potassium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29103"
             ]
         },
         {
             "id": "SM_15",
             "name": "Calcium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29108"
             ]
         },
         {
             "id": "SM_16",
             "name": "Chloride ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17996"
             ]
         },
         {
             "id": "SM_17",
             "name": "Hydrogen ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24636"
             ]
         },
         {
             "id": "SM_18",
             "name": "Hydroxide ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:16234"
             ]
         },
         {
             "id": "SM_19",
             "name": "Bicarbonate ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17544"
             ]
         },
         {
             "id": "SM_20",
             "name": "Liquid",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ]
         },
         {
             "id": "SM_21",
             "name": "Fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006314"
             ]
         },
         {
             "id": "SM_22",
             "name": "Peripheral nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000010"
             ],
             "materials": [
@@ -813,42 +813,42 @@
         {
             "id": "SM_54",
             "name": "Cytosol",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005829"
             ]
         },
         {
             "id": "SM_55",
             "name": "Membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0016020"
             ]
         },
         {
             "id": "SM_56",
             "name": "Plasma membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005886"
             ]
         },
         {
             "id": "SM_116",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005615"
             ]
         },
         {
             "id": "SM_87",
             "name": "Epithelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000483"
             ]
         },
         {
             "id": "SM_89",
             "name": "Basement membrane",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005769"
             ]
         }
@@ -857,7 +857,7 @@
         {
             "id": "dc_1",
             "name": "Dendrite chain in the parabrachial nucleus _Neuron 1 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -873,7 +873,7 @@
         {
             "id": "ac_1",
             "name": "Axon chain in the parabrachial nucleus_Neuron 1 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -891,7 +891,7 @@
         {
             "id": "dc_2",
             "name": "Dendrite chain in the insula_Neuron 2 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -907,7 +907,7 @@
         {
             "id": "ac_2",
             "name": "Axon chain in the insula _Neuron 2 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -925,7 +925,7 @@
         {
             "id": "dc_3",
             "name": "Dendrite chain in the insula_Neuron 3 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -941,7 +941,7 @@
         {
             "id": "ac_3",
             "name": "Axon chain in the insula_Neuron 3 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -959,7 +959,7 @@
         {
             "id": "dc_4",
             "name": "Dendrite chain in the nucleus of the solitary tract_Neuron 4 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -975,7 +975,7 @@
         {
             "id": "ac_4",
             "name": "Axon chain in the nucleus of the solitary tract_Neuron 4 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -993,7 +993,7 @@
         {
             "id": "dc_5",
             "name": "Dendrite chain in the nodose ganglia_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1009,7 +1009,7 @@
         {
             "id": "ac_5a",
             "name": "Axon chain in the nodose ganglia to nts_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1027,7 +1027,7 @@
         {
             "id": "dc_vag5b",
             "name": "Dendrite chain in the nodose ganglia to vagus_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -1045,7 +1045,7 @@
         {
             "id": "dc_lm5b_ds",
             "name": "Dendrite chain in the vagus to distal stomach_long muscle_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1065,7 +1065,7 @@
         {
             "id": "dc_mp5b_ds",
             "name": "Dendrite chain in the vagus to distal stomach_myenteric plexus_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1087,7 +1087,7 @@
         {
             "id": "dc_cm5b_ds",
             "name": "Dendrite chain in the vagus to distal stomach_cir muscle_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1111,7 +1111,7 @@
         {
             "id": "dc_muc5b_ds",
             "name": "Dendrite chain in the vagus to distal stomach_mucosa_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1143,7 +1143,7 @@
         {
             "id": "dc_lm5b_ps",
             "name": "Dendrite chain in the vagus to proximal stomach_long muscle_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1163,7 +1163,7 @@
         {
             "id": "dc_mp5b_ps",
             "name": "Dendrite chain in the vagus to proximal stomach_myenteric plexus_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1185,7 +1185,7 @@
         {
             "id": "dc_cm5b_ps",
             "name": "Dendrite chain in the vagus to proximal stomach_cir muscle_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1209,7 +1209,7 @@
         {
             "id": "dc_muc5b_ps",
             "name": "Dendrite chain in the vagus to proximal  stomach_mucosa_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1241,7 +1241,7 @@
         {
             "id": "dc_lm5b_le",
             "name": "Dendrite chain in the vagus to lower esophagus_long muscle_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1261,7 +1261,7 @@
         {
             "id": "dc_cm5b_le",
             "name": "Dendrite chain in the vagus to lower esophagus_cir muscle_Neuron 5 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1285,7 +1285,7 @@
         {
             "id": "dc_6",
             "name": "Dendrite chain in the nucleus of the solitary tract_Neuron 6 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1301,7 +1301,7 @@
         {
             "id": "ac_6",
             "name": "Axon chain in the nucleus of the solitary tract_Neuron 6 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1319,7 +1319,7 @@
         {
             "id": "dc_7",
             "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 7 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1335,7 +1335,7 @@
         {
             "id": "ac_7",
             "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 7 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1359,7 +1359,7 @@
         {
             "id": "dc_8",
             "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 8 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1375,7 +1375,7 @@
         {
             "id": "ac_8",
             "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 8 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1400,7 +1400,7 @@
         {
             "id": "dc_9",
             "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 9 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1416,7 +1416,7 @@
         {
             "id": "ac_9",
             "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 9 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1440,7 +1440,7 @@
         {
             "id": "dc_10",
             "name": "Dendrite chain in the dorsal motor nucleus of the vagus_Neuron 10 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1456,7 +1456,7 @@
         {
             "id": "ac_10",
             "name": "Axon chain in the dorsal motor nucleus of the vagus_Neuron 10 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1480,7 +1480,7 @@
         {
             "id": "dc_11",
             "name": "Dendrite chain in the myenteric plexus in the distal stomach_Neuron 11 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1496,7 +1496,7 @@
         {
             "id": "ac_11_lm",
             "name": "Axon chain in the myenteric plexus in the distal stomach to longitudinal muscle_Neuron 11 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1514,7 +1514,7 @@
         {
             "id": "ac_11_cm",
             "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle_Neuron 11 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1532,7 +1532,7 @@
         {
             "id": "ac_11_muc",
             "name": "Axon chain in the myenteric plexus in the distal stomach to mucosa muscle_Neuron 11 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1558,7 +1558,7 @@
         {
             "id": "dc_12",
             "name": "Dendrite chain in the myenteric plexus in the distal stomach_Neuron 12 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1574,7 +1574,7 @@
         {
             "id": "ac_12_lm",
             "name": "Axon chain in the myenteric plexus in the distal stomach to longitudinal muscle_Neuron 12 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1592,7 +1592,7 @@
         {
             "id": "ac_12",
             "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle_Neuron 12 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1610,7 +1610,7 @@
         {
             "id": "ac_12br",
             "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch_Neuron 12 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1628,7 +1628,7 @@
         {
             "id": "ac_12br_pc",
             "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to parietal cell in mucosa_Neuron 12 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1652,7 +1652,7 @@
         {
             "id": "ac_12br_cc",
             "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to chief cell in mucosa_Neuron 12 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1676,7 +1676,7 @@
         {
             "id": "ac_12br_en",
             "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to entreendocrine cell in mucosa_Neuron 12 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1700,7 +1700,7 @@
         {
             "id": "dc_13",
             "name": "Dendrite chain in the myenteric plexus in the proximal stomach_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1716,7 +1716,7 @@
         {
             "id": "ac_13br",
             "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle-branch_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1734,7 +1734,7 @@
         {
             "id": "ac_13br_icc",
             "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to ICC -branch_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1750,7 +1750,7 @@
         {
             "id": "ac_13br_pdgfr",
             "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to PGDFR -branch_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1766,7 +1766,7 @@
         {
             "id": "ac_13br_sm",
             "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to smooth muscle -branch_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1782,7 +1782,7 @@
         {
             "id": "ac_13br_c",
             "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle-branch_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1800,7 +1800,7 @@
         {
             "id": "ac_13br_icc_c",
             "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to ICC -branch_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1816,7 +1816,7 @@
         {
             "id": "ac_13br_pdgfr_c",
             "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to PGDFR -branch_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1832,7 +1832,7 @@
         {
             "id": "ac_13br_sm_c",
             "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to smooth muscle -branch_Neuron 13 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1848,7 +1848,7 @@
         {
             "id": "dc_14",
             "name": "Dendrite chain in myenteric plexus in the proximal stomach_Neuron 14 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1864,7 +1864,7 @@
         {
             "id": "ac_14_lm",
             "name": "Axon chain in myenteric plexus in the proximal stomach to longitudinal muscle_Neuron 14 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1882,7 +1882,7 @@
         {
             "id": "ac_14_cm",
             "name": "Axon chain in myenteric plexus in the proximal stomach to circular muscle_Neuron 14 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1900,7 +1900,7 @@
         {
             "id": "ac-14br",
             "name": "Axon chain in myenteric plexus in the proximal stomach to mucosa-branch_Neuron 14 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1918,7 +1918,7 @@
         {
             "id": "ac_14_br-m",
             "name": "Axon chain in myenteric plexus in the proximal stomach to mucosa-parietal_Neuron 14 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1940,7 +1940,7 @@
         {
             "id": "ac_14_br-cm",
             "name": "Axon chain in myenteric plexus in the proximal stomach to mucosachief_Neuron 14 (sstom)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -1964,98 +1964,98 @@
         {
             "id": "neuron-1",
             "name": "Neuron 1",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-1"
             ]
         },
         {
             "id": "neuron-2",
             "name": "Neuron 2",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-2"
             ]
         },
         {
             "id": "neuron-3",
             "name": "Neuron 3",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-3"
             ]
         },
         {
             "id": "neuron-4",
             "name": "Neuron 4",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-4"
             ]
         },
         {
             "id": "neuron-5",
             "name": "Neuron 5",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-5"
             ]
         },
         {
             "id": "neuron-6",
             "name": "Neuron 6",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-6"
             ]
         },
         {
             "id": "neuron-7",
             "name": "Neuron 7",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-7"
             ]
         },
         {
             "id": "neuron-8",
             "name": "Neuron 8",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-8"
             ]
         },
         {
             "id": "neuron-9",
             "name": "Neuron 9",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-9"
             ]
         },
         {
             "id": "neuron-10",
             "name": "Neuron 10",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-10"
             ]
         },
         {
             "id": "neuron-11",
             "name": "Neuron 11",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-11"
             ]
         },
         {
             "id": "neuron-12",
             "name": "Neuron 12",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-12"
             ]
         },
         {
             "id": "neuron-13",
             "name": "Neuron 13",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-13"
             ]
         },
         {
             "id": "neuron-14",
             "name": "Neuron 14",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sstom-14"
             ]
         }

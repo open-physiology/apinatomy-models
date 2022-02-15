@@ -1,5 +1,5 @@
 {
-    "publications": [
+    "references": [
         {
             "id": "PMID:2384334",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/2384334"
@@ -178,7 +178,7 @@
         {
             "id": "B1",
             "name": "T1 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006457"
             ],
             "supertype": "B15",
@@ -192,7 +192,7 @@
         {
             "id": "B2",
             "name": "T2 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006458"
             ],
             "supertype": "B15",
@@ -206,7 +206,7 @@
         {
             "id": "B3",
             "name": "T3 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006459"
             ],
             "supertype": "B15",
@@ -220,7 +220,7 @@
         {
             "id": "B4",
             "name": "T4 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006452"
             ],
             "supertype": "B15",
@@ -234,7 +234,7 @@
         {
             "id": "B5",
             "name": "T5 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006453"
             ],
             "supertype": "B15",
@@ -248,7 +248,7 @@
         {
             "id": "B6",
             "name": "T6 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006454"
             ],
             "supertype": "B15",
@@ -262,7 +262,7 @@
         {
             "id": "B7",
             "name": "T7 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006455"
             ],
             "supertype": "B15",
@@ -276,7 +276,7 @@
         {
             "id": "B8",
             "name": "T8 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006456"
             ],
             "supertype": "B15",
@@ -290,7 +290,7 @@
         {
             "id": "B9",
             "name": "T9 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006465"
             ],
             "supertype": "B15",
@@ -304,7 +304,7 @@
         {
             "id": "B10",
             "name": "T10 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006466"
             ],
             "supertype": "B15",
@@ -318,7 +318,7 @@
         {
             "id": "B11",
             "name": "T11 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006467"
             ],
             "supertype": "B35",
@@ -332,7 +332,7 @@
         {
             "id": "B12",
             "name": "T12 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006468"
             ],
             "supertype": "B35",
@@ -346,7 +346,7 @@
         {
             "id": "B13",
             "name": "T13 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:19554"
             ],
             "supertype": "B35",
@@ -360,7 +360,7 @@
         {
             "id": "B14",
             "name": "L1 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006448"
             ],
             "supertype": "B35",
@@ -374,7 +374,7 @@
         {
             "id": "B15",
             "name": "Segment of Spinal Cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005844"
             ],
             "isTemplate": true,
@@ -399,7 +399,7 @@
         {
             "id": "B16",
             "name": "Medulla",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001896"
             ],
             "layers": [
@@ -417,196 +417,196 @@
         {
             "id": "B17",
             "name": "Nucleus ambiguus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001719"
             ]
         },
         {
             "id": "B18",
             "name": "T1 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002845"
             ]
         },
         {
             "id": "B19",
             "name": "T2 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002846"
             ]
         },
         {
             "id": "B20",
             "name": "T3 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002847"
             ]
         },
         {
             "id": "B21",
             "name": "T4 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0007712"
             ]
         },
         {
             "id": "B22",
             "name": "T5 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002848"
             ]
         },
         {
             "id": "B23",
             "name": "T6 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002849"
             ]
         },
         {
             "id": "B24",
             "name": "T7 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002850"
             ]
         },
         {
             "id": "B25",
             "name": "T8 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002851"
             ]
         },
         {
             "id": "B26",
             "name": "T9 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002852"
             ]
         },
         {
             "id": "B27",
             "name": "T10 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002853"
             ]
         },
         {
             "id": "B28",
             "name": "T11 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002854"
             ]
         },
         {
             "id": "B29",
             "name": "T12 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002855"
             ]
         },
         {
             "id": "B30",
             "name": "T13 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:25186"
             ]
         },
         {
             "id": "B31",
             "name": "L1 Dorsal Root ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002857"
             ]
         },
         {
             "id": "B32",
             "name": "T1 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B33",
             "name": "T2 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B34",
             "name": "T3 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B35",
             "name": "T4 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B36",
             "name": "T5 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B37",
             "name": "T6 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B38",
             "name": "T7 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B39",
             "name": "T8 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B40",
             "name": "T9 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B41",
             "name": "T10 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B42",
             "name": "T11 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B43",
             "name": "T12 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
         {
             "id": "B44",
             "name": "T13 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014617"
             ]
         },
@@ -617,385 +617,385 @@
         {
             "id": "B45",
             "name": "T1 - T2 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B46",
             "name": "T2 - T3 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B47",
             "name": "T3 - T4 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B48",
             "name": "T4 - T5 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B49",
             "name": "T5 - T6 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B50",
             "name": "T6 - T7 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B51",
             "name": "T7 - T8 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B52",
             "name": "T8 - T9 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B53",
             "name": "T9 - T10 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B54",
             "name": "T10 - T11 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B55",
             "name": "T11 - T12 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B56",
             "name": "T12 - T13 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B57",
             "name": "T13 - L1 Interganglonic segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "B58",
             "name": "T1 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6474"
             ]
         },
         {
             "id": "B59",
             "name": "T2 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6475"
             ]
         },
         {
             "id": "B60",
             "name": "T3 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6476"
             ]
         },
         {
             "id": "B61",
             "name": "T4 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6477"
             ]
         },
         {
             "id": "B62",
             "name": "T5 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6478"
             ]
         },
         {
             "id": "B63",
             "name": "T6 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6479"
             ]
         },
         {
             "id": "B64",
             "name": "T7 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6480"
             ]
         },
         {
             "id": "B65",
             "name": "T8 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6481"
             ]
         },
         {
             "id": "B66",
             "name": "T9 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6482"
             ]
         },
         {
             "id": "B67",
             "name": "T10 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6483"
             ]
         },
         {
             "id": "B68",
             "name": "T11 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6484"
             ]
         },
         {
             "id": "B69",
             "name": "T12 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6485"
             ]
         },
         {
             "id": "B70",
             "name": "T13 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0739295"
             ]
         },
         {
             "id": "B71",
             "name": "T1 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B72",
             "name": "T2 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B73",
             "name": "T3 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B74",
             "name": "T4 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B75",
             "name": "T5 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B76",
             "name": "T6 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B77",
             "name": "T7 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B78",
             "name": "T8 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B79",
             "name": "T9 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B80",
             "name": "T10 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B81",
             "name": "T11 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B82",
             "name": "T12 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B84",
             "name": "T13 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "B83",
             "name": "L1 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12686"
             ]
         },
         {
             "id": "B85",
             "name": "T1 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B86",
             "name": "T2 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B87",
             "name": "T3 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B88",
             "name": "T4 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B89",
             "name": "T5 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B90",
             "name": "T6 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B91",
             "name": "T7 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B92",
             "name": "T8 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B93",
             "name": "T9 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B94",
             "name": "T10 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B95",
             "name": "T11 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B96",
             "name": "T12 ray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B97",
             "name": "T13 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "B124",
             "name": "L1 gray ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:65910"
             ]
         },
         {
             "id": "B98",
             "name": "Adrenal gland",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002369"
             ],
             "layers": [
@@ -1006,14 +1006,14 @@
         {
             "id": "B99",
             "name": "Adrenal cortex",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001235"
             ]
         },
         {
             "id": "B100",
             "name": "Adrenal medulla",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001236"
             ],
             "internalLyphs": [
@@ -1026,14 +1026,14 @@
         {
             "id": "B101",
             "name": "Chromaffin cell of adrenal medulla",
-            "external": [
+            "ontologyTerms": [
                 "FMA:69262"
             ]
         },
         {
             "id": "B102",
             "name": "terminal bronchiole",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002187"
             ],
             "layers": [
@@ -1056,7 +1056,7 @@
         {
             "id": "B103",
             "name": "bronchiole",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002186"
             ],
             "layers": [
@@ -1079,7 +1079,7 @@
         {
             "id": "B104",
             "name": "bronchus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002185"
             ],
             "layers": [
@@ -1102,7 +1102,7 @@
         {
             "id": "B105",
             "name": "trachea",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003126"
             ],
             "layers": [
@@ -1125,35 +1125,35 @@
         {
             "id": "B113",
             "name": "Aortic valve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002137"
             ]
         },
         {
             "id": "B114",
             "name": "Lung capillary",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016405"
             ]
         },
         {
             "id": "B115",
             "name": "Pulmonary valve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002146"
             ]
         },
         {
             "id": "B116",
             "name": "Systemic capillary",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14122"
             ]
         },
         {
             "id": "B117",
             "name": "Smooth muscle cell",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14072"
             ],
             "isTemplate": true,
@@ -1165,7 +1165,7 @@
         {
             "id": "B118",
             "name": "Nicotinic acetylcholine receptor",
-            "external": [
+            "ontologyTerms": [
                 "FMA:61796"
             ],
             "isTemplate": true,
@@ -1176,105 +1176,105 @@
         {
             "id": "B119",
             "name": "trachea parasympathetic ganglia",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C52557"
             ]
         },
         {
             "id": "B120",
             "name": "bronchus parasympathetic ganglia",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C52557"
             ]
         },
         {
             "id": "B121",
             "name": "bronchiole parasympathetic ganglia",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C52557"
             ]
         },
         {
             "id": "B122",
             "name": "terminal bronchiole parasympathetic ganglia",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C52557"
             ]
         },
         {
             "id": "B123",
             "name": "L1 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0024382"
             ]
         },
         {
             "id": "n-supra",
             "name": "Suprarenal vein",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001146"
             ]
         },
         {
             "id": "n-splan",
             "name": "Splanchnic nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003715"
             ]
         },
         {
             "id": "v-bron",
             "name": "Bronchial vein",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001592"
             ]
         },
         {
             "id": "a-pul",
             "name": "Pulmonary artery",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002012"
             ]
         },
         {
             "id": "n-vag",
             "name": "Vagus Nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001759"
             ]
         },
         {
             "id": "v-pul",
             "name": "Pulmonary vein",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002016"
             ]
         },
         {
             "id": "a-bron",
             "name": "Bronchial artery",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002040"
             ]
         },
         {
             "id": "aorta",
             "name": "Aorta",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000947"
             ]
         },
         {
             "id": "v-supra",
             "name": "Suprarenal vein",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001146"
             ]
         },
         {
             "id": "ns",
             "name": "Segment of neuron",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -1287,7 +1287,7 @@
         {
             "id": "ns_bag",
             "name": "Segment of neuron",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -1296,7 +1296,7 @@
         {
             "id": "axon-bag",
             "name": "Axon terminal (kblad)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -1305,7 +1305,7 @@
         {
             "id": "axon-tube",
             "name": "Axon segment (kblad)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -1314,7 +1314,7 @@
         {
             "id": "dend-bag",
             "name": "Dendrite terminal (kblad)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -1323,7 +1323,7 @@
         {
             "id": "dend-tube",
             "name": "Dendrite segment (kblad)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -1332,7 +1332,7 @@
         {
             "id": "snt1_1",
             "name": "Soma of SPR in T1-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1342,7 +1342,7 @@
         {
             "id": "snt2_1",
             "name": "Soma of SPR in T2-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1351,7 +1351,7 @@
         {
             "id": "snt3_1",
             "name": "Soma of SPR in T3-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1360,7 +1360,7 @@
         {
             "id": "snt4_1",
             "name": "Soma of SPR in T4-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1369,7 +1369,7 @@
         {
             "id": "snt5_1",
             "name": "Soma of SPR in T5-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1378,7 +1378,7 @@
         {
             "id": "snt6_1",
             "name": "Soma of SPR in T6-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1387,7 +1387,7 @@
         {
             "id": "snt7_1",
             "name": "Soma of SPR in T7-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1396,7 +1396,7 @@
         {
             "id": "snt8_1",
             "name": "Soma of SPR in T8-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1405,7 +1405,7 @@
         {
             "id": "snt9_1",
             "name": "Soma of SPR in T9-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1414,7 +1414,7 @@
         {
             "id": "snt10_1",
             "name": "Soma of SPR in T10-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1423,7 +1423,7 @@
         {
             "id": "snt11_1",
             "name": "Soma of SPR in T11-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1432,7 +1432,7 @@
         {
             "id": "snt12_1",
             "name": "Soma of SPR in T12-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1441,7 +1441,7 @@
         {
             "id": "snt13_1",
             "name": "Soma of SPR in T13-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1450,7 +1450,7 @@
         {
             "id": "snl1_1",
             "name": "Soma of SPR in L1-Neuron 1(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1459,7 +1459,7 @@
         {
             "id": "snna_2",
             "name": "Soma of PSPR in N_ambiguus-Neuron 2(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1469,7 +1469,7 @@
         {
             "id": "sn-trac_3",
             "name": "Soma of PSPR in trachea_Neuron 3(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1479,7 +1479,7 @@
         {
             "id": "sn-bron_4",
             "name": "Soma of PSPR in bronchus_Neuron 4(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1489,7 +1489,7 @@
         {
             "id": "sn-bronle_5",
             "name": "Soma of PSPR in bronchiole_Neuron 5(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1499,7 +1499,7 @@
         {
             "id": "sn_termbronle_6",
             "name": "Soma of PSPR in terminal bronchiole_Neuron 6(bromo)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "BAG",
@@ -1509,7 +1509,7 @@
         {
             "id": "229",
             "name": "Segment of neuron",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -1524,343 +1524,343 @@
         {
             "id": "BM_1",
             "name": "Water",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:15377"
             ]
         },
         {
             "id": "BM_2",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24839"
             ]
         },
         {
             "id": "BM_3",
             "name": "Endothelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001986"
             ]
         },
         {
             "id": "BM_4",
             "name": "Blood",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000178"
             ]
         },
         {
             "id": "BM_5",
             "name": "Aqueous solution",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ]
         },
         {
             "id": "BM_6",
             "name": "Cerebrospinal fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001359"
             ]
         },
         {
             "id": "BM_7",
             "name": "Smooth muscle",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001135"
             ]
         },
         {
             "id": "BM_8",
             "name": "Connective Tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002384"
             ]
         },
         {
             "id": "BM_9",
             "name": "Sodium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29101"
             ]
         },
         {
             "id": "BM_10",
             "name": "Potassium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29103"
             ]
         },
         {
             "id": "BM_11",
             "name": "Calcium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29108"
             ]
         },
         {
             "id": "BM_12",
             "name": "Chloride ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17996"
             ]
         },
         {
             "id": "BM_13",
             "name": "Hydrogen ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24636"
             ]
         },
         {
             "id": "BM_14",
             "name": "Hydroxide ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:16234"
             ]
         },
         {
             "id": "BM_15",
             "name": "Bicarbonate ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17544"
             ]
         },
         {
             "id": "BM_16",
             "name": "Liquid",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ]
         },
         {
             "id": "BM_17",
             "name": "Fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006314"
             ]
         },
         {
             "id": "BM_18",
             "name": "Peripheral nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000010"
             ]
         },
         {
             "id": "BM_19",
             "name": "Ependyma",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004670"
             ]
         },
         {
             "id": "BM_20",
             "name": "Pia mater",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002361"
             ]
         },
         {
             "id": "BM_21",
             "name": "Central nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001017"
             ]
         },
         {
             "id": "BM_22",
             "name": "Wall of vessel",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0035965"
             ]
         },
         {
             "id": "BM_23",
             "name": "White matter of CNS",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016549"
             ]
         },
         {
             "id": "BM_24",
             "name": "Gray matter of CNS",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016548"
             ]
         },
         {
             "id": "BM_25",
             "name": "lamina I of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006118"
             ]
         },
         {
             "id": "BM_26",
             "name": "lamina II of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002181"
             ]
         },
         {
             "id": "BM_27",
             "name": "lamina III of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016574"
             ]
         },
         {
             "id": "BM_28",
             "name": "lamina IV of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016575"
             ]
         },
         {
             "id": "BM_29",
             "name": "lamina V of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016576"
             ]
         },
         {
             "id": "BM_30",
             "name": "lamina VI of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016577"
             ]
         },
         {
             "id": "BM_31",
             "name": "lamina VII of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016578"
             ]
         },
         {
             "id": "BM_32",
             "name": "lamina VIII of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016579"
             ]
         },
         {
             "id": "BM_33",
             "name": "lamina IX of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016580"
             ]
         },
         {
             "id": "BM_34",
             "name": "lamina X of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004677"
             ]
         },
         {
             "id": "BM_35",
             "name": "Cytosol",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005829"
             ]
         },
         {
             "id": "BM_36",
             "name": "Membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0016020"
             ]
         },
         {
             "id": "BM_37",
             "name": "Plasma membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005886"
             ]
         },
         {
             "id": "BM_38",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005615"
             ]
         },
         {
             "id": "BM_39",
             "name": "Epithelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000483"
             ]
         },
         {
             "id": "BM_40",
             "name": "Basement membrane",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005769"
             ]
         },
         {
             "id": "BM_41",
             "name": "Air",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C73434"
             ]
         },
         {
             "id": "BM_42",
             "name": "Wall of larynx",
-            "external": [
+            "ontologyTerms": [
                 "FMA:64182"
             ]
         },
         {
             "id": "BM_43",
             "name": "Wall of trachea",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7470"
             ]
         },
         {
             "id": "BM_44",
             "name": "Wall of bronchus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:67480"
             ]
         },
         {
             "id": "BM_45",
             "name": "Wall of bronchiole",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74655"
             ]
         },
         {
             "id": "BM_46",
             "name": "Wall of terminal bronchiole",
-            "external": [
+            "ontologyTerms": [
                 "FMA:62792"
             ]
         },
         {
             "id": "BM_47",
             "name": "Wall of pharynx",
-            "external": [
+            "ontologyTerms": [
                 "FMA:55033"
             ]
         },
         {
             "id": "BM_48",
             "name": "Cytoplasm",
-            "external": [
+            "ontologyTerms": [
                 "FMA:66835"
             ]
         },
         {
             "id": "BM_49",
             "name": "Cell Membrane",
-            "external": [
+            "ontologyTerms": [
                 "FMA:63841"
             ]
         }
@@ -1869,7 +1869,7 @@
         {
             "id": "dc-snt1_1",
             "name": "T1-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1884,7 +1884,7 @@
         {
             "id": "ac-snt1_1",
             "name": "T1-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1910,7 +1910,7 @@
         {
             "id": "dc-snt2_1",
             "name": "T2-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1925,7 +1925,7 @@
         {
             "id": "ac-snt2_1",
             "name": "T2-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1951,7 +1951,7 @@
         {
             "id": "dc-snt3_1",
             "name": "T3-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -1966,7 +1966,7 @@
         {
             "id": "ac-snt3_1",
             "name": "T3-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -1992,7 +1992,7 @@
         {
             "id": "dc-snt4_1",
             "name": "T4-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2007,7 +2007,7 @@
         {
             "id": "ac-snt4_1",
             "name": "T4-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2033,7 +2033,7 @@
         {
             "id": "dc-snt5_1",
             "name": "T5-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2048,7 +2048,7 @@
         {
             "id": "ac-snt5_1",
             "name": "T5-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2074,7 +2074,7 @@
         {
             "id": "dc-snt6_1",
             "name": "T6-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2089,7 +2089,7 @@
         {
             "id": "ac-snt6_1",
             "name": "T6-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2115,7 +2115,7 @@
         {
             "id": "dc-snt7_1",
             "name": "T7-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2130,7 +2130,7 @@
         {
             "id": "ac-snt7_1",
             "name": "T7-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2156,7 +2156,7 @@
         {
             "id": "dc-snt8_1",
             "name": "T8-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2171,7 +2171,7 @@
         {
             "id": "ac-snt8_1",
             "name": "T8-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2197,7 +2197,7 @@
         {
             "id": "dc-snt9_1",
             "name": "T9-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2212,7 +2212,7 @@
         {
             "id": "ac-snt9_1",
             "name": "T9-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2238,7 +2238,7 @@
         {
             "id": "dc-snt10_1",
             "name": "T10-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2253,7 +2253,7 @@
         {
             "id": "ac-snt10_1",
             "name": "T10-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2279,7 +2279,7 @@
         {
             "id": "dc-snt11_1",
             "name": "T11-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2294,7 +2294,7 @@
         {
             "id": "ac-snt11_1",
             "name": "T11-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2320,7 +2320,7 @@
         {
             "id": "dc-snt12_1",
             "name": "T12-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2335,7 +2335,7 @@
         {
             "id": "ac-snt12_1",
             "name": "T12-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2361,7 +2361,7 @@
         {
             "id": "dc-snt13_1",
             "name": "T13-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2376,7 +2376,7 @@
         {
             "id": "ac-snt13_1",
             "name": "T13-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2402,7 +2402,7 @@
         {
             "id": "dc-snl1_1",
             "name": "L1-1 SPRG dendrite chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2417,7 +2417,7 @@
         {
             "id": "ac-snl1_1",
             "name": "L1-1 SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2443,7 +2443,7 @@
         {
             "id": "ac-am_1",
             "name": "spinal cord to adrenal medulla SPRG axon chain_Neuron 1 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2463,7 +2463,7 @@
         {
             "id": "dc-snna_2",
             "name": "Med-2 PPRG dendrite chain_Neuron 2 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2478,7 +2478,7 @@
         {
             "id": "ac-snna_2",
             "name": "N_ambiguus-2 PPRG axon chain_Neuron 2 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2498,7 +2498,7 @@
         {
             "id": "ac-tra_2",
             "name": "PPRG in trachea_2 axon chainNeuron 2 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2516,7 +2516,7 @@
         {
             "id": "ac-bron_2",
             "name": "PPRG in bronchus_2 axon chain_Neuron 2 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2534,7 +2534,7 @@
         {
             "id": "ac-bronl_2",
             "name": "PPRG in bronchiole_2 axon chain_Neuron 2 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2552,7 +2552,7 @@
         {
             "id": "ac-terbronl_2",
             "name": "PPRG in terminal bronchiole_2 axon chain_Neuron 2 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2570,7 +2570,7 @@
         {
             "id": "dc-trac_3",
             "name": "PPRG in trachea_3 dendrite chain_Neuron 3 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2585,7 +2585,7 @@
         {
             "id": "ac-trac_3",
             "name": "PPRG in trachea_3 axon chain_Neuron 3 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2603,7 +2603,7 @@
         {
             "id": "dc-bron_4",
             "name": "PPRG in bronchus_4 axon chain_Neuron 4 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2618,7 +2618,7 @@
         {
             "id": "ac-bron_4",
             "name": "PPRG in bronchus_4 dendrite chain_Neuron 4 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2636,7 +2636,7 @@
         {
             "id": "dc-bronle_5",
             "name": "PPRG in bronchiole_5 dendrite chain_Neuron 5 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2651,7 +2651,7 @@
         {
             "id": "ac-bronle_5",
             "name": "PPRG in bronchiole_5 axon chain_Neuron 5 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2669,7 +2669,7 @@
         {
             "id": "dc_termbronle_6",
             "name": "PPRG in terminal bronchiole_6 dendrite chain_Neuron 6 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2684,7 +2684,7 @@
         {
             "id": "ac_termbronle_6",
             "name": "PPRG in terminal bronchiole_6 axon chain_Neuron 6 (bromo)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2702,7 +2702,7 @@
         {
             "id": "SC",
             "name": "spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002240"
             ],
             "lyphs": [
@@ -2729,10 +2729,10 @@
         {
             "id": "neuron-1",
             "name": "Neuron 1",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bromo-1"
             ],
-            "publications": [
+            "references": [
                 "PMID:8300416",
                 "PMID:3198482",
                 "PMID:2384334"
@@ -2741,50 +2741,50 @@
         {
             "id": "neuron-2",
             "name": "Neuron 2",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bromo-2"
             ],
-            "publications": [
+            "references": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
         },
         {
             "id": "neuron-3",
             "name": "Neuron 3",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bromo-3"
             ],
-            "publications": [
+            "references": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
         },
         {
             "id": "neuron-4",
             "name": "Neuron 4",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bromo-4"
             ],
-            "publications": [
+            "references": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
         },
         {
             "id": "neuron-5",
             "name": "Neuron 5",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bromo-5"
             ],
-            "publications": [
+            "references": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
         },
         {
             "id": "neuron-6",
             "name": "Neuron 6",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bromo-6"
             ],
-            "publications": [
+            "references": [
                 "doi:10.1016/B978-0-444-53491-0.09985-5"
             ]
         }

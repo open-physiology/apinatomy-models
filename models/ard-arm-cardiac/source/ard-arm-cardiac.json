@@ -1,5 +1,5 @@
 {
-    "publications": [
+    "references": [
         {
             "id": "PMID:27783854",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/27783854/"
@@ -271,7 +271,7 @@
         {
             "id": "A1",
             "name": "C1 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006469"
             ],
             "supertype": "A96",
@@ -283,7 +283,7 @@
         {
             "id": "A2",
             "name": "C2 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006489"
             ],
             "supertype": "A96"
@@ -291,7 +291,7 @@
         {
             "id": "A3",
             "name": "C3 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006488"
             ],
             "supertype": "A96"
@@ -299,7 +299,7 @@
         {
             "id": "A4",
             "name": "C4 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006490"
             ],
             "supertype": "A96"
@@ -307,7 +307,7 @@
         {
             "id": "A5",
             "name": "C5 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006491"
             ],
             "supertype": "A96"
@@ -315,7 +315,7 @@
         {
             "id": "A6",
             "name": "C6 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006492"
             ],
             "supertype": "A96"
@@ -323,7 +323,7 @@
         {
             "id": "A7",
             "name": "C7 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006493"
             ],
             "supertype": "A96"
@@ -331,7 +331,7 @@
         {
             "id": "A8",
             "name": "C8 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006470"
             ],
             "supertype": "A96"
@@ -339,7 +339,7 @@
         {
             "id": "A9",
             "name": "T1 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006457"
             ],
             "internalLyphs": [
@@ -353,7 +353,7 @@
         {
             "id": "A10",
             "name": "T2 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006458"
             ],
             "internalLyphs": [
@@ -367,7 +367,7 @@
         {
             "id": "A11",
             "name": "T3 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006459"
             ],
             "internalLyphs": [
@@ -381,7 +381,7 @@
         {
             "id": "A12",
             "name": "T4 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006452"
             ],
             "internalLyphs": [
@@ -395,7 +395,7 @@
         {
             "id": "A13",
             "name": "T5 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006453"
             ],
             "internalLyphs": [
@@ -409,7 +409,7 @@
         {
             "id": "A14",
             "name": "T6 spinal segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006454"
             ],
             "internalLyphs": [
@@ -423,42 +423,42 @@
         {
             "id": "A15",
             "name": "C1 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002838"
             ]
         },
         {
             "id": "A16",
             "name": "C2 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002839"
             ]
         },
         {
             "id": "A17",
             "name": "C3 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002840"
             ]
         },
         {
             "id": "A18",
             "name": "C4 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002841"
             ]
         },
         {
             "id": "A19",
             "name": "C5 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002842"
             ]
         },
         {
             "id": "A20",
             "name": "C6 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0007711"
             ],
             "internalLyphs": [
@@ -471,7 +471,7 @@
         {
             "id": "A21",
             "name": "C7 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002843"
             ],
             "internalLyphs": [
@@ -484,7 +484,7 @@
         {
             "id": "A22",
             "name": "C8 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002844"
             ],
             "internalLyphs": [
@@ -497,7 +497,7 @@
         {
             "id": "A23",
             "name": "T1 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002845"
             ],
             "internalLyphs": [
@@ -510,7 +510,7 @@
         {
             "id": "A24",
             "name": "T2 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002846"
             ],
             "internalLyphs": [
@@ -523,7 +523,7 @@
         {
             "id": "A25",
             "name": "T3 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002847"
             ],
             "internalLyphs": [
@@ -536,7 +536,7 @@
         {
             "id": "A26",
             "name": "T4 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0007712"
             ],
             "internalLyphs": [
@@ -549,7 +549,7 @@
         {
             "id": "A27",
             "name": "T5 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002848"
             ],
             "internalLyphs": [
@@ -562,7 +562,7 @@
         {
             "id": "A28",
             "name": "T6 dorsal root ganglia (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002849"
             ],
             "internalLyphs": [
@@ -575,154 +575,154 @@
         {
             "id": "A29",
             "name": "C6 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014634"
             ]
         },
         {
             "id": "A30",
             "name": "C7 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014634"
             ]
         },
         {
             "id": "A31",
             "name": "C8 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0014634"
             ]
         },
         {
             "id": "A32",
             "name": "T1 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7643"
             ]
         },
         {
             "id": "A33",
             "name": "T2 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12897"
             ]
         },
         {
             "id": "A34",
             "name": "T3 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12898"
             ]
         },
         {
             "id": "A35",
             "name": "T4 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12899"
             ]
         },
         {
             "id": "A36",
             "name": "T5 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12900"
             ]
         },
         {
             "id": "A37",
             "name": "T6 ventral root (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12901"
             ]
         },
         {
             "id": "A38",
             "name": "T1 white ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A39",
             "name": "T2 white ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A40",
             "name": "T3 white ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A41",
             "name": "T4 white ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A42",
             "name": "T5 white ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A43",
             "name": "T6 white ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ]
         },
         {
             "id": "A44",
             "name": "T1 gray ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A45",
             "name": "T2 gray ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A46",
             "name": "T3 gray ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A47",
             "name": "T4 gray ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A48",
             "name": "T5 gray ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A49",
             "name": "T6 gray ramus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14055"
             ]
         },
         {
             "id": "A50",
             "name": "T1 sympathetic ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6474"
             ],
             "internalLyphs": [
@@ -735,7 +735,7 @@
         {
             "id": "A51",
             "name": "T2 sympathetic ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6475"
             ],
             "internalLyphs": [
@@ -748,7 +748,7 @@
         {
             "id": "A52",
             "name": "T3 sympathetic ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6476"
             ],
             "internalLyphs": [
@@ -761,7 +761,7 @@
         {
             "id": "A53",
             "name": "T4 sympathetic ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6477"
             ],
             "internalLyphs": [
@@ -774,7 +774,7 @@
         {
             "id": "A54",
             "name": "T5 sympathetic ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6478"
             ],
             "internalLyphs": [
@@ -787,7 +787,7 @@
         {
             "id": "A55",
             "name": "T6 sympathetic ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6479"
             ],
             "internalLyphs": [
@@ -800,42 +800,42 @@
         {
             "id": "A56",
             "name": "T1 - T2 Interganglonic segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777094"
             ]
         },
         {
             "id": "A57",
             "name": "T2 - T3 Interganglonic segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777095"
             ]
         },
         {
             "id": "A58",
             "name": "T3 - T4 Interganglonic segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777096"
             ]
         },
         {
             "id": "A59",
             "name": "T4 - T5 Interganglonic segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777097"
             ]
         },
         {
             "id": "A60",
             "name": "T5 - T6 Interganglonic segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777098"
             ]
         },
         {
             "id": "A61",
             "name": "Inferior cervical ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6961"
             ],
             "internalLyphs": [
@@ -852,7 +852,7 @@
         {
             "id": "A62",
             "name": "Middle cervical ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6468"
             ],
             "internalLyphs": [
@@ -869,7 +869,7 @@
         {
             "id": "A63",
             "name": "Superior cervical ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6467"
             ],
             "internalLyphs": [
@@ -882,7 +882,7 @@
         {
             "id": "A64",
             "name": "Cerebrum (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001869"
             ],
             "internalLyphs": [
@@ -895,35 +895,35 @@
         {
             "id": "A65",
             "name": "Insula (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:67329"
             ]
         },
         {
             "id": "A66",
             "name": "Diencephalon (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001894"
             ]
         },
         {
             "id": "A67",
             "name": "Midbrain (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:61993"
             ]
         },
         {
             "id": "A68",
             "name": "Pons (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:67943"
             ]
         },
         {
             "id": "A69",
             "name": "Medulla (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:61108"
             ],
             "internalLyphs": [
@@ -940,7 +940,7 @@
         {
             "id": "A70",
             "name": "Nucleus Ambiguus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:54588"
             ],
             "internalLyphs": [
@@ -953,7 +953,7 @@
         {
             "id": "A71",
             "name": "Dorsal Motor Vagus (of vagus nerve) (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:54592"
             ],
             "internalLyphs": [
@@ -966,7 +966,7 @@
         {
             "id": "A72",
             "name": "Nucleus Tractus Soltarius (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0009050"
             ],
             "internalLyphs": [
@@ -979,7 +979,7 @@
         {
             "id": "A73",
             "name": "Nodose Ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005363"
             ],
             "internalLyphs": [
@@ -989,7 +989,7 @@
         {
             "id": "A74",
             "name": "Heart (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000948"
             ],
             "internalLyphs": [
@@ -1020,7 +1020,7 @@
         {
             "id": "A75",
             "name": "Right Atrium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7096"
             ],
             "layers": [
@@ -1032,7 +1032,7 @@
         {
             "id": "A76",
             "name": "Right Ventricle (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7098"
             ],
             "layers": [
@@ -1044,7 +1044,7 @@
         {
             "id": "A77",
             "name": "Left Atrium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7097"
             ],
             "layers": [
@@ -1056,7 +1056,7 @@
         {
             "id": "A78",
             "name": "Left Ventricle (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7101"
             ],
             "layers": [
@@ -1068,7 +1068,7 @@
         {
             "id": "A79",
             "name": "Aorta (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:3734"
             ],
             "layers": [
@@ -1081,7 +1081,7 @@
         {
             "id": "A80",
             "name": "Arterial Inferior cervical ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002440"
             ],
             "internalLyphs": [
@@ -1100,7 +1100,7 @@
         {
             "id": "A81",
             "name": "Ventricular Inferior cervical ganglion (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002440"
             ],
             "internalLyphs": [
@@ -1119,7 +1119,7 @@
         {
             "id": "A82",
             "name": "Mediastinal (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C25310"
             ],
             "internalLyphs": [
@@ -1132,21 +1132,21 @@
         {
             "id": "A83",
             "name": "Epicardium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002348"
             ]
         },
         {
             "id": "A84",
             "name": "Myocardium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002349"
             ]
         },
         {
             "id": "A85",
             "name": "Endocardium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002165"
             ],
             "layers": [
@@ -1159,77 +1159,77 @@
         {
             "id": "A86",
             "name": "Pericardium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:16133"
             ]
         },
         {
             "id": "A87",
             "name": "Visceral Pericardium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:16589"
             ]
         },
         {
             "id": "A88",
             "name": "Pericardial Fluid (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002409"
             ]
         },
         {
             "id": "A89",
             "name": "Parietal Pericardium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:16588"
             ]
         },
         {
             "id": "A90",
             "name": "Fibrous Pericardium (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002359"
             ]
         },
         {
             "id": "A91",
             "name": "Epicardial fat (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0015129"
             ]
         },
         {
             "id": "A92",
             "name": "T1 - Inferior cervical ganglion Interganglonic segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "A93",
             "name": "Inferior cervical ganglion - Middle cervical ganglion Interganglonic segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "A94",
             "name": "Middle cervical ganglion - Superior cervical ganglion Interganglonic segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ]
         },
         {
             "id": "A95",
             "name": "Pulmonary artery (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002012"
             ]
         },
         {
             "id": "A96",
             "name": "Segment of Spinal Cord (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005844"
             ],
             "isTemplate": true,
@@ -1257,7 +1257,7 @@
         {
             "id": "229",
             "name": "Segment of neuron (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -1270,7 +1270,7 @@
         {
             "id": "229bag",
             "name": "Segment of neuron bag (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -1280,7 +1280,7 @@
         {
             "id": "229bag2",
             "name": "Segment of neuron  (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -1290,7 +1290,7 @@
         {
             "id": "axon-bag",
             "name": "Axon terminal (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -1304,7 +1304,7 @@
         {
             "id": "axon-tube",
             "name": "Axon segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -1318,7 +1318,7 @@
         {
             "id": "dend-bag",
             "name": "Dendrite terminal (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -1332,7 +1332,7 @@
         {
             "id": "dend-tube",
             "name": "Dendrite segment (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -1341,7 +1341,7 @@
         {
             "id": "sn-nts_1",
             "name": "Soma of sensory neuron in Nucleus Tractus Soltarius_Neuron 1 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1351,7 +1351,7 @@
         {
             "id": "sn-mcg_2",
             "name": "Soma of local circuit neuron in middle cervical ganglion_Neuron 2 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1361,7 +1361,7 @@
         {
             "id": "sn-icg_2",
             "name": "Soma of local circuit neuron in inferior cervical ganglion_Neuron 2 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1371,7 +1371,7 @@
         {
             "id": "snna_4",
             "name": "Soma of PSPR neuron in Nucleus Ambiguus_Neuron 4 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1381,7 +1381,7 @@
         {
             "id": "snmv_4",
             "name": "Soma of PSPR neuron in dorsal motor vagus_Neuron 4 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1390,7 +1390,7 @@
         {
             "id": "sn-t1_5",
             "name": "Soma of SPR neuron in T1 layer 6_ Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1400,7 +1400,7 @@
         {
             "id": "sn-t2_5",
             "name": "Soma of SPR neuron in T2 layer 6_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1409,7 +1409,7 @@
         {
             "id": "sn-t3_5",
             "name": "Soma of SPR neuron in T3 layer 6_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1418,7 +1418,7 @@
         {
             "id": "sn-t4_5",
             "name": "Soma of SPR neuron in T4 layer 6_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1427,7 +1427,7 @@
         {
             "id": "sn-t5_5",
             "name": "Soma of SPR neuron in T5 layer 6_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1436,7 +1436,7 @@
         {
             "id": "sn-t6_5",
             "name": "Soma of SPR neuron in T6 layer 6_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1445,7 +1445,7 @@
         {
             "id": "sn-sgt1_6",
             "name": "Soma of SPO neuron in T1 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1455,7 +1455,7 @@
         {
             "id": "sn-sgt2_6",
             "name": "Soma of SPO neuron in T2 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1464,7 +1464,7 @@
         {
             "id": "sn-sgt3_6",
             "name": "Soma of SPO neuron in T3 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1473,7 +1473,7 @@
         {
             "id": "sn-sgt4_6",
             "name": "Soma of SPO neuron in T4 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1482,7 +1482,7 @@
         {
             "id": "sn-sgt5_6",
             "name": "Soma of SPO neuron in T5 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1491,7 +1491,7 @@
         {
             "id": "sn-sgt6_6",
             "name": "Soma of SPO neuron in T6 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1500,7 +1500,7 @@
         {
             "id": "sn-icg_6",
             "name": "Soma of SPO neuron in inferior cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1509,7 +1509,7 @@
         {
             "id": "sn-mcg_6",
             "name": "Soma of SPO neuron in middle cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1518,7 +1518,7 @@
         {
             "id": "sn-scg_6",
             "name": "Soma of SPO neuron in superior cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1527,7 +1527,7 @@
         {
             "id": "sn-med_6",
             "name": "Soma of SPO neuron in mediastinal_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1536,7 +1536,7 @@
         {
             "id": "sn-aicg_7",
             "name": "Soma PSPO neuron in arterial ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1546,7 +1546,7 @@
         {
             "id": "sn-vicg_7",
             "name": "Soma PSPO neuron in ventricular ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1556,7 +1556,7 @@
         {
             "id": "sn-aicg_8",
             "name": "Soma PSPO neuron in arterial ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1566,7 +1566,7 @@
         {
             "id": "sn-vicg_8",
             "name": "Soma PSPO neuron in ventricular ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1576,7 +1576,7 @@
         {
             "id": "sn-aicg_9",
             "name": "Soma PSPO neuron in arterial ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1586,7 +1586,7 @@
         {
             "id": "sn-vicg_9",
             "name": "Soma PSPO neuron in ventricular ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1596,7 +1596,7 @@
         {
             "id": "sn-aicg_10",
             "name": "Soma LCN in in arterial ICG_Neuron 10 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1606,7 +1606,7 @@
         {
             "id": "sn-vicg_10",
             "name": "Soma in LCN in in ventricular ICG_Neuron 10 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1616,7 +1616,7 @@
         {
             "id": "sn-ng_11",
             "name": "Soma in sensory neuron in nodose ganglia_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1626,7 +1626,7 @@
         {
             "id": "sn-mcg_12",
             "name": "Soma of sensory neuron in middle cervical ganglion_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1636,7 +1636,7 @@
         {
             "id": "sn-icg_12",
             "name": "Soma of sensory neuron in inferior cervical ganglion_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1645,7 +1645,7 @@
         {
             "id": "sn-c6drg_13",
             "name": "Soma of sensory neuron in C6 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1655,7 +1655,7 @@
         {
             "id": "sn-c7drg_13",
             "name": "Soma of sensory neuron in C7 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1664,7 +1664,7 @@
         {
             "id": "sn-c8drg_13",
             "name": "Soma of sensory neuron in C8 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1673,7 +1673,7 @@
         {
             "id": "sn-t1drg_13",
             "name": "Soma of sensory neuron in T1 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1682,7 +1682,7 @@
         {
             "id": "sn-t2drg_13",
             "name": "Soma of sensory neuron in T2 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1691,7 +1691,7 @@
         {
             "id": "sn-t3drg_13",
             "name": "Soma of sensory neuron in T3 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1700,7 +1700,7 @@
         {
             "id": "sn-t4drg_13",
             "name": "Soma of sensory neuron in T4 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1709,7 +1709,7 @@
         {
             "id": "sn-t5drg_13",
             "name": "Soma of sensory neuron in T5 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1718,7 +1718,7 @@
         {
             "id": "sn-t6drg_13",
             "name": "Soma of sensory neuron in T6 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "topology": "TUBE",
@@ -1729,301 +1729,301 @@
         {
             "id": "AM_1",
             "name": "Urine",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000178"
             ]
         },
         {
             "id": "AM_2",
             "name": "Water",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:15377"
             ]
         },
         {
             "id": "AM_3",
             "name": "Urea",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:16199"
             ]
         },
         {
             "id": "AM_4",
             "name": "Uric Acid",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:27226"
             ]
         },
         {
             "id": "AM_5",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24839"
             ]
         },
         {
             "id": "AM_6",
             "name": "Endothelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001986"
             ]
         },
         {
             "id": "AM_7",
             "name": "Blood",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000178"
             ]
         },
         {
             "id": "AM_8",
             "name": "Aqueous solution",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ]
         },
         {
             "id": "AM_9",
             "name": "Cerebrospinal fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001359"
             ]
         },
         {
             "id": "AM_10",
             "name": "Smooth muscle",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001135"
             ]
         },
         {
             "id": "AM_11",
             "name": "Connective Tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002384"
             ]
         },
         {
             "id": "AM_12",
             "name": "Sodium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29101"
             ]
         },
         {
             "id": "AM_13",
             "name": "Potassium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29103"
             ]
         },
         {
             "id": "AM_14",
             "name": "Calcium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29108"
             ]
         },
         {
             "id": "AM_15",
             "name": "Chloride ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17996"
             ]
         },
         {
             "id": "AM_16",
             "name": "Hydrogen ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24636"
             ]
         },
         {
             "id": "AM_17",
             "name": "Hydroxide ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:16234"
             ]
         },
         {
             "id": "AM_18",
             "name": "Bicarbonate ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17544"
             ]
         },
         {
             "id": "AM_19",
             "name": "Liquid",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ]
         },
         {
             "id": "AM_20",
             "name": "Fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006314"
             ]
         },
         {
             "id": "AM_21",
             "name": "Peripheral nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000010"
             ]
         },
         {
             "id": "AM_22",
             "name": "Ependyma",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004670"
             ]
         },
         {
             "id": "AM_23",
             "name": "Pia mater",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002361"
             ]
         },
         {
             "id": "AM_24",
             "name": "Central nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001017"
             ]
         },
         {
             "id": "AM_25",
             "name": "Wall of vessel",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0035965"
             ]
         },
         {
             "id": "AM_26",
             "name": "White matter of CNS",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016549"
             ]
         },
         {
             "id": "AM_27",
             "name": "Gray matter of CNS",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016548"
             ]
         },
         {
             "id": "AM_28",
             "name": "lamina I of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006118"
             ]
         },
         {
             "id": "AM_29",
             "name": "lamina II of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002181"
             ]
         },
         {
             "id": "AM_30",
             "name": "lamina III of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016574"
             ]
         },
         {
             "id": "AM_31",
             "name": "lamina IV of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016575"
             ]
         },
         {
             "id": "AM_32",
             "name": "lamina V of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016576"
             ]
         },
         {
             "id": "AM_33",
             "name": "lamina VI of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016577"
             ]
         },
         {
             "id": "AM_34",
             "name": "lamina VII of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016578"
             ]
         },
         {
             "id": "AM_35",
             "name": "lamina VIII of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016579"
             ]
         },
         {
             "id": "AM_36",
             "name": "lamina IX of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016580"
             ]
         },
         {
             "id": "AM_37",
             "name": "lamina X of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004677"
             ]
         },
         {
             "id": "AM_38",
             "name": "Cytosol",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005829"
             ]
         },
         {
             "id": "AM_39",
             "name": "Membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0016020"
             ]
         },
         {
             "id": "AM_40",
             "name": "Plasma membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005886"
             ]
         },
         {
             "id": "AM_41",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005615"
             ]
         },
         {
             "id": "AM_42",
             "name": "Epithelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000483"
             ]
         },
         {
             "id": "AM_43",
             "name": "Basement membrane",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005769"
             ]
         },
@@ -2034,63 +2034,63 @@
         {
             "id": "AM_45",
             "name": "Epicardium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002348"
             ]
         },
         {
             "id": "AM_46",
             "name": "Myocardium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002349"
             ]
         },
         {
             "id": "AM_47",
             "name": "Endocardium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002165"
             ]
         },
         {
             "id": "AM_48",
             "name": "Pericardium",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:16133"
             ]
         },
         {
             "id": "AM_49",
             "name": "Visceral Pericardium",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:16589"
             ]
         },
         {
             "id": "AM_50",
             "name": "Pericardial Fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002409"
             ]
         },
         {
             "id": "AM_51",
             "name": "Parietal Pericardium",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:16588"
             ]
         },
         {
             "id": "AM_52",
             "name": "Fibrous Pericardium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002359"
             ]
         },
         {
             "id": "AM_53",
             "name": "Epicardial fat",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0015129"
             ]
         },
@@ -2103,7 +2103,7 @@
         {
             "id": "sc1",
             "name": "Spinal Cord segments(aacar)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002240"
             ],
             "lyphs": [
@@ -2129,7 +2129,7 @@
         {
             "id": "dc-sn-nts_1",
             "name": "Dendrite in nucleus tractus soltarius_Neuron 1 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2144,7 +2144,7 @@
         {
             "id": "ac-sn-nts_1",
             "name": "Axon in nucleus tractus soltarius_Neuron 1 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2172,7 +2172,7 @@
         {
             "id": "dn-sn-mcg_2",
             "name": "Dendrite in Middle cervical ganglion_Neuron 2 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2188,7 +2188,7 @@
         {
             "id": "an-sn-mcg_2",
             "name": "Axon in Middle cervical ganglion_Neuron 2 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2204,7 +2204,7 @@
         {
             "id": "dn-sn-icg_2",
             "name": "Dendrite in Inferior cervical ganglion_Neuron 2 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2220,7 +2220,7 @@
         {
             "id": "an-sn-icg_2",
             "name": "Axon in Inferior cervical ganglion_Neuron 2 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2236,7 +2236,7 @@
         {
             "id": "dc-snna_4",
             "name": "Dendrite in Nucleus Ambiguus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2251,7 +2251,7 @@
         {
             "id": "ac-snna_4",
             "name": "Axon in Nucleus Ambiguus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2269,7 +2269,7 @@
         {
             "id": "dc-snmv_4",
             "name": "Dendrite in dorsal motor vagus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2284,7 +2284,7 @@
         {
             "id": "ac-dmv_4",
             "name": "Axon in dorsal motor vagus (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2302,7 +2302,7 @@
         {
             "id": "ac-aicg_4",
             "name": "Axon from Nucleus Ambiguus and Dorsal Motor Vagus to Artrial ICG (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2322,7 +2322,7 @@
         {
             "id": "ac-vicg_4",
             "name": "Axon from Nucleus Ambiguus and Dorsal Motor Vagus to Ventricular ICG (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2342,7 +2342,7 @@
         {
             "id": "dc-t6_5",
             "name": "Dendrite in T6 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2357,7 +2357,7 @@
         {
             "id": "ac_t6_5",
             "name": "Axon in T6 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2381,7 +2381,7 @@
         {
             "id": "ac_t6sg_5",
             "name": "Axon in T6 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2429,7 +2429,7 @@
         {
             "id": "ac_t6sgout_5",
             "name": "Axon out of T6 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2445,7 +2445,7 @@
         {
             "id": "dc-t5_5",
             "name": "Dendrite in T5 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2460,7 +2460,7 @@
         {
             "id": "ac_t5_5",
             "name": "Axon in T5 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2484,7 +2484,7 @@
         {
             "id": "ac_t5sg_5",
             "name": "Axon in T5 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2528,7 +2528,7 @@
         {
             "id": "ac_t5sgout_5",
             "name": "Axon out of T5 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2544,7 +2544,7 @@
         {
             "id": "dc-t4_5",
             "name": "Dendrite in T4 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2559,7 +2559,7 @@
         {
             "id": "ac_t4_5",
             "name": "Axon in T4 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2583,7 +2583,7 @@
         {
             "id": "ac_t4sg_5",
             "name": "Axon in T4 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2623,7 +2623,7 @@
         {
             "id": "ac_t4sgout_5",
             "name": "Axon out of T4 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2639,7 +2639,7 @@
         {
             "id": "dc-t3_5",
             "name": "Dendrite in T3 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2654,7 +2654,7 @@
         {
             "id": "ac_t3_5",
             "name": "Axon in T3 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2678,7 +2678,7 @@
         {
             "id": "ac_t3sg_5",
             "name": "Axon in T3 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2714,7 +2714,7 @@
         {
             "id": "ac_t3sgout_5",
             "name": "Axon out of T3 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2730,7 +2730,7 @@
         {
             "id": "dc-t2_5",
             "name": "Dendrite in T2 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2745,7 +2745,7 @@
         {
             "id": "ac_t2_5",
             "name": "Axon in T2 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2769,7 +2769,7 @@
         {
             "id": "ac_t2sg_5",
             "name": "Axon in T2 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2801,7 +2801,7 @@
         {
             "id": "ac_t2sgout_5",
             "name": "Axon out of T2 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2818,7 +2818,7 @@
         {
             "id": "dc-t1_5",
             "name": "Dendrite in T1 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2833,7 +2833,7 @@
         {
             "id": "ac_t1_5",
             "name": "Axon in T1 spinal cord segment_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2857,7 +2857,7 @@
         {
             "id": "ac_t1sg_5",
             "name": "Axon in T1 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -2885,7 +2885,7 @@
         {
             "id": "ac_t1sgout_5",
             "name": "Axon out of T1 sympathetic ganglia_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2901,7 +2901,7 @@
         {
             "id": "ac_common_scg_5",
             "name": "Axon terminal in SCG of Neuron 5",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2916,7 +2916,7 @@
         {
             "id": "ac_med_5",
             "name": "Axon from sympathetic ganglia to mediastinal_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2932,7 +2932,7 @@
         {
             "id": "ac_vicg_5",
             "name": "Axon from sympathetic ganglia to ventricular ICG_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2952,7 +2952,7 @@
         {
             "id": "ac_aicg_5",
             "name": "Axon from sympathetic ganglia to atrial ICG_Neuron 5 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -2972,7 +2972,7 @@
         {
             "id": "dc-sn-sgt1_6",
             "name": "Dendrite in the T1 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -2987,7 +2987,7 @@
         {
             "id": "ac-sn-sgt1_6",
             "name": "Axon in the T1 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3003,7 +3003,7 @@
         {
             "id": "dc-sn-sgt2_6",
             "name": "Dendrite in the T2 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3018,7 +3018,7 @@
         {
             "id": "ac-sn-sgt2_6",
             "name": "Axon in the T2 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3034,7 +3034,7 @@
         {
             "id": "dc-sn-sgt3_6",
             "name": "Dendrite in the T3 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3049,7 +3049,7 @@
         {
             "id": "ac-sn-sgt3_6",
             "name": "Axon in the T3 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3065,7 +3065,7 @@
         {
             "id": "dc-sn-sgt4_6",
             "name": "Dendrite in the T4 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3080,7 +3080,7 @@
         {
             "id": "ac-sn-sgt4_6",
             "name": "Axon in the T4 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3096,7 +3096,7 @@
         {
             "id": "dc-sn-sgt5_6",
             "name": "Dendrite in the T5 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3111,7 +3111,7 @@
         {
             "id": "ac-sn-sgt5_6",
             "name": "Axon in the T5 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3127,7 +3127,7 @@
         {
             "id": "dc-sn-sgt6_6",
             "name": "Dendrite in the T6 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3142,7 +3142,7 @@
         {
             "id": "ac-sn-sgt6_6",
             "name": "Axon in the T6 sympathetic ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3158,7 +3158,7 @@
         {
             "id": "dc-sn-icg_6",
             "name": "Dendrite in the Inferior cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3173,7 +3173,7 @@
         {
             "id": "ac-sn-icg_6",
             "name": "Axon in the Inferior cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3189,7 +3189,7 @@
         {
             "id": "dc-sn-mcg_6",
             "name": "Dendrite in the Middle cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3204,7 +3204,7 @@
         {
             "id": "ac-sn-mcg_6",
             "name": "Axon in the Middle cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3220,7 +3220,7 @@
         {
             "id": "dc-sn-scg_6",
             "name": "Dendrite in the Superior cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3235,7 +3235,7 @@
         {
             "id": "ac-sn-scg_6",
             "name": "Axon in the Superior cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3251,7 +3251,7 @@
         {
             "id": "dc-sn-med_6",
             "name": "Dendrite in the Mediastinal_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3266,7 +3266,7 @@
         {
             "id": "ac-sn-med_6",
             "name": "Axon in the Mediastinal_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3282,7 +3282,7 @@
         {
             "id": "ac-sn-vicg_6",
             "name": "Axon to the Ventricular Inferior cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3310,7 +3310,7 @@
         {
             "id": "ac-sn-rv2_6",
             "name": "Axon in right ventricle layer 0_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3328,7 +3328,7 @@
         {
             "id": "an-sn-rv1_6",
             "name": "Axon in right ventricle layer 1_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3348,7 +3348,7 @@
         {
             "id": "ac-sn-lv2_6",
             "name": "Axon in left ventricle layer 0_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3366,7 +3366,7 @@
         {
             "id": "an-sn-lv1_6",
             "name": "Axon in left ventricle layer 1_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3386,7 +3386,7 @@
         {
             "id": "ac-sn-aicg_6",
             "name": "Axon to the Arterial Inferior cervical ganglion_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3406,7 +3406,7 @@
         {
             "id": "ac-sn-ra2_6",
             "name": "Axon in right atrium layer 0_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3424,7 +3424,7 @@
         {
             "id": "an-sn-ra1_6",
             "name": "Axon in right atrium layer 1_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3444,7 +3444,7 @@
         {
             "id": "ac-sn-la2_6",
             "name": "Axon in left atrium layer 0_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3462,7 +3462,7 @@
         {
             "id": "an-sn-la1_6",
             "name": "Axon in left atrium layer 1_Neuron 6 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3482,7 +3482,7 @@
         {
             "id": "dc-aicg_7",
             "name": "Dendrite in atrial ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3498,7 +3498,7 @@
         {
             "id": "ac-aicg_7",
             "name": "Axon in atrial ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3526,7 +3526,7 @@
         {
             "id": "ac-atr-epi_7",
             "name": "Axon in left atrium to epicardium from atrial ICG _Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3542,7 +3542,7 @@
         {
             "id": "ac-la0_7",
             "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3560,7 +3560,7 @@
         {
             "id": "ac-la1_7",
             "name": "Axon in left atrium layer 1 from atrial ICG _Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3580,7 +3580,7 @@
         {
             "id": "ac-ra0_7",
             "name": "Axon in right atrium layer 0 from atrial ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3598,7 +3598,7 @@
         {
             "id": "ac-ra1_7",
             "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3618,7 +3618,7 @@
         {
             "id": "dc-vicg_7",
             "name": "Dendrite in ventricular ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3633,7 +3633,7 @@
         {
             "id": "ac-vicg_7",
             "name": "Axon in ventricular ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3653,7 +3653,7 @@
         {
             "id": "ac-ven-epi_7",
             "name": "Axon in epicardium near left ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3669,7 +3669,7 @@
         {
             "id": "ac-lv0_7",
             "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3687,7 +3687,7 @@
         {
             "id": "ac-lv1_7",
             "name": "Axon in left ventricle layer 1 from ventricular ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3706,7 +3706,7 @@
         {
             "id": "ac-rv0_7",
             "name": "Axon in right ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3724,7 +3724,7 @@
         {
             "id": "ac-rv1_7",
             "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 7 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3744,7 +3744,7 @@
         {
             "id": "dc-aicg_8",
             "name": "Dendrite in atrial ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3759,7 +3759,7 @@
         {
             "id": "ac-aicg_8",
             "name": "Axon in atrial ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3787,7 +3787,7 @@
         {
             "id": "ac-atr-epi_8",
             "name": "Axon in epicardium from atrial ICG _Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3803,7 +3803,7 @@
         {
             "id": "ac-la0_8",
             "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3821,7 +3821,7 @@
         {
             "id": "ac-la1_8",
             "name": "Axon in left atrium layer 1 from atrial ICG _Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3841,7 +3841,7 @@
         {
             "id": "ac-ra0_8",
             "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3859,7 +3859,7 @@
         {
             "id": "ac-ra1_8",
             "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3879,7 +3879,7 @@
         {
             "id": "dc-vicg_8",
             "name": "Dendrite in ventricular ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -3894,7 +3894,7 @@
         {
             "id": "ac-vicg_8",
             "name": "Axon in ventricular ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -3914,7 +3914,7 @@
         {
             "id": "ac-ven-epi_8",
             "name": "Axon in epicardium from ventricular ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3930,7 +3930,7 @@
         {
             "id": "ac-lv0_8",
             "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3948,7 +3948,7 @@
         {
             "id": "ac-lv1_8",
             "name": "Axon in left ventricle layer 1 from ventricular ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3968,7 +3968,7 @@
         {
             "id": "ac-rv0_8",
             "name": "Axon in right ventricle layer 0 from ventricular ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -3986,7 +3986,7 @@
         {
             "id": "ac-rv1_8",
             "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 8 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4006,7 +4006,7 @@
         {
             "id": "dc-aicg_9",
             "name": "Dendrite in atrial ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4021,7 +4021,7 @@
         {
             "id": "ac-aicg_9",
             "name": "Axon in atrial ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -4041,7 +4041,7 @@
         {
             "id": "ac-atr-epi_9",
             "name": "Axon in epicardium from atrial ICG _Neuron 9  (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4057,7 +4057,7 @@
         {
             "id": "ac-la0_9",
             "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 9  (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4075,7 +4075,7 @@
         {
             "id": "ac-la1_9",
             "name": "Axon in left atrium layer 1 from atrial ICG _Neuron 9  (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4095,7 +4095,7 @@
         {
             "id": "ac-ra0_9",
             "name": "Axon in right atrium layer 0 from atrial ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4113,7 +4113,7 @@
         {
             "id": "ac-ra1_9",
             "name": "Axon in right atrium layer 1 from atrial ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4133,7 +4133,7 @@
         {
             "id": "dc-vicg_9",
             "name": "Dendrite in ventricular ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4149,7 +4149,7 @@
         {
             "id": "ac-vicg_9",
             "name": "Axon in ventricular ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
@@ -4169,7 +4169,7 @@
         {
             "id": "ac-ven-epi_9",
             "name": "Axon in epicardium from ventricular ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4185,7 +4185,7 @@
         {
             "id": "ac-lv0_9",
             "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4203,7 +4203,7 @@
         {
             "id": "ac-lv1_9",
             "name": "Axon in left ventricle layer 1 from ventricular ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4223,7 +4223,7 @@
         {
             "id": "ac-rv0_9",
             "name": "Axon in right ventricle layer 0 from ventricular ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4241,7 +4241,7 @@
         {
             "id": "ac-rv1_9",
             "name": "Axon in right ventricle layer 1 from ventricular ICG_Neuron 9 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4261,7 +4261,7 @@
         {
             "id": "dc-aicg_10",
             "name": "Dendrite in atrial ICG_Neuron 10 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4277,7 +4277,7 @@
         {
             "id": "ac-aicg_10",
             "name": "Axon in atrial ICG_Neuron 10 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4293,7 +4293,7 @@
         {
             "id": "dc-vicg_10",
             "name": "Dendrite in ventricular ICG_Neuron 10 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4308,7 +4308,7 @@
         {
             "id": "ac-vicg_10",
             "name": "Axon in ventricular ICG_Neuron 10 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4324,7 +4324,7 @@
         {
             "id": "dc-sn-ng_11",
             "name": "Dendrite in the nodose ganglia_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4352,7 +4352,7 @@
         {
             "id": "ac-sn-med_11",
             "name": "Axon in the nodose ganglia to medulla_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4372,7 +4372,7 @@
         {
             "id": "dc-sn-la_11",
             "name": "Dendrite from heart_layer 5 to heartla2_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4388,7 +4388,7 @@
         {
             "id": "dc-sn-la2_11",
             "name": "Dendrite from heart_layer 5 to area around left atrium_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4404,7 +4404,7 @@
         {
             "id": "dc-sn-la0_11",
             "name": "Dendrite from heart to left atrium_layer 0_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4422,7 +4422,7 @@
         {
             "id": "dc-sn-la1_11",
             "name": "Dendrite from heart to left atrium_layer 1_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4442,7 +4442,7 @@
         {
             "id": "dc-sn-lv_11",
             "name": "Dendrite from heart_layer 5 of heart to left ventricle and aorta_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4458,7 +4458,7 @@
         {
             "id": "dc-sn-lv2_11",
             "name": "Dendrite from heart_layer 5 to heartlv2_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4474,7 +4474,7 @@
         {
             "id": "dc-sn-lv0_11",
             "name": "Dendrite from heart to left ventricle_layer 0_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4492,7 +4492,7 @@
         {
             "id": "dc-sn-lv1_11",
             "name": "Dendrite from heart to left ventricle_layer 1_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4512,7 +4512,7 @@
         {
             "id": "dc-sn-olv_11",
             "name": "Dendrite from heart_layer 5 to area outside of left ventricle_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4528,7 +4528,7 @@
         {
             "id": "dc-sn-out_11",
             "name": "Dendrite to blood supply_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4544,7 +4544,7 @@
         {
             "id": "dc-sn-aorta_11",
             "name": "Dendrite to aorta - layer 0_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4562,7 +4562,7 @@
         {
             "id": "dc-sn-pulartery_11",
             "name": "Dendrite to pulmonary artery - layer 0_Neuron 11 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4580,7 +4580,7 @@
         {
             "id": "dc-sn-mcg_12",
             "name": "Dendrite in the middle cervical ganglion_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4596,7 +4596,7 @@
         {
             "id": "ac-sn-mcg_12",
             "name": "Axon in the middle cervical ganglion_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4612,7 +4612,7 @@
         {
             "id": "dc-sn-icg_12",
             "name": "Dendrite in the inferior cervical ganglion_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4628,7 +4628,7 @@
         {
             "id": "ac-sn-icg_12",
             "name": "Axon in the inferior cervical ganglion_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4644,7 +4644,7 @@
         {
             "id": "dc-sn-pulart_12",
             "name": "Dendrite from icg and mcg to pulmonary artery-layer 0_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4660,7 +4660,7 @@
         {
             "id": "dc-sn-aorta_12",
             "name": "Dendrite from icg and mcg to aorta-layer 0_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -4676,7 +4676,7 @@
         {
             "id": "dc-sn-c6drg_13",
             "name": "Dendrite in the C6 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4692,7 +4692,7 @@
         {
             "id": "ac-sn-c6drg_13",
             "name": "Axon in the C6 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4710,7 +4710,7 @@
         {
             "id": "dc-sn-c7drg_13",
             "name": "Dendrite in the C7 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4726,7 +4726,7 @@
         {
             "id": "ac-sn-c7drg_13",
             "name": "Axon in the C7 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4744,7 +4744,7 @@
         {
             "id": "dc-sn-c8drg_13",
             "name": "Dendrite in the C8 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4760,7 +4760,7 @@
         {
             "id": "ac-sn-c8drg_13",
             "name": "Axon in the C8 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4778,7 +4778,7 @@
         {
             "id": "dc-sn-t1drg_13",
             "name": "Dendrite in the T1 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4794,7 +4794,7 @@
         {
             "id": "ac-sn-t1drg_13",
             "name": "Axon in the T1 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4812,7 +4812,7 @@
         {
             "id": "dc-sn-t2drg_13",
             "name": "Dendrite in the T2 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4828,7 +4828,7 @@
         {
             "id": "ac-sn-t2drg_13",
             "name": "Axon in the T2 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4846,7 +4846,7 @@
         {
             "id": "dc-sn-t3drg_13",
             "name": "Dendrite in the T3 dorsal root ganglia_Neuron 12 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4862,7 +4862,7 @@
         {
             "id": "ac-sn-t3drg_13",
             "name": "Axon in the T3 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4880,7 +4880,7 @@
         {
             "id": "dc-sn-t4drg_13",
             "name": "Dendrite in the T4 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4896,7 +4896,7 @@
         {
             "id": "ac-sn-t4drg_13",
             "name": "Axon in the T4 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4914,7 +4914,7 @@
         {
             "id": "dc-sn-t5drg_13",
             "name": "Dendrite in the T5 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4930,7 +4930,7 @@
         {
             "id": "ac-sn-t5drg_13",
             "name": "Axon in the T5 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4948,7 +4948,7 @@
         {
             "id": "dc-sn-t6drg_13",
             "name": "Dendrite in the T6 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4964,7 +4964,7 @@
         {
             "id": "ac-sn-t6drg_13",
             "name": "Axon in the T6 dorsal root ganglia_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
@@ -4982,7 +4982,7 @@
         {
             "id": "dc-out_13",
             "name": "Dendrite in heart_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
@@ -4998,7 +4998,7 @@
         {
             "id": "dc-stay_13",
             "name": "Dendrite branch to heart (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -5014,7 +5014,7 @@
         {
             "id": "dc-lv0_13",
             "name": "Dendrite to left ventricle-layer 0_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
@@ -5032,7 +5032,7 @@
         {
             "id": "ac-lv1_13",
             "name": "Dendrite to left ventricle-layer 1_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
@@ -5052,7 +5052,7 @@
         {
             "id": "ac-rv0_13",
             "name": "Dendrite to right ventricle-layer 0_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
@@ -5070,7 +5070,7 @@
         {
             "id": "ac-rv1_13",
             "name": "Dendrite to right ventricle-layer 1_Neuron 13 (aacar)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
@@ -5092,128 +5092,128 @@
         {
             "id": "neuron-1",
             "name": "Neuron 1",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-1"
             ]
         },
         {
             "id": "neuron-2m",
             "name": "Neuron 2m",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-2m"
             ]
         },
         {
             "id": "neuron-2i",
             "name": "Neuron 2i",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-2i"
             ]
         },
         {
             "id": "neuron-4",
             "name": "Neuron 4",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-4"
             ]
         },
         {
             "id": "neuron-5",
             "name": "Neuron 5",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-5"
             ],
-            "publications": [
+            "references": [
                 "PMID:27783854"
             ]
         },
         {
             "id": "neuron-6",
             "name": "Neuron 6",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-6"
             ]
         },
         {
             "id": "neuron-7a",
             "name": "Neuron 7a",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-7a"
             ]
         },
         {
             "id": "neuron-8a",
             "name": "Neuron 8a",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-8a"
             ]
         },
         {
             "id": "neuron-9a",
             "name": "Neuron 9a",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-9a"
             ]
         },
         {
             "id": "neuron-10a",
             "name": "Neuron 10a",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-10a"
             ]
         },
         {
             "id": "neuron-7v",
             "name": "Neuron 7v",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-7v"
             ]
         },
         {
             "id": "neuron-8v",
             "name": "Neuron 8v",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-8v"
             ]
         },
         {
             "id": "neuron-9v",
             "name": "Neuron 9v",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-9v"
             ]
         },
         {
             "id": "neuron-10v",
             "name": "Neuron 10v",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-10v"
             ]
         },
         {
             "id": "neuron-11",
             "name": "Neuron 11",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-11"
             ],
-            "publications": [
+            "references": [
                 "PMID:27783854"
             ]
         },
         {
             "id": "neuron-12",
             "name": "Neuron 12",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-12"
             ]
         },
         {
             "id": "neuron-13",
             "name": "Neuron 13",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-13"
             ],
-            "publications": [
+            "references": [
                 "PMID:27783854"
             ]
         }

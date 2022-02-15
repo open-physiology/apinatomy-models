@@ -1,5 +1,5 @@
 {
-    "publications": [
+    "references": [
         {
             "id": "PMID:6736296",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/6736296/"
@@ -242,7 +242,7 @@
         {
             "id": "S1",
             "name": "T13 spinal segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:19554"
             ],
             "supertype": "S_129"
@@ -250,7 +250,7 @@
         {
             "id": "S2",
             "name": "L1 spinal segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006448"
             ],
             "supertype": "S_129"
@@ -258,7 +258,7 @@
         {
             "id": "S3",
             "name": "L2 spinal segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006450"
             ],
             "supertype": "S_129"
@@ -266,7 +266,7 @@
         {
             "id": "S4",
             "name": "L3 spinal segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006449"
             ],
             "supertype": "S_129",
@@ -280,7 +280,7 @@
         {
             "id": "S5",
             "name": "L4 spinal segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006451"
             ],
             "supertype": "S_129",
@@ -294,7 +294,7 @@
         {
             "id": "S6",
             "name": "L5 spinal segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006447"
             ],
             "supertype": "S_129"
@@ -302,7 +302,7 @@
         {
             "id": "S7",
             "name": "T13 Dorsal Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "EMAPA:25186"
             ],
             "internalLyphs": [
@@ -315,7 +315,7 @@
         {
             "id": "S8",
             "name": "L1 Dorsal Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002857"
             ],
             "internalLyphs": [
@@ -328,7 +328,7 @@
         {
             "id": "S9",
             "name": "L2 Dorsal Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002856"
             ],
             "internalLyphs": [
@@ -341,7 +341,7 @@
         {
             "id": "S10",
             "name": "L3 Dorsal Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002858"
             ],
             "internalLyphs": [
@@ -354,7 +354,7 @@
         {
             "id": "S11",
             "name": "L4 Dorsal Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003943"
             ],
             "internalLyphs": [
@@ -367,7 +367,7 @@
         {
             "id": "S12",
             "name": "L5 Dorsal Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002261"
             ],
             "internalLyphs": [
@@ -380,42 +380,42 @@
         {
             "id": "S13",
             "name": "T13 Ventral Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S14",
             "name": "L1 Ventral Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S15",
             "name": "L2 Ventral Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S16",
             "name": "L3 Ventral Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S17",
             "name": "L4 Ventral Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S18",
             "name": "L5 Dorsal Root ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002859"
             ],
             "isTemplate": true
@@ -423,154 +423,154 @@
         {
             "id": "S19",
             "name": "T13 - L1 Interganglionic segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777087"
             ]
         },
         {
             "id": "S20",
             "name": "L1 - L2 Interganglionic segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777088"
             ]
         },
         {
             "id": "S21",
             "name": "L2 - L3 Interganglionic segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777089"
             ]
         },
         {
             "id": "S22",
             "name": "L3 - L4 Interganglionic segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777090"
             ]
         },
         {
             "id": "S23",
             "name": "L4 - L5 Interganglionic segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0777091"
             ]
         },
         {
             "id": "S24",
             "name": "T13 sympathetic ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0739295"
             ]
         },
         {
             "id": "S25",
             "name": "L1 sympathetic ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6540"
             ]
         },
         {
             "id": "S26",
             "name": "L2 sympathetic ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6541"
             ]
         },
         {
             "id": "S27",
             "name": "L3 sympathetic ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6542"
             ]
         },
         {
             "id": "S28",
             "name": "L4 sympathetic ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6543"
             ]
         },
         {
             "id": "S29",
             "name": "L5 sympathetic ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0739296"
             ]
         },
         {
             "id": "S30",
             "name": "T13 gray ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:5876"
             ]
         },
         {
             "id": "S31",
             "name": "L1 gray ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:65910"
             ]
         },
         {
             "id": "S32",
             "name": "L2 gray ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:65911"
             ]
         },
         {
             "id": "S33",
             "name": "L3 gray ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:65912"
             ]
         },
         {
             "id": "S34",
             "name": "L4 gray ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:65913"
             ]
         },
         {
             "id": "S35",
             "name": "L5 gray ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:65914"
             ]
         },
         {
             "id": "S36",
             "name": "T13 white ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:5875"
             ]
         },
         {
             "id": "S37",
             "name": "L1 white ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12697"
             ]
         },
         {
             "id": "S38",
             "name": "L2 white ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12698"
             ]
         },
         {
             "id": "S39",
             "name": "L3 white ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:12699"
             ]
         },
         {
             "id": "S40",
             "name": "L4 white ramus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:5875"
             ],
             "isTemplate": true
@@ -578,7 +578,7 @@
         {
             "id": "S41",
             "name": "Inferior Mesenteric Ganglion (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005453"
             ],
             "internalLyphs": [
@@ -591,7 +591,7 @@
         {
             "id": "S42",
             "name": "colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001155"
             ],
             "layers": [
@@ -634,7 +634,7 @@
         {
             "id": "S43",
             "name": "myenteric nerve plexus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002439"
             ],
             "internalLyphs": [
@@ -647,7 +647,7 @@
         {
             "id": "S44",
             "name": "serosa of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003335"
             ],
             "internalLyphs": [
@@ -660,7 +660,7 @@
         {
             "id": "S45",
             "name": "Longitudinal muscle layer of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14987"
             ],
             "internalLyphs": [
@@ -675,7 +675,7 @@
         {
             "id": "S46",
             "name": "circular muscle layer of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14988"
             ],
             "internalLyphs": [
@@ -690,7 +690,7 @@
         {
             "id": "S47",
             "name": "submucosal nerve plexus (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:21542"
             ],
             "internalLyphs": [
@@ -703,7 +703,7 @@
         {
             "id": "S48",
             "name": "lamina propria of mucosa of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0007177"
             ],
             "internalLyphs": [
@@ -720,7 +720,7 @@
         {
             "id": "S49",
             "name": "epithelium of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:17302"
             ],
             "internalLyphs": [
@@ -735,7 +735,7 @@
         {
             "id": "S50",
             "name": "lumen of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0007159"
             ],
             "internalLyphs": [
@@ -750,7 +750,7 @@
         {
             "id": "S51",
             "name": "smooth muscle fiber of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:15663"
             ],
             "isTemplate": true
@@ -758,14 +758,14 @@
         {
             "id": "S52",
             "name": "Peyer's patch in lamina propria (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001211"
             ]
         },
         {
             "id": "S53",
             "name": "goblet cell (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:13148"
             ],
             "isTemplate": true
@@ -773,42 +773,42 @@
         {
             "id": "S54",
             "name": "enterocyte (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:62122"
             ]
         },
         {
             "id": "S55",
             "name": "goblet cell in lumen of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:13148"
             ]
         },
         {
             "id": "S56",
             "name": "goblet cell in epitehium of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:13148"
             ]
         },
         {
             "id": "S57",
             "name": "enterocyte cell in lumen of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:62122"
             ]
         },
         {
             "id": "S58",
             "name": "enterocyte cell in epitehium of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:62122"
             ]
         },
         {
             "id": "S_129",
             "name": "Segment of Spinal Cord (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005844"
             ],
             "isTemplate": true,
@@ -836,7 +836,7 @@
         {
             "id": "229",
             "name": "Segment of neuron (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true
@@ -844,7 +844,7 @@
         {
             "id": "229bag",
             "name": "Segment of neuron (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -854,7 +854,7 @@
         {
             "id": "axon-bag",
             "name": "Axon terminal (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -868,7 +868,7 @@
         {
             "id": "axon-tube",
             "name": "Axon segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -882,7 +882,7 @@
         {
             "id": "dend-bag",
             "name": "Dendrite terminal (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -896,7 +896,7 @@
         {
             "id": "dend-tube",
             "name": "Dendrite segment (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -910,7 +910,7 @@
         {
             "id": "S59",
             "name": "Blood vessel (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001981"
             ],
             "isTemplate": true,
@@ -922,49 +922,49 @@
         {
             "id": "S60",
             "name": "Blood vessel in serosa of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S61",
             "name": "Blood vessel in longitudinal muscle layer of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S62",
             "name": "Blood vessel in myenteric nerve plexus in colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S63",
             "name": "Blood vessel in circular muscle layer in colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S64",
             "name": "Blood vessel in submucosal nerve plexus of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "S65",
             "name": "Blood vessel in lamina propria of mucosa of colon (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "dcn-l3_b",
             "name": "Soma of SPR neuron in L3_Neuron B (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -973,7 +973,7 @@
         {
             "id": "dcn-l4_b",
             "name": "Soma of SPR neuron in L4_Neuron B (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229"
@@ -981,7 +981,7 @@
         {
             "id": "dcn-t13drg_c",
             "name": "Soma of spinal afferent neuron in T13 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -990,7 +990,7 @@
         {
             "id": "dcn-l1drg_c",
             "name": "Soma of spinal afferent neuron in L1 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229"
@@ -998,7 +998,7 @@
         {
             "id": "dcn-l2drg_c",
             "name": "Soma of spinal afferent neuron in L2 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229"
@@ -1006,7 +1006,7 @@
         {
             "id": "dcn-l3drg_c",
             "name": "Soma of spinal afferent neuron in L3 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229"
@@ -1014,7 +1014,7 @@
         {
             "id": "dcn-l4drg_c",
             "name": "Soma of spinal afferent neuron in L4 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229"
@@ -1022,7 +1022,7 @@
         {
             "id": "dcn-l5drg_c",
             "name": "Soma of spinal afferent neuron in L5 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229"
@@ -1030,7 +1030,7 @@
         {
             "id": "dcn-img_d",
             "name": "Soma of SPO neuron in IMG_Neuron D (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1039,7 +1039,7 @@
         {
             "id": "dcn-img_f",
             "name": "Soma of SPO neuron in IMG_Neuron F (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1048,7 +1048,7 @@
         {
             "id": "dcn-img_g",
             "name": "Soma of SPO neuron in IMG_Neuron G (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1057,7 +1057,7 @@
         {
             "id": "dcn-img_h",
             "name": "Soma of SPO neuron in IMG_Neuron H (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1066,7 +1066,7 @@
         {
             "id": "dcn-mp_i",
             "name": "Soma of interneuron neuron in myenteric plexus of colon_Neuron I (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1075,7 +1075,7 @@
         {
             "id": "dcn_mp_j",
             "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1084,7 +1084,7 @@
         {
             "id": "dcn_mp2_j",
             "name": "Soma of excitatory motor neuron in myenteric plexus of colon_Neuron J' (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1093,7 +1093,7 @@
         {
             "id": "dcn-mp_k",
             "name": "Soma of interneuron in myenteric plexus_Neuron K(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1102,7 +1102,7 @@
         {
             "id": "dcn-mp_l",
             "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1111,7 +1111,7 @@
         {
             "id": "dcn-mp2_l",
             "name": "Soma of inhibitory motor neuron in myenteric plexus_Neuron L' (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1120,7 +1120,7 @@
         {
             "id": "dcn-mp_m",
             "name": "Soma of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1129,7 +1129,7 @@
         {
             "id": "dcn-mp_n",
             "name": "Soma of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1138,7 +1138,7 @@
         {
             "id": "dcn-sp-o",
             "name": "Soma of vasodilatory motor neuron in submucosal plexus_Neuron O (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1147,7 +1147,7 @@
         {
             "id": "dcn-mp-p",
             "name": "Soma of secretomotor neuron in submucosal plexus of colon_Neuron P (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1156,7 +1156,7 @@
         {
             "id": "dcn-mp_q",
             "name": "Soma of intestinofugal in myenteric plexus of colon_Neuron Q (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -1165,14 +1165,14 @@
         {
             "id": "n-lumspl",
             "name": "Lumbar Splanchnic nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0018683"
             ]
         },
         {
             "id": "n-lumcol",
             "name": "Lumbar Colonic Nerve",
-            "external": [
+            "ontologyTerms": [
                 "FMA:5861"
             ]
         }
@@ -1181,28 +1181,28 @@
         {
             "id": "SM_2",
             "name": "Water",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:15377"
             ]
         },
         {
             "id": "SM_5",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24839"
             ]
         },
         {
             "id": "SM_6",
             "name": "Endothelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001986"
             ]
         },
         {
             "id": "SM_7",
             "name": "Blood",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000178"
             ],
             "materials": [
@@ -1212,7 +1212,7 @@
         {
             "id": "SM_8",
             "name": "Aqueous solution",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ],
             "materials": [
@@ -1231,7 +1231,7 @@
         {
             "id": "SM_9",
             "name": "Cerebrospinal fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001359"
             ],
             "materials": [
@@ -1241,84 +1241,84 @@
         {
             "id": "SM_10",
             "name": "Smooth muscle",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001135"
             ]
         },
         {
             "id": "SM_11",
             "name": "Connective Tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002384"
             ]
         },
         {
             "id": "SM_13",
             "name": "Sodium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29101"
             ]
         },
         {
             "id": "SM_14",
             "name": "Potassium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29103"
             ]
         },
         {
             "id": "SM_15",
             "name": "Calcium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29108"
             ]
         },
         {
             "id": "SM_16",
             "name": "Chloride ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17996"
             ]
         },
         {
             "id": "SM_17",
             "name": "Hydrogen ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24636"
             ]
         },
         {
             "id": "SM_18",
             "name": "Hydroxide ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:16234"
             ]
         },
         {
             "id": "SM_19",
             "name": "Bicarbonate ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17544"
             ]
         },
         {
             "id": "SM_20",
             "name": "Liquid",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ]
         },
         {
             "id": "SM_21",
             "name": "Fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006314"
             ]
         },
         {
             "id": "SM_22",
             "name": "Peripheral nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000010"
             ],
             "materials": [
@@ -1328,21 +1328,21 @@
         {
             "id": "SM_23",
             "name": "Ependyma",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004670"
             ]
         },
         {
             "id": "SM_24",
             "name": "Pia mater",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002361"
             ]
         },
         {
             "id": "SM_25",
             "name": "Central nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001017"
             ],
             "materials": [
@@ -1352,7 +1352,7 @@
         {
             "id": "SM_26",
             "name": "Wall of vessel",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0035965"
             ],
             "materials": [
@@ -1362,126 +1362,126 @@
         {
             "id": "SM_27",
             "name": "White matter of CNS",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016549"
             ]
         },
         {
             "id": "SM_28",
             "name": "Gray matter of CNS",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016548"
             ]
         },
         {
             "id": "SM_77",
             "name": "lamina I of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006118"
             ]
         },
         {
             "id": "SM_78",
             "name": "lamina II of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002181"
             ]
         },
         {
             "id": "SM_79",
             "name": "lamina III of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016574"
             ]
         },
         {
             "id": "SM_80",
             "name": "lamina IV of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016575"
             ]
         },
         {
             "id": "SM_81",
             "name": "lamina V of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016576"
             ]
         },
         {
             "id": "SM_82",
             "name": "lamina VI of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016577"
             ]
         },
         {
             "id": "SM_83",
             "name": "lamina VII of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016578"
             ]
         },
         {
             "id": "SM_84",
             "name": "lamina VIII of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016579"
             ]
         },
         {
             "id": "SM_85",
             "name": "lamina IX of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0016580"
             ]
         },
         {
             "id": "SM_86",
             "name": "lamina X of gray matter of spinal cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004677"
             ]
         },
         {
             "id": "SM_54",
             "name": "Cytosol",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005829"
             ]
         },
         {
             "id": "SM_55",
             "name": "Membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0016020"
             ]
         },
         {
             "id": "SM_56",
             "name": "Plasma membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005886"
             ]
         },
         {
             "id": "SM_116",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005615"
             ]
         },
         {
             "id": "SM_87",
             "name": "Epithelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000483"
             ]
         },
         {
             "id": "SM_89",
             "name": "Basement membrane",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005769"
             ]
         }
@@ -1490,7 +1490,7 @@
         {
             "id": "sc",
             "name": "Spinal Cord",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002240"
             ],
             "lyphs": [
@@ -1506,7 +1506,7 @@
         {
             "id": "dg_vg",
             "name": "Dorsal and Ventral root ganglia",
-            "external": [
+            "ontologyTerms": [
                 "FMA:55653"
             ],
             "lyphs": [
@@ -1529,7 +1529,7 @@
         {
             "id": "sg",
             "name": "Sympathetic chain",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000407"
             ],
             "lyphs": [
@@ -1561,7 +1561,7 @@
         {
             "id": "img",
             "name": "Inferior Mesenteric Ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005453"
             ],
             "lyphs": [
@@ -1572,7 +1572,7 @@
         {
             "id": "col",
             "name": "Colon",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001155"
             ],
             "lyphs": [
@@ -1583,7 +1583,7 @@
         {
             "id": "dc-l3_b",
             "name": "Dendrite chain of Symp preganglionic neuron in L3_Neuron B (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns1",
@@ -1598,7 +1598,7 @@
         {
             "id": "ac-l3_b",
             "name": "Axon chain of Symp preganglionic neuron in L3_Neuron B (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns2",
@@ -1622,7 +1622,7 @@
         {
             "id": "dc-l4_b",
             "name": "Dendrite chain of Symp preganglionic neuron in L4_Neuron B (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns3",
@@ -1637,7 +1637,7 @@
         {
             "id": "ac-l4_b",
             "name": "Axon chain of Symp preganglionic neuron in L4_Neuron B (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns4",
@@ -1657,7 +1657,7 @@
         {
             "id": "ac-l42_b",
             "name": "Axon chain from L3 and L4 Symp preganglionic neuron to IMG_Neuron B (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns5",
@@ -1679,7 +1679,7 @@
         {
             "id": "dc-t13drg_c",
             "name": "Dendrite chain of spinal afferent neuron in T13 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns7",
@@ -1695,7 +1695,7 @@
         {
             "id": "ac-t13drgsc_c",
             "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns8",
@@ -1715,7 +1715,7 @@
         {
             "id": "ac-t13drgl11_c",
             "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer11_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns10",
@@ -1733,7 +1733,7 @@
         {
             "id": "ac-t13drgl8_c",
             "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer8_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns10",
@@ -1751,7 +1751,7 @@
         {
             "id": "ac-t13drgl6_c",
             "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer6_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns10",
@@ -1769,7 +1769,7 @@
         {
             "id": "ac-t13drgl2_c",
             "name": "Axon chain of spinal afferent neuron in T13 DRG to T13 segment layer 2_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns10",
@@ -1787,7 +1787,7 @@
         {
             "id": "dc-l1drg_c",
             "name": "Dendrite chain of spinal afferent neuron in L1 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns12",
@@ -1803,7 +1803,7 @@
         {
             "id": "ac-l1drgl12_c",
             "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer12_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns13",
@@ -1823,7 +1823,7 @@
         {
             "id": "ac-l1drgl11_c",
             "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer11_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns15",
@@ -1841,7 +1841,7 @@
         {
             "id": "ac-l1drgl8_c",
             "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer8_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns15",
@@ -1859,7 +1859,7 @@
         {
             "id": "ac-l1drgl6_c",
             "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer6_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns15",
@@ -1877,7 +1877,7 @@
         {
             "id": "ac-l1drgl2_c",
             "name": "Axon chain of spinal afferent neuron in L1 DRG to L1 segment layer 2_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns15",
@@ -1895,7 +1895,7 @@
         {
             "id": "dc-l2drg_c",
             "name": "Dendrite chain of spinal afferent neuron in L2 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns17",
@@ -1911,7 +1911,7 @@
         {
             "id": "ac-l2drgl12_c",
             "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer12_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns18",
@@ -1931,7 +1931,7 @@
         {
             "id": "ac-l2drgl11_c",
             "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer11_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns20",
@@ -1949,7 +1949,7 @@
         {
             "id": "ac-l2drgl8_c",
             "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer8_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns20",
@@ -1967,7 +1967,7 @@
         {
             "id": "ac-l2drgl6_c",
             "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer6_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns20",
@@ -1985,7 +1985,7 @@
         {
             "id": "ac-l2drgl2_c",
             "name": "Axon chain of spinal afferent neuron in L2 DRG to L2 segment layer 2_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns20",
@@ -2003,7 +2003,7 @@
         {
             "id": "dc-l3drg_c",
             "name": "Dendrite chain of spinal afferent neuron in L3 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns22",
@@ -2019,7 +2019,7 @@
         {
             "id": "ac-l3drgl12_c",
             "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer12_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns23",
@@ -2039,7 +2039,7 @@
         {
             "id": "ac-l3drgl11_c",
             "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer11_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns25",
@@ -2057,7 +2057,7 @@
         {
             "id": "ac-l3drgl8_c",
             "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer8_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns25",
@@ -2075,7 +2075,7 @@
         {
             "id": "ac-l3drgl6_c",
             "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer6_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns25",
@@ -2093,7 +2093,7 @@
         {
             "id": "ac-l3drgl2_c",
             "name": "Axon chain of spinal afferent neuron in L3 DRG to L3 segment layer 2_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns25",
@@ -2111,7 +2111,7 @@
         {
             "id": "dc-l4drg_c",
             "name": "Dendrite chain of spinal afferent neuron in L4 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns26",
@@ -2127,7 +2127,7 @@
         {
             "id": "ac-l4drgl12_c",
             "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer12_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns27",
@@ -2147,7 +2147,7 @@
         {
             "id": "ac-l4drgl11_c",
             "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer11_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns29",
@@ -2165,7 +2165,7 @@
         {
             "id": "ac-l4drgl8_c",
             "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer8_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns29",
@@ -2183,7 +2183,7 @@
         {
             "id": "ac-l4drgl6_c",
             "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer6_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns29",
@@ -2201,7 +2201,7 @@
         {
             "id": "ac-l4drgl2_c",
             "name": "Axon chain of spinal afferent neuron in L4 DRG to L4 segment layer 2_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns29",
@@ -2219,7 +2219,7 @@
         {
             "id": "dc-l5drg_c",
             "name": "Dendrite chain of spinal afferent neuron in L5 DRG_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns30",
@@ -2235,7 +2235,7 @@
         {
             "id": "ac-l5drgl12_c",
             "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer12_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns31",
@@ -2255,7 +2255,7 @@
         {
             "id": "ac-l5drgl11_c",
             "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer11_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns33",
@@ -2273,7 +2273,7 @@
         {
             "id": "ac-l5drgl8_c",
             "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer8_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns33",
@@ -2291,7 +2291,7 @@
         {
             "id": "ac-l5drgl6_c",
             "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer6_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns33",
@@ -2309,7 +2309,7 @@
         {
             "id": "ac-l5drgl2_c",
             "name": "Axon chain of spinal afferent neuron in L5 DRG to L5 segment layer 2_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns33",
@@ -2327,7 +2327,7 @@
         {
             "id": "dc_col_c",
             "name": "Dendrite chain from DRG to colon_layer1_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns7_1",
@@ -2343,7 +2343,7 @@
         {
             "id": "dc_col-lay7_c",
             "name": "Dendrite chain to colon layer 7_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns9_5",
@@ -2361,7 +2361,7 @@
         {
             "id": "dc_col-lay5_c",
             "name": "Dendrite chain to colon layer 5_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns9_5",
@@ -2383,7 +2383,7 @@
         {
             "id": "dc_col-lay3_c",
             "name": "Dendrite chain to colon layer 3_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns9_5",
@@ -2409,7 +2409,7 @@
         {
             "id": "dc_col-lay2_c",
             "name": "Dendrite chain to colon layer 2_Neuron C (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns9_5",
@@ -2437,7 +2437,7 @@
         {
             "id": "dc-img_d",
             "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron D (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns34",
@@ -2452,7 +2452,7 @@
         {
             "id": "ac-img_d",
             "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron D (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns35",
@@ -2484,7 +2484,7 @@
         {
             "id": "dc-img_f",
             "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron F (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns36",
@@ -2499,7 +2499,7 @@
         {
             "id": "ac-img_f",
             "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron F (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns37",
@@ -2529,7 +2529,7 @@
         {
             "id": "dc-img_g",
             "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron G (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns39",
@@ -2541,7 +2541,7 @@
         {
             "id": "ac-img_g",
             "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron G (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns40",
@@ -2565,7 +2565,7 @@
         {
             "id": "dc-img_h",
             "name": "Dendrite chain of Symp postganglionic neuron in IMG_Neuron H (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns42",
@@ -2577,7 +2577,7 @@
         {
             "id": "ac-img_h",
             "name": "Axon chain of Symp postganglionic neuron in IMG_Neuron H (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns43",
@@ -2605,7 +2605,7 @@
         {
             "id": "dc-mp_i",
             "name": "Dendrite chain of interneuron neuron in myenteric plexus of colon_Neuron I (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns45",
@@ -2620,7 +2620,7 @@
         {
             "id": "ac-mp_i",
             "name": "Axon chain of interneuron neuron in myenteric plexus of colon_Neuron I (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns46",
@@ -2636,7 +2636,7 @@
         {
             "id": "dc_mp_j",
             "name": "Dendrite chain of excitatory motor neuron in myenteric plexus of colon_Neuron J (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns48",
@@ -2651,7 +2651,7 @@
         {
             "id": "ac_mp_j",
             "name": "Axon chain of excitatory motor neuron in myenteric plexus of colon_Neuron J (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns49",
@@ -2669,7 +2669,7 @@
         {
             "id": "dc_mp2_j",
             "name": "Dendrite chain of excitatory motor neuron in myenteric plexus of colon_Neuron J' (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns51",
@@ -2684,7 +2684,7 @@
         {
             "id": "ac_mp2_j",
             "name": "Axon chain of excitatory motor neuron in myenteric plexus of colon_Neuron J' (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns52",
@@ -2702,7 +2702,7 @@
         {
             "id": "dc-mp_k",
             "name": "Dendrite chain of interneuron in myenteric plexus_Neuron K(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns54",
@@ -2717,7 +2717,7 @@
         {
             "id": "ac-mp_k",
             "name": "Axon chain of interneuron in myenteric plexus_Neuron K(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns55",
@@ -2733,7 +2733,7 @@
         {
             "id": "dc-mp_l",
             "name": "Dendrite chain of inhibitory motor neuron in myenteric plexus_Neuron L(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns57",
@@ -2748,7 +2748,7 @@
         {
             "id": "ac-mp_l",
             "name": "Axon chain of inhibitory motor neuron in myenteric plexus_Neuron L(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns58",
@@ -2766,7 +2766,7 @@
         {
             "id": "dc-mp2_l",
             "name": "Dendrite chain of inhibitory motor neuron in myenteric plexus_Neuron L'(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns60",
@@ -2781,7 +2781,7 @@
         {
             "id": "ac-mp2_l",
             "name": "Axon chain of inhibitory motor neuron in myenteric plexus_Neuron L'(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns61",
@@ -2799,7 +2799,7 @@
         {
             "id": "dc-mp_m",
             "name": "Dendrite chain of intrinsic primary afferent neuron in myenteric plexus of colon_Neuron M(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns63",
@@ -2814,7 +2814,7 @@
         {
             "id": "ac-mp_m",
             "name": "Axon chain of intrinsic primary afferent neuron to layer 5_Neuron M(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns64",
@@ -2830,7 +2830,7 @@
         {
             "id": "ac-mp23_m",
             "name": "Axon chain of intrinsic primary afferent neuron to layer 3_Neuron M(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns64",
@@ -2850,7 +2850,7 @@
         {
             "id": "ac-mp22_m",
             "name": "Axon chain of intrinsic primary afferent neuron to layer 2_Neuron M(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns64",
@@ -2872,7 +2872,7 @@
         {
             "id": "dc-mp_n",
             "name": "Dendrite chain of intrinsic primary afferent neurons in submucosal plexus of colon_Neuron N(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns68",
@@ -2887,7 +2887,7 @@
         {
             "id": "ac-mp2_n",
             "name": "Axon chain of intrinsic primary afferent neurons to layer 2 of colon_Neuron N(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns69",
@@ -2905,7 +2905,7 @@
         {
             "id": "ac-mp3_n",
             "name": "Axon chain of intrinsic primary afferent neurons connect in layer 3 _Neuron N(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns69",
@@ -2921,7 +2921,7 @@
         {
             "id": "ac-mp5_n",
             "name": "Axon chain of intrinsic primary afferent neurons to from connect to layer 5_Neuron N(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns69",
@@ -2941,7 +2941,7 @@
         {
             "id": "dc-sp_o",
             "name": "Dendrite chain of vasodilatory motor neuron in submucosal plexus_Neuron O(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns73",
@@ -2956,7 +2956,7 @@
         {
             "id": "ac-sp_o",
             "name": "Axon chain of vasodilatory motor neuron in submucosal plexus_Neuron O(sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns74",
@@ -2974,7 +2974,7 @@
         {
             "id": "dc-mp-p",
             "name": "Dendrite chain of secretomotor neuron in submucosal plexus of colon_Neuron P (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns76",
@@ -2989,7 +2989,7 @@
         {
             "id": "ac-mp-p",
             "name": "Axon chain of secretomotor neuron in submucosal plexus of colon_Neuron P (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns77",
@@ -3007,7 +3007,7 @@
         {
             "id": "dc-mp_q",
             "name": "Dendrite chain of intestinafugal neuron in myenteric plexus of colon_Neuron Q (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "ns79",
@@ -3022,7 +3022,7 @@
         {
             "id": "ac-mp_q",
             "name": "Axon chain of intestinafugal neuron in myenteric plexus of colon_Neuron Q (sdcol)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "ns80",
@@ -3048,119 +3048,119 @@
         {
             "id": "neuron-b",
             "name": "Neuron b",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-b"
             ]
         },
         {
             "id": "neuron-c",
             "name": "Neuron c",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-c"
             ]
         },
         {
             "id": "neuron-d",
             "name": "Neuron d",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-d"
             ]
         },
         {
             "id": "neuron-f",
             "name": "Neuron f",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-f"
             ]
         },
         {
             "id": "neuron-g",
             "name": "Neuron g",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-g"
             ]
         },
         {
             "id": "neuron-h",
             "name": "Neuron h",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-h"
             ]
         },
         {
             "id": "neuron-i",
             "name": "Neuron i",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-i"
             ]
         },
         {
             "id": "neuron-j",
             "name": "Neuron j",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-j"
             ]
         },
         {
             "id": "neuron-j2",
             "name": "Neuron j2",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-j-prime"
             ]
         },
         {
             "id": "neuron-k",
             "name": "Neuron k",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-k"
             ]
         },
         {
             "id": "neuron-l",
             "name": "Neuron l",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-l"
             ]
         },
         {
             "id": "neuron-l2",
             "name": "Neuron l2",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-l-prime"
             ]
         },
         {
             "id": "neuron-m",
             "name": "Neuron m",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-m"
             ]
         },
         {
             "id": "neuron-n",
             "name": "Neuron n",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-n"
             ]
         },
         {
             "id": "neuron-o",
             "name": "Neuron o",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-o"
             ]
         },
         {
             "id": "neuron-p",
             "name": "Neuron p",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-p"
             ]
         },
         {
             "id": "neuron-q",
             "name": "Neuron q",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-q"
             ]
         },

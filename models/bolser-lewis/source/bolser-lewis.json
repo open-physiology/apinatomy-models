@@ -1,5 +1,5 @@
 {
-    "publications": [
+    "references": [
         {
             "id": "PMID:7782568",
             "uri": "https://www.ncbi.nlm.nih.gov/pubmed/7782568"
@@ -1373,7 +1373,7 @@
         {
             "id": "200",
             "name": "Diencephalon",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001894",
                 "ILX:0103217"
             ],
@@ -1386,7 +1386,7 @@
         {
             "id": "201",
             "name": "Hypothalamus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001898",
                 "ILX:0105177"
             ],
@@ -1397,7 +1397,7 @@
         {
             "id": "202",
             "name": "Paraventricular nucleus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001920"
             ],
             "internalLyphs": [
@@ -1407,7 +1407,7 @@
         {
             "id": "203",
             "name": "Midbrain",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001891",
                 "ILX:0106935"
             ],
@@ -1420,7 +1420,7 @@
         {
             "id": "204",
             "name": "Pons",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000988",
                 "ILX:0109019"
             ],
@@ -1433,7 +1433,7 @@
         {
             "id": "205",
             "name": "Medulla",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001896",
                 "ILX:0738301"
             ],
@@ -1446,7 +1446,7 @@
         {
             "id": "206",
             "name": "C1 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006469"
             ],
             "layers": [
@@ -1458,7 +1458,7 @@
         {
             "id": "207",
             "name": "C2 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006489"
             ],
             "layers": [
@@ -1470,7 +1470,7 @@
         {
             "id": "208",
             "name": "C3 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006488"
             ],
             "layers": [
@@ -1482,7 +1482,7 @@
         {
             "id": "209",
             "name": "C4 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006490"
             ],
             "layers": [
@@ -1494,7 +1494,7 @@
         {
             "id": "210",
             "name": "C5 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006491"
             ],
             "layers": [
@@ -1506,7 +1506,7 @@
         {
             "id": "211",
             "name": "C6 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006492"
             ],
             "layers": [
@@ -1518,7 +1518,7 @@
         {
             "id": "212",
             "name": "C7 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006493"
             ],
             "layers": [
@@ -1530,7 +1530,7 @@
         {
             "id": "213",
             "name": "C8 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006470"
             ],
             "layers": [
@@ -1542,7 +1542,7 @@
         {
             "id": "214",
             "name": "T1 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006457"
             ],
             "layers": [
@@ -1554,7 +1554,7 @@
         {
             "id": "215",
             "name": "T2 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006458"
             ],
             "layers": [
@@ -1566,7 +1566,7 @@
         {
             "id": "216",
             "name": "T3 spinal segment",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006459"
             ],
             "layers": [
@@ -1578,7 +1578,7 @@
         {
             "id": "217",
             "name": "T1 sympathetic ganglion",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6474"
             ],
             "layers": [
@@ -1588,7 +1588,7 @@
         {
             "id": "218",
             "name": "Inferior cervical ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002440",
                 "ILX:0734766"
             ],
@@ -1599,7 +1599,7 @@
         {
             "id": "219",
             "name": "Middle cervical ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001990",
                 "ILX:0726454"
             ],
@@ -1610,7 +1610,7 @@
         {
             "id": "220",
             "name": "Superior cervical ganglion",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001989",
                 "ILX:0725956"
             ],
@@ -1640,7 +1640,7 @@
         {
             "id": "221",
             "name": "Larynx",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001737",
                 "ILX:0727818"
             ],
@@ -1652,7 +1652,7 @@
         {
             "id": "222",
             "name": "Trachea",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003126",
                 "ILX:0729183"
             ],
@@ -1664,7 +1664,7 @@
         {
             "id": "223",
             "name": "Aortic arch",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001508",
                 "ILX:0738302"
             ],
@@ -1676,7 +1676,7 @@
         {
             "id": "224",
             "name": "Common carotid artery",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0010197"
             ],
             "layers": [
@@ -1687,7 +1687,7 @@
         {
             "id": "225",
             "name": "Internal carotid artery",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001532",
                 "ILX:0736647"
             ],
@@ -1699,7 +1699,7 @@
         {
             "id": "110in223",
             "name": "Wall of aortic arch",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738304"
             ],
             "supertype": "110",
@@ -1710,7 +1710,7 @@
         {
             "id": "110in224",
             "name": "Wall of common carotid artery",
-            "external": [
+            "ontologyTerms": [
                 "FMA:66284"
             ],
             "supertype": "110",
@@ -1721,7 +1721,7 @@
         {
             "id": "110in225",
             "name": "Wall of internal carotid artery",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738305"
             ],
             "supertype": "110",
@@ -1732,7 +1732,7 @@
         {
             "id": "226",
             "name": "Epiglottis",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000388",
                 "ILX:0103886"
             ],
@@ -1745,7 +1745,7 @@
         {
             "id": "227",
             "name": "Tongue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001723",
                 "ILX:0111810"
             ],
@@ -1758,7 +1758,7 @@
         {
             "id": "228",
             "name": "Rexed Lamina VII of T1",
-            "external": [
+            "ontologyTerms": [
                 "FMA:68868"
             ],
             "internalLyphs": [
@@ -1768,7 +1768,7 @@
         {
             "id": "229",
             "name": "Segment of neuron",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -1781,7 +1781,7 @@
         {
             "id": "229bag",
             "name": "Segment of neuron (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true,
@@ -1790,7 +1790,7 @@
         {
             "id": "axon-bag",
             "name": "Axon terminal (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -1799,7 +1799,7 @@
         {
             "id": "axon-tube",
             "name": "Axon segment (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:280355188"
             ],
             "isTemplate": true,
@@ -1808,7 +1808,7 @@
         {
             "id": "dend-bag",
             "name": "Dendrite terminal (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -1817,7 +1817,7 @@
         {
             "id": "dend-tube",
             "name": "Dendrite segment (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
@@ -1826,7 +1826,7 @@
         {
             "id": "107in214",
             "name": "Neural tissue of T1",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738306"
             ],
             "supertype": "107",
@@ -1838,7 +1838,7 @@
         {
             "id": "107in200",
             "name": "Neural tissue of the diencephalon",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738307"
             ],
             "supertype": "107",
@@ -1849,7 +1849,7 @@
         {
             "id": "230",
             "name": "T1 ventral root",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7643"
             ],
             "layers": [
@@ -1859,7 +1859,7 @@
         {
             "id": "231",
             "name": "T1 white ramus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:14056"
             ],
             "layers": [
@@ -1869,7 +1869,7 @@
         {
             "id": "232",
             "name": "T1-ICG sympathetic cord",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738291"
             ],
             "layers": [
@@ -1879,7 +1879,7 @@
         {
             "id": "233",
             "name": "ICG-MCG sympathetic cord",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738290"
             ],
             "layers": [
@@ -1889,7 +1889,7 @@
         {
             "id": "234",
             "name": "MCG-SCG sympathetic cord",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738292"
             ],
             "layers": [
@@ -1904,8 +1904,8 @@
         },
         {
             "id": "235",
-            "name": "External carotid nerve",
-            "external": [
+            "name": "ontologyTerms carotid nerve",
+            "ontologyTerms": [
                 "FMA:6579"
             ],
             "layers": [
@@ -1915,7 +1915,7 @@
         {
             "id": "236",
             "name": "Ganglioglomerular nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738293"
             ],
             "layers": [
@@ -1925,7 +1925,7 @@
         {
             "id": "237",
             "name": "Internal carotid nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002024"
             ],
             "layers": [
@@ -1935,7 +1935,7 @@
         {
             "id": "238",
             "name": "Phrenic nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001884",
                 "ILX:0736057"
             ],
@@ -1946,7 +1946,7 @@
         {
             "id": "239",
             "name": "Vagus nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001759",
                 "ILX:0733375"
             ],
@@ -1960,7 +1960,7 @@
         {
             "id": "240",
             "name": "Glossopharyngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001649",
                 "ILX:0723837"
             ],
@@ -1974,7 +1974,7 @@
         {
             "id": "241",
             "name": "Hypoglossal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001650",
                 "ILX:0730771"
             ],
@@ -1985,7 +1985,7 @@
         {
             "id": "114in226",
             "name": "Mucosa of epiglottis",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004982",
                 "ILX:0736652"
             ],
@@ -1997,7 +1997,7 @@
         {
             "id": "112in227",
             "name": "Mucosa of tongue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005020",
                 "ILX:0731712"
             ],
@@ -2006,7 +2006,7 @@
         {
             "id": "242",
             "name": "Superior laryngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0011326",
                 "ILX:0731053"
             ],
@@ -2016,8 +2016,8 @@
         },
         {
             "id": "243",
-            "name": "External branch of superior laryngeal nerve",
-            "external": [
+            "name": "ontologyTerms branch of superior laryngeal nerve",
+            "ontologyTerms": [
                 "FMA:6243"
             ],
             "layers": [
@@ -2027,35 +2027,35 @@
         {
             "id": "244",
             "name": "Internal branch of superior laryngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6240"
             ]
         },
         {
             "id": "245",
             "name": "Inferior laryngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003716"
             ]
         },
         {
             "id": "246",
-            "name": "External branch of inferior laryngeal nerve",
-            "external": [
+            "name": "ontologyTerms branch of inferior laryngeal nerve",
+            "ontologyTerms": [
                 "ILX:0738308"
             ]
         },
         {
             "id": "247",
             "name": "Internal branch of inferior laryngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738309"
             ]
         },
         {
             "id": "248",
             "name": "Petrosal ganglion of the Glossopharyngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738310"
             ],
             "internalLyphs": [
@@ -2066,7 +2066,7 @@
         {
             "id": "249",
             "name": "Nodose ganglion of the Vagus nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738311"
             ],
             "internalLyphs": [
@@ -2078,42 +2078,42 @@
         {
             "id": "250",
             "name": "Aortic arch depressor nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738312"
             ]
         },
         {
             "id": "251",
             "name": "Rami glomi carotici",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738313"
             ]
         },
         {
             "id": "252",
             "name": "Herning's nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738314"
             ]
         },
         {
             "id": "253",
             "name": "Pharyngeal branch of the Hypoglossal nerve",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738315"
             ]
         },
         {
             "id": "254",
             "name": "Aortic arch baroreceptors",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738316"
             ]
         },
         {
             "id": "255",
             "name": "Carotid body",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001629",
                 "ILX:0736966"
             ]
@@ -2121,7 +2121,7 @@
         {
             "id": "256",
             "name": "Carotid sinus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0003708",
                 "ILX:0731873"
             ]
@@ -2129,42 +2129,42 @@
         {
             "id": "257",
             "name": "Laryngeal mechanoreceptors",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738317"
             ]
         },
         {
             "id": "258",
             "name": "Epiglottic mechanoreceptors",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738318"
             ]
         },
         {
             "id": "259",
             "name": "Oesophafgus",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001043"
             ]
         },
         {
             "id": "260",
             "name": "T1-T2 intercostal muscle",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738319"
             ]
         },
         {
             "id": "261",
             "name": "Diaphragm",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001103"
             ]
         },
         {
             "id": "107in205",
             "name": "Neural tissue of medulla",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738320"
             ],
             "supertype": "107",
@@ -2177,7 +2177,7 @@
         {
             "id": "107in209",
             "name": "Neural tissue of C4",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738321"
             ],
             "supertype": "107",
@@ -2188,7 +2188,7 @@
         {
             "id": "107in210",
             "name": "Neural tissue of C5",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738322"
             ],
             "supertype": "107",
@@ -2199,7 +2199,7 @@
         {
             "id": "262",
             "name": "Nucleus tractus solitarius",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738323"
             ],
             "internalLyphs": [
@@ -2209,14 +2209,14 @@
         {
             "id": "263",
             "name": "Retrotrapezoid nucleus",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0110082"
             ]
         },
         {
             "id": "264",
             "name": "Rostral ventrolateral medulla",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0730074"
             ],
             "internalLyphs": [
@@ -2226,7 +2226,7 @@
         {
             "id": "265",
             "name": "Phrenic nucleus of C4",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738324"
             ],
             "internalLyphs": [
@@ -2236,7 +2236,7 @@
         {
             "id": "266",
             "name": "Phrenic nucleus of C5",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738325"
             ],
             "internalLyphs": [
@@ -2246,7 +2246,7 @@
         {
             "id": "108in221",
             "name": "Wall of larynx",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738326"
             ],
             "supertype": "108",
@@ -2257,7 +2257,7 @@
         {
             "id": "109in222",
             "name": "Mucosa of trachea",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0738327"
             ],
             "supertype": "109"
@@ -2265,7 +2265,7 @@
         {
             "id": "soma202",
             "name": "Soma in Paraventricular nucleus (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2274,7 +2274,7 @@
         {
             "id": "soma228",
             "name": "Soma in T1 Rexed Lamina VII (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2283,7 +2283,7 @@
         {
             "id": "soma107in214",
             "name": "Soma in Central nervous system of T1 spinal segment (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2292,7 +2292,7 @@
         {
             "id": "soma265",
             "name": "Soma in 265 - Phrenic nucleus of C4 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2301,7 +2301,7 @@
         {
             "id": "soma266",
             "name": "Soma in 266 - Phrenic nucleus of C5 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2310,7 +2310,7 @@
         {
             "id": "soma262",
             "name": "Soma in 262 - Nucleus tractus solitarius(bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2319,7 +2319,7 @@
         {
             "id": "soma264",
             "name": "Soma in 264 - Rostral ventrolateral medulla(bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2328,7 +2328,7 @@
         {
             "id": "soma249_1",
             "name": "Soma in 249 (1) - Nodose ganglion of the Vagus nerve(bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2337,7 +2337,7 @@
         {
             "id": "soma249_2",
             "name": "Soma in 249 (2) - Nodose ganglion of the Vagus nerve(bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2346,7 +2346,7 @@
         {
             "id": "soma249_3",
             "name": "Soma in 249 (3) - Nodose ganglion of the Vagus nerve(bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2355,7 +2355,7 @@
         {
             "id": "soma248_1",
             "name": "Soma in 248 (1) - Petrosal ganglion of the Glossopharyngeal nerve(bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2364,7 +2364,7 @@
         {
             "id": "soma248_2",
             "name": "Soma in 248 (2) - Petrosal ganglion of the Glossopharyngeal nerve(bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2373,7 +2373,7 @@
         {
             "id": "soma220_1",
             "name": "Soma in superior cervical ganglion (1) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2382,7 +2382,7 @@
         {
             "id": "soma220_2",
             "name": "Soma in superior cervical ganglion (2) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2391,7 +2391,7 @@
         {
             "id": "soma220_3",
             "name": "Soma in superior cervical ganglion (3) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2400,7 +2400,7 @@
         {
             "id": "soma220_4",
             "name": "Soma in superior cervical ganglion (4) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2409,7 +2409,7 @@
         {
             "id": "soma220_5",
             "name": "Soma in superior cervical ganglion (5) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2418,7 +2418,7 @@
         {
             "id": "soma220_6",
             "name": "Soma in superior cervical ganglion (6) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2427,7 +2427,7 @@
         {
             "id": "soma220_7",
             "name": "Soma in superior cervical ganglion (7) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2436,7 +2436,7 @@
         {
             "id": "soma220_8",
             "name": "Soma in superior cervical ganglion (8) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2445,7 +2445,7 @@
         {
             "id": "soma220_9",
             "name": "Soma in superior cervical ganglion (9) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2454,7 +2454,7 @@
         {
             "id": "soma220_10",
             "name": "Soma in superior cervical ganglion (10) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2463,7 +2463,7 @@
         {
             "id": "soma220_11",
             "name": "Soma in superior cervical ganglion (11) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2472,7 +2472,7 @@
         {
             "id": "soma220_12",
             "name": "Soma in superior cervical ganglion (12) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2481,7 +2481,7 @@
         {
             "id": "soma220_13",
             "name": "Soma in superior cervical ganglion (13) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2490,7 +2490,7 @@
         {
             "id": "soma220_14",
             "name": "Soma in superior cervical ganglion (14) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2499,7 +2499,7 @@
         {
             "id": "soma220_15",
             "name": "Soma in superior cervical ganglion (15) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2508,7 +2508,7 @@
         {
             "id": "soma220_16",
             "name": "Soma in superior cervical ganglion (16) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2517,7 +2517,7 @@
         {
             "id": "soma220_17",
             "name": "Soma in superior cervical ganglion (17) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "NLX:154731"
             ],
             "supertype": "229",
@@ -2528,7 +2528,7 @@
         {
             "id": "53",
             "name": "Aqueous solution",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ],
             "materials": [
@@ -2546,56 +2546,56 @@
         {
             "id": "48",
             "name": "Water",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:15377"
             ]
         },
         {
             "id": "49",
             "name": "Sodium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29101"
             ]
         },
         {
             "id": "50",
             "name": "Potassium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29103"
             ]
         },
         {
             "id": "51",
             "name": "Calcium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29108"
             ]
         },
         {
             "id": "52",
             "name": "Chloride ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17996"
             ]
         },
         {
             "id": "83",
             "name": "Hydrogen ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24636"
             ]
         },
         {
             "id": "84",
             "name": "Hydroxide ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:16234"
             ]
         },
         {
             "id": "54",
             "name": "Cytosol",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005829"
             ],
             "materials": [
@@ -2605,14 +2605,14 @@
         {
             "id": "55",
             "name": "Membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0016020"
             ]
         },
         {
             "id": "56",
             "name": "Plasma membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005886"
             ],
             "materials": [
@@ -2622,14 +2622,14 @@
         {
             "id": "85",
             "name": "Bicarbonate ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17544"
             ]
         },
         {
             "id": "2",
             "name": "Basement membrane",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005769",
                 "PMID:31102947"
             ]
@@ -2637,14 +2637,14 @@
         {
             "id": "42",
             "name": "Endothelium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001986"
             ]
         },
         {
             "id": "41",
             "name": "Blood",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000178"
             ],
             "materials": [
@@ -2654,14 +2654,14 @@
         {
             "id": "100",
             "name": "Fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006314"
             ]
         },
         {
             "id": "101",
             "name": "Gas",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C45299"
             ],
             "materials": [
@@ -2671,7 +2671,7 @@
         {
             "id": "102",
             "name": "Liquid",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ],
             "materials": [
@@ -2681,7 +2681,7 @@
         {
             "id": "103",
             "name": "Air",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C73434"
             ],
             "materials": [
@@ -2691,7 +2691,7 @@
         {
             "id": "104",
             "name": "Cerebrospinal fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001359"
             ],
             "materials": [
@@ -2701,7 +2701,7 @@
         {
             "id": "105",
             "name": "Ependyma",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004670"
             ],
             "materials": [
@@ -2711,7 +2711,7 @@
         {
             "id": "106",
             "name": "Pia mater",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002361"
             ],
             "materials": [
@@ -2721,7 +2721,7 @@
         {
             "id": "107",
             "name": "Central nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001017"
             ],
             "materials": [
@@ -2731,7 +2731,7 @@
         {
             "id": "108",
             "name": "Wall of larynx",
-            "external": [
+            "ontologyTerms": [
                 "FMA:64182"
             ],
             "materials": [
@@ -2741,7 +2741,7 @@
         {
             "id": "109",
             "name": "Wall of trachea",
-            "external": [
+            "ontologyTerms": [
                 "FMA:7470"
             ],
             "materials": [
@@ -2751,7 +2751,7 @@
         {
             "id": "110",
             "name": "Wall of artery",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000415"
             ],
             "materials": [
@@ -2761,42 +2761,42 @@
         {
             "id": "111",
             "name": "Connective tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002384"
             ]
         },
         {
             "id": "112",
             "name": "Mucosa of tongue",
-            "external": [
+            "ontologyTerms": [
                 "FMA:54807"
             ]
         },
         {
             "id": "113",
             "name": "Muscle of tongue",
-            "external": [
+            "ontologyTerms": [
                 "FMA:4668"
             ]
         },
         {
             "id": "114",
             "name": "Mucosa of epiglottis",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0004982"
             ]
         },
         {
             "id": "115",
             "name": "Cartilage of epiglottis",
-            "external": [
+            "ontologyTerms": [
                 "FMA:55112"
             ]
         },
         {
             "id": "116",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "ILX:0492026"
             ],
             "materials": [
@@ -2806,19 +2806,12 @@
         {
             "id": "117",
             "name": "Peripheral nervous system tissue",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000010"
             ],
             "materials": [
                 "116"
             ]
-        }
-    ],
-    "references": [
-        {
-            "id": "NCBITaxon:10116",
-            "type": "species",
-            "name": "Rattus norvegicus"
         }
     ],
     "coalescences": [],
@@ -2850,7 +2843,7 @@
         {
             "id": "PVN-IML1-d",
             "name": "Dnd PVN-IML1 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s202",
@@ -2862,7 +2855,7 @@
         {
             "id": "IML1-SCG-d",
             "name": "Dnd IML1-SCG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s228",
@@ -2874,7 +2867,7 @@
         {
             "id": "T1-INTERCOSTAL-d",
             "name": "Dnd T1-INTERCOSTAL (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s107in214",
@@ -2886,7 +2879,7 @@
         {
             "id": "P4-DIAPHRGM-d",
             "name": "Dnd P4-DIAPHRGM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s265",
@@ -2898,7 +2891,7 @@
         {
             "id": "P5-DIAPHRGM-d",
             "name": "Dnd P5-DIAPHRGM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s266",
@@ -2910,7 +2903,7 @@
         {
             "id": "NTS-IML1-d",
             "name": "Dnd NTS-IML1 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s262",
@@ -2922,7 +2915,7 @@
         {
             "id": "RVLM-IML1-d",
             "name": "Dnd RVLM-IML1 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s264",
@@ -2934,7 +2927,7 @@
         {
             "id": "AB-NTS-d",
             "name": "Dnd AB-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s249_1",
@@ -2950,7 +2943,7 @@
         {
             "id": "CB-NTS-d",
             "name": "Dnd CB-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s248_1",
@@ -2966,7 +2959,7 @@
         {
             "id": "CS-NTS-d",
             "name": "Dnd CS-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s248_2",
@@ -2982,7 +2975,7 @@
         {
             "id": "LM-NTS-d",
             "name": "Dnd LM-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s249_2",
@@ -2998,7 +2991,7 @@
         {
             "id": "EM-NTS-d",
             "name": "Dnd EM-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s249_3",
@@ -3014,7 +3007,7 @@
         {
             "id": "SCG-AB-d",
             "name": "Dnd SCG-AB (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_1",
@@ -3026,7 +3019,7 @@
         {
             "id": "SCG-CB-d",
             "name": "Dnd SCG-CB (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_2",
@@ -3038,7 +3031,7 @@
         {
             "id": "SCG-CS-d",
             "name": "Dnd SCG-CS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_3",
@@ -3050,7 +3043,7 @@
         {
             "id": "SCG-eSLN-LRYNX-d",
             "name": "Dnd SCG-eSLN-LRYNX (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_4",
@@ -3062,7 +3055,7 @@
         {
             "id": "SCG-iSLN-LRYNX-d",
             "name": "Dnd SCG-iSLN-LRYNX (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_5",
@@ -3074,7 +3067,7 @@
         {
             "id": "SCG-eSLN-EM-d",
             "name": "Dnd SCG-eSLN-EM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_6",
@@ -3086,7 +3079,7 @@
         {
             "id": "SCG-iSLN-EM-d",
             "name": "Dnd SCG-iSLN-EM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_7",
@@ -3098,7 +3091,7 @@
         {
             "id": "SCG-eILN-EM-d",
             "name": "Dnd SCG-eILN-EM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_8",
@@ -3110,7 +3103,7 @@
         {
             "id": "SCG-iILN-EM-d",
             "name": "Dnd SCG-iILN-EM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_9",
@@ -3122,7 +3115,7 @@
         {
             "id": "SCG-ECN-TONG-d",
             "name": "Dnd SCG-ECN-TONG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_10",
@@ -3134,7 +3127,7 @@
         {
             "id": "SCG-ICN-TONG-d",
             "name": "Dnd SCG-ICN-TONG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_11",
@@ -3146,7 +3139,7 @@
         {
             "id": "SCG-TRCHA-d",
             "name": "Dnd SCG-TRCHA (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_12",
@@ -3158,7 +3151,7 @@
         {
             "id": "SCG-ICN-TRCHA-d",
             "name": "Dnd SCG-ICN-TRCHA (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_13",
@@ -3170,7 +3163,7 @@
         {
             "id": "SCG-PVN-d",
             "name": "Dnd SCG-PVN (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_14",
@@ -3182,7 +3175,7 @@
         {
             "id": "SCG-RTRPZ-d",
             "name": "Dnd SCG-RTRPZ (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_15",
@@ -3194,7 +3187,7 @@
         {
             "id": "SCG-RVLM-d",
             "name": "Dnd SCG-RVLM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_16",
@@ -3206,7 +3199,7 @@
         {
             "id": "SCG-NTS-d",
             "name": "Dnd SCG-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "root": "s220_17",
@@ -3218,7 +3211,7 @@
         {
             "id": "PVN-IML1-a",
             "name": "Axn PVN-IML1 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t202",
@@ -3245,7 +3238,7 @@
         {
             "id": "IML1-SCG-a",
             "name": "Axn IML1-SCG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t228",
@@ -3267,7 +3260,7 @@
         {
             "id": "T1-INTERCOSTAL-a",
             "name": "Axn T1-INTERCOSTAL (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t107in214",
@@ -3281,7 +3274,7 @@
         {
             "id": "P4-DIAPHRGM-a",
             "name": "Axn P4-DIAPHRGM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t265",
@@ -3296,7 +3289,7 @@
         {
             "id": "P5-DIAPHRGM-a",
             "name": "Axn P5-DIAPHRGM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t266",
@@ -3311,7 +3304,7 @@
         {
             "id": "NTS-IML1-a",
             "name": "Axn NTS-IML1 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t262",
@@ -3334,7 +3327,7 @@
         {
             "id": "RVLM-IML1-a",
             "name": "Axn RVLM-IML1 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t264",
@@ -3357,7 +3350,7 @@
         {
             "id": "AB-NTS-a",
             "name": "Axn AB-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t249_1",
@@ -3372,7 +3365,7 @@
         {
             "id": "CB-NTS-a",
             "name": "Axn CB-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t248_1",
@@ -3387,7 +3380,7 @@
         {
             "id": "CS-NTS-a",
             "name": "Axn CS-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t248_2",
@@ -3402,7 +3395,7 @@
         {
             "id": "LM-NTS-a",
             "name": "Axn LM-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t249_2",
@@ -3417,7 +3410,7 @@
         {
             "id": "EM-NTS-a",
             "name": "Axn EM-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t249_3",
@@ -3432,7 +3425,7 @@
         {
             "id": "SCG-AB-a",
             "name": "Axn SCG-AB (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_1",
@@ -3450,7 +3443,7 @@
         {
             "id": "SCG-CB-a",
             "name": "Axn SCG-CB (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_2",
@@ -3466,7 +3459,7 @@
         {
             "id": "SCG-CS-a",
             "name": "Axn SCG-CS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_3",
@@ -3482,7 +3475,7 @@
         {
             "id": "SCG-eSLN-LRYNX-a",
             "name": "Axn SCG-eSLN-LRYNX (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_4",
@@ -3499,7 +3492,7 @@
         {
             "id": "SCG-iSLN-LRYNX-a",
             "name": "Axn SCG-iSLN-LRYNX (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_5",
@@ -3516,7 +3509,7 @@
         {
             "id": "SCG-eSLN-EM-a",
             "name": "Axn SCG-eSLN-EM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_6",
@@ -3533,7 +3526,7 @@
         {
             "id": "SCG-iSLN-EM-a",
             "name": "Axn SCG-iSLN-EM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_7",
@@ -3550,7 +3543,7 @@
         {
             "id": "SCG-eILN-EM-a",
             "name": "Axn SCG-eILN-EM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_8",
@@ -3567,7 +3560,7 @@
         {
             "id": "SCG-iILN-EM-a",
             "name": "Axn SCG-iILN-EM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_9",
@@ -3584,7 +3577,7 @@
         {
             "id": "SCG-ECN-TONG-a",
             "name": "Axn SCG-ECN-TONG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_10",
@@ -3598,7 +3591,7 @@
         {
             "id": "SCG-ICN-TONG-a",
             "name": "Axn SCG-ICN-TONG (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_11",
@@ -3612,7 +3605,7 @@
         {
             "id": "SCG-TRCHA-a",
             "name": "Axn SCG-TRCHA (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_12",
@@ -3625,7 +3618,7 @@
         {
             "id": "SCG-ICN-TRCHA-a",
             "name": "Axn SCG-ICN-TRCHA (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_13",
@@ -3639,7 +3632,7 @@
         {
             "id": "SCG-PVN-a",
             "name": "Axn SCG-PVN (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_14",
@@ -3655,7 +3648,7 @@
         {
             "id": "SCG-RTRPZ-a",
             "name": "Axn SCG-RTRPZ (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_15",
@@ -3670,7 +3663,7 @@
         {
             "id": "SCG-RVLM-a",
             "name": "Axn SCG-RVLM (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_16",
@@ -3685,7 +3678,7 @@
         {
             "id": "SCG-NTS-a",
             "name": "Axn SCG-NTS (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "root": "t220_17",
@@ -3803,203 +3796,203 @@
         {
             "id": "neuron-1",
             "name": "Neuron population in Paraventricular nucleus (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-1"
             ]
         },
         {
             "id": "neuron-2",
             "name": "Neuron population in T1 Rexed Lamina VII (scg projecting) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-2"
             ]
         },
         {
             "id": "neuron-3",
             "name": "Neuron population in T1 Rexed Lamina VII (intercostal projecting) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-3"
             ]
         },
         {
             "id": "neuron-4",
             "name": "Neuron population in phrenic nucleus of C4 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-4"
             ]
         },
         {
             "id": "neuron-5",
             "name": "Neuron population in phrenic nucleus of C5 (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-5"
             ]
         },
         {
             "id": "neuron-6",
             "name": "Neuron population in nucleus tractus solitarius (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-6"
             ]
         },
         {
             "id": "neuron-7",
             "name": "Neuron population in rostral ventrolateral medulla (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-7"
             ]
         },
         {
             "id": "neuron-8",
             "name": "Neuron population in nodose ganglion aa proj (1) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-8"
             ]
         },
         {
             "id": "neuron-9",
             "name": "Neuron population in nodose ganglion lar proj (2) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-9"
             ]
         },
         {
             "id": "neuron-10",
             "name": "Neuron population in nodose ganglion epi proj (3) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-10"
             ]
         },
         {
             "id": "neuron-11",
             "name": "Neuron population in petrosal ganglion cb proj (1) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-11"
             ]
         },
         {
             "id": "neuron-12",
             "name": "Neuron population in petrosal ganglion cs proj (2) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-12"
             ]
         },
         {
             "id": "neuron-13",
             "name": "Neuron population in superior cervical ganglion (1) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-13"
             ]
         },
         {
             "id": "neuron-14",
             "name": "Neuron population in superior cervical ganglion (2) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-14"
             ]
         },
         {
             "id": "neuron-15",
             "name": "Neuron population in superior cervical ganglion (3) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-15"
             ]
         },
         {
             "id": "neuron-16",
             "name": "Neuron population in superior cervical ganglion (4) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-16"
             ]
         },
         {
             "id": "neuron-17",
             "name": "Neuron population in superior cervical ganglion (5) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-17"
             ]
         },
         {
             "id": "neuron-18",
             "name": "Neuron population in superior cervical ganglion (6) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-18"
             ]
         },
         {
             "id": "neuron-19",
             "name": "Neuron population in superior cervical ganglion (7) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-19"
             ]
         },
         {
             "id": "neuron-20",
             "name": "Neuron population in superior cervical ganglion (8) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-20"
             ]
         },
         {
             "id": "neuron-21",
             "name": "Neuron population in superior cervical ganglion (9) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-21"
             ]
         },
         {
             "id": "neuron-22",
             "name": "Neuron population in superior cervical ganglion (10) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-22"
             ]
         },
         {
             "id": "neuron-23",
             "name": "Neuron population in superior cervical ganglion (11) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-23"
             ]
         },
         {
             "id": "neuron-24",
             "name": "Neuron population in superior cervical ganglion (12) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-24"
             ]
         },
         {
             "id": "neuron-25",
             "name": "Neuron population in superior cervical ganglion (13) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-25"
             ]
         },
         {
             "id": "neuron-26",
             "name": "Neuron population in superior cervical ganglion (14) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-26"
             ]
         },
         {
             "id": "neuron-27",
             "name": "Neuron population in superior cervical ganglion (15) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-27"
             ]
         },
         {
             "id": "neuron-28",
             "name": "Neuron population in superior cervical ganglion (16) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-28"
             ]
         },
         {
             "id": "neuron-29",
             "name": "Neuron population in superior cervical ganglion (17) (bolew)",
-            "external": [
+            "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-29"
             ]
         }

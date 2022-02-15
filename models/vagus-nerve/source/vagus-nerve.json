@@ -1,24 +1,24 @@
 {
-    "publications": [],
+    "references": [],
     "nodes": [
         {
             "id": "point_1",
             "name": "joining point of vagus nerve 1 (point_1)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001759"
             ]
         },
         {
             "id": "point_3",
             "name": "branching point of auricular branch of vagus nerve 1 (point_3)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001759"
             ]
         },
         {
             "id": "point_4",
             "name": "communicating point of branch of auricular branch of vagus nerve and posterior auricular nerve 1 (point_4)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:53589"
             ]
         }
@@ -45,7 +45,7 @@
         {
             "id": "nseg",
             "name": "Segment of nerve (vag)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "subtypes": [
@@ -60,7 +60,7 @@
         {
             "id": "vagus-pre-skull",
             "name": "vagus nerve pre skull",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001759"
             ],
             "isTemplate": false,
@@ -74,7 +74,7 @@
         {
             "id": "vag",
             "name": "vagus nerve(n_5)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001759"
             ],
             "supertype": "nseg"
@@ -82,28 +82,28 @@
         {
             "id": "med",
             "name": "medulla (brain_27)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001896"
             ]
         },
         {
             "id": "stn",
             "name": "spinal trigeminal nucleus (brain_40)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001717"
             ]
         },
         {
             "id": "nts",
             "name": "nucleus tractus solitarius (brain_12)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0009050"
             ]
         },
         {
             "id": "dmn",
             "name": "dorsal motor nucleus of vagus (brain_39)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0002870"
             ],
             "supertype": "nseg"
@@ -111,21 +111,21 @@
         {
             "id": "na",
             "name": "nucleus ambiguus (brain_33)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001719"
             ]
         },
         {
             "id": "sg",
             "name": "superior ganglion of vagus nerve (ganglion_1)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005364"
             ]
         },
         {
             "id": "sg-1",
             "name": "sg1",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005364"
             ],
             "supertype": "nseg"
@@ -133,7 +133,7 @@
         {
             "id": "sg-2",
             "name": "sg2",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005364"
             ],
             "supertype": "nseg"
@@ -141,28 +141,28 @@
         {
             "id": "jf",
             "name": "jugular foramen (skull_1)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0005456"
             ]
         },
         {
             "id": "dm_crafos",
             "name": "dura mater in the posterior cranial fossa (skull_2)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0008788"
             ]
         },
         {
             "id": "fl_eam",
-            "name": "floor of external acoustic meatus (body_9)",
-            "external": [
+            "name": "floor of ontologyTerms acoustic meatus (body_9)",
+            "ontologyTerms": [
                 "FMA:53593"
             ]
         },
         {
             "id": "ear",
             "name": "ear (body_5)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001690"
             ],
             "internalLyphsInLayers": [
@@ -173,22 +173,22 @@
         },
         {
             "id": "poswall_eam",
-            "name": "posterior wall of external acoustic meatus (body_10)",
-            "external": [
+            "name": "posterior wall of ontologyTerms acoustic meatus (body_10)",
+            "ontologyTerms": [
                 "FMA:6694"
             ]
         },
         {
             "id": "os_tm",
             "name": "outer surface of the tympanic membrane (body_11)",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0010069"
             ]
         },
         {
             "id": "cp_aurglo",
             "name": "communicating point of auricular branch of vagus nerve and glossopharyngeal nerve 1 (point_2)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:53485"
             ],
             "supertype": "nseg"
@@ -196,7 +196,7 @@
         {
             "id": "men",
             "name": "meningeal branch of vagus nerve (n_6)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6231"
             ],
             "supertype": "nseg"
@@ -204,7 +204,7 @@
         {
             "id": "aur",
             "name": "auricular branch of vagus nerve(n_7)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:6232"
             ],
             "supertype": "nseg"
@@ -212,21 +212,21 @@
         {
             "id": "unk",
             "name": "posterior auricular nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0035647"
             ]
         },
         {
             "id": "glos",
             "name": "glossopharyngeal nerve",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001649"
             ]
         },
         {
             "id": "229",
             "name": "Segment of neuron (fcolon)",
-            "external": [
+            "ontologyTerms": [
                 "CL:0000540"
             ],
             "isTemplate": true
@@ -236,7 +236,7 @@
         {
             "id": "mat-endoneurium",
             "name": "endoneurium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000123"
             ],
             "materials": [
@@ -248,7 +248,7 @@
         {
             "id": "mat-perineurium",
             "name": "perineurium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000121"
             ],
             "materials": [
@@ -258,7 +258,7 @@
         {
             "id": "mat-epineurium",
             "name": "epineurium",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000124"
             ],
             "materials": [
@@ -268,56 +268,56 @@
         {
             "id": "mat-conn-tiss",
             "name": "connective tissue",
-            "external": [
+            "ontologyTerms": [
                 "NCIT:C32367"
             ]
         },
         {
             "id": "vm_5",
             "name": "blood vessels",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0001981"
             ]
         },
         {
             "id": "mat-lymphocyte",
             "name": "lymphocyte",
-            "external": [
+            "ontologyTerms": [
                 "FMA:62863"
             ]
         },
         {
             "id": "mat-fibroblasts",
             "name": "fibroblasts",
-            "external": [
+            "ontologyTerms": [
                 "FMA:63877"
             ]
         },
         {
             "id": "mat-collagen-fibers",
             "name": "collagen fibers",
-            "external": [
+            "ontologyTerms": [
                 "FMA:63891"
             ]
         },
         {
             "id": "mat-fld-endoneurial",
             "name": "endoneurial fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0011893"
             ]
         },
         {
             "id": "vm_10",
             "name": "Blood",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0000178"
             ]
         },
         {
             "id": "vm_11",
             "name": "Aqueous solution",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ],
             "materials": [
@@ -336,77 +336,77 @@
         {
             "id": "vm_12",
             "name": "Water",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:15377"
             ]
         },
         {
             "id": "vm_13",
             "name": "Sodium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29101"
             ]
         },
         {
             "id": "vm_14",
             "name": "Potassium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29103"
             ]
         },
         {
             "id": "vm_15",
             "name": "Calcium ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:29108"
             ]
         },
         {
             "id": "vm_16",
             "name": "Chloride ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17996"
             ]
         },
         {
             "id": "vm_17",
             "name": "Hydrogen ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:24636"
             ]
         },
         {
             "id": "vm_18",
             "name": "Hydroxide ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:16234"
             ]
         },
         {
             "id": "vm_19",
             "name": "Bicarbonate ion",
-            "external": [
+            "ontologyTerms": [
                 "CHEBI:17544"
             ]
         },
         {
             "id": "vm_20",
             "name": "Liquid",
-            "external": [
+            "ontologyTerms": [
                 "FMA:85815"
             ]
         },
         {
             "id": "vm_21",
             "name": "Fluid",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0006314"
             ]
         },
         {
             "id": "vm_22",
             "name": "Wall of vessel",
-            "external": [
+            "ontologyTerms": [
                 "UBERON:0035965"
             ],
             "materials": [
@@ -416,21 +416,21 @@
         {
             "id": "vm_23",
             "name": "Cytosol",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005829"
             ]
         },
         {
             "id": "vm_24",
             "name": "Plasma membrane",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005886"
             ]
         },
         {
             "id": "vm_25",
             "name": "Extracellular fluid",
-            "external": [
+            "ontologyTerms": [
                 "GO:0005615"
             ]
         }
@@ -439,7 +439,7 @@
         {
             "id": "n_1",
             "name": "nerve segment in spinal trigeminal nucleus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -459,7 +459,7 @@
         {
             "id": "n_2",
             "name": "nerve segment in nucleus tractus solitarius",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -479,7 +479,7 @@
         {
             "id": "n_3",
             "name": "nerve segment in dorsal motor nucleus of vagus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -499,7 +499,7 @@
         {
             "id": "n_4",
             "name": "nerve segment in nucleus ambiguus",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -519,7 +519,7 @@
         {
             "id": "n_5",
             "name": "vagus nerve from jugular forman to superior ganglion of vagus nerve (point_1)",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -537,7 +537,7 @@
         {
             "id": "n_6",
             "name": "meningeal branch of vagus nerve",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -555,7 +555,7 @@
         {
             "id": "n_7",
             "name": "auricular branch of vagus nerve",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -573,7 +573,7 @@
         {
             "id": "n_8",
             "name": "communicating branch of auricular branch of vagus nerve with posterior auricular nerve",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -590,8 +590,8 @@
         },
         {
             "id": "n_9",
-            "name": "branch of auricular branch of vagus nerve to floor of external acoustic meatus",
-            "external": [
+            "name": "branch of auricular branch of vagus nerve to floor of ontologyTerms acoustic meatus",
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -608,8 +608,8 @@
         },
         {
             "id": "n_10",
-            "name": "branch of auricular branch of vagus nerve to posterior wall of external acoustic meatus",
-            "external": [
+            "name": "branch of auricular branch of vagus nerve to posterior wall of ontologyTerms acoustic meatus",
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -627,7 +627,7 @@
         {
             "id": "n_11",
             "name": "branch of auricular branch of vagus nerve to tympanic membrane",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphTemplate": "229",
@@ -644,7 +644,7 @@
         },
         {
             "id": "vagus-all-chain-sheath",
-            "external": [
+            "ontologyTerms": [
                 "FMA:74941"
             ],
             "lyphs": [
