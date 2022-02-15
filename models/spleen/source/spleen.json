@@ -1715,6 +1715,10 @@
         {
             "prefix": "NCBITaxon",
             "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        },
+        {
+            "prefix": "ilxtr",
+            "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
         }
     ],
     "id": "spleen",
