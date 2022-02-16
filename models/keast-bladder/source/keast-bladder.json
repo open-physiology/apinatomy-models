@@ -5472,7 +5472,7 @@
                 "PMID:7174880",
                 "PMID:4700666",
                 "PMID:11382385",
-                "PMID:11382385",
+                "PMID:1358408",
                 "PMID:32598494"
             ],
             "ontologyTerms": [
@@ -5488,7 +5488,7 @@
                 "PMID:3558884",
                 "PMID:1619047",
                 "PMID:2891149",
-                "PMID:11382385"
+                "PMID:1358408"
             ],
             "ontologyTerms": [
                 "ilxtr:neuron-type-keast-11"
@@ -5595,7 +5595,7 @@
             "id": "neuron-4",
             "name": "Neuron 4",
             "references": [
-                "PMID:11382385",
+                "PMID:1358408",
                 "PMID:9622251",
                 "PMID:7174880",
                 "PMID:9442414"
@@ -5624,7 +5624,7 @@
             "id": "neuron-6",
             "name": "Neuron 6",
             "references": [
-                "PMID:11382385",
+                "PMID:1358408",
                 "PMID:3225349",
                 "PMID:30704972",
                 "PMID:3558884",
@@ -5657,7 +5657,7 @@
             "id": "neuron-8",
             "name": "Neuron 8",
             "references": [
-                "PMID:11382385",
+                "PMID:1358408",
                 "PMID:2891149",
                 "PMID:2567744",
                 "PMID:1726105"
