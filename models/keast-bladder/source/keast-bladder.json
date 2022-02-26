@@ -2976,7 +2976,7 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
+            "lyphTemplate": "axon-bag",
             "root": "ns38",
             "leaf": "ns40",
             "housingLayers": [
@@ -3355,6 +3355,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns62",
+            "leaf": "ns62_5",
             "housingLayers": [
                 6
             ],
@@ -3392,6 +3393,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns64",
+            "leaf": "ns64_5",
             "housingLayers": [
                 6
             ],
@@ -3982,6 +3984,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns250",
+            "leaf": "ns250_5",
             "housingLayers": [
                 0
             ],
@@ -4055,6 +4058,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns300",
+            "leaf": "ns300_5",
             "housingLayers": [
                 0
             ],
