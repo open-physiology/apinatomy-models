@@ -27,7 +27,7 @@
             "id": "f1S",
             "name": "acinar end of salivary glands",
             "layout": {
-                "x": 90,
+                "x": 92,
                 "y": 5
             }
         },
@@ -148,7 +148,7 @@
             "name": "junction lacrimal tract with conjuctiva",
             "layout": {
                 "x": 80,
-                "y": -30
+                "y": -42
             }
         },
         {
@@ -156,7 +156,7 @@
             "name": "acinar end of lacrimal tract",
             "layout": {
                 "x": 70,
-                "y": -40
+                "y": -50
             }
         },
         {
@@ -170,20 +170,20 @@
             "id": "f4N",
             "name": "junction of nasolacrimal duct with nasal cavity",
             "hostedBy": "w-V-f4N-f4E-X",
-            "offset": 0.95
+            "offset": 0.15
         },
         {
             "id": "f4E",
             "name": "junction of nasopharynx, eustachian tube, and nasal cavity",
             "hostedBy": "w-V-f4N-f4E-X",
-            "offset": 0.9
+            "offset": 0.3
         },
         {
             "id": "f4M",
             "name": "eardrum end of eustachian tube",
             "layout": {
                 "x": 60,
-                "y": -50
+                "y": -53
             }
         },
         {
@@ -231,7 +231,8 @@
             "layout": {
                 "x": -10,
                 "y": 70
-            }
+            },
+            "description": "also in N"
         },
         {
             "id": "d2G",
@@ -239,7 +240,8 @@
             "layout": {
                 "x": -20,
                 "y": 75
-            }
+            },
+            "description": "also in N"
         },
         {
             "id": "Y",
@@ -347,6 +349,48 @@
                 "x": -5,
                 "y": 10
             }
+        },
+        {
+            "id": "d2P1",
+            "layout": {
+                "x": -85,
+                "y": 30
+            }
+        },
+        {
+            "id": "d2P2",
+            "layout": {
+                "x": -80,
+                "y": 35
+            }
+        },
+        {
+            "id": "d1P3",
+            "layout": {
+                "x": 5,
+                "y": 72
+            }
+        },
+        {
+            "id": "d2P3",
+            "layout": {
+                "x": -5,
+                "y": 72
+            }
+        },
+        {
+            "id": "d1P1",
+            "layout": {
+                "x": 80,
+                "y": 45
+            }
+        },
+        {
+            "id": "d1P2",
+            "layout": {
+                "x": 75,
+                "y": 47
+            }
         }
     ],
     "wires": [
@@ -391,7 +435,8 @@
             "stroke": "thick",
             "external": [
                 "UBERON:0006956"
-            ]
+            ],
+            "description": "Buccal Mucosa"
         },
         {
             "id": "w-Z-f1S",
@@ -402,7 +447,8 @@
             "color": "#006400",
             "external": [
                 "UBERON:0001829"
-            ]
+            ],
+            "description": "Major Salivary Gland"
         },
         {
             "id": "w-Z-X",
@@ -415,7 +461,8 @@
             "stroke": "thick",
             "external": [
                 "UBERON:0001723"
-            ]
+            ],
+            "description": "Tongue"
         },
         {
             "id": "w-X-f4E",
@@ -424,10 +471,12 @@
             "target": "f4E",
             "geometry": "spline",
             "color": "#006400",
+            "curvature": -25,
             "external": [
                 "UBERON:0001728",
                 "UBERON:0001729"
-            ]
+            ],
+            "description": "Nasopharynx, Oropharynx"
         },
         {
             "id": "w-X-f1L",
@@ -440,7 +489,8 @@
                 "UBERON:0001737",
                 "UBERON:0000170",
                 "UBERON:0003126"
-            ]
+            ],
+            "description": "Larynx, Lungs, Trachea"
         },
         {
             "id": "w-X-O",
@@ -456,7 +506,8 @@
                 "UBERON:0000945",
                 "UBERON:0001043",
                 "UBERON:0001051"
-            ]
+            ],
+            "description": "Proximal Half of Duodenum, Stomach, Oesophagus, Laryngopharynx"
         },
         {
             "id": "w-B-O",
@@ -475,11 +526,12 @@
             "target": "f1P",
             "geometry": "spline",
             "color": "#006400",
-            "controlPoint": "B",
+            "curvature": -50,
             "external": [
                 "UBERON:0007329",
                 "UBERON:0001264"
-            ]
+            ],
+            "description": "Pancreatic Duct, Pancreas"
         },
         {
             "id": "w-O-f2L",
@@ -488,10 +540,11 @@
             "target": "f2L",
             "geometry": "spline",
             "color": "#006400",
-            "controlPoint": "R",
+            "curvature": 50,
             "external": [
                 "UBERON:0002423"
-            ]
+            ],
+            "description": "Hepatobiliary System"
         },
         {
             "id": "w-O-R",
@@ -506,7 +559,8 @@
                 "FMA:71134",
                 "UBERON:0002115",
                 "UBERON:0001155"
-            ]
+            ],
+            "description": "Distal Half of Duodenum, Jejunum, Colon"
         },
         {
             "id": "w-R-G",
@@ -519,7 +573,8 @@
             "stroke": "thick",
             "external": [
                 "FMA:20429"
-            ]
+            ],
+            "description": "Perineal Skin"
         },
         {
             "id": "w-G-f3G",
@@ -531,7 +586,8 @@
             "external": [
                 "UBERON:0000474",
                 "UBERON:0000079"
-            ]
+            ],
+            "description": "Female Reproductive System, Male Reproductive System"
         },
         {
             "id": "w-G-U",
@@ -553,7 +609,8 @@
             "external": [
                 "UBERON:0001556",
                 "UBERON:0011143"
-            ]
+            ],
+            "description": "Lower Urinary Tract, Upper Urinary Tract"
         },
         {
             "id": "w-U-M",
@@ -583,7 +640,8 @@
             "color": "#006400",
             "external": [
                 "UBERON:0001911"
-            ]
+            ],
+            "description": "Mammary Gland"
         },
         {
             "id": "w-M-W",
@@ -604,7 +662,8 @@
             "color": "#006400",
             "external": [
                 "UBERON:0001691"
-            ]
+            ],
+            "description": "External ear"
         },
         {
             "id": "w-W-J",
@@ -617,7 +676,8 @@
             "stroke": "thick",
             "external": [
                 "FMA:24759"
-            ]
+            ],
+            "description": "Skin of Cheek"
         },
         {
             "id": "w-J-f4P",
@@ -628,7 +688,8 @@
             "color": "#006400",
             "external": [
                 "UBERON:0001811"
-            ]
+            ],
+            "description": "Conjunctiva"
         },
         {
             "id": "w-J-V",
@@ -641,7 +702,8 @@
             "stroke": "thick",
             "external": [
                 "FMA:24763"
-            ]
+            ],
+            "description": "Nasal Skin"
         },
         {
             "id": "w-V-f4N",
@@ -651,7 +713,8 @@
             "color": "#006400",
             "external": [
                 "FMA:59685"
-            ]
+            ],
+            "description": "Mucosa of External Nose"
         },
         {
             "id": "w-f4N-f4P",
@@ -662,7 +725,8 @@
             "color": "#006400",
             "external": [
                 "UBERON:0002392"
-            ]
+            ],
+            "description": "Nasolacrimal Duct"
         },
         {
             "id": "w-f4P-f4L",
@@ -673,7 +737,8 @@
             "color": "#006400",
             "external": [
                 "UBERON:0001817"
-            ]
+            ],
+            "description": "Tear Gland"
         },
         {
             "id": "w-f4N-f4E",
@@ -683,7 +748,8 @@
             "color": "#006400",
             "external": [
                 "FMA:59661"
-            ]
+            ],
+            "description": "Mucosa of Internal Nose"
         },
         {
             "id": "w-V-f4N-f4E-X",
@@ -700,7 +766,8 @@
             "color": "#006400",
             "external": [
                 "UBERON:0010062"
-            ]
+            ],
+            "description": "Eustachian Tube"
         },
         {
             "id": "w-V-B",
@@ -713,7 +780,8 @@
             "stroke": "thick",
             "external": [
                 "FMA:59377"
-            ]
+            ],
+            "description": "Philtrum Skin"
         },
         {
             "id": "w-M-B",
@@ -758,7 +826,8 @@
             "color": "#800080",
             "external": [
                 "UBERON:0009976"
-            ]
+            ],
+            "description": "Hypothalamo-Hypophyseal System"
         },
         {
             "id": "w-L-P",
@@ -771,7 +840,8 @@
             "stroke": "thick",
             "external": [
                 "FMA:45842"
-            ]
+            ],
+            "description": "Pulmonary Arterial Tree Organ"
         },
         {
             "id": "w-d2H-d2G",
@@ -780,10 +850,11 @@
             "target": "d2G",
             "geometry": "spline",
             "color": "#9370DB",
-            "controlPoint": "O",
+            "curvature": 30,
             "external": [
                 "UBERON:0010194"
-            ]
+            ],
+            "description": "Hepatic Portal System"
         },
         {
             "id": "w-P-Y",
@@ -794,7 +865,8 @@
             "arcCenter": "D",
             "color": "#9370DB",
             "stroke": "thick",
-            "hidden": true
+            "hidden": true,
+            "description": "Sublavian Vein, Internal Jugular Vein, Cranial Venous Sinuses"
         },
         {
             "id": "w-Y-d2L",
@@ -803,10 +875,11 @@
             "target": "d2L",
             "geometry": "spline",
             "color": "#9370DB",
-            "controlPoint": "d2H",
+            "curvature": 30,
             "external": [
                 "UBERON:0006558"
-            ]
+            ],
+            "description": "Lymphatic Part of Lymphoid System"
         },
         {
             "id": "w-Y-S",
@@ -816,7 +889,8 @@
             "geometry": "arc",
             "arcCenter": "D",
             "color": "#9370DB",
-            "hidden": true
+            "hidden": true,
+            "description": "All systemic veins except for Subclavian Vein, Internal Jugular Vein, Cranial Venous Sinuses"
         },
         {
             "id": "w-P-S",
@@ -838,7 +912,8 @@
             "stroke": "thick",
             "external": [
                 "UBERON:0004571"
-            ]
+            ],
+            "description": "Systemic Arterial System"
         },
         {
             "id": "w-A-L",
@@ -851,7 +926,8 @@
             "stroke": "thick",
             "external": [
                 "FMA:49907"
-            ]
+            ],
+            "description": "Pulmonary Venous Tree Organ"
         },
         {
             "id": "w-D-L",
@@ -886,7 +962,8 @@
             "arcCenter": "D",
             "external": [
                 "UBERON:0002358"
-            ]
+            ],
+            "description": "Peritoneum"
         },
         {
             "id": "w-d2P3-d1P3",
@@ -895,9 +972,11 @@
             "target": "d2P3",
             "geometry": "spline",
             "arcCenter": "D",
+            "curvature": -20,
             "external": [
                 "UBERON:0002407"
-            ]
+            ],
+            "description": "Pericardium"
         },
         {
             "id": "w-d1P1-d1P2",
@@ -955,7 +1034,8 @@
             "stroke": "thick",
             "external": [
                 "UBERON:0005281"
-            ]
+            ],
+            "description": "Ventricular System Of Central Nervous System"
         },
         {
             "id": "w-N-E",
@@ -973,7 +1053,8 @@
             "stroke": "thick",
             "external": [
                 "UBERON:0002291"
-            ]
+            ],
+            "description": "Central Canal Of Spinal Cord"
         },
         {
             "id": "w-N-C",
@@ -984,7 +1065,8 @@
             "stroke": "thick",
             "external": [
                 "UBERON:0004049"
-            ]
+            ],
+            "description": "Cisterna Magna"
         },
         {
             "id": "w-C-Q",
@@ -995,7 +1077,8 @@
             "stroke": "thick",
             "external": [
                 "UBERON:0002360"
-            ]
+            ],
+            "description": "Meninx"
         },
         {
             "id": "w-N-K",
@@ -1011,10 +1094,11 @@
             "target": "n3V",
             "geometry": "spline",
             "color": "#ADD8E6",
-            "controlPoint": "H",
+            "curvature": 50,
             "external": [
                 "UBERON:0002350"
-            ]
+            ],
+            "description": "Cardiac Conducting System"
         },
         {
             "id": "w-K-n4A",
@@ -1023,10 +1107,11 @@
             "target": "n4A",
             "geometry": "spline",
             "color": "#ADD8E6",
-            "controlPoint": "T",
+            "curvature": -50,
             "external": [
                 "UBERON:0002350"
-            ]
+            ],
+            "description": "Cardiac Conducting System"
         },
         {
             "id": "symp-chain-wire",
@@ -1148,7 +1233,8 @@
             "internalIn": "d2",
             "external": [
                 "UBERON:0002106"
-            ]
+            ],
+            "description": "Spleen"
         },
         {
             "id": "n1",
@@ -1218,7 +1304,8 @@
             "internalIn": "n1",
             "external": [
                 "UBERON:0000007"
-            ]
+            ],
+            "description": "Hypophysis"
         },
         {
             "id": "n1T",
@@ -1244,7 +1331,8 @@
             "internalIn": "n1",
             "external": [
                 "UBERON:0002046"
-            ]
+            ],
+            "description": "Thyroid Gland"
         },
         {
             "id": "n1P",
@@ -1270,7 +1358,8 @@
             "internalIn": "n1",
             "external": [
                 "UBERON:0001132"
-            ]
+            ],
+            "description": "Parathyroid Gland"
         },
         {
             "id": "n1A",
@@ -1296,7 +1385,8 @@
             "internalIn": "n1",
             "external": [
                 "UBERON:0002369"
-            ]
+            ],
+            "description": "Adrenal Gland"
         },
         {
             "id": "n1G",
@@ -1338,15 +1428,36 @@
                 "UBERON:0003963",
                 "ILX:0774266",
                 "UBERON:0013498"
-            ]
+            ],
+            "description": "Pterygopalatine Ganglion, Submandibular Ganglion, Geniculate Ganglion, Nodose Ganglion, Petrous Ganglion, Jugular Ganglion, Superior Glossopharengeal Ganglion, Superior Cervical Ganglion, Middle Cervical Ganglion, Inferior Cervical Ganglion, Stellate Ganglion, Ciliary Ganglion, Trigeminal Ganglion, Otic Ganglion, T1 Sympathetic Ganglion, Vestibular Ganglion"
         },
         {
-            "id": "n1N",
+            "id": "n2N",
             "name": "Infracranial Nerves",
-            "internalIn": "n1",
+            "color": "#eeffff",
+            "points": [
+                {
+                    "x": -60,
+                    "y": 24
+                },
+                {
+                    "x": -60,
+                    "y": 29
+                },
+                {
+                    "x": -5,
+                    "y": 29
+                },
+                {
+                    "x": -5,
+                    "y": 24
+                }
+            ],
+            "internalIn": "n2",
             "external": [
-                "UBERON:0001021(excludechildrenofUBERON:0011779)"
-            ]
+                "UBERON:0001021"
+            ],
+            "description": "(exclude children of UBERON:0011779), Nerve (we need to exclude Cranial Nerves)"
         },
         {
             "id": "n2G",
@@ -1355,19 +1466,19 @@
             "points": [
                 {
                     "x": -60,
-                    "y": 5
+                    "y": 17
                 },
                 {
                     "x": -60,
-                    "y": 15
+                    "y": 22
                 },
                 {
                     "x": -5,
-                    "y": 15
+                    "y": 22
                 },
                 {
                     "x": -5,
-                    "y": 5
+                    "y": 17
                 }
             ],
             "internalIn": "n2",
@@ -1396,17 +1507,37 @@
                 "FMA:6555",
                 "FMA:6556",
                 "FMA:6783"
-            ]
+            ],
+            "description": "T2 Sympathetic Ganglion, T3 Sympathetic Ganglion, T5 Sympathetic Ganglion, T6 Sympathetic Ganglion, T7 Sympathetic Ganglion, T8 Sympathetic Ganglion, T9 Sympathetic Ganglion, T10 Sympathetic Ganglion, T11 Sympathetic Ganglion, T12 Sympathetic Ganglion, T13 Sympathetic Ganglion, L1 Sympathetic Ganglion, L2 Sympathetic Ganglion, L3 Sympathetic Ganglion, L4 Sympathetic Ganglion, L5 Sympathetic Ganglion, S1 Sympathetic Ganglion, S2 Sympathetic Ganglion, S3 Sympathetic Ganglion, S4 Sympathetic Ganglion, S5 Sympathetic Ganglion, Coccygeal Sympathetic Trunk"
         },
         {
             "id": "n2R",
             "name": "Spinal Nerve Roots",
             "color": "#eeffff",
+            "points": [
+                {
+                    "x": -60,
+                    "y": 10
+                },
+                {
+                    "x": -60,
+                    "y": 15
+                },
+                {
+                    "x": -5,
+                    "y": 15
+                },
+                {
+                    "x": -5,
+                    "y": 10
+                }
+            ],
             "internalIn": "n2",
             "external": [
                 "FMA:5981",
                 "UBERON:0000044"
-            ]
+            ],
+            "description": "Ventral Nerve Roots, Dorsal Nerve Roots, Dorsal Root Ganglia"
         },
         {
             "id": "n3A",
@@ -1432,7 +1563,8 @@
             "internalIn": "n3",
             "external": [
                 "UBERON:0011137"
-            ]
+            ],
+            "description": "Axial Skeleton"
         },
         {
             "id": "n3M",
@@ -1458,7 +1590,8 @@
             "internalIn": "n3",
             "external": [
                 "UBERON:0018254"
-            ]
+            ],
+            "description": "Skeletal Musculature"
         },
         {
             "id": "n3L",
@@ -1484,7 +1617,8 @@
             "internalIn": "n3",
             "external": [
                 "UBERON:0001441"
-            ]
+            ],
+            "description": "Hindlimb Skeleton"
         },
         {
             "id": "n3U",
@@ -1510,189 +1644,441 @@
             "internalIn": "n3",
             "external": [
                 "UBERON:0001440"
-            ]
+            ],
+            "description": "Forelimb Skeleton"
         },
         {
             "id": "n4c",
             "name": "Cranial Skeleton",
+            "points": [
+                {
+                    "x": 10,
+                    "y": -15
+                },
+                {
+                    "x": 10,
+                    "y": -25
+                },
+                {
+                    "x": 30,
+                    "y": -25
+                },
+                {
+                    "x": 30,
+                    "y": -15
+                }
+            ],
+            "internalIn": "n4",
             "external": [
                 "UBERON:0003128",
                 "UBERON:0001684"
-            ]
+            ],
+            "description": "Cranium, Mandible"
         },
         {
             "id": "n4V",
             "name": "Vestibulococchlear",
             "points": [
                 {
-                    "x": 40,
+                    "x": 20,
                     "y": -45
                 },
                 {
-                    "x": 40,
+                    "x": 20,
                     "y": -35
                 },
                 {
-                    "x": 50,
+                    "x": 30,
                     "y": -35
                 },
                 {
-                    "x": 50,
+                    "x": 30,
                     "y": -45
                 }
             ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0002227"
-            ]
+            ],
+            "description": "Organ of Corti"
         },
         {
             "id": "n4R",
             "name": "Retinal",
             "points": [
                 {
-                    "x": 50,
-                    "y": -30
+                    "x": 35,
+                    "y": -35
                 },
                 {
-                    "x": 50,
-                    "y": -20
+                    "x": 35,
+                    "y": -25
                 },
                 {
-                    "x": 60,
-                    "y": -20
+                    "x": 45,
+                    "y": -25
                 },
                 {
-                    "x": 60,
-                    "y": -30
+                    "x": 45,
+                    "y": -35
                 }
             ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0000966"
-            ]
+            ],
+            "description": "Retina"
         },
         {
             "id": "n4O",
             "name": "Olfactory bulb",
             "points": [
                 {
+                    "x": 50,
+                    "y": -25
+                },
+                {
+                    "x": 50,
+                    "y": -15
+                },
+                {
                     "x": 60,
                     "y": -15
                 },
                 {
                     "x": 60,
-                    "y": -5
-                },
-                {
-                    "x": 70,
-                    "y": -5
-                },
-                {
-                    "x": 70,
-                    "y": -15
+                    "y": -25
                 }
             ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0002264"
-            ]
+            ],
+            "description": "Olfactory Bulb"
         },
         {
             "id": "n4C1N",
             "name": "CN1",
+            "points": [
+                {
+                    "x": 22,
+                    "y": -5
+                },
+                {
+                    "x": 22,
+                    "y": -10
+                },
+                {
+                    "x": 27,
+                    "y": -10
+                },
+                {
+                    "x": 27,
+                    "y": -5
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001579"
-            ]
+            ],
+            "description": "Olfactory Nerve"
         },
         {
             "id": "n4C2N",
             "name": "CN2",
+            "points": [
+                {
+                    "x": 29,
+                    "y": -5
+                },
+                {
+                    "x": 29,
+                    "y": -10
+                },
+                {
+                    "x": 34,
+                    "y": -10
+                },
+                {
+                    "x": 34,
+                    "y": -5
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "FMA:50863"
-            ]
+            ],
+            "description": "Optic Nerve"
         },
         {
             "id": "n4C3N",
             "name": "CN3",
+            "points": [
+                {
+                    "x": 36,
+                    "y": -5
+                },
+                {
+                    "x": 36,
+                    "y": -10
+                },
+                {
+                    "x": 41,
+                    "y": -10
+                },
+                {
+                    "x": 41,
+                    "y": -5
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001643"
-            ]
+            ],
+            "description": "Oculomotor Nerve"
         },
         {
             "id": "n4C4N",
             "name": "CN4",
+            "points": [
+                {
+                    "x": 43,
+                    "y": -5
+                },
+                {
+                    "x": 43,
+                    "y": -10
+                },
+                {
+                    "x": 48,
+                    "y": -10
+                },
+                {
+                    "x": 48,
+                    "y": -5
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001644"
-            ]
+            ],
+            "description": "Trochlear Nerve"
         },
         {
             "id": "n4C5N",
             "name": "CN5",
+            "points": [
+                {
+                    "x": 50,
+                    "y": -5
+                },
+                {
+                    "x": 50,
+                    "y": -10
+                },
+                {
+                    "x": 55,
+                    "y": -10
+                },
+                {
+                    "x": 55,
+                    "y": -5
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001645"
-            ]
+            ],
+            "description": "Trigeminal Nerve"
         },
         {
             "id": "n4C6N",
             "name": "CN6",
+            "points": [
+                {
+                    "x": 57,
+                    "y": -5
+                },
+                {
+                    "x": 57,
+                    "y": -10
+                },
+                {
+                    "x": 62,
+                    "y": -10
+                },
+                {
+                    "x": 62,
+                    "y": -5
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001646"
-            ]
+            ],
+            "description": "Abducent Nerve"
         },
         {
             "id": "n4C7N",
             "name": "CN7",
+            "points": [
+                {
+                    "x": 64,
+                    "y": -5
+                },
+                {
+                    "x": 64,
+                    "y": -10
+                },
+                {
+                    "x": 69,
+                    "y": -10
+                },
+                {
+                    "x": 69,
+                    "y": -5
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001647"
-            ]
+            ],
+            "description": "Facial Nerve"
         },
         {
             "id": "n4C8N",
             "name": "CN8",
+            "points": [
+                {
+                    "x": 71,
+                    "y": -5
+                },
+                {
+                    "x": 71,
+                    "y": -10
+                },
+                {
+                    "x": 76,
+                    "y": -10
+                },
+                {
+                    "x": 76,
+                    "y": -5
+                }
+            ],
             "internalIn": "n4",
             "external": [
                 "UBERON:0001648"
-            ]
+            ],
+            "description": "Vestibulocochlear Nerve"
         },
         {
             "id": "n1C9N",
             "name": "CN9",
+            "points": [
+                {
+                    "x": 22,
+                    "y": 5
+                },
+                {
+                    "x": 22,
+                    "y": 10
+                },
+                {
+                    "x": 27,
+                    "y": 10
+                },
+                {
+                    "x": 27,
+                    "y": 5
+                }
+            ],
             "internalIn": "n1",
             "external": [
                 "UBERON:0001649"
-            ]
+            ],
+            "description": "Glossopharyngeal Nerve"
         },
         {
             "id": "n1C10N",
             "name": "CN10",
+            "points": [
+                {
+                    "x": 29,
+                    "y": 5
+                },
+                {
+                    "x": 29,
+                    "y": 10
+                },
+                {
+                    "x": 34,
+                    "y": 10
+                },
+                {
+                    "x": 34,
+                    "y": 5
+                }
+            ],
             "internalIn": "n1",
             "external": [
                 "UBERON:0001759"
-            ]
+            ],
+            "description": "Vagus Nerve"
         },
         {
             "id": "n1C11N",
             "name": "CN11",
+            "points": [
+                {
+                    "x": 36,
+                    "y": 5
+                },
+                {
+                    "x": 36,
+                    "y": 10
+                },
+                {
+                    "x": 41,
+                    "y": 10
+                },
+                {
+                    "x": 41,
+                    "y": 5
+                }
+            ],
             "internalIn": "n1",
             "external": [
                 "UBERON:0002019"
-            ]
+            ],
+            "description": "Accessory Nerve"
         },
         {
             "id": "n1C12N",
             "name": "CN12",
+            "points": [
+                {
+                    "x": 43,
+                    "y": 5
+                },
+                {
+                    "x": 43,
+                    "y": 10
+                },
+                {
+                    "x": 48,
+                    "y": 10
+                },
+                {
+                    "x": 48,
+                    "y": 5
+                }
+            ],
             "internalIn": "n1",
             "external": [
                 "UBERON:0001650"
-            ]
+            ],
+            "description": "Hypoglossal Nerve"
         }
     ],
     "components": [
@@ -1876,7 +2262,7 @@
                 "n1P",
                 "n1A",
                 "n1G",
-                "n1N",
+                "n2N",
                 "n2G",
                 "n2R",
                 "n3A",
@@ -1887,6 +2273,24 @@
                 "n4V",
                 "n4R",
                 "n4O",
+                "n4C1N",
+                "n4C2N",
+                "n4C3N",
+                "n4C4N",
+                "n4C5N",
+                "n4C6N",
+                "n4C7N",
+                "n4C8N",
+                "n1C9N",
+                "n1C10N",
+                "n1C11N",
+                "n1C12N"
+            ]
+        },
+        {
+            "id": "nerves",
+            "name": "Nerve regions",
+            "regions": [
                 "n4C1N",
                 "n4C2N",
                 "n4C3N",
