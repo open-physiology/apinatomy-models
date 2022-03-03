@@ -2977,17 +2977,17 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns38",
-            "leaf": "ns40",
+            "root": "ns40",
+            "leaf": "ns38",
             "housingLayers": [
                 0,
                 0,
                 0
             ],
             "housingLyphs": [
-                "K78",
+                "K79",
                 "K70",
-                "K79"
+                "K78"
             ]
         },
         {
@@ -2997,17 +2997,17 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns40",
-            "leaf": "ns41",
+            "root": "ns41",
+            "leaf": "ns40",
             "housingLayers": [
                 0,
                 0,
                 0
             ],
             "housingLyphs": [
-                "K79",
+                "K80",
                 "K71",
-                "K80"
+                "K79"
             ]
         },
         {
@@ -3017,8 +3017,8 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns34",
-            "leaf": "ns41",
+            "root": "ns41",
+            "leaf": "ns34",
             "housingLayers": [
                 0
             ],
@@ -3033,17 +3033,17 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns41",
-            "leaf": "ns42",
+            "root": "ns42",
+            "leaf": "ns41",
             "housingLayers": [
                 0,
                 0,
                 0
             ],
             "housingLyphs": [
-                "K80",
+                "K81",
                 "K72",
-                "K81"
+                "K80"
             ]
         },
         {
@@ -3053,8 +3053,8 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns37",
-            "leaf": "ns42",
+            "root": "ns42",
+            "leaf": "ns37",
             "housingLayers": [
                 0
             ],
@@ -3069,17 +3069,17 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns42",
-            "leaf": "ns43",
+            "root": "ns43",
+            "leaf": "ns42",
             "housingLayers": [
                 0,
                 0,
                 0
             ],
             "housingLyphs": [
-                "K81",
+                "K82",
                 "K73",
-                "K82"
+                "K81"
             ]
         },
         {
