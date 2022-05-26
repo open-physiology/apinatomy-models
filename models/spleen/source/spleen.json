@@ -398,7 +398,7 @@
             "id": "ser_int",
             "name": "serosa of instestine",
             "ontologyTerms": [
-                "FMA:15701"
+                "UBERON:0001243"
             ],
             "internalIn": "mes_ln",
             "internalLyphs": [
@@ -449,7 +449,10 @@
         },
         {
             "id": "n-splenic",
-            "name": "splenic nerve (spleen)"
+            "name": "splanchnic nerve (spleen)",
+            "ontologyTerms": [
+                "UBERON:0003715"
+            ]
         },
         {
             "id": "axon-bag",
@@ -1111,11 +1114,17 @@
         },
         {
             "id": "SPL-M_bm",
-            "name": "basement membrane"
+            "name": "basement membrane",
+            "ontologyTerms": [
+                "GO:0005604"
+            ]
         },
         {
             "id": "SPL-M_tm",
-            "name": "tunica media"
+            "name": "tunica media",
+            "ontologyTerms": [
+                "UBERON:0002522"
+            ]
         },
         {
             "id": "SPL-M_ta",
@@ -1123,11 +1132,17 @@
         },
         {
             "id": "SPL-M_tct",
-            "name": "trabecular connective tissue"
+            "name": "trabecular connective tissue",
+            "ontologyTerms": [
+                "ILX:0793206"
+            ]
         },
         {
             "id": "SPL-M_rct",
-            "name": "reticular connective tissue"
+            "name": "reticular connective tissue",
+            "ontologyTerms": [
+                "UBERON:0006804"
+            ]
         },
         {
             "id": "SPL-M_rpm",

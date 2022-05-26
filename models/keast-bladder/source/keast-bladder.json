@@ -1326,49 +1326,49 @@
             "id": "K63",
             "name": "L1 ventral root (kblad)",
             "ontologyTerms": [
-                "EMAPA:25269"
+                "ILX:0785421"
             ]
         },
         {
             "id": "K64",
             "name": "L2 ventral root (kblad)",
             "ontologyTerms": [
-                "EMAPA:25271"
+                "ILX:0788675"
             ]
         },
         {
             "id": "K65",
             "name": "L3 ventral root (kblad)",
             "ontologyTerms": [
-                "EMAPA:25273"
+                "ILX:0787520"
             ]
         },
         {
             "id": "K66",
             "name": "L4 ventral root (kblad)",
             "ontologyTerms": [
-                "EMAPA:25275"
+                "ILX:0789968"
             ]
         },
         {
             "id": "K67",
             "name": "L5 ventral root (kblad)",
             "ontologyTerms": [
-                "EMAPA:25277"
+                "ILX:0791148"
             ]
         },
         {
             "id": "K68",
             "name": "L6 ventral root (kblad)",
             "ontologyTerms": [
-                "EMAPA:25279"
+                "ILX:0792853"
             ]
         },
         {
             "id": "K69",
             "name": "S1 ventral root (kblad)",
             "ontologyTerms": [
-                "EMAPA:25281"
+                "ILX:0788884"
             ]
         },
         {
@@ -1431,7 +1431,7 @@
             "id": "K78",
             "name": "T12 sympathetic ganglion (kblad)",
             "ontologyTerms": [
-                "FMA:6485"
+                "ILX:0787009"
             ],
             "internalLyphs": [
                 "sn-sgt12"
@@ -1457,7 +1457,7 @@
             "id": "K80",
             "name": "L1 sympathetic ganglion (kblad)",
             "ontologyTerms": [
-                "FMA:6540"
+                "ILX:0789862"
             ],
             "internalLyphs": [
                 "sn-sgl1"
@@ -1470,7 +1470,7 @@
             "id": "K81",
             "name": "L2 sympathetic ganglion (kblad)",
             "ontologyTerms": [
-                "FMA:6541"
+                "ILX:0786933"
             ],
             "internalLyphs": [
                 "sn-sgl2"
@@ -1483,7 +1483,7 @@
             "id": "K82",
             "name": "L3 sympathetic ganglion (kblad)",
             "ontologyTerms": [
-                "FMA:6542"
+                "ILX:0788315"
             ],
             "internalLyphs": [
                 "sn-sgl3"
@@ -1496,7 +1496,7 @@
             "id": "K83",
             "name": "L4 sympathetic ganglion (kblad)",
             "ontologyTerms": [
-                "FMA:6543"
+                "ILX:0790472"
             ],
             "internalLyphs": [
                 "sn-sgl4"
@@ -1535,28 +1535,28 @@
             "id": "K86",
             "name": "S1 sympathetic ganglion (kblad)",
             "ontologyTerms": [
-                "FMA:6552"
+                "ILX:0789109"
             ]
         },
         {
             "id": "K87",
             "name": "T12 white ramus (kblad)",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793218"
             ]
         },
         {
             "id": "K88",
             "name": "L1 white ramus (kblad)",
             "ontologyTerms": [
-                "FMA:12697"
+                "ILX:0793220"
             ]
         },
         {
             "id": "K89",
             "name": "L2 white ramus (kblad)",
             "ontologyTerms": [
-                "FMA:12698"
+                "ILX:0793221"
             ]
         },
         {
@@ -1577,35 +1577,35 @@
             "id": "K92",
             "name": "L1 gray ramus (kblad)",
             "ontologyTerms": [
-                "FMA:65910"
+                "ILX:0785825"
             ]
         },
         {
             "id": "K93",
             "name": "L2 gray ramus (kblad)",
             "ontologyTerms": [
-                "FMA:65911"
+                "ILX:0785733"
             ]
         },
         {
             "id": "K94",
             "name": "L3 gray ramus (kblad)",
             "ontologyTerms": [
-                "FMA:65912"
+                "ILX:0785932"
             ]
         },
         {
             "id": "K95",
             "name": "L4 gray ramus (kblad)",
             "ontologyTerms": [
-                "FMA:65913"
+                "ILX:0788536"
             ]
         },
         {
             "id": "K96",
             "name": "L5 gray ramus (kblad)",
             "ontologyTerms": [
-                "FMA:65914"
+                "ILX:0785119"
             ]
         },
         {
@@ -1619,7 +1619,7 @@
             "id": "K98",
             "name": "S1 gray ramus (kblad)",
             "ontologyTerms": [
-                "FMA:65986"
+                "ILX:0793228"
             ]
         },
         {

@@ -1391,7 +1391,7 @@
             "description": "Pterygopalatine Ganglion, Submandibular Ganglion, Geniculate Ganglion, Nodose Ganglion, Petrous Ganglion, Jugular Ganglion, Superior Glossopharengeal Ganglion, Superior Cervical Ganglion, Middle Cervical Ganglion, Inferior Cervical Ganglion, Stellate Ganglion, Ciliary Ganglion, Trigeminal Ganglion, Otic Ganglion, T1 Sympathetic Ganglion, Vestibular Ganglion"
         },
         {
-            "id": "n1N",
+            "id": "n2N",
             "name": "Infracranial Nerves",
             "color": "#eeffff",
             "points": [
@@ -2221,7 +2221,7 @@
                 "n1P",
                 "n1A",
                 "n1G",
-                "n1N",
+                "n2N",
                 "n2G",
                 "n2R",
                 "n3A",

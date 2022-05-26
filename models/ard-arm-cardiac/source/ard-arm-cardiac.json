@@ -836,7 +836,7 @@
             "id": "A61",
             "name": "Inferior cervical ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6961"
+                "UBERON:0002440"
             ],
             "internalLyphs": [
                 "sn-icg_6",
@@ -853,7 +853,7 @@
             "id": "A62",
             "name": "Middle cervical ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6468"
+                "UBERON:0001990"
             ],
             "internalLyphs": [
                 "sn-mcg_2",
@@ -870,7 +870,7 @@
             "id": "A63",
             "name": "Superior cervical ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6467"
+                "UBERON:0001989"
             ],
             "internalLyphs": [
                 "sn-scg_6"
@@ -896,7 +896,7 @@
             "id": "A65",
             "name": "Insula (aacar)",
             "ontologyTerms": [
-                "FMA:67329"
+                "UBERON:0002022"
             ]
         },
         {
@@ -910,21 +910,21 @@
             "id": "A67",
             "name": "Midbrain (aacar)",
             "ontologyTerms": [
-                "FMA:61993"
+                "UBERON:0001891"
             ]
         },
         {
             "id": "A68",
             "name": "Pons (aacar)",
             "ontologyTerms": [
-                "FMA:67943"
+                "UBERON:0000988"
             ]
         },
         {
             "id": "A69",
             "name": "Medulla (aacar)",
             "ontologyTerms": [
-                "FMA:61108"
+                "UBERON:0001896"
             ],
             "internalLyphs": [
                 "A72",
@@ -941,7 +941,7 @@
             "id": "A70",
             "name": "Nucleus Ambiguus (aacar)",
             "ontologyTerms": [
-                "FMA:54588"
+                "UBERON:0001719"
             ],
             "internalLyphs": [
                 "snna_4"
@@ -954,7 +954,7 @@
             "id": "A71",
             "name": "Dorsal Motor Vagus (of vagus nerve) (aacar)",
             "ontologyTerms": [
-                "FMA:54592"
+                "UBERON:0002870"
             ],
             "internalLyphs": [
                 "snmv_4"
@@ -1021,7 +1021,7 @@
             "id": "A75",
             "name": "Right Atrium (aacar)",
             "ontologyTerms": [
-                "FMA:7096"
+                "UBERON:0002078"
             ],
             "layers": [
                 "AM_46",
@@ -1033,7 +1033,7 @@
             "id": "A76",
             "name": "Right Ventricle (aacar)",
             "ontologyTerms": [
-                "FMA:7098"
+                "UBERON:0002080"
             ],
             "layers": [
                 "AM_46",
@@ -1045,7 +1045,7 @@
             "id": "A77",
             "name": "Left Atrium (aacar)",
             "ontologyTerms": [
-                "FMA:7097"
+                "UBERON:0002079"
             ],
             "layers": [
                 "AM_46",
@@ -1057,7 +1057,7 @@
             "id": "A78",
             "name": "Left Ventricle (aacar)",
             "ontologyTerms": [
-                "FMA:7101"
+                "UBERON:0002084"
             ],
             "layers": [
                 "AM_46",
@@ -1069,7 +1069,7 @@
             "id": "A79",
             "name": "Aorta (aacar)",
             "ontologyTerms": [
-                "FMA:3734"
+                "UBERON:0000947"
             ],
             "layers": [
                 "AM_54",
@@ -1370,7 +1370,7 @@
         },
         {
             "id": "snna_4",
-            "name": "Soma of PSPR neuron in Nucleus Ambiguus_Neuron 4 (aacar)",
+            "name": "Soma of parasympathetic preganglionic neuron in Nucleus Ambiguus_Neuron 4 (aacar)",
             "ontologyTerms": [
                 "NLX:154731"
             ],

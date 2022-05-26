@@ -379,35 +379,35 @@
         },
         {
             "id": "S13",
-            "name": "T13 Ventral Root ganglion (sdcol)",
+            "name": "T13 Ventral Root (sdcol)",
             "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S14",
-            "name": "L1 Ventral Root ganglion (sdcol)",
+            "name": "L1 Ventral Root  (sdcol)",
             "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S15",
-            "name": "L2 Ventral Root ganglion (sdcol)",
+            "name": "L2 Ventral Root  (sdcol)",
             "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S16",
-            "name": "L3 Ventral Root ganglion (sdcol)",
+            "name": "L3 Ventral Root (sdcol)",
             "ontologyTerms": [
                 "UBERON:0002260"
             ]
         },
         {
             "id": "S17",
-            "name": "L4 Ventral Root ganglion (sdcol)",
+            "name": "L4 Ventral Root (sdcol)",
             "ontologyTerms": [
                 "UBERON:0002260"
             ]
@@ -721,7 +721,7 @@
             "id": "S49",
             "name": "epithelium of colon (sdcol)",
             "ontologyTerms": [
-                "FMA:17302"
+                "UBERON:0000397"
             ],
             "internalLyphs": [
                 "S55",

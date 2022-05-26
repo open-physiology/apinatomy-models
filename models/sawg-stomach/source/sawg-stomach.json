@@ -525,7 +525,7 @@
             "id": "muc_eso",
             "name": "mucosa of esophagus",
             "ontologyTerms": [
-                "FMA:62996"
+                "UBERON:0002469"
             ]
         },
         {
