@@ -1,0 +1,2586 @@
+{
+    "nodes": [
+        {
+            "id": "s_jo21",
+            "name": "lyph neuron2 joint infracranial"
+        },
+        {
+            "id": "s_jo22",
+            "name": "lyph neuron2 joint IPGs"
+        },
+        {
+            "id": "s_jo4",
+            "name": "neuron 4 joint in IPG"
+        },
+        {
+            "id": "bile_pancreas_o",
+            "name": "pancreatic bile"
+        },
+        {
+            "id": "bile_liver_o",
+            "name": "liver bile"
+        }
+    ],
+    "links": [
+        {
+            "id": "link-soma-t5",
+            "name": "link to soma in t5 spinal cord segment",
+            "source": "s_t5",
+            "target": "t_t5",
+            "conveyingLyph": "lyph-sympathetic-pre-ganglionic-neuron-soma-t5"
+        },
+        {
+            "id": "link-soma-t6",
+            "name": "link to soma in t6 spinal cord segment",
+            "source": "s_t6",
+            "target": "t_t6",
+            "conveyingLyph": "lyph-sympathetic-pre-ganglionic-neuron-soma-t6"
+        },
+        {
+            "id": "link-soma-t7",
+            "name": "link to soma in t7 spinal cord segment",
+            "source": "s_t7",
+            "target": "t_t7",
+            "conveyingLyph": "lyph-sympathetic-pre-ganglionic-neuron-soma-t7"
+        },
+        {
+            "id": "link-soma-t8",
+            "name": "link to soma in t8 spinal cord segment",
+            "source": "s_t8",
+            "target": "t_t8",
+            "conveyingLyph": "lyph-sympathetic-pre-ganglionic-neuron-soma-t8"
+        },
+        {
+            "id": "link-soma-t9",
+            "name": "link to soma in t9 spinal cord segment",
+            "source": "s_t9",
+            "target": "t_t9",
+            "conveyingLyph": "lyph-sympathetic-pre-ganglionic-neuron-soma-t9"
+        },
+        {
+            "id": "link-soma-cg",
+            "name": "link to soma in CG",
+            "source": "s_cg",
+            "target": "t_cg",
+            "conveyingLyph": "lyph-soma-celiac-ganglion-neuron-2"
+        },
+        {
+            "id": "link-soma-smg",
+            "name": "link to soma in SMG",
+            "source": "s_smg",
+            "target": "t_smg",
+            "conveyingLyph": "lyph-soma-superior-mesenteric-ganglia-neuron-2"
+        },
+        {
+            "id": "link-soma-superior-mesenteric-ganglia-neuron-2",
+            "name": "link soma superior mesenteric ganglia neuron 2",
+            "source": "s_smg2",
+            "target": "t_smg2",
+            "conveyingLyph": "lyph-superior-mesenteric-ganglia"
+        },
+        {
+            "id": "link-soma-celiac-ganglion-neuron-2",
+            "name": "link soma celiac ganglion neuron 2",
+            "source": "s_cg2",
+            "target": "t_cg2",
+            "conveyingLyph": "lyph-celiac-ganglion"
+        },
+        {
+            "id": "link-soma-intrapancreatic-ganglia-islets-neuron3",
+            "name": "link somaintrapangreatic ganglia to islets neuron 3",
+            "source": "s_isle3",
+            "target": "t_isle3",
+            "conveyingLyph": "lyph-soma-intrapancreatic-ganglia-islets-neuron3"
+        },
+        {
+            "id": "link-soma-proximal-duodenum-neuron-4",
+            "name": "link soma proximal duodenum neuron 4",
+            "source": "s_pd4",
+            "target": "t_pd4",
+            "conveyingLyph": "lyph-soma-proximal-duodenum-neuron-4"
+        },
+        {
+            "id": "link-soma-gastric-antrum-neuron-4",
+            "name": "link soma gastric antrum neuron 4",
+            "source": "s_ga4",
+            "target": "t_ga4",
+            "conveyingLyph": "lyph-soma-gastric-antrum-neuron-4"
+        }
+    ],
+    "lyphs": [
+        {
+            "id": "lyph-XX-spinal_segment",
+            "name": "Segment of Spinal Cord",
+            "external": [
+                "UBERON:0005844",
+                "NCBITaxon:10116",
+                "NCBITaxon:9606"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "mat-cerebrospinal-fluid",
+                "mat-ependyma",
+                "mat-rex-lam-X",
+                "mat-white-matter-CNS-spinal-cord",
+                "mat-rex-lam-IX",
+                "mat-rex-lam-VIII",
+                "mat-rex-lam-VII",
+                "mat-rex-lam-VI",
+                "mat-rex-lam-V",
+                "mat-rex-lam-IV",
+                "mat-rex-lam-III",
+                "mat-rex-lam-II",
+                "mat-rex-lam-I",
+                "mat-white-matter-CNS-spinal-cord"
+            ]
+        },
+        {
+            "id": "lyph-T5-spinal-segment",
+            "name": "T5 spinal segment",
+            "external": [
+                "UBERON:0006453",
+                "NCBITaxon:10116",
+                "NCBITaxon:9606"
+            ],
+            "topology": "TUBE",
+            "supertype": "lyph-XX-spinal_segment",
+            "internalLyphs": [
+                "lyph-sympathetic-pre-ganglionic-neuron-soma-t5"
+            ],
+            "internalLyphsInLayers": [
+                7
+            ]
+        },
+        {
+            "id": "lyph-T6-spinal-segment",
+            "name": "T6 spinal segment",
+            "external": [
+                "UBERON:0006454",
+                "NCBITaxon:10116",
+                "NCBITaxon:9606"
+            ],
+            "topology": "TUBE",
+            "supertype": "lyph-XX-spinal_segment",
+            "internalLyphs": [
+                "lyph-sympathetic-pre-ganglionic-neuron-soma-t6"
+            ],
+            "internalLyphsInLayers": [
+                7
+            ]
+        },
+        {
+            "id": "lyph-T7-spinal-segment",
+            "name": "T7 spinal segment",
+            "external": [
+                "UBERON:0006455",
+                "NCBITaxon:10116",
+                "NCBITaxon:9606"
+            ],
+            "topology": "TUBE",
+            "supertype": "lyph-XX-spinal_segment",
+            "internalLyphs": [
+                "lyph-sympathetic-pre-ganglionic-neuron-soma-t7"
+            ],
+            "internalLyphsInLayers": [
+                7
+            ]
+        },
+        {
+            "id": "lyph-T8-spinal-segment",
+            "name": "T8 spinal segment",
+            "external": [
+                "UBERON:0006456",
+                "NCBITaxon:10116",
+                "NCBITaxon:9606"
+            ],
+            "topology": "TUBE",
+            "supertype": "lyph-XX-spinal_segment",
+            "internalLyphs": [
+                "lyph-sympathetic-pre-ganglionic-neuron-soma-t8"
+            ],
+            "internalLyphsInLayers": [
+                7
+            ]
+        },
+        {
+            "id": "lyph-T9-spinal-segment",
+            "name": "T9 spinal segment",
+            "external": [
+                "UBERON:0006465",
+                "NCBITaxon:10116",
+                "NCBITaxon:9606"
+            ],
+            "topology": "TUBE",
+            "supertype": "lyph-XX-spinal_segment",
+            "internalLyphs": [
+                "lyph-sympathetic-pre-ganglionic-neuron-soma-t9"
+            ],
+            "internalLyphsInLayers": [
+                7
+            ]
+        },
+        {
+            "id": "lyph-sympathetic-pre-ganglionic-neuron-soma-t5",
+            "name": "Soma of SPR neuron in T5_Neuron 1",
+            "external": [
+                "NLX:154731"
+            ],
+            "seedIn": "neuron-1t5"
+        },
+        {
+            "id": "lyph-sympathetic-pre-ganglionic-neuron-soma-t6",
+            "name": "Soma of SPR neuron in T6_Neuron 1",
+            "external": [
+                "NLX:154731"
+            ],
+            "seedIn": "neuron-1t6"
+        },
+        {
+            "id": "lyph-sympathetic-pre-ganglionic-neuron-soma-t7",
+            "name": "Soma of SPR neuron in T7_Neuron 1",
+            "external": [
+                "NLX:154731"
+            ],
+            "seedIn": "neuron-1t7"
+        },
+        {
+            "id": "lyph-sympathetic-pre-ganglionic-neuron-soma-t8",
+            "name": "Soma of SPR neuron in T8_Neuron 1",
+            "external": [
+                "NLX:154731"
+            ],
+            "seedIn": "neuron-1t8"
+        },
+        {
+            "id": "lyph-sympathetic-pre-ganglionic-neuron-soma-t9",
+            "name": "Soma of SPR neuron in T9_Neuron 1",
+            "external": [
+                "NLX:154731"
+            ],
+            "seedIn": "neuron-1t9"
+        },
+        {
+            "id": "lyph-sympathetic-chain",
+            "name": "Sympathetic chain",
+            "external": [
+                "UBERON:0000407"
+            ]
+        },
+        {
+            "id": "lyph-infracervical-autonomic-ganglia",
+            "name": "Infracervical autonomic ganglia",
+            "external": [
+                "UBERON:0001805"
+            ],
+            "internalLyphs": [
+                "lyph-superior-mesenteric-ganglia",
+                "lyph-celiac-ganglion"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0
+            ]
+        },
+        {
+            "id": "lyph-greater-splanchnic-nerve",
+            "name": "Greater splanchnic nerve",
+            "external": [
+                "UBERON:0018680"
+            ]
+        },
+        {
+            "id": "lyph-superior-mesenteric-ganglia",
+            "name": "Superior mesenteric ganglia",
+            "external": [
+                "UBERON:0005479"
+            ],
+            "internalLyphs": [
+                "lyph-soma-superior-mesenteric-ganglia-neuron-2"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "lyph-celiac-ganglion",
+            "name": "Celiac ganglion",
+            "external": [
+                "UBERON:0002262"
+            ],
+            "internalLyphs": [
+                "lyph-soma-celiac-ganglion-neuron-2"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "lyph-medulla",
+            "name": "Medulla",
+            "external": [
+                "UBERON:0001896",
+                "NCBITaxon:10116"
+            ],
+            "topology": "TUBE"
+        },
+        {
+            "id": "lyph-intrapancreatic-ganglia",
+            "name": "Intrapancreatic ganglia",
+            "external": [
+                "ILX:0793178"
+            ],
+            "internalLyphs": [
+                "lyph-soma-intrapancreatic-ganglia-islets-neuron3"
+            ],
+            "internalLyphsInLayers": [
+                0
+            ]
+        },
+        {
+            "id": "lyph-pancreatic-islets",
+            "name": "Pancreatic islets",
+            "external": [
+                "ILX:0772929"
+            ]
+        },
+        {
+            "id": "lyph-dorsal-motor-nucleus-of-the-vagus",
+            "name": "Dorsal motor nucleus of the vagus",
+            "external": [
+                "ILX:0772558"
+            ]
+        },
+        {
+            "id": "lyph-superior-mesenteric-artery",
+            "name": "Superior mesenteric artery",
+            "external": [
+                "UBERON:0001182"
+            ]
+        },
+        {
+            "id": "lyph-coeliac-trunk",
+            "name": "Coeliac trunk",
+            "external": [
+                "ILX:0744971"
+            ],
+            "materials": [
+                "mat-blood",
+                "mat-wall-of-vessel"
+            ]
+        },
+        {
+            "id": "lyph-hepatic-artery",
+            "name": "Hepatic artery",
+            "external": [
+                "UBERON:0001193"
+            ],
+            "materials": [
+                "mat-blood",
+                "mat-wall-of-vessel"
+            ]
+        },
+        {
+            "id": "lyph-splenic-artery",
+            "name": "Splenic artery",
+            "external": [
+                "UBERON:0001194"
+            ],
+            "layers": [
+                "mat-blood",
+                "mat-tissue-cardiovascular-endothelium",
+                "mat-basement-membrane",
+                "mat-muscular-layer",
+                "mat-adventitia",
+                "mat-plexus"
+            ],
+            "materials": [
+                "mat-blood",
+                "mat-wall-of-vessel"
+            ]
+        },
+        {
+            "id": "lyph-spleen",
+            "name": "Spleen",
+            "external": [
+                "UBERON:0002106"
+            ]
+        },
+        {
+            "id": "lyph-hepatic-portal-vein",
+            "name": "Hepatic portal vein",
+            "external": [
+                "UBERON:0001639"
+            ],
+            "materials": [
+                "mat-blood",
+                "mat-wall-of-vessel"
+            ]
+        },
+        {
+            "id": "lyph-inferior-pancreaticoduodenal-artery",
+            "name": "Inferior pancreaticoduodenal artery",
+            "external": [
+                "UBERON:0001195"
+            ],
+            "materials": [
+                "mat-blood",
+                "mat-wall-of-vessel"
+            ]
+        },
+        {
+            "id": "lyph-proximal-duodenum",
+            "name": "Proximal duodenum",
+            "external": [
+                "ILX:0774562"
+            ],
+            "layers": [
+                "mat-serosa",
+                "mat-longitudial-muscle",
+                "mat-myenteric-plexus",
+                "mat-circular-muscle",
+                "mat-oblique-muscle",
+                "mat-muscularis-mucosae-of-stomach",
+                "mat-mucosa",
+                "mat-lumen"
+            ],
+            "internalLyphs": [
+                "lyph-soma-proximal-duodenum-neuron-4"
+            ],
+            "internalLyphsInLayers": [
+                3
+            ]
+        },
+        {
+            "id": "lyph-gastric-antrum",
+            "name": "Gastric antrum",
+            "external": [
+                "UBERON:0001165"
+            ],
+            "layers": [
+                "mat-serosa",
+                "mat-longitudial-muscle",
+                "mat-myenteric-plexus",
+                "mat-circular-muscle",
+                "mat-oblique-muscle",
+                "mat-muscularis-mucosae-of-stomach",
+                "mat-mucosa",
+                "mat-lumen"
+            ],
+            "internalLyphs": [
+                "lyph-soma-gastric-antrum-neuron-4"
+            ],
+            "internalLyphsInLayers": [
+                3
+            ]
+        },
+        {
+            "id": "lyph-vagus-nerve",
+            "name": "Vagus nerve",
+            "external": [
+                "UBERON:0001759"
+            ]
+        },
+        {
+            "id": "lyph-soma-superior-mesenteric-ganglia-neuron-2",
+            "name": "Soma of superior mesenteric ganglia neuron",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "lyph-segment-of-neuron",
+            "seedIn": "neuron-2"
+        },
+        {
+            "id": "lyph-soma-celiac-ganglion-neuron-2",
+            "name": "Soma of celiac ganglion",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "lyph-segment-of-neuron"
+        },
+        {
+            "id": "lyph-T5-ventral-root",
+            "name": "T5 ventral root",
+            "external": [
+                "EMAPA:25304"
+            ],
+            "materials": [
+                "lyph-XX-ventral-root"
+            ],
+            "internalIn": "mat-white-matter-CNS-spinal-cord"
+        },
+        {
+            "id": "lyph-T6-ventral-root",
+            "name": "T6 ventral root",
+            "external": [
+                "EMAPA:25306"
+            ],
+            "materials": [
+                "lyph-XX-ventral-root"
+            ],
+            "internalIn": "mat-white-matter-CNS-spinal-cord"
+        },
+        {
+            "id": "lyph-T7-ventral-root",
+            "name": "T7 ventral root",
+            "external": [
+                "EMAPA:25308"
+            ],
+            "materials": [
+                "lyph-XX-ventral-root"
+            ],
+            "internalIn": "mat-white-matter-CNS-spinal-cord"
+        },
+        {
+            "id": "lyph-T8-ventral-root",
+            "name": "T8 ventral root",
+            "external": [
+                "EMAPA:25310"
+            ],
+            "materials": [
+                "lyph-XX-ventral-root"
+            ],
+            "internalIn": "mat-white-matter-CNS-spinal-cord"
+        },
+        {
+            "id": "lyph-T9-ventral-root",
+            "name": "T9 ventral root",
+            "external": [
+                "EMAPA:25312"
+            ],
+            "materials": [
+                "lyph-XX-ventral-root"
+            ],
+            "internalIn": "mat-white-matter-CNS-spinal-cord"
+        },
+        {
+            "id": "lyph-paravertebral-ganglia",
+            "name": "Paravertebral ganglia",
+            "external": [
+                "UBERON:0001807"
+            ],
+            "isTemplate": true
+        },
+        {
+            "id": "lyph-T5-sympathetic-chain-ganglion",
+            "name": "T5 sympathetic chain ganglion",
+            "external": [
+                "FMA:6478"
+            ],
+            "supertype": "lyph-paravertebral-ganglia"
+        },
+        {
+            "id": "lyph-T6-sympathetic-chain-ganglion",
+            "name": "T6 sympathetic chain ganglion",
+            "external": [
+                "FMA:6479"
+            ],
+            "supertype": "lyph-paravertebral-ganglia"
+        },
+        {
+            "id": "lyph-T7-sympathetic-chain-ganglion",
+            "name": "T7 sympathetic chain ganglion",
+            "external": [
+                "FMA:6480"
+            ],
+            "supertype": "lyph-paravertebral-ganglia"
+        },
+        {
+            "id": "lyph-T8-sympathetic-chain-ganglion",
+            "name": "T8 sympathetic chain ganglion",
+            "external": [
+                "FMA:6481"
+            ],
+            "supertype": "lyph-paravertebral-ganglia"
+        },
+        {
+            "id": "lyph-T9-sympathetic-chain-ganglion",
+            "name": "T9 sympathetic chain ganglion",
+            "external": [
+                "FMA:6482"
+            ],
+            "supertype": "lyph-paravertebral-ganglia"
+        },
+        {
+            "id": "lyph-segment-of-neuron",
+            "name": "Segment of neuron",
+            "external": [
+                "CL:0000540"
+            ],
+            "isTemplate": true,
+            "layers": [
+                "mat-cytosol",
+                "mat-plasma-membrane",
+                "mat-extracellular-fluid"
+            ]
+        },
+        {
+            "id": "lt-axon-bag",
+            "name": "Axon terminal",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-",
+            "materials": [
+                "mat-cytosol",
+                "mat-plasma-membrane",
+                "mat-extracellular-fluid"
+            ]
+        },
+        {
+            "id": "lt-axon-tube",
+            "name": "Axon segment",
+            "external": [
+                "SAO:280355188"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE",
+            "materials": [
+                "mat-cytosol",
+                "mat-plasma-membrane",
+                "mat-extracellular-fluid"
+            ]
+        },
+        {
+            "id": "lt-dend-bag",
+            "name": "Dendrite terminal",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-",
+            "materials": [
+                "mat-cytosol",
+                "mat-plasma-membrane",
+                "mat-extracellular-fluid"
+            ]
+        },
+        {
+            "id": "lt-dend-tube",
+            "name": "Dendrite segment",
+            "external": [
+                "SAO:420754792"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE",
+            "materials": [
+                "mat-cytosol",
+                "mat-plasma-membrane",
+                "mat-extracellular-fluid"
+            ]
+        },
+        {
+            "id": "lyph-soma-proximal-duodenum-neuron-4",
+            "name": "soma of neuron 4 in proximal duodenum",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "lyph-segment-of-neuron",
+            "materials": [
+                "mat-CNS-tissue-brain"
+            ],
+            "seedIn": "neuron-4"
+        },
+        {
+            "id": "lyph-soma-gastric-antrum-neuron-4",
+            "name": "soma of neuron 4 in gastric antrum",
+            "external": [
+                "NLX:154731"
+            ],
+            "supertype": "lyph-segment-of-neuron",
+            "materials": [
+                "mat-CNS-tissue-brain"
+            ]
+        },
+        {
+            "id": "lyph-soma-intrapancreatic-ganglia-islets-neuron3",
+            "name": "neuron 3 from intrapancreatic ganglia to islets",
+            "external": [
+                "NLX:154731"
+            ],
+            "seedIn": "neuron-3"
+        },
+        {
+            "id": "lyph-acinar-cell",
+            "name": "acinar cell of pancreas",
+            "external": [
+                "ILX:0773243"
+            ]
+        },
+        {
+            "id": "lyph-pancreatic-acini",
+            "name": "pancreatic acinus",
+            "external": [
+                "UBERON:0001263"
+            ],
+            "topology": "TUBE",
+            "layers": [
+                "mat-pancreatic-fluid",
+                "mat-pancreatic-epithelium",
+                "mat-basement-membrane",
+                "mat-connective-tissue"
+            ],
+            "materials": [
+                "mat-pancreatic-fluid",
+                "mat-pancreatic-epithelium",
+                "mat-basement-membrane",
+                "mat-connective-tissue"
+            ],
+            "internalLyphs": [
+                "lyph-intrapancreatic-ganglia",
+                "lyph-pancreatic-islets",
+                "lyph-acinar-cell"
+            ],
+            "internalLyphsInLayers": [
+                1,
+                1,
+                3
+            ]
+        },
+        {
+            "id": "lyph-pancreatic-vasculature",
+            "name": "pancreatic vaculature",
+            "topology": "TUBE",
+            "layers": [
+                "mat-blood",
+                "mat-tissue-cardiovascular-endothelium",
+                "mat-basement-membrane",
+                "mat-connective-tissue"
+            ],
+            "materials": [
+                "mat-blood",
+                "mat-tissue-cardiovascular-endothelium",
+                "mat-basement-membrane",
+                "mat-connective-tissue"
+            ],
+            "internalLyphs": [
+                "lyph-intrapancreatic-ganglia",
+                "lyph-pancreatic-islets"
+            ],
+            "internalLyphsInLayers": [
+                3,
+                3
+            ]
+        },
+        {
+            "id": "lt-cell-segment",
+            "name": "Cell segment",
+            "subtypes": [
+                "lt-cell-bag",
+                "lt-cell-cyst"
+            ],
+            "isTemplate": true,
+            "materials": [
+                "mat-cytoplasm",
+                "mat-plasma-membrane",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "lt-cell-bag",
+            "name": "Cell bag",
+            "isTemplate": true,
+            "topology": "BAG"
+        },
+        {
+            "id": "lyph-neuron2-joint-infracranial",
+            "name": "Joint pont of neuron2 axons at infracranial"
+        },
+        {
+            "id": "lyph-liver",
+            "name": "liver",
+            "external": [
+                "UBERON:0002107"
+            ],
+            "topology": "TUBE",
+            "layers": [
+                "mat-bile-fluid",
+                "mat-hepatocytes",
+                "mat-basement-membrane",
+                "mat-connective-tissue"
+            ],
+            "materials": [
+                "mat-blood",
+                "mat-tissue-endothelium",
+                "mat-basement-endothelium",
+                "mat-connective-tissue"
+            ]
+        },
+        {
+            "id": "lyph-hepatic-vasculature",
+            "name": "liver vasculature",
+            "external": [
+                "UBERON:0006877"
+            ],
+            "topology": "TUBE",
+            "layers": [
+                "mat-blood",
+                "mat-tissue-endothelium",
+                "mat-basement-endothelium",
+                "mat-connective-tissue"
+            ],
+            "materials": [
+                "mat-blood",
+                "mat-tissue-endothelium",
+                "mat-basement-endothelium",
+                "mat-connective-tissue"
+            ]
+        },
+        {
+            "id": "lyph-blood-vessel",
+            "name": "Blood vessel (spleen)",
+            "external": [
+                "UBERON:0001981"
+            ],
+            "topology": "TUBE",
+            "layers": [
+                "mat-blood",
+                "mat-wall-of-vessel"
+            ]
+        },
+        {
+            "id": "lyph-digestive-biliary-hepatic-duct",
+            "name": "Hepatic duct",
+            "external": [
+                "UBERON:0005171"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE",
+            "layers": [
+                "mat-bile-fluid",
+                "mat-wall-of-vessel"
+            ]
+        },
+        {
+            "id": "lyph-digestive-pancreas-main-duct",
+            "name": "Main pancreatic duct",
+            "external": [
+                "UBERON:000732"
+            ],
+            "isTemplate": true,
+            "topology": "TUBE",
+            "layers": [
+                "mat-bile-fluid",
+                "mat-wall-of-vessel"
+            ]
+        }
+    ],
+    "materials": [
+        {
+            "id": "mat-body-fluid",
+            "name": "Body fluid",
+            "external": [
+                "UBERON:0006314"
+            ],
+            "materials": [
+                "mat-body-gas",
+                "mat-body-liquid"
+            ]
+        },
+        {
+            "id": "mat-body-gas",
+            "name": "Body gas",
+            "external": [
+                "UBERON:0034873"
+            ],
+            "materials": [
+                "mat-gas-oxygen",
+                "mat-gas-carbondioxide",
+                "mat-gas-nitrogen"
+            ]
+        },
+        {
+            "id": "mat-body-liquid",
+            "name": "Body liquid",
+            "external": [
+                "ILX:0793131"
+            ],
+            "materials": [
+                "mat-gas-oxygen",
+                "mat-gas-carbondioxide",
+                "mat-gas-nitrogen",
+                "mat-gas-water",
+                "mat-liquid-water",
+                "mat-aqueous-oxygen",
+                "mat-aqueous-carbondioxide",
+                "mat-aqueous-nitrogen",
+                "mat-aqueous-sodium-ion",
+                "mat-aqueous-potassium-ion",
+                "mat-aqueous-calcium-ion",
+                "mat-aqueous-chloride-ion",
+                "mat-aqueous-hydrogen-ion",
+                "mat-aqueous-hydroxide-ion",
+                "mat-aqueous-bicarbonate-ion",
+                "mat-aqueous-magnesium-ion"
+            ]
+        },
+        {
+            "id": "mat-gas-oxygen",
+            "name": "Gaseous oxygen",
+            "external": [
+                "CHEBI:33263"
+            ]
+        },
+        {
+            "id": "mat-gas-carbondioxide",
+            "name": "Gaseous carbon dioxide",
+            "external": [
+                "CHEBI:16526"
+            ]
+        },
+        {
+            "id": "mat-gas-nitrogen",
+            "name": "Gaseous nitrogen",
+            "external": [
+                "CHEBI:33266"
+            ]
+        },
+        {
+            "id": "mat-gas-water",
+            "name": "Water vapour",
+            "external": [
+                "CHEBI:15377"
+            ]
+        },
+        {
+            "id": "mat-liquid-water",
+            "name": "Liquid water",
+            "external": [
+                "CHEBI:15377"
+            ]
+        },
+        {
+            "id": "mat-aqueous-oxygen",
+            "name": "Aqueous oxygen",
+            "external": [
+                "CHEBI:33263"
+            ]
+        },
+        {
+            "id": "mat-aqueous-carbondioxide",
+            "name": "Aqueous carbon dioxide",
+            "external": [
+                "CHEBI:16526"
+            ]
+        },
+        {
+            "id": "mat-aqueous-nitrogen",
+            "name": "Aqueous nitrogen",
+            "external": [
+                "CHEBI:33266"
+            ]
+        },
+        {
+            "id": "mat-aqueous-sodium-ion",
+            "name": "Aqueous sodium ion",
+            "external": [
+                "CHEBI:29101"
+            ]
+        },
+        {
+            "id": "mat-aqueous-potassium-ion",
+            "name": "Aqueous potassium ion",
+            "external": [
+                "CHEBI:29103"
+            ]
+        },
+        {
+            "id": "mat-aqueous-calcium-ion",
+            "name": "Aqueous calcium ion",
+            "external": [
+                "CHEBI:29108"
+            ]
+        },
+        {
+            "id": "mat-aqueous-chloride-ion",
+            "name": "Aqueous chloride ion",
+            "external": [
+                "CHEBI:17996"
+            ]
+        },
+        {
+            "id": "mat-aqueous-hydrogen-ion",
+            "name": "Aqueous hydrogen ion",
+            "external": [
+                "CHEBI:24636"
+            ]
+        },
+        {
+            "id": "mat-aqueous-hydroxide-ion",
+            "name": "Aqueous hydroxide ion",
+            "external": [
+                "CHEBI:16234"
+            ]
+        },
+        {
+            "id": "mat-aqueous-bicarbonate-ion",
+            "name": "Aqueous bicarbonate ion",
+            "external": [
+                "CHEBI:17544"
+            ]
+        },
+        {
+            "id": "mat-aqueous-magnesium-ion",
+            "name": "Aqueous magensium ion",
+            "external": [
+                "CHEBI:18420"
+            ]
+        },
+        {
+            "id": "mat-airway-air",
+            "name": "Air in airways",
+            "external": [
+                "UBERON:0034874"
+            ],
+            "materials": [
+                "mat-body-gas",
+                "mat-gas-water"
+            ]
+        },
+        {
+            "id": "mat-plasma-in-blood",
+            "name": "Blood plasma",
+            "external": [
+                "UBERON:0001969"
+            ],
+            "materials": [
+                "mat-body-fluid"
+            ]
+        },
+        {
+            "id": "mat-red-cells-in-blood",
+            "name": "Red cell parenchyma of blood",
+            "materials": [
+                "lyph-cell-red-blood"
+            ]
+        },
+        {
+            "id": "mat-white-cells-in-blood",
+            "name": "White cell parenchyma of blood",
+            "materials": [
+                "lyph-cell-white-blood"
+            ]
+        },
+        {
+            "id": "mat-platelets-in-blood",
+            "name": "Platelet parenchyma of blood",
+            "materials": [
+                "lyph-cell-platelet"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-blood",
+            "name": "Blood cell parenchyma",
+            "materials": [
+                "mat-red-cells-in-blood",
+                "mat-white-cells-in-blood",
+                "mat-platelets-in-blood"
+            ]
+        },
+        {
+            "id": "mat-blood",
+            "name": "Blood",
+            "external": [
+                "UBERON:0000178"
+            ],
+            "materials": [
+                "mat-plasma-in-blood",
+                "mat-cellular-component-of-blood"
+            ]
+        },
+        {
+            "id": "mat-extracellular-fluid",
+            "name": "Extracellular fluid",
+            "external": [
+                "ILX:0492026"
+            ],
+            "materials": [
+                "mat-body-fluid"
+            ]
+        },
+        {
+            "id": "mat-extracellular-matrix",
+            "name": "Extracellular matrix",
+            "external": [
+                "ILX:0104048"
+            ]
+        },
+        {
+            "id": "mat-extracellular-material",
+            "name": "Extracellular material",
+            "materials": [
+                "mat-extracellular-fluid",
+                "mat-extracellular-matrix"
+            ]
+        },
+        {
+            "id": "mat-basement-membrane",
+            "name": "Basement membrane",
+            "external": [
+                "UBERON:0005769"
+            ],
+            "materials": [
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-plasma-membrane",
+            "name": "Plasma membrane",
+            "external": [
+                "SAO:1663586795"
+            ]
+        },
+        {
+            "id": "mat-cytoplasmic-structures",
+            "name": "Cytoplasmic structures",
+            "external": [
+                "ILX:0490105"
+            ]
+        },
+        {
+            "id": "mat-cytosol",
+            "name": "Cytosol",
+            "external": [
+                "SAO:101633890"
+            ],
+            "materials": [
+                "mat-body-fluid"
+            ]
+        },
+        {
+            "id": "mat-cytoplasm",
+            "name": "Cytoplasm",
+            "external": [
+                "OBO:GO_0005737"
+            ],
+            "materials": [
+                "mat-cytosol",
+                "mat-cytoplasmic-structures"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-connective-tissue",
+            "name": "Cellular component of connective tissue",
+            "materials": [
+                "lyph-cell-fibroblast"
+            ]
+        },
+        {
+            "id": "mat-connective-tissue",
+            "name": "Connective tissue",
+            "external": [
+                "UBERON:0002384"
+            ],
+            "materials": [
+                "mat-cellular-component-of-connective-tissue",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-alveolar-epithelium",
+            "name": "Cellular component of alveolar epithelium",
+            "materials": [
+                "lyph-cell-type-I-alveolar",
+                "lyph-cell-type-II-alveolar"
+            ]
+        },
+        {
+            "id": "mat-tissue-alveolar-epithelium",
+            "name": "Alveolar epithelial tissue",
+            "external": [
+                "UBERON:0004807"
+            ],
+            "materials": [
+                "mat-cellular-component-of-alveolar-epithelium",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-vascular-endothelium",
+            "name": "Cellular component of vascular endothelium",
+            "materials": [
+                "lyph-cell-cardiovascular-endothelial"
+            ]
+        },
+        {
+            "id": "mat-tissue-cardiovascular-endothelium",
+            "name": "Vascular endothelial tissue",
+            "external": [
+                "UBERON:0001986"
+            ],
+            "materials": [
+                "mat-cellular-component-of-vascular-endothelium",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-pulmonary-smooth-muscle",
+            "name": "Cellular component of pulmonary smooth muscle",
+            "materials": [
+                "lyph-cell-pulmonary-smooth-muscle"
+            ]
+        },
+        {
+            "id": "mat-tissue-pulmonary-smooth-muscle",
+            "name": "Pulmonary smooth muscular tissue",
+            "external": [
+                "UBERON:0004225"
+            ],
+            "materials": [
+                "mat-cellular-component-of-pulmonary-smooth-muscle",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-bronchiolar-epithelium",
+            "name": "Cellular component of bronchiolar epithelium",
+            "materials": [
+                "lyph-cell-bronchiolar-columnar-cuboidal-epithelial"
+            ]
+        },
+        {
+            "id": "mat-tissue-bronchiolar-epithelium",
+            "name": "Bronchiolar epithelial tissue",
+            "external": [
+                "UBERON:0002051"
+            ],
+            "materials": [
+                "mat-cellular-component-of-bronchiolar-epithelium",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-bronchial-epithelium",
+            "name": "Cellular component of bronchial epithelium",
+            "materials": [
+                "lyph-cell-bronchial-columnar-ciliated-epithelial",
+                "lyph-cell-bronchial-goblet",
+                "lyph-cell-bronchial-neuroendocrine"
+            ]
+        },
+        {
+            "id": "mat-tissue-bronchial-epithelium",
+            "name": "Pseudostratified bronchial ciliated columnar epithelial tissue",
+            "external": [
+                "UBERON:0010499"
+            ],
+            "materials": [
+                "mat-cellular-component-of-bronchial-epithelium",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-bronchial-cartilage",
+            "name": "Cellular component of bronchial cartilage",
+            "materials": [
+                "lyph-cell-chondrocyte"
+            ]
+        },
+        {
+            "id": "mat-tissue-bronchial-cartilage",
+            "name": "Bronchial cartilage",
+            "external": [
+                "UBERON:0001956"
+            ],
+            "materials": [
+                "mat-cellular-component-of-bronchial-cartilage",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-lung-connective-tissue",
+            "name": "Cellular component of lung connective tissue"
+        },
+        {
+            "id": "mat-tissue-lung-connective-tissue",
+            "name": "Lung connective tissue",
+            "external": [
+                "UBERON:0000114"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-adventitia-of-primary-bronchus",
+            "name": "Cellular component of adventitia of primary bronchus"
+        },
+        {
+            "id": "mat-tissue-of-adventitia-of-primary-bronchus",
+            "name": "Adventita of primary bronchus",
+            "external": [
+                "ILX:0793134"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-bronchial-connective-tissue",
+            "name": "Cellular component of bronchial connective tissue"
+        },
+        {
+            "id": "mat-tissue-bronchial-connective",
+            "name": "Bronchial connective tissue",
+            "external": [
+                "UBERON:0003592"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-bronchial-submucosa",
+            "name": "Cellular component of bronchial submucosa",
+            "materials": [
+                "lyph-cell-fibroblast"
+            ]
+        },
+        {
+            "id": "mat-tissue-bronchial-submucosa",
+            "name": "Bronchial submucosa",
+            "external": [
+                "UBERON:0001957"
+            ],
+            "materials": [
+                "mat-cellular-component-of-connective-tissue",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-liquid-urinary",
+            "name": "Urinary liquid",
+            "external": [
+                "UBERON:0001088"
+            ],
+            "materials": [
+                "mat-body-liquid"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-urinary-rhabdosphincter",
+            "name": "Cellular component of urinary rhabdosphincter",
+            "materials": [
+                "lyph-cell-urinary-smooth-muscle"
+            ]
+        },
+        {
+            "id": "mat-tissue-urinary-rhabdosphincter",
+            "name": "Urinary rhabdosphincter",
+            "external": [
+                "ILX:0793141"
+            ],
+            "materials": [
+                "mat-cellular-component-of-urinary-rhabdosphincter",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-transitional-epithelium",
+            "name": "Cellular component of urethral epithelium",
+            "materials": [
+                "lyph-cell-urinary-transitional-epithelial"
+            ]
+        },
+        {
+            "id": "mat-tissue-urinary-transitional-epithelium",
+            "name": "Transitional epithelium",
+            "external": [
+                "UBERON:0002325"
+            ],
+            "materials": [
+                "mat-cellular-component-of-transitional-epithelium",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-urinary-muscularis",
+            "name": "Cellular component of urinary muscularis",
+            "materials": [
+                "lyph-cell-urinary-smooth-muscle"
+            ]
+        },
+        {
+            "id": "mat-tissue-urinary-muscularis",
+            "name": "Urinary muscularis",
+            "external": [
+                "UBERON:0006676",
+                "UBERON:0006855"
+            ],
+            "materials": [
+                "mat-cellular-component-of-urinary-muscularis",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-cellular-component-of-collecting-duct-epithelium",
+            "name": "Cellular component of collecting duct epithelium",
+            "materials": [
+                "lyph-cell-renal-principal-epithelial",
+                "lyph-cell-renal-type-A-intercalated-epithelial"
+            ]
+        },
+        {
+            "id": "mat-tissue-urinary-collecting-duct-epithelium",
+            "name": "Collecting duct epithelium",
+            "external": [
+                "UBERON:0014388"
+            ],
+            "materials": [
+                "mat-cellular-component-of-collecting-duct-epithelium",
+                "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-temporary-laryngeal-wall",
+            "name": "Laryngeal wall"
+        },
+        {
+            "id": "mat-temporary-oral-wall",
+            "name": "Wall of oral cavity"
+        },
+        {
+            "id": "mat-temporary-dental",
+            "name": "Content of tooth"
+        },
+        {
+            "id": "mat-temporary-epiglottic",
+            "name": "Content of epiglottis"
+        },
+        {
+            "id": "mat-temporary-vocal-cord",
+            "name": "Content of vocal cord"
+        },
+        {
+            "id": "mat-cerebrospinal-fluid",
+            "name": "Cerebrospinal fluid",
+            "external": [
+                "UBERON:0001359"
+            ]
+        },
+        {
+            "id": "mat-ependyma",
+            "name": "Ependyma",
+            "external": [
+                "UBERON:0004670"
+            ]
+        },
+        {
+            "id": "mat-central-nervous-system-tissue-tissue",
+            "name": "Central nervous system tissue",
+            "external": [
+                "UBERON:0001017"
+            ]
+        },
+        {
+            "id": "mat-white-matter-CNS-spinal-cord",
+            "name": "White matter of CNS of the spinal cord",
+            "external": [
+                "UBERON:0016549"
+            ]
+        },
+        {
+            "id": "mat-grey-matter-CNS-spinal-cord",
+            "name": "Gray matter of CNS of the spinal cord",
+            "external": [
+                "UBERON:0016548"
+            ],
+            "materials": [
+                "mat-rex-lam-I",
+                "mat-rex-lam-II",
+                "mat-rex-lam-III",
+                "mat-rex-lam-IV",
+                "mat-rex-lam-V",
+                "mat-rex-lam-VI",
+                "mat-rex-lam-VII",
+                "mat-rex-lam-VIII",
+                "mat-rex-lam-IX",
+                "mat-rex-lam-X"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-I",
+            "name": "lamina I of gray matter of spinal cord",
+            "external": [
+                "UBERON:0006118"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-II",
+            "name": "lamina II of gray matter of spinal cord",
+            "external": [
+                "UBERON:0002181"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-III",
+            "name": "lamina III of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016574"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-IV",
+            "name": "lamina IV of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016575"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-V",
+            "name": "lamina V of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016576"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-VI",
+            "name": "lamina VI of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016577"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-VII",
+            "name": "lamina VII of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016578"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-VIII",
+            "name": "lamina VIII of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016579"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-IX",
+            "name": "lamina IX of gray matter of spinal cord",
+            "external": [
+                "UBERON:0016580"
+            ]
+        },
+        {
+            "id": "mat-rex-lam-X",
+            "name": "lamina X of gray matter of spinal cord",
+            "external": [
+                "UBERON:0004677"
+            ]
+        },
+        {
+            "id": "mat-serosa",
+            "name": "Serosa"
+        },
+        {
+            "id": "mat-longitudial-muscle",
+            "name": "Longitudial muscle"
+        },
+        {
+            "id": "mat-myenteric-plexus",
+            "name": "Myenteric plexus"
+        },
+        {
+            "id": "mat-circular-muscle",
+            "name": "Circular muscle"
+        },
+        {
+            "id": "mat-oblique-muscle",
+            "name": "Oblique muscle"
+        },
+        {
+            "id": "mat-muscularis-mucosae-of-stomach",
+            "name": "muscularis mucosae of stomach"
+        },
+        {
+            "id": "mat-mucosa",
+            "name": "Mucosa"
+        },
+        {
+            "id": "mat-lumen",
+            "name": "Lumen"
+        },
+        {
+            "id": "mat-wall-of-vessel",
+            "name": "Wall of vessel",
+            "external": [
+                "UBERON:0035965"
+            ],
+            "inMaterials": [
+                "mat-tissue-connective-tissue"
+            ]
+        },
+        {
+            "id": "mat-muscular-layer"
+        },
+        {
+            "id": "mat-adventitia"
+        },
+        {
+            "id": "mat-plexus"
+        },
+        {
+            "id": "mat-pancreatic-fluid",
+            "name": "pancreatic juice",
+            "external": [
+                "UBERON:0000326"
+            ]
+        },
+        {
+            "id": "mat-pancreatic-epithelium",
+            "name": "epithelium of pancreatic duct",
+            "external": [
+                "UBERON:0009970"
+            ]
+        },
+        {
+            "id": "mat-bile-fluid",
+            "name": "bile fluid",
+            "external": [
+                "UBERON:0001970"
+            ]
+        },
+        {
+            "id": "mat-hepatocytes",
+            "name": "hepatocyte",
+            "external": [
+                "ILX:0770470"
+            ]
+        },
+        {
+            "id": "mat-tissue-endothelium",
+            "name": "endothelium"
+        },
+        {
+            "id": "mat-basement-endothelium",
+            "name": "basement endothelium"
+        }
+    ],
+    "coalescences": [
+        {
+            "id": "co-pancreas-vasculature",
+            "name": "pancreatico-vascular coalescence",
+            "lyphs": [
+                "lyph-pancreatic-acini",
+                "lyph-pancreatic-vasculature"
+            ],
+            "topology": "CONNECTING"
+        },
+        {
+            "id": "co-hepato-vasculature",
+            "name": "hepato-vascular colescence",
+            "lyphs": [
+                "lyph-liver",
+                "lyph-hepatic-vasculature"
+            ],
+            "topology": "CONNECTING"
+        }
+    ],
+    "chains": [
+        {
+            "id": "chain-spinal-cord-and-medulla",
+            "name": "spinal cord and medulla",
+            "lyphs": [
+                "lyph-T5-spinal-segment",
+                "lyph-T6-spinal-segment",
+                "lyph-T7-spinal-segment",
+                "lyph-T8-spinal-segment",
+                "lyph-medulla"
+            ],
+            "root": "spinalcm1",
+            "leaf": "spinalcm2",
+            "wiredTo": "too:w-N-T",
+            "startFromLeaf": true
+        },
+        {
+            "id": "chain-blood-flow-in-pancreas-1-in",
+            "name": "example of blood flow in pancreas - in",
+            "lyphTemplate": "lyph-blood-vessel",
+            "root": "root_bloodin",
+            "leaf": "bloodin_branch1",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-coeliac-trunk",
+                "lyph-hepatic-artery",
+                "lyph-hepatic-vasculature"
+            ],
+            "wiredTo": "too:w-S-A",
+            "startFromLeaf": true
+        },
+        {
+            "id": "chain-blood-flow-in-pancreas-2-in",
+            "lyphTemplate": "lyph-blood-vessel",
+            "root": "bloodin_branch2",
+            "leaf": "bloodin_branch4",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-superior-mesenteric-artery",
+                "lyph-inferior-pancreaticoduodenal-artery",
+                "lyph-pancreatic-vasculature",
+                "lyph-hepatic-portal-vein"
+            ],
+            "wiredTo": "too:w-S-A",
+            "startFromLeaf": true
+        },
+        {
+            "id": "chain-blood-flow-in-pancreas-3-in",
+            "lyphTemplate": "lyph-blood-vessel",
+            "root": "bloodin_branch3",
+            "leaf": "bloodin_branch4",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-coeliac-trunk",
+                "lyph-splenic-artery",
+                "lyph-spleen",
+                "lyph-hepatic-portal-vein"
+            ]
+        },
+        {
+            "id": "chain-blood-flow-in-pancreas-4-in",
+            "lyphTemplate": "lyph-blood-vessel",
+            "root": "bloodin_branch4",
+            "leaf": "bloodin_branch1",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-hepatic-portal-vein",
+                "lyph-hepatic-vasculature"
+            ],
+            "startFromLeaf": true
+        },
+        {
+            "id": "chain-blood-flow-in-pancreas-5-out",
+            "lyphTemplate": "lyph-blood-vessel",
+            "root": "bloodin_branch1",
+            "leaf": "bloodout_branch5",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "lyph-hepatic-vasculature"
+            ],
+            "wiredTo": "too:w-S-Y"
+        },
+        {
+            "id": "chain-pancreas-juices-flow-to-pancreas",
+            "name": "Main pancreatic duct",
+            "lyphTemplate": "lyph-digestive-pancreas-main-duct",
+            "root": "bile_pancreas_o",
+            "leaf": "bile_pancreas",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "lyph-pancreatic-acini"
+            ],
+            "wiredTo": "too:w-O-f1P",
+            "startFromLeaf": true
+        },
+        {
+            "id": "chain-bile-flow-to-liver",
+            "name": "Hepatic duct",
+            "lyphTemplate": "lyph-digestive-biliary-hepatic-duct",
+            "root": "bile_liver_o",
+            "leaf": "bile_liver",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "lyph-liver"
+            ],
+            "wiredTo": "too:w-O-f2L",
+            "startFromLeaf": true
+        },
+        {
+            "id": "dendrite-chain-sympathetic-pre-ganglionic-neuron-soma-t5",
+            "name": "dendrite chain for soma in t5 spinal cord segment",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_t5",
+            "leaf": "leaf_t5",
+            "housingLayers": [
+                7
+            ],
+            "housingLyphs": [
+                "lyph-T5-spinal-segment"
+            ]
+        },
+        {
+            "id": "axon-chain-sympathetic-pre-ganglionic-neuron-soma-t5",
+            "name": "axon chain for soma in t5 spinal cord segment",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_t5",
+            "leaf": "con_t5",
+            "housingLayers": [
+                7,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T5-spinal-segment",
+                "lyph-T5-ventral-root",
+                "lyph-greater-splanchnic-nerve",
+                "lyph-T5-sympathetic-chain-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t5-celiac-ganglion",
+            "name": "axon chain for soma in t5 spinal cord segment to celiac ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t5",
+            "leaf": "t5_cg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T5-sympathetic-chain-ganglion",
+                "lyph-celiac-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t5-superior-mesenteric-ganglion",
+            "name": "axon chain for soma t5 spinal cord segment to superior mesenteric ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t5",
+            "leaf": "t5_smg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T5-sympathetic-chain-ganglion",
+                "lyph-superior-mesenteric-ganglia"
+            ]
+        },
+        {
+            "id": "dendrite-chain-sympathetic-pre-ganglionic-neuron-soma-t6",
+            "name": "dendrite chain for soma in t6 spinal cord segment",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_t6",
+            "leaf": "leaf_t6",
+            "housingLayers": [
+                7
+            ],
+            "housingLyphs": [
+                "lyph-T6-spinal-segment"
+            ]
+        },
+        {
+            "id": "axon-chain-sympathetic-pre-ganglionic-neuron-soma-t6",
+            "name": "axon chain for soma in t6 spinal cord segment",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_t6",
+            "leaf": "con_t6",
+            "housingLayers": [
+                7,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T6-spinal-segment",
+                "lyph-T6-ventral-root",
+                "lyph-greater-splanchnic-nerve",
+                "lyph-T6-sympathetic-chain-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t6-celiac-ganglion",
+            "name": "axon chain for soma in t5 spinal cord segment to celiac ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t6",
+            "leaf": "t6_cg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T6-sympathetic-chain-ganglion",
+                "lyph-celiac-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t6-superior-mesenteric-ganglion",
+            "name": "axon chain for soma t5 spinal cord segment to superior mesenteric ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t6",
+            "leaf": "t6_smg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T6-sympathetic-chain-ganglion",
+                "lyph-superior-mesenteric-ganglia"
+            ]
+        },
+        {
+            "id": "dendrite-chain-sympathetic-pre-ganglionic-neuron-soma-t7",
+            "name": "dendrite chain for soma in t7 spinal cord segment",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_t7",
+            "leaf": "leaf_t7",
+            "housingLayers": [
+                7
+            ],
+            "housingLyphs": [
+                "lyph-T7-spinal-segment"
+            ]
+        },
+        {
+            "id": "axon-chain-sympathetic-pre-ganglionic-neuron-soma-t7",
+            "name": "axon chain for soma in t7 spinal cord segment",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_t7",
+            "leaf": "con_t7",
+            "housingLayers": [
+                7,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T7-spinal-segment",
+                "lyph-T7-ventral-root",
+                "lyph-greater-splanchnic-nerve",
+                "lyph-T7-sympathetic-chain-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t7-celiac-ganglion",
+            "name": "axon chain for soma in t7 spinal cord segment to celiac ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t7",
+            "leaf": "t7_cg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T7-sympathetic-chain-ganglion",
+                "lyph-celiac-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t7-superior-mesenteric-ganglion",
+            "name": "axon chain for soma t7 spinal cord segment to superior mesenteric ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t7",
+            "leaf": "t7_smg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T7-sympathetic-chain-ganglion",
+                "lyph-superior-mesenteric-ganglia"
+            ]
+        },
+        {
+            "id": "dendrite-chain-sympathetic-pre-ganglionic-neuron-soma-t8",
+            "name": "dendrite chain for soma in t8 spinal cord segment",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_t8",
+            "leaf": "leaf_t8",
+            "housingLayers": [
+                7
+            ],
+            "housingLyphs": [
+                "lyph-T8-spinal-segment"
+            ]
+        },
+        {
+            "id": "axon-chain-sympathetic-pre-ganglionic-neuron-soma-t8",
+            "name": "axon chain for soma in t8 spinal cord segment",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_t8",
+            "leaf": "con_t8",
+            "housingLayers": [
+                7,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T8-spinal-segment",
+                "lyph-T8-ventral-root",
+                "lyph-greater-splanchnic-nerve",
+                "lyph-T8-sympathetic-chain-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t8-celiac-ganglion",
+            "name": "axon chain for soma in t8 spinal cord segment to celiac ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t8",
+            "leaf": "t8_cg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T8-sympathetic-chain-ganglion",
+                "lyph-celiac-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t8-superior-mesenteric-ganglion",
+            "name": "axon chain for soma t8 spinal cord segment to superior mesenteric ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t8",
+            "leaf": "t8_smg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T8-sympathetic-chain-ganglion",
+                "lyph-superior-mesenteric-ganglia"
+            ]
+        },
+        {
+            "id": "dendrite-chain-sympathetic-pre-ganglionic-neuron-soma-t9",
+            "name": "dendrite chain for soma in t9 spinal cord segment",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_t9",
+            "leaf": "leaf_t9",
+            "housingLayers": [
+                7
+            ],
+            "housingLyphs": [
+                "lyph-T9-spinal-segment"
+            ]
+        },
+        {
+            "id": "axon-chain-sympathetic-pre-ganglionic-neuron-soma-t9",
+            "name": "axon chain for soma in t9 spinal cord segment",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_t9",
+            "leaf": "con_t9",
+            "housingLayers": [
+                7,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T9-spinal-segment",
+                "lyph-T9-ventral-root",
+                "lyph-greater-splanchnic-nerve",
+                "lyph-T9-sympathetic-chain-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t9-celiac-ganglion",
+            "name": "Axon from soma in t9 spinal cord segment to celiac ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t9",
+            "leaf": "t9_cg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T9-sympathetic-chain-ganglion",
+                "lyph-celiac-ganglion"
+            ]
+        },
+        {
+            "id": "axon-chain-soma-t9-superior-mesenteric-ganglion",
+            "name": "Axon from soma in t9 spinal cord segment to superior mesenteric ganglion",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "con_t9",
+            "leaf": "t9_smg",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-T9-sympathetic-chain-ganglion",
+                "lyph-superior-mesenteric-ganglia"
+            ]
+        },
+        {
+            "id": "dendrite-chain-superior-mesenteric-ganglia-neuron-2",
+            "name": "dendrite chain superior mesenteric ganglia neuron 2 to joint 1",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_smg",
+            "leaf": "leaf_smg",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "lyph-superior-mesenteric-ganglia"
+            ]
+        },
+        {
+            "id": "axon-chain-superior-mesenteric-ganglia-neuron-2",
+            "name": "axon chain superior mesenteric ganglia neuron 2 to joint 1",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_smg",
+            "leaf": "s_jo21",
+            "housingLayers": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-superior-mesenteric-ganglia",
+                "lyph-greater-splanchnic-nerve",
+                "lyph-neuron2-joint-infracranial"
+            ]
+        },
+        {
+            "id": "dendrite-chain-celiac-ganglion-neuron-2",
+            "name": "dendrite chain celiac ganglia neuron 2 to joint 1",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_cg",
+            "leaf": "leaf_cg",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "lyph-soma-celiac-ganglion-neuron-2"
+            ]
+        },
+        {
+            "id": "axon-chain-celiac-ganglion-neuron-2",
+            "name": "axon chain celiac ganglia neuron 2 to joint 1",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_cg",
+            "leaf": "s_jo21",
+            "housingLayers": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-soma-celiac-ganglion-neuron-2",
+                "lyph-greater-splanchnic-nerve",
+                "lyph-neuron2-joint-infracranial"
+            ]
+        },
+        {
+            "id": "axon-chain-joint-a-neuron-2",
+            "name": "axon A neuron 2 from joing1 infracranial to IPGs",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "s_jo21",
+            "leaf": "t_jo22",
+            "housingLayers": [
+                0,
+                0,
+                5,
+                5,
+                4,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-neuron2-joint-infracranial",
+                "lyph-superior-mesenteric-artery",
+                "lyph-inferior-pancreaticoduodenal-artery",
+                "lyph-pancreatic-acini",
+                "lyph-intrapancreatic-ganglia"
+            ]
+        },
+        {
+            "id": "axon-chain-joint-b-neuron-2",
+            "name": "axon B neuron 2 from joing1 infracranial to IPGs",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "s_jo21",
+            "leaf": "t_jo22",
+            "housingLayers": [
+                0,
+                0,
+                5,
+                5,
+                4,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-neuron2-joint-infracranial",
+                "lyph-coeliac-trunk",
+                "lyph-hepatic-artery",
+                "lyph-pancreatic-acini",
+                "lyph-intrapancreatic-ganglia"
+            ]
+        },
+        {
+            "id": "axon-chain-joint-c-neuron-2",
+            "name": "axon C neuron 2 from joing1 infracranial to IPGs",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "s_jo21",
+            "leaf": "t_jo22",
+            "housingLayers": [
+                0,
+                0,
+                5,
+                4,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-neuron2-joint-infracranial",
+                "lyph-splenic-artery",
+                "lyph-pancreatic-acini",
+                "lyph-intrapancreatic-ganglia"
+            ]
+        },
+        {
+            "id": "axon-chain-ipgs-islets-neuron-2",
+            "name": "axon D neuron 2 from IPGs to Islets",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "t_jo22",
+            "leaf": "t_jo23",
+            "housingLayers": [
+                0,
+                4,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-intrapancreatic-ganglia",
+                "lyph-pancreatic-vasculature",
+                "lyph-pancreatic-islets"
+            ]
+        },
+        {
+            "id": "dendrite-chain-interpancreatic-ganglia-islets-neuron-3",
+            "name": "dendrite chain interpancreatic ganglia islets neuron 3",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_isle3",
+            "leaf": "leaf_isle3",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "lyph-intrapancreatic-ganglia"
+            ]
+        },
+        {
+            "id": "axon-chain-interpancreatic-ganglia-islets-neuron-3",
+            "name": "axon chain interpancreatic ganglia islets neuron 3",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "t_isle3",
+            "leaf": "con_isle3",
+            "housingLayers": [
+                0,
+                4,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-intrapancreatic-ganglia",
+                "lyph-pancreatic-vasculature",
+                "lyph-pancreatic-islets"
+            ]
+        },
+        {
+            "id": "dendrite-chain-proximal-duodenum-neuron-4",
+            "name": "dendrite chain proximal duodenum neuron 4",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_pd4",
+            "leaf": "t_pd4",
+            "housingLayers": [
+                3
+            ],
+            "housingLyphs": [
+                "lyph-soma-proximal-duodenum-neuron-4"
+            ]
+        },
+        {
+            "id": "axon-chain-proximal-duodenum-neuron-4",
+            "name": "axon chain proximal duodenum neuron 4",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_pd4",
+            "leaf": "s_jo4",
+            "housingLayers": [
+                3
+            ],
+            "housingLyphs": [
+                "lyph-soma-proximal-duodenum-neuron-4",
+                "lyph-intrapancreatic-ganglia"
+            ]
+        },
+        {
+            "id": "dendrite-chain-gastric-antrum-neuron-4",
+            "name": "dendrite chain gastric antrum neuron 4",
+            "external": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "lt-dend-bag",
+            "root": "s_ga4",
+            "leaf": "t_ga4",
+            "housingLayers": [
+                3
+            ],
+            "housingLyphs": [
+                "lyph-soma-gastric-antrum-neuron-4"
+            ]
+        },
+        {
+            "id": "axon-chain-gastric-duodenum-neuron-4",
+            "name": "axon chain gastric duodenum neuron 4",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-tube",
+            "root": "t_ga4",
+            "leaf": "s_jo4",
+            "housingLayers": [
+                3
+            ],
+            "housingLyphs": [
+                "lyph-soma-gastric-antrum-neuron-4",
+                "lyph-intrapancreatic-ganglia"
+            ]
+        },
+        {
+            "id": "axon-chain-neuron-4-to-acinar-cell",
+            "name": "axon chain from intrapancreatic ganglion to acinar cell",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "s_jo4",
+            "leaf": "s_pi",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-intrapancreatic-ganglia",
+                "lyph-acinar-cell"
+            ]
+        },
+        {
+            "id": "axon-chain-neuron-4-to-intrapancreatic-ganglion",
+            "name": "axon chain from IPG to IPG",
+            "external": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "lt-axon-bag",
+            "root": "s_jo4",
+            "leaf": "s_pa",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "lyph-intrapancreatic-ganglia"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "id": "neuron-1",
+            "name": "Neuron 1",
+            "groups": [
+                "neuron-1t5",
+                "neuron-1t6",
+                "neuron-1t7",
+                "neuron-1t8",
+                "neuron-1t9"
+            ],
+            "ontologyTerms": [
+                "ilxtr:neuron-type-pancr-1"
+            ]
+        },
+        {
+            "id": "neuron-1t5",
+            "name": "Neuron 1t5",
+            "ontologyTerms": [
+                "ilxtr:neuron-type-pancr-1"
+            ]
+        },
+        {
+            "id": "neuron-1t6",
+            "name": "Neuron 1t6",
+            "ontologyTerms": [
+                "ilxtr:neuron-type-pancr-1"
+            ]
+        },
+        {
+            "id": "neuron-1t7",
+            "name": "Neuron 1t7",
+            "ontologyTerms": [
+                "ilxtr:neuron-type-pancr-1"
+            ]
+        },
+        {
+            "id": "neuron-1t8",
+            "name": "Neuron 1t8",
+            "ontologyTerms": [
+                "ilxtr:neuron-type-pancr-1"
+            ]
+        },
+        {
+            "id": "neuron-1t9",
+            "name": "Neuron 1t9",
+            "ontologyTerms": [
+                "ilxtr:neuron-type-pancr-1"
+            ]
+        },
+        {
+            "id": "gsplan",
+            "name": "greater splanc",
+            "lyphs": [
+                "lyph-greater-splanchnic-nerve"
+            ]
+        }
+    ],
+    "localConventions": [
+        {
+            "prefix": "UBERON",
+            "namespace": "http://purl.obolibrary.org/obo/UBERON_"
+        },
+        {
+            "prefix": "CHEBI",
+            "namespace": "http://purl.obolibrary.org/obo/CHEBI_"
+        },
+        {
+            "prefix": "FMA",
+            "namespace": "http://purl.org/sig/ont/fma/fma"
+        },
+        {
+            "prefix": "GO",
+            "namespace": "http://purl.obolibrary.org/obo/GO_"
+        },
+        {
+            "prefix": "ILX",
+            "namespace": "http://uri.interlex.org/base/ilx_"
+        },
+        {
+            "prefix": "NLX",
+            "namespace": "http://uri.neuinfo.org/nif/nifstd/nlx_"
+        },
+        {
+            "prefix": "SAO",
+            "namespace": "http://uri.neuinfo.org/nif/nifstd/sao"
+        },
+        {
+            "prefix": "PMID",
+            "namespace": "http://www.ncbi.nlm.nih.gov/pubmed/"
+        },
+        {
+            "prefix": "EMAPA",
+            "namespace": "http://purl.obolibrary.org/obo/EMAPA_"
+        },
+        {
+            "prefix": "CL",
+            "namespace": "http://purl.obolibrary.org/obo/CL_"
+        },
+        {
+            "prefix": "NCBITaxon",
+            "namespace": "http://purl.obolibrary.org/obo/NCBITaxon_"
+        },
+        {
+            "prefix": "ilxtr",
+            "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
+        }
+    ],
+    "id": "pancreas",
+    "name": "pancreas model",
+    "namespace": "pancr"
+}
