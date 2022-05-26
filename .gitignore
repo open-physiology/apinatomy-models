@@ -1,2 +1,5 @@
 derived
 *.~lock.*
+*.swp
+*.swo
+*.swn
