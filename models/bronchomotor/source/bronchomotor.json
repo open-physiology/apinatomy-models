@@ -347,7 +347,7 @@
             "id": "B13",
             "name": "T13 spinal segment",
             "ontologyTerms": [
-                "EMAPA:19554"
+                "ILX:0793357"
             ],
             "supertype": "B35",
             "internalLyphs": [
@@ -509,7 +509,7 @@
             "id": "B30",
             "name": "T13 Dorsal Root ganglion",
             "ontologyTerms": [
-                "EMAPA:25186"
+                "ILX:0793359"
             ]
         },
         {
@@ -523,270 +523,273 @@
             "id": "B32",
             "name": "T1 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0787722"
             ]
         },
         {
             "id": "B33",
             "name": "T2 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0789894"
             ]
         },
         {
             "id": "B34",
             "name": "T3 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0784804"
             ]
         },
         {
             "id": "B35",
             "name": "T4 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0792838"
             ]
         },
         {
             "id": "B36",
             "name": "T5 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0790146"
             ]
         },
         {
             "id": "B37",
             "name": "T6 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0791062"
             ]
         },
         {
             "id": "B38",
             "name": "T7 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0789966"
             ]
         },
         {
             "id": "B39",
             "name": "T8 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0788026"
             ]
         },
         {
             "id": "B40",
             "name": "T9 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0791932"
             ]
         },
         {
             "id": "B41",
             "name": "T10 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0788670"
             ]
         },
         {
             "id": "B42",
             "name": "T11 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0790602"
             ]
         },
         {
             "id": "B43",
             "name": "T12 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0792048"
             ]
         },
         {
             "id": "B44",
             "name": "T13 ventral root",
             "ontologyTerms": [
-                "UBERON:0014617"
+                "ILX:0793207"
             ]
         },
         {
             "id": "B125",
-            "name": "L1 ventral root"
+            "name": "L1 ventral root",
+            "ontologyTerms": [
+                "ILX:0785421"
+            ]
         },
         {
             "id": "B45",
             "name": "T1 - T2 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0777094"
             ]
         },
         {
             "id": "B46",
             "name": "T2 - T3 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0777095"
             ]
         },
         {
             "id": "B47",
             "name": "T3 - T4 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0777096"
             ]
         },
         {
             "id": "B48",
             "name": "T4 - T5 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0777097"
             ]
         },
         {
             "id": "B49",
             "name": "T5 - T6 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0777098"
             ]
         },
         {
             "id": "B50",
             "name": "T6 - T7 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793235"
             ]
         },
         {
             "id": "B51",
             "name": "T7 - T8 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793236"
             ]
         },
         {
             "id": "B52",
             "name": "T8 - T9 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793237"
             ]
         },
         {
             "id": "B53",
             "name": "T9 - T10 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793238"
             ]
         },
         {
             "id": "B54",
             "name": "T10 - T11 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793239"
             ]
         },
         {
             "id": "B55",
             "name": "T11 - T12 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793240"
             ]
         },
         {
             "id": "B56",
             "name": "T12 - T13 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0777086"
             ]
         },
         {
             "id": "B57",
             "name": "T13 - L1 Interganglonic segment",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0777087"
             ]
         },
         {
             "id": "B58",
             "name": "T1 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6474"
+                "ILX:0785119"
             ]
         },
         {
             "id": "B59",
             "name": "T2 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6475"
+                "ILX:0786228"
             ]
         },
         {
             "id": "B60",
             "name": "T3 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6476"
+                "ILX:0786722"
             ]
         },
         {
             "id": "B61",
             "name": "T4 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6477"
+                "ILX:0786272"
             ]
         },
         {
             "id": "B62",
             "name": "T5 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6478"
+                "ILX:0786141"
             ]
         },
         {
             "id": "B63",
             "name": "T6 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6479"
+                "ILX:0789947"
             ]
         },
         {
             "id": "B64",
             "name": "T7 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6480"
+                "ILX:0790482"
             ]
         },
         {
             "id": "B65",
             "name": "T8 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6481"
+                "ILX:0784721"
             ]
         },
         {
             "id": "B66",
             "name": "T9 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6482"
+                "ILX:0784378"
             ]
         },
         {
             "id": "B67",
             "name": "T10 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6483"
+                "ILX:0784569"
             ]
         },
         {
             "id": "B68",
             "name": "T11 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6484"
+                "ILX:0787015"
             ]
         },
         {
             "id": "B69",
             "name": "T12 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6485"
+                "ILX:0787009"
             ]
         },
         {
@@ -800,196 +803,196 @@
             "id": "B71",
             "name": "T1 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0785971"
             ]
         },
         {
             "id": "B72",
             "name": "T2 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793208"
             ]
         },
         {
             "id": "B73",
             "name": "T3 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793209"
             ]
         },
         {
             "id": "B74",
             "name": "T4 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793210"
             ]
         },
         {
             "id": "B75",
             "name": "T5 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793211"
             ]
         },
         {
             "id": "B76",
             "name": "T6 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793212"
             ]
         },
         {
             "id": "B77",
             "name": "T7 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793213"
             ]
         },
         {
             "id": "B78",
             "name": "T8 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793214"
             ]
         },
         {
             "id": "B79",
             "name": "T9 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793215"
             ]
         },
         {
             "id": "B80",
             "name": "T10 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793216"
             ]
         },
         {
             "id": "B81",
             "name": "T11 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793217"
             ]
         },
         {
             "id": "B82",
             "name": "T12 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793218"
             ]
         },
         {
             "id": "B84",
             "name": "T13 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793219"
             ]
         },
         {
             "id": "B83",
             "name": "L1 white ramus",
             "ontologyTerms": [
-                "FMA:12686"
+                "ILX:0793220"
             ]
         },
         {
             "id": "B85",
             "name": "T1 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0787082"
             ]
         },
         {
             "id": "B86",
             "name": "T2 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0791105"
             ]
         },
         {
             "id": "B87",
             "name": "T3 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0787562"
             ]
         },
         {
             "id": "B88",
             "name": "T4 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0788945"
             ]
         },
         {
             "id": "B89",
             "name": "T5 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0784439"
             ]
         },
         {
             "id": "B90",
             "name": "T6 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0787946"
             ]
         },
         {
             "id": "B91",
             "name": "T7 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0788771"
             ]
         },
         {
             "id": "B92",
             "name": "T8 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0791560"
             ]
         },
         {
             "id": "B93",
             "name": "T9 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0785542"
             ]
         },
         {
             "id": "B94",
             "name": "T10 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0792409"
             ]
         },
         {
             "id": "B95",
             "name": "T11 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0785067"
             ]
         },
         {
             "id": "B96",
             "name": "T12 ray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0785067"
             ]
         },
         {
             "id": "B97",
             "name": "T13 gray ramus",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0793227"
             ]
         },
         {
             "id": "B124",
             "name": "L1 gray ramus",
             "ontologyTerms": [
-                "FMA:65910"
+                "ILX:0785825"
             ]
         },
         {

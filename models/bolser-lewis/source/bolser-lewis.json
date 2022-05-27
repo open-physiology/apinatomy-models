@@ -1579,7 +1579,7 @@
             "id": "217",
             "name": "T1 sympathetic ganglion",
             "ontologyTerms": [
-                "FMA:6474"
+                "ILX:0785119"
             ],
             "layers": [
                 "117"
@@ -1850,7 +1850,7 @@
             "id": "230",
             "name": "T1 ventral root",
             "ontologyTerms": [
-                "FMA:7643"
+                "ILX:0787722"
             ],
             "layers": [
                 "117"
@@ -1860,7 +1860,7 @@
             "id": "231",
             "name": "T1 white ramus",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0785971"
             ],
             "layers": [
                 "117"
@@ -1904,7 +1904,7 @@
         },
         {
             "id": "235",
-            "name": "ontologyTerms carotid nerve",
+            "name": "External carotid nerve",
             "ontologyTerms": [
                 "FMA:6579"
             ],
@@ -2016,7 +2016,7 @@
         },
         {
             "id": "243",
-            "name": "ontologyTerms branch of superior laryngeal nerve",
+            "name": "External branch of superior laryngeal nerve",
             "ontologyTerms": [
                 "FMA:6243"
             ],
@@ -2040,7 +2040,7 @@
         },
         {
             "id": "246",
-            "name": "ontologyTerms branch of inferior laryngeal nerve",
+            "name": "External branch of inferior laryngeal nerve",
             "ontologyTerms": [
                 "ILX:0738308"
             ]

@@ -597,133 +597,133 @@
             "id": "A32",
             "name": "T1 ventral root (aacar)",
             "ontologyTerms": [
-                "FMA:7643"
+                "ILX:0787722"
             ]
         },
         {
             "id": "A33",
             "name": "T2 ventral root (aacar)",
             "ontologyTerms": [
-                "FMA:12897"
+                "ILX:0789894"
             ]
         },
         {
             "id": "A34",
             "name": "T3 ventral root (aacar)",
             "ontologyTerms": [
-                "FMA:12898"
+                "ILX:0784804"
             ]
         },
         {
             "id": "A35",
             "name": "T4 ventral root (aacar)",
             "ontologyTerms": [
-                "FMA:12899"
+                "ILX:0792838"
             ]
         },
         {
             "id": "A36",
             "name": "T5 ventral root (aacar)",
             "ontologyTerms": [
-                "FMA:12900"
+                "ILX:0790146"
             ]
         },
         {
             "id": "A37",
             "name": "T6 ventral root (aacar)",
             "ontologyTerms": [
-                "FMA:12901"
+                "ILX:0791062"
             ]
         },
         {
             "id": "A38",
             "name": "T1 white ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0785971"
             ]
         },
         {
             "id": "A39",
             "name": "T2 white ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793208"
             ]
         },
         {
             "id": "A40",
             "name": "T3 white ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793209"
             ]
         },
         {
             "id": "A41",
             "name": "T4 white ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793210"
             ]
         },
         {
             "id": "A42",
             "name": "T5 white ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793211"
             ]
         },
         {
             "id": "A43",
             "name": "T6 white ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14056"
+                "ILX:0793212"
             ]
         },
         {
             "id": "A44",
             "name": "T1 gray ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0787082"
             ]
         },
         {
             "id": "A45",
             "name": "T2 gray ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0791105"
             ]
         },
         {
             "id": "A46",
             "name": "T3 gray ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0787562"
             ]
         },
         {
             "id": "A47",
             "name": "T4 gray ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0788945"
             ]
         },
         {
             "id": "A48",
             "name": "T5 gray ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0784439"
             ]
         },
         {
             "id": "A49",
             "name": "T6 gray ramus (aacar)",
             "ontologyTerms": [
-                "FMA:14055"
+                "ILX:0787946"
             ]
         },
         {
             "id": "A50",
             "name": "T1 sympathetic ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6474"
+                "ILX:0785119"
             ],
             "internalLyphs": [
                 "sn-sgt1_6"
@@ -736,7 +736,7 @@
             "id": "A51",
             "name": "T2 sympathetic ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6475"
+                "ILX:0786228"
             ],
             "internalLyphs": [
                 "sn-sgt2_6"
@@ -749,7 +749,7 @@
             "id": "A52",
             "name": "T3 sympathetic ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6476"
+                "ILX:0786722"
             ],
             "internalLyphs": [
                 "sn-sgt3_6"
@@ -762,7 +762,7 @@
             "id": "A53",
             "name": "T4 sympathetic ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6477"
+                "ILX:0786272"
             ],
             "internalLyphs": [
                 "sn-sgt4_6"
@@ -775,7 +775,7 @@
             "id": "A54",
             "name": "T5 sympathetic ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6478"
+                "ILX:0786141"
             ],
             "internalLyphs": [
                 "sn-sgt5_6"
@@ -788,7 +788,7 @@
             "id": "A55",
             "name": "T6 sympathetic ganglion (aacar)",
             "ontologyTerms": [
-                "FMA:6479"
+                "ILX:0789947"
             ],
             "internalLyphs": [
                 "sn-sgt6_6"
@@ -1200,23 +1200,23 @@
         },
         {
             "id": "A92",
-            "name": "T1 - Inferior cervical ganglion Interganglonic segment (aacar)",
+            "name": "T1 - Inferior cervical ganglion Interganglionic segment (aacar)",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793233"
             ]
         },
         {
             "id": "A93",
-            "name": "Inferior cervical ganglion - Middle cervical ganglion Interganglonic segment (aacar)",
+            "name": "Inferior cervical ganglion - Middle cervical ganglion Interganglionic segment (aacar)",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793234"
             ]
         },
         {
             "id": "A94",
-            "name": "Middle cervical ganglion - Superior cervical ganglion Interganglonic segment (aacar)",
+            "name": "Middle cervical ganglion - Superior cervical ganglion Interganglionic segment (aacar)",
             "ontologyTerms": [
-                "UBERON:0000407"
+                "ILX:0793363"
             ]
         },
         {
@@ -5272,6 +5272,5 @@
             "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
         }
     ],
-    "id": "ard-arm-cardiac",
     "name": "Ardell Armour Cardiac Model"
 }

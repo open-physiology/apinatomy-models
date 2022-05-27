@@ -647,7 +647,7 @@
             "id": "K21",
             "name": "T13 spinal segment (kblad)",
             "ontologyTerms": [
-                "EMAPA:19554"
+                "ILX:0793357"
             ],
             "topology": "TUBE",
             "supertype": "K_129"
@@ -1242,7 +1242,7 @@
             "id": "K55",
             "name": "T13 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
-                "EMAPA:25186"
+                "ILX:0793359"
             ]
         },
         {
@@ -1296,7 +1296,7 @@
             "id": "K61",
             "name": "L6 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
-                "EMAPA:25169"
+                "ILX:0793360"
             ],
             "internalLyphs": [
                 "sn-drg-l6_10",
@@ -1563,7 +1563,7 @@
             "id": "K90",
             "name": "L3 white ramus (kblad)",
             "ontologyTerms": [
-                "FMA:12699"
+                "ILX:0793361"
             ]
         },
         {
@@ -2005,7 +2005,7 @@
             "id": "sn-drgl2_11",
             "name": "Soma of FOS in L2 DRG_Neuron 11 (kblad)",
             "ontologyTerms": [
-                "ILX:0110736"
+                "NLX:154731"
             ],
             "supertype": "229",
             "internalIn": "K57"

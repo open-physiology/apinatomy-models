@@ -359,9 +359,9 @@
         },
         {
             "id": "lyph-coeliac-trunk",
-            "name": "Coeliac trunk",
+            "name": "Celiac trunk",
             "external": [
-                "ILX:0744971"
+                "UBERON:0006637"
             ],
             "materials": [
                 "mat-blood",
@@ -501,7 +501,7 @@
             "id": "lyph-T5-ventral-root",
             "name": "T5 ventral root",
             "external": [
-                "EMAPA:25304"
+                "ILX:0790146"
             ],
             "materials": [
                 "lyph-XX-ventral-root"
@@ -512,7 +512,7 @@
             "id": "lyph-T6-ventral-root",
             "name": "T6 ventral root",
             "external": [
-                "EMAPA:25306"
+                "ILX:0791062"
             ],
             "materials": [
                 "lyph-XX-ventral-root"
@@ -523,7 +523,7 @@
             "id": "lyph-T7-ventral-root",
             "name": "T7 ventral root",
             "external": [
-                "EMAPA:25308"
+                "ILX:0789966"
             ],
             "materials": [
                 "lyph-XX-ventral-root"
@@ -534,7 +534,7 @@
             "id": "lyph-T8-ventral-root",
             "name": "T8 ventral root",
             "external": [
-                "EMAPA:25310"
+                "ILX:0788026"
             ],
             "materials": [
                 "lyph-XX-ventral-root"
@@ -545,7 +545,7 @@
             "id": "lyph-T9-ventral-root",
             "name": "T9 ventral root",
             "external": [
-                "EMAPA:25312"
+                "ILX:0791932"
             ],
             "materials": [
                 "lyph-XX-ventral-root"
@@ -564,7 +564,7 @@
             "id": "lyph-T5-sympathetic-chain-ganglion",
             "name": "T5 sympathetic chain ganglion",
             "external": [
-                "FMA:6478"
+                "ILX:0786141"
             ],
             "supertype": "lyph-paravertebral-ganglia"
         },
@@ -572,7 +572,7 @@
             "id": "lyph-T6-sympathetic-chain-ganglion",
             "name": "T6 sympathetic chain ganglion",
             "external": [
-                "FMA:6479"
+                "ILX:0789947"
             ],
             "supertype": "lyph-paravertebral-ganglia"
         },
@@ -580,7 +580,7 @@
             "id": "lyph-T7-sympathetic-chain-ganglion",
             "name": "T7 sympathetic chain ganglion",
             "external": [
-                "FMA:6480"
+                "ILX:0790482"
             ],
             "supertype": "lyph-paravertebral-ganglia"
         },
@@ -588,7 +588,7 @@
             "id": "lyph-T8-sympathetic-chain-ganglion",
             "name": "T8 sympathetic chain ganglion",
             "external": [
-                "FMA:6481"
+                "ILX:0784721"
             ],
             "supertype": "lyph-paravertebral-ganglia"
         },
@@ -596,7 +596,7 @@
             "id": "lyph-T9-sympathetic-chain-ganglion",
             "name": "T9 sympathetic chain ganglion",
             "external": [
-                "FMA:6482"
+                "ILX:0784378"
             ],
             "supertype": "lyph-paravertebral-ganglia"
         },
