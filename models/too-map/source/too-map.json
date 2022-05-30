@@ -54,6 +54,15 @@
             "offset": 0.25
         },
         {
+            "id": "I",
+            "name": "junction of pancreatic and common bile ducts with ampulla of Vater",
+            "layout": {
+                "x": 0,
+                "y": 77
+            },
+            "color": "#FF0000"
+        },
+        {
             "id": "f1P",
             "name": "acinar end of pancreas",
             "layout": {
@@ -512,9 +521,9 @@
             "hidden": true
         },
         {
-            "id": "w-O-f1P",
+            "id": "w-I-f1P",
             "name": "Pancreatic Tract",
-            "source": "O",
+            "source": "I",
             "target": "f1P",
             "geometry": "spline",
             "color": "#006400",
@@ -525,15 +534,26 @@
             ]
         },
         {
-            "id": "w-O-f2L",
+            "id": "w-I-f2L",
             "name": "Hepatobiliary Tract",
-            "source": "O",
+            "source": "I",
             "target": "f2L",
             "geometry": "spline",
             "color": "#006400",
             "curvature": 50,
             "ontologyTerms": [
                 "UBERON:0002423"
+            ]
+        },
+        {
+            "id": "w-O-I",
+            "name": "Ampulla of Vater",
+            "source": "O",
+            "target": "I",
+            "geometry": "spline",
+            "color": "#006400",
+            "ontologyTerms": [
+                "UBERON:0004913"
             ]
         },
         {
