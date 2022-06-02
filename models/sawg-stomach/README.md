@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5519557.svg)](https://doi.org/10.5281/zenodo.5519557) 
-
 # SAWG ApiNATOMY model of the stomach
 
 This digital record documents the ApiNATOMY representation of the neural circuits controlling the stomach. ApiNATOMY is a set of tools that produces simple, consistent anatomy schematics overlaid with ontological information. These tools are used to build routing and connectivity graphs (or wiring diagrams). This record contains a docs folder, a source folder, and a README text file. The Docs folder contains a schematic image of the ApiNATOMY model. The Source folder contains the ApiNATOMY representation of the model in JSON and .xlsx formats, each of which includes a list of reference publications to construct the knowledge within the model.  Lastly, the README .md document includes a brief description, and keywords to add context to the model. Please note, the focus of SPARC is on peripheral connectivity of the ANS and its main points of interaction with the CNS. Therefore, any CNS circuitry represented is not comprehensive unless otherwise specified.
