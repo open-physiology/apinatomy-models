@@ -2138,8 +2138,9 @@
                 "w-X-f1L",
                 "w-X-O",
                 "w-B-O",
-                "w-O-f1P",
-                "w-O-f2L",
+                "w-O-I",
+                "w-I-f1P",
+                "w-I-f2L",
                 "w-O-R",
                 "w-R-G",
                 "w-G-f3G",
@@ -2268,7 +2269,7 @@
         },
         {
             "id": "nerves",
-            "name": "Nerve regions",
+            "name": "Cranial nerve regions",
             "regions": [
                 "n4C1N",
                 "n4C2N",
