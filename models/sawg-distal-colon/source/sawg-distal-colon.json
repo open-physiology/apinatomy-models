@@ -368,7 +368,7 @@
             "id": "S12",
             "name": "L5 Dorsal Root ganglion (sdcol)",
             "ontologyTerms": [
-                "UBERON:0002261"
+                "UBERON:0002859"
             ],
             "internalLyphs": [
                 "dcn-l5drg_c"
@@ -414,9 +414,9 @@
         },
         {
             "id": "S18",
-            "name": "L5 Dorsal Root ganglion (sdcol)",
+            "name": "L5 Ventral Root (sdcol)",
             "ontologyTerms": [
-                "UBERON:0002859"
+                "ILX:0791148"
             ],
             "isTemplate": true
         },

@@ -231,7 +231,7 @@
         },
         {
             "id": "my_plex",
-            "name": "myenteric plexus",
+            "name": "myenteric plexus of stomach",
             "ontologyTerms": [
                 "UBERON:0002439"
             ],
@@ -416,7 +416,7 @@
         },
         {
             "id": "my_plex_e",
-            "name": "myenteric plexus",
+            "name": "myenteric plexus of espohagus",
             "ontologyTerms": [
                 "UBERON:0002439"
             ]

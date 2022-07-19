@@ -2581,6 +2581,6 @@
         }
     ],
     "id": "pancreas",
-    "name": "pancreas model",
+    "name": "ApiNATOMY model of the pancreas",
     "namespace": "pancr"
 }

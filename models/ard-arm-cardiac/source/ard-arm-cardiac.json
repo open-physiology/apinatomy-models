@@ -1080,10 +1080,7 @@
         },
         {
             "id": "A80",
-            "name": "Arterial Inferior cervical ganglion (aacar)",
-            "ontologyTerms": [
-                "UBERON:0002440"
-            ],
+            "name": "Atrial intrinsic cardiac ganglion (aacar)",
             "internalLyphs": [
                 "sn-aicg_8",
                 "sn-aicg_9",
@@ -1099,10 +1096,7 @@
         },
         {
             "id": "A81",
-            "name": "Ventricular Inferior cervical ganglion (aacar)",
-            "ontologyTerms": [
-                "UBERON:0002440"
-            ],
+            "name": "Ventricular intrinsic cardiac ganglion (aacar)",
             "internalLyphs": [
                 "sn-vicg_8",
                 "sn-vicg_9",
@@ -5272,5 +5266,6 @@
             "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
         }
     ],
+    "id": "ard-arm-cardiac",
     "name": "Ardell Armour Cardiac Model"
 }

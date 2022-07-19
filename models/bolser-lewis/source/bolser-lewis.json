@@ -951,6 +951,10 @@
         {
             "id": "PMID:30090059",
             "uri": "https://www.ncbi.nlm.nih.gov/pubmed/30090059"
+        },
+        {
+            "id": "PMID:30222982",
+            "uri": "https://www.ncbi.nlm.nih.gov/pubmed/30222982"
         }
     ],
     "nodes": [
@@ -1374,8 +1378,7 @@
             "id": "200",
             "name": "Diencephalon",
             "ontologyTerms": [
-                "UBERON:0001894",
-                "ILX:0103217"
+                "UBERON:0001894"
             ],
             "layers": [
                 "104",
@@ -1387,8 +1390,7 @@
             "id": "201",
             "name": "Hypothalamus",
             "ontologyTerms": [
-                "UBERON:0001898",
-                "ILX:0105177"
+                "UBERON:0001898"
             ],
             "internalLyphs": [
                 "202"
@@ -1408,8 +1410,7 @@
             "id": "203",
             "name": "Midbrain",
             "ontologyTerms": [
-                "UBERON:0001891",
-                "ILX:0106935"
+                "UBERON:0001891"
             ],
             "layers": [
                 "104",
@@ -1421,8 +1422,7 @@
             "id": "204",
             "name": "Pons",
             "ontologyTerms": [
-                "UBERON:0000988",
-                "ILX:0109019"
+                "UBERON:0000988"
             ],
             "layers": [
                 "104",
@@ -1434,8 +1434,7 @@
             "id": "205",
             "name": "Medulla",
             "ontologyTerms": [
-                "UBERON:0001896",
-                "ILX:0738301"
+                "UBERON:0001896"
             ],
             "layers": [
                 "104",
@@ -1589,8 +1588,7 @@
             "id": "218",
             "name": "Inferior cervical ganglion",
             "ontologyTerms": [
-                "UBERON:0002440",
-                "ILX:0734766"
+                "UBERON:0002440"
             ],
             "layers": [
                 "117"
@@ -1600,8 +1598,7 @@
             "id": "219",
             "name": "Middle cervical ganglion",
             "ontologyTerms": [
-                "UBERON:0001990",
-                "ILX:0726454"
+                "UBERON:0001990"
             ],
             "layers": [
                 "117"
@@ -1611,8 +1608,7 @@
             "id": "220",
             "name": "Superior cervical ganglion",
             "ontologyTerms": [
-                "UBERON:0001989",
-                "ILX:0725956"
+                "UBERON:0001989"
             ],
             "layers": [
                 "117"
@@ -1641,8 +1637,7 @@
             "id": "221",
             "name": "Larynx",
             "ontologyTerms": [
-                "UBERON:0001737",
-                "ILX:0727818"
+                "UBERON:0001737"
             ],
             "layers": [
                 "103",
@@ -1653,8 +1648,7 @@
             "id": "222",
             "name": "Trachea",
             "ontologyTerms": [
-                "UBERON:0003126",
-                "ILX:0729183"
+                "UBERON:0003126"
             ],
             "layers": [
                 "103",
@@ -1665,8 +1659,7 @@
             "id": "223",
             "name": "Aortic arch",
             "ontologyTerms": [
-                "UBERON:0001508",
-                "ILX:0738302"
+                "UBERON:0001508"
             ],
             "layers": [
                 "41",
@@ -1688,8 +1681,7 @@
             "id": "225",
             "name": "Internal carotid artery",
             "ontologyTerms": [
-                "UBERON:0001532",
-                "ILX:0736647"
+                "UBERON:0001532"
             ],
             "layers": [
                 "41",
@@ -1733,8 +1725,7 @@
             "id": "226",
             "name": "Epiglottis",
             "ontologyTerms": [
-                "UBERON:0000388",
-                "ILX:0103886"
+                "UBERON:0000388"
             ],
             "layers": [
                 "115",
@@ -1746,8 +1737,7 @@
             "id": "227",
             "name": "Tongue",
             "ontologyTerms": [
-                "UBERON:0001723",
-                "ILX:0111810"
+                "UBERON:0001723"
             ],
             "layers": [
                 "113",
@@ -1936,8 +1926,7 @@
             "id": "238",
             "name": "Phrenic nerve",
             "ontologyTerms": [
-                "UBERON:0001884",
-                "ILX:0736057"
+                "UBERON:0001884"
             ],
             "layers": [
                 "117"
@@ -1947,8 +1936,7 @@
             "id": "239",
             "name": "Vagus nerve",
             "ontologyTerms": [
-                "UBERON:0001759",
-                "ILX:0733375"
+                "UBERON:0001759"
             ],
             "layers": [
                 "117"
@@ -1961,8 +1949,7 @@
             "id": "240",
             "name": "Glossopharyngeal nerve",
             "ontologyTerms": [
-                "UBERON:0001649",
-                "ILX:0723837"
+                "UBERON:0001649"
             ],
             "layers": [
                 "117"
@@ -1975,8 +1962,7 @@
             "id": "241",
             "name": "Hypoglossal nerve",
             "ontologyTerms": [
-                "UBERON:0001650",
-                "ILX:0730771"
+                "UBERON:0001650"
             ],
             "layers": [
                 "117"
@@ -1986,8 +1972,7 @@
             "id": "114in226",
             "name": "Mucosa of epiglottis",
             "ontologyTerms": [
-                "UBERON:0004982",
-                "ILX:0736652"
+                "UBERON:0004982"
             ],
             "supertype": "114",
             "internalLyphs": [
@@ -1998,8 +1983,7 @@
             "id": "112in227",
             "name": "Mucosa of tongue",
             "ontologyTerms": [
-                "UBERON:0005020",
-                "ILX:0731712"
+                "UBERON:0005020"
             ],
             "supertype": "112"
         },
@@ -2007,8 +1991,7 @@
             "id": "242",
             "name": "Superior laryngeal nerve",
             "ontologyTerms": [
-                "UBERON:0011326",
-                "ILX:0731053"
+                "UBERON:0011326"
             ],
             "layers": [
                 "117"
@@ -2114,16 +2097,14 @@
             "id": "255",
             "name": "Carotid body",
             "ontologyTerms": [
-                "UBERON:0001629",
-                "ILX:0736966"
+                "UBERON:0001629"
             ]
         },
         {
             "id": "256",
             "name": "Carotid sinus",
             "ontologyTerms": [
-                "UBERON:0003708",
-                "ILX:0731873"
+                "UBERON:0003708"
             ]
         },
         {
@@ -2630,8 +2611,7 @@
             "id": "2",
             "name": "Basement membrane",
             "ontologyTerms": [
-                "UBERON:0005769",
-                "PMID:31102947"
+                "UBERON:0005769"
             ]
         },
         {

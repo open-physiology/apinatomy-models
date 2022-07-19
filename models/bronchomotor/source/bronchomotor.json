@@ -1035,7 +1035,7 @@
         },
         {
             "id": "B102",
-            "name": "terminal bronchiole",
+            "name": "Terminal bronchiole",
             "ontologyTerms": [
                 "UBERON:0002187"
             ],
@@ -1058,7 +1058,7 @@
         },
         {
             "id": "B103",
-            "name": "bronchiole",
+            "name": "Bronchiole",
             "ontologyTerms": [
                 "UBERON:0002186"
             ],
@@ -1081,7 +1081,7 @@
         },
         {
             "id": "B104",
-            "name": "bronchus",
+            "name": "Bronchus",
             "ontologyTerms": [
                 "UBERON:0002185"
             ],
@@ -1104,7 +1104,7 @@
         },
         {
             "id": "B105",
-            "name": "trachea",
+            "name": "Trachea",
             "ontologyTerms": [
                 "UBERON:0003126"
             ],
@@ -1178,28 +1178,28 @@
         },
         {
             "id": "B119",
-            "name": "trachea parasympathetic ganglia",
+            "name": "Trachea parasympathetic ganglia",
             "ontologyTerms": [
                 "NCIT:C52557"
             ]
         },
         {
             "id": "B120",
-            "name": "bronchus parasympathetic ganglia",
+            "name": "Bronchus parasympathetic ganglia",
             "ontologyTerms": [
                 "NCIT:C52557"
             ]
         },
         {
             "id": "B121",
-            "name": "bronchiole parasympathetic ganglia",
+            "name": "Bronchiole parasympathetic ganglia",
             "ontologyTerms": [
                 "NCIT:C52557"
             ]
         },
         {
             "id": "B122",
-            "name": "terminal bronchiole parasympathetic ganglia",
+            "name": "Terminal bronchiole parasympathetic ganglia",
             "ontologyTerms": [
                 "NCIT:C52557"
             ]
