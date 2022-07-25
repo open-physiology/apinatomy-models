@@ -162,38 +162,6 @@
        d="M -5,-5 V 5 H 5 V -5 Z"
        id="path13996" /></marker><marker
      style="overflow:visible"
-     id="marker13825"
-     refX="0"
-     refY="0"
-     orient="auto"
-     inkscape:stockid="Square"
-     markerWidth="6"
-     markerHeight="6"
-     viewBox="0 0 6 6"
-     inkscape:isstock="true"
-     inkscape:collect="always"
-     preserveAspectRatio="xMidYMid"><path
-       transform="scale(0.5)"
-       style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:2"
-       d="M -5,-5 V 5 H 5 V -5 Z"
-       id="path13823" /></marker><marker
-     style="overflow:visible"
-     refX="0"
-     refY="0"
-     orient="auto"
-     inkscape:stockid="EmptyDiamond"
-     id="EmptyDiamond"
-     markerWidth="7.6367531"
-     markerHeight="7.6367531"
-     viewBox="0 0 7.6367532 7.6367533"
-     inkscape:isstock="true"
-     inkscape:collect="always"
-     preserveAspectRatio="xMidYMid"><path
-       transform="scale(0.45)"
-       style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:2"
-       d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
-       id="path108" /></marker><marker
-     style="overflow:visible"
      id="marker12627"
      refX="0"
      refY="0"
@@ -347,8 +315,8 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="1.2588186"
-   inkscape:cx="372.96875"
-   inkscape:cy="625.58657"
+   inkscape:cx="2651.6927"
+   inkscape:cy="1064.093"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
@@ -416,9 +384,9 @@
    y="333.66815">soma (implicit dendrite)</text><text
    class="st0 st1"
    id="text4-2-0"
-   style="font-size:21.33333333px;font-family:Times-Bold;stroke-width:1.64377"
+   style="font-size:21.3333px;font-family:Times-Bold;stroke-width:1.64377"
    x="154.44756"
-   y="366.34122">dendrite</text><text
+   y="366.34122">axon sensory ending</text><text
    class="st0 st1"
    id="text4-9"
    style="font-size:13px;font-family:Times-Bold"
@@ -2829,18 +2797,28 @@
 <text
    class="st35 st36 st37"
    id="text778"
-   x="1031.514"
-   y="2526.8335">2</text>
+   x="2002.9351"
+   y="2371.9861">2i</text>
 <text
    class="st35 st36 st37"
    id="text780"
-   x="1115.9054"
-   y="2498.1414">3</text>
+   x="1763.9641"
+   y="2370.356">2m</text>
 <text
    class="st35 st36 st37"
    id="text782"
    x="1340.3951"
-   y="1992.6245">4</text>
+   y="1992.6245">4</text><text
+   class="st35 st36 st37"
+   id="text782-3"
+   x="1025.9119"
+   y="2509.364"
+   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">4</text><text
+   class="st35 st36 st37"
+   id="text782-3-9"
+   x="1096.0441"
+   y="2661.7903"
+   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">4</text>
 <text
    class="st35 st36 st37"
    id="text784"
@@ -2865,7 +2843,12 @@
    class="st35 st36 st37"
    id="text792"
    x="3124.2729"
-   y="1975.4971">5</text>
+   y="1975.4971">5</text><text
+   class="st35 st36 st37"
+   id="text792-5"
+   x="1683.495"
+   y="2423.9739"
+   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">5</text>
 <text
    class="st35 st36 st37"
    id="text794"
@@ -2895,7 +2878,12 @@
    class="st35 st36 st37"
    id="text804"
    x="1983.061"
-   y="2245.6858">6</text>
+   y="2245.6858">6</text><text
+   class="st35 st36 st37"
+   id="text804-6"
+   x="1678.8215"
+   y="2321.3625"
+   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">6</text>
 <text
    class="st35 st36 st37"
    id="text806"
@@ -2940,7 +2928,12 @@
    class="st35 st36 st37"
    id="text820"
    x="1867.635"
-   y="2272.3875">12</text>
+   y="2272.3875">12</text><text
+   class="st35 st36 st37"
+   id="text820-2"
+   x="2090.929"
+   y="2272.7031"
+   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">12</text>
 <text
    class="st35 st36 st37"
    id="text822"
@@ -3070,22 +3063,42 @@
    class="st14 st11"
    id="text876"
    x="2616.2144"
-   y="362.73819">Muscle</text>
+   y="362.73819">Muscle</text><text
+   class="st14 st11"
+   id="text876-6"
+   x="2616.3125"
+   y="947.85986"
+   style="font-size:21px;font-family:Arial-BoldMT">Muscle</text>
 <text
    class="st14 st11"
    id="text878"
    x="2585.894"
-   y="464.30588">Adventitia</text>
+   y="464.30588">Adventitia</text><text
+   class="st14 st11"
+   id="text878-3"
+   x="2699.0469"
+   y="834.97986"
+   style="font-size:21px;font-family:Arial-BoldMT">Adventitia</text>
 <text
    class="st14 st11"
    id="text880"
    x="2560.2495"
-   y="286.03067">Endothelium</text>
+   y="286.03067">Endothelium</text><text
+   class="st14 st11"
+   id="text880-7"
+   x="2699.4106"
+   y="1021.2672"
+   style="font-size:21px;font-family:Arial-BoldMT">Endothelium</text>
 <text
    class="st14 st11"
    id="text882"
    x="2627.9253"
-   y="230.32307">Blood</text>
+   y="230.32307">Blood</text><text
+   class="st14 st11"
+   id="text882-5"
+   x="2628.4033"
+   y="1076.8781"
+   style="font-size:21px;font-family:Arial-BoldMT">Blood</text>
 <text
    class="st14 st11"
    id="text884"
@@ -3850,4 +3863,17 @@
    d="M 130.96948,391.19969 H 81.656525"
    id="path588-6-8"
    style="fill:none;stroke:#000000;stroke-width:3.28753;stroke-miterlimit:10;stroke-opacity:1"
-   sodipodi:nodetypes="cc" /></svg>
+   sodipodi:nodetypes="cc" /><text
+   xml:space="preserve"
+   style="font-size:16px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+   x="1051.8064"
+   y="1077.3025"
+   id="text44028"><tspan
+     sodipodi:role="line"
+     id="tspan44026"
+     x="1051.8064"
+     y="1077.3025">These process really</tspan><tspan
+     sodipodi:role="line"
+     x="1051.8064"
+     y="1097.3025"
+     id="tspan44150">go throught the layers.</tspan></text></svg>
