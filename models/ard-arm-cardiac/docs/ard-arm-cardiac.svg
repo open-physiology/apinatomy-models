@@ -314,9 +314,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="1.2588186"
-   inkscape:cx="2651.6927"
-   inkscape:cy="1064.093"
+   inkscape:zoom="0.62940929"
+   inkscape:cx="2011.4098"
+   inkscape:cy="1565.7538"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
@@ -2947,13 +2947,13 @@
 <text
    class="st35 st36 st37"
    id="text826"
-   x="2040.6409"
-   y="1758.4248">9</text>
+   x="2015.925"
+   y="1758.4248">9v</text>
 <text
    class="st35 st36 st37"
    id="text828"
-   x="1654.5366"
-   y="1758.4248">9</text>
+   x="1632.0677"
+   y="1746.6287">9a</text>
 <text
    class="st35 st36 st37"
    id="text830"
@@ -2967,13 +2967,14 @@
 <text
    class="st35 st36 st37"
    id="text834"
-   x="2181.2812"
-   y="1695.1243">10</text>
+   x="2176.2258"
+   y="1695.1243">10v</text>
 <text
    class="st35 st36 st37"
    id="text836"
    x="1732.843"
-   y="1695.1243">10</text>
+   y="1687.2601"
+   style="font-size:24px">10a</text>
 <text
    class="st35 st36 st37"
    id="text838"
@@ -3588,27 +3589,27 @@
    class="st35 st36 st37"
    id="text1084"
    x="2263.7092"
-   y="345.20779">7</text>
+   y="340.71402">7v</text>
 <text
    class="st35 st36 st37"
    id="text1086"
-   x="2181.281"
-   y="345.20779">8</text>
+   x="2174.9739"
+   y="339.12521">8v</text>
 <text
    class="st35 st36 st37"
    id="text1088"
    x="2412.575"
-   y="1664.8013">7</text>
+   y="1664.8013">7v</text>
 <text
    class="st35 st36 st37"
    id="text1090"
-   x="2140.1543"
-   y="1644.4619">8</text>
+   x="2114.7336"
+   y="1642.8732">8v</text>
 <text
    class="st35 st36 st37"
    id="text1092"
-   x="1970.1233"
-   y="345.20779">6</text>
+   x="1970.6851"
+   y="338.18625">6</text>
 <text
    class="st35 st36 st37"
    id="text1094"
@@ -3617,18 +3618,18 @@
 <text
    class="st35 st36 st37"
    id="text1096"
-   x="2071.3523"
-   y="345.20779">9</text>
+   x="2072.4756"
+   y="337.06281">9v</text>
 <text
    class="st35 st36 st37"
    id="text1098"
-   x="2056.9236"
-   y="1617.6553">9</text>
+   x="2032.2974"
+   y="1619.244">9v</text>
 <text
    class="st35 st36 st37"
    id="text1100"
-   x="1808.0208"
-   y="345.20779">6</text>
+   x="1803.8079"
+   y="340.43317">6</text>
 <text
    class="st35 st36 st37"
    id="text1102"
@@ -3637,33 +3638,33 @@
 <text
    class="st35 st36 st37"
    id="text1104"
-   x="1747.697"
-   y="345.20779">7</text>
+   x="1727.2754"
+   y="339.55063">7a</text>
 <text
    class="st35 st36 st37"
    id="text1106"
-   x="1747.6965"
-   y="1638.8936">7</text>
+   x="1729.7214"
+   y="1649.0045">7a</text>
 <text
    class="st35 st36 st37"
    id="text1108"
-   x="1689.2473"
-   y="345.20779">8</text>
+   x="1676.1398"
+   y="339.45428">8a</text>
 <text
    class="st35 st36 st37"
    id="text1110"
-   x="1698.2615"
-   y="1648.4688">8</text>
+   x="1680.7848"
+   y="1654.0295">8a</text>
 <text
    class="st35 st36 st37"
    id="text1112"
-   x="1644.8398"
-   y="345.20779">9</text>
+   x="1622.9326"
+   y="338.74799">9a</text>
 <text
    class="st35 st36 st37"
    id="text1114"
    x="1416.2354"
-   y="1627.95">9</text>
+   y="1627.95">9a</text>
 <rect
    x="1485.823"
    y="151.37944"
@@ -3872,7 +3873,7 @@
      sodipodi:role="line"
      id="tspan44026"
      x="1051.8064"
-     y="1077.3025">These process really</tspan><tspan
+     y="1077.3025">These process DO NOT</tspan><tspan
      sodipodi:role="line"
      x="1051.8064"
      y="1097.3025"
