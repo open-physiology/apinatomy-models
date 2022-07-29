@@ -26,14 +26,14 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="1.2857459"
-   inkscape:cx="939.14359"
-   inkscape:cy="315.38114"
+   inkscape:cx="1358.7444"
+   inkscape:cy="1022.3638"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
    inkscape:window-y="405"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g1006-3" />
+   inkscape:current-layer="Layer_1" />
 <style
    type="text/css"
    id="style2">
@@ -2694,11 +2694,13 @@
 <text
    class="st39 st40 st17"
    id="text1114"
-   transform="matrix(1 0 0 1 1375.0146 1245.1028)">Q</text>
+   x="1368.0148"
+   y="1249.3805">Q</text>
 <text
-   transform="matrix(1 0 0 1 1534.2791 1245.1028)"
    class="st39 st40 st17"
-   id="text1116">Q</text>
+   id="text1116"
+   x="1535.4457"
+   y="1250.5471">Q’</text>
 <text
    transform="matrix(1 0 0 1 1331.0742 1395.7585)"
    class="st39 st40 st17"
