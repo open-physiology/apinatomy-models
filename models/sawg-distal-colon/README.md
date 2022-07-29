@@ -1,9 +1,9 @@
-# SAWG ApiNATOMY model of the distal colon
+# SAWG ApiNATOMY model of the descending colon
 
 This digital record documents the ApiNATOMY representation of the neural circuits controlling defensive breathing with components under the influence of the Superior Cervical Ganglion (SCG). ApiNATOMY is a set of tools that produces simple, consistent anatomy schematics overlaid with ontological information. These tools are used to build routing and connectivity graphs (or wiring diagrams). This record contains a docs folder and a README text file. The Docs folder contains a PDF document, with a schematic image of the ApiNATOMY model. The Source folder contains the ApiNATOMY representation of the model in JSON and .xlsx formats. Lastly, the README .md document includes a brief description, keywords, and reference publications to construct the knowledge within the model.
 
 ## Keywords
-* distal colon
+* descending colon
 * spinal cord
 * Inferior Mesenteric Ganglion
 
