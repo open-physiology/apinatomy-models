@@ -25,9 +25,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="1.2857459"
-   inkscape:cx="1358.7444"
-   inkscape:cy="1022.3638"
+   inkscape:zoom="0.64287295"
+   inkscape:cx="1059.3073"
+   inkscape:cy="1064.7516"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
@@ -2798,7 +2798,7 @@
 	</g>
 </g>
 <text
-   transform="matrix(1 0 0 1 90.6338 1198.6268)"
+   transform="translate(90.6338,1198.6268)"
    id="text1190"><tspan
      x="0"
      y="0"
@@ -2809,15 +2809,15 @@
      class="st40 st41"
      id="tspan1162">C) Spinal afferent</tspan><tspan
      x="0"
-     y="43.2"
+     y="43.200001"
      class="st40 st41"
      id="tspan1164">D) Sym postganglionic prevertebral to immune targets</tspan><tspan
      x="0"
-     y="64.8"
+     y="64.800003"
      class="st40 st41"
      id="tspan1166">F) Sym postganglionic prevertebral to vascular smooth muscle</tspan><tspan
      x="0"
-     y="86.4"
+     y="86.400002"
      class="st40 st41"
      id="tspan1168">G) Sym postganglionic prevertebral to myenteric plexus</tspan><tspan
      x="0"
@@ -2825,7 +2825,7 @@
      class="st40 st41"
      id="tspan1170">H) Sym postganglionic prevertebral to submucosal plexus</tspan><tspan
      x="0"
-     y="129.6"
+     y="129.60001"
      class="st40 st41"
      id="tspan1172">I) Ascending myenteric interneuron</tspan><tspan
      x="0"
@@ -2837,7 +2837,7 @@
      class="st40 st41"
      id="tspan1176">K) Descending myenteric interneuron</tspan><tspan
      x="0"
-     y="194.4"
+     y="194.39999"
      class="st40 st41"
      id="tspan1178">L,L’) Inhibitory motor neuron to (i) long muscle, (ii) circular muscle</tspan><tspan
      x="0"
@@ -2845,21 +2845,21 @@
      class="st40 st41"
      id="tspan1180">M) Myenteric intrinsic primary afferent neuron</tspan><tspan
      x="0"
-     y="237.6"
+     y="237.60001"
      class="st40 st41"
      id="tspan1182">N) Submucosal intrinsic primary afferent neuron</tspan><tspan
      x="0"
-     y="259.2"
+     y="259.20001"
      class="st40 st41"
      id="tspan1184">O) Vasodilatory motor neuron</tspan><tspan
      x="0"
-     y="280.8"
+     y="280.79999"
      class="st40 st41"
      id="tspan1186">P) Secretomotor neuron</tspan><tspan
      x="0"
-     y="302.4"
+     y="302.39999"
      class="st40 st41"
-     id="tspan1188">Q) Intestinofugal neuron</tspan></text>
+     id="tspan1188">Q,Q’) Intestinofugal neuron</tspan></text>
 <text
    transform="matrix(1 0 0 1 1252.5371 627.7062)"
    class="st39 st40 st17"
