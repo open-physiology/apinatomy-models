@@ -25,9 +25,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="0.98603159"
-   inkscape:cx="817.41803"
-   inkscape:cy="1150.5717"
+   inkscape:zoom="0.69722962"
+   inkscape:cx="941.58363"
+   inkscape:cy="1508.1115"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
@@ -270,13 +270,33 @@
 <text
    class="st9 st11"
    id="text402156"
-   x="1584.2068"
-   y="1965.7083">LOWER ESOPHAGUS</text>
+   x="1554.0875"
+   y="1964.274">LOWER ESOPHAGUS</text>
 <text
    class="st9 st12"
    id="text402158"
    x="81.5103"
-   y="558.92322">SEROSA</text>
+   y="558.92322">SEROSA</text><text
+   class="st9 st12"
+   id="text402158-8"
+   x="1185.1584"
+   y="207.92305"
+   style="font-size:24px;font-family:CourierNewPS-BoldMT">Bulk transmission site</text><text
+   class="st9 st12"
+   id="text402158-8-5"
+   x="1483.1984"
+   y="329.26511"
+   style="font-size:24px;font-family:CourierNewPS-BoldMT">Sensory ending?</text><text
+   class="st9 st12"
+   id="text402158-8-5-0"
+   x="1681.0615"
+   y="94.149872"
+   style="font-size:24px;font-family:CourierNewPS-BoldMT">Normal dendrite</text><text
+   class="st9 st12"
+   id="text402158-8-5-0-9"
+   x="1735.5399"
+   y="408.91727"
+   style="font-size:24px;font-family:CourierNewPS-BoldMT">Normal axon term</text>
 <text
    id="text402164"
    x="82.035713"
@@ -1048,8 +1068,8 @@
 <text
    class="st20 st21"
    id="text402534"
-   x="235.14639"
-   y="1884.0676">Parietal</text>
+   x="230.84364"
+   y="1885.5018">Parietal</text>
 <text
    class="st20 st21"
    id="text402536"
@@ -1066,8 +1086,8 @@
 <text
    class="st20 st21"
    id="text402542"
-   x="925.30627"
-   y="1884.0676">Parietal</text>
+   x="921.00354"
+   y="1886.219">Parietal</text>
 <text
    class="st20 st21"
    id="text402544"
@@ -1075,13 +1095,13 @@
    y="1884.0676">Chief</text>
 <text
    id="text402550"
-   x="477.70432"
+   x="467.66458"
    y="1876.5676"><tspan
-     x="477.70432"
+     x="467.66458"
      y="1876.5676"
      class="st20 st21"
      id="tspan402546">Enteroendocrine</tspan><tspan
-     x="477.70432"
+     x="467.66458"
      y="1891.5676"
      class="st20 st21"
      id="tspan402548">cell</tspan></text>
@@ -1337,6 +1357,33 @@
 			</g>
 		</g>
 	</g>
+</g><g
+   id="g402684-7"
+   transform="translate(-17.376993,-537.68432)">
+	<g
+   id="g402682-3">
+		<path
+   class="st25"
+   d="m 1583.78,675.75 c 8.17,42.78 25.72,110.97 49.16,134.96"
+   id="path402672-6"
+   style="fill:none;stroke:#662d91;stroke-width:4;stroke-miterlimit:10" />
+		<g
+   id="g402680-5">
+			<g
+   id="g402678-6">
+				<polygon
+   class="st16"
+   points="1654.89,808.34 1643.07,829.15 1631.51,808.82 "
+   id="polygon402674-3"
+   style="fill:#ffffff" />
+				<path
+   class="st26"
+   d="m 1643.07,831.58 -13.6,-23.92 27.51,-0.57 z m -9.52,-21.6 9.52,16.74 9.74,-17.14 z"
+   id="path402676-9"
+   style="fill:#662d91" />
+			</g>
+		</g>
+	</g>
 </g>
 <g
    id="g402698"
@@ -1409,6 +1456,33 @@
    class="st26"
    d="m 639.74,1010.2 c 6.04,-7.19 16.82,-8.12 24.01,-2.08 7.19,6.04 8.12,16.82 2.08,24.01 -6.04,7.19 -16.82,8.12 -24.01,2.08 -7.19,-6.04 -8.12,-16.81 -2.08,-24.01 6.05,-7.19 -6.04,7.2 0,0 z m 23.03,19.36 c 4.63,-5.5 3.91,-13.74 -1.59,-18.37 -5.51,-4.63 -13.74,-3.91 -18.37,1.59 -4.63,5.51 -3.91,13.74 1.59,18.37 5.5,4.63 13.74,3.91 18.37,-1.59 4.63,-5.51 -4.63,5.5 0,0 z"
    id="path402718" />
+			</g>
+		</g>
+	</g>
+</g><g
+   id="g402726-1"
+   transform="translate(778.13536,-754.9503)">
+	<g
+   id="g402724-1">
+		<path
+   class="st25"
+   d="m 711.68,795.85 c 18.16,75.25 1.87,150.77 -59.39,226.01"
+   id="path402714-5"
+   style="fill:none;stroke:#662d91;stroke-width:4;stroke-miterlimit:10" />
+		<g
+   id="g402722-9">
+			<g
+   id="g402720-7">
+				<path
+   class="st16"
+   d="m 641.28,1011.49 c -5.34,6.36 -4.52,15.85 1.84,21.19 6.36,5.34 15.85,4.52 21.19,-1.84 5.34,-6.36 4.52,-15.85 -1.84,-21.19 -6.36,-5.34 -15.85,-4.52 -21.19,1.84 z"
+   id="path402716-7"
+   style="fill:#ffffff" />
+				<path
+   class="st26"
+   d="m 639.74,1010.2 c 6.04,-7.19 16.82,-8.12 24.01,-2.08 7.19,6.04 8.12,16.82 2.08,24.01 -6.04,7.19 -16.82,8.12 -24.01,2.08 -7.19,-6.04 -8.12,-16.81 -2.08,-24.01 6.05,-7.19 -6.04,7.2 0,0 z m 23.03,19.36 c 4.63,-5.5 3.91,-13.74 -1.59,-18.37 -5.51,-4.63 -13.74,-3.91 -18.37,1.59 -4.63,5.51 -3.91,13.74 1.59,18.37 5.5,4.63 13.74,3.91 18.37,-1.59 4.63,-5.51 -4.63,5.5 0,0 z"
+   id="path402718-6"
+   style="fill:#662d91" />
 			</g>
 		</g>
 	</g>
@@ -1595,6 +1669,41 @@
 			<polygon
    points="1282.89,1136.4 1302.08,1113.45 1272.61,1108.31 "
    id="polygon402826" />
+		</g>
+	</g>
+</g><g
+   id="g402832-4"
+   transform="translate(622.31365,-742.69841)">
+	<g
+   id="g402830-8">
+		<path
+   class="st27"
+   d="m 1166.4644,861.89602 c 32.54,126.55672 83.1557,117.54182 112.0923,241.14398"
+   id="path402816-1"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10"
+   sodipodi:nodetypes="cc" />
+		<g
+   id="g402824-2"
+   transform="translate(249.04666,575.23272)">
+			<g
+   id="g402822-9">
+				<polygon
+   class="st16"
+   points="916.08,295.46 927.17,274.88 903.26,275.91 "
+   id="polygon402818-3"
+   style="fill:#ffffff" />
+				<path
+   d="m 901.1,274.8 15.08,23.01 13.05,-24.22 z m 14.88,18.32 -10.56,-16.1 19.69,-0.85 z"
+   id="path402820-9" />
+			</g>
+		</g>
+		<g
+   id="g402828-0"
+   transform="translate(-145.14463,-150.66535)">
+			<polygon
+   points="1282.89,1136.4 1302.08,1113.45 1272.61,1108.31 "
+   id="polygon402826-8"
+   transform="translate(133.95562,134.86505)" />
 		</g>
 	</g>
 </g>
@@ -1846,4 +1955,8 @@
    id="text816-77"
    x="1394.7004"
    y="1232.4722"
-   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">14</text></svg>
+   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">14</text><path
+   style="fill:none;stroke:#000000;stroke-width:3.94696;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+   d="M 171.01151,1925 H 1907.515"
+   id="path406522"
+   sodipodi:nodetypes="cc" /></svg>
