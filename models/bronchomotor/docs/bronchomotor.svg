@@ -25,9 +25,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="0.61477383"
-   inkscape:cx="2718.0728"
-   inkscape:cy="994.67475"
+   inkscape:zoom="0.43471074"
+   inkscape:cx="2466.0076"
+   inkscape:cy="919.00191"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
@@ -3778,9 +3778,10 @@
    class="st17 st19"
    id="text13719">SUPRARENAL VEINS</text>
 <text
-   transform="matrix(1 0 0 1 827.5981 793.8524)"
    class="st17 st19"
-   id="text13721">SPLANCHNIC N.</text>
+   id="text13721"
+   x="822.99731"
+   y="813.40564">SPLANCHNIC N.</text>
 <text
    transform="matrix(0.9986 -0.0534 0.0534 0.9986 2409.0227 1964.7031)"
    class="st17 st19"
@@ -3802,9 +3803,12 @@
    class="st17 st19"
    id="text13731">PULMONARY VEIN</text>
 <text
-   transform="matrix(0.7166 -0.6975 0.6975 0.7166 2573.363 1182.7852)"
+   transform="rotate(-44.226163)"
    class="st17 st19"
-   id="text13733">VAGUS N.</text>
+   id="text13733"
+   x="1042.3993"
+   y="2623.4529"
+   style="stroke-width:1.00001">VAGUS N.</text>
 <text
    transform="matrix(1 0 0 1 3880.9849 237.9865)"
    id="text13739"><tspan
@@ -3851,8 +3855,8 @@
    style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">1</text><text
    class="st35 st36 st37"
    id="text780"
-   x="2660.2712"
-   y="1182.2333"
+   x="2592.5439"
+   y="1269.2698"
    style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c">2</text><text
    class="st35 st36 st37"
    id="text780-3"
@@ -3873,4 +3877,50 @@
    id="text780-5"
    x="3061.075"
    y="494.94299"
-   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c;stroke:#ed1c24;stroke-width:2;stroke-miterlimit:10">6</text></svg>
+   style="font-size:36px;font-family:CourierNewPS-BoldMT;fill:#ec008c;stroke:#ed1c24;stroke-width:2;stroke-miterlimit:10">6</text><g
+   class="st42"
+   id="g1238"
+   style="opacity:0.5"
+   transform="translate(26.417916,178.50065)">
+	<g
+   id="g1236">
+		<path
+   class="st43"
+   d="m 872.43,605.58 c -0.24,0.23 -0.49,0.46 -0.73,0.68"
+   id="path1230"
+   style="fill:none;stroke:#808285;stroke-width:3;stroke-miterlimit:10" />
+		<path
+   class="st46"
+   d="m 870.23,607.57 c -34.44,29.2 -30.62,-64.36 0.75,-36.76"
+   id="path1232"
+   style="fill:none;stroke:#808285;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:1.9721, 1.9721" />
+		<path
+   class="st43"
+   d="m 871.71,571.47 c 0.24,0.22 0.48,0.45 0.73,0.69"
+   id="path1234"
+   style="fill:none;stroke:#808285;stroke-width:3;stroke-miterlimit:10" />
+	</g>
+</g><g
+   class="st42"
+   id="g1238-1"
+   style="opacity:0.5;fill:none;stroke:#006838;stroke-width:1.5;stroke-miterlimit:10"
+   transform="rotate(-40.563921,2502.757,-1520.578)">
+	<g
+   id="g1236-2">
+		<path
+   class="st43"
+   d="m 872.43,605.58 c -0.24,0.23 -0.49,0.46 -0.73,0.68"
+   id="path1230-7"
+   style="fill:none;stroke:#808285;stroke-width:3;stroke-miterlimit:10" />
+		<path
+   class="st46"
+   d="m 870.23,607.57 c -34.44,29.2 -30.62,-64.36 0.75,-36.76"
+   id="path1232-0"
+   style="font-size:13px;fill:none;stroke:#808285;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:1.9721, 1.9721" />
+		<path
+   class="st43"
+   d="m 871.71,571.47 c 0.24,0.22 0.48,0.45 0.73,0.69"
+   id="path1234-9"
+   style="fill:none;stroke:#808285;stroke-width:3;stroke-miterlimit:10" />
+	</g>
+</g></svg>
