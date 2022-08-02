@@ -28,16 +28,16 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1822"
-   inkscape:window-height="979"
+   inkscape:window-width="1920"
+   inkscape:window-height="1038"
    id="namedview1449"
    showgrid="false"
-   inkscape:zoom="1.1758456"
-   inkscape:cx="582.98473"
-   inkscape:cy="91.848798"
-   inkscape:window-x="1250"
-   inkscape:window-y="430"
-   inkscape:window-maximized="0"
+   inkscape:zoom="1.6628968"
+   inkscape:cx="572.79562"
+   inkscape:cy="216.79036"
+   inkscape:window-x="1200"
+   inkscape:window-y="405"
+   inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1"
    inkscape:document-rotation="0"
    inkscape:showpageshadow="2"
@@ -495,17 +495,17 @@
    class="st7 st10 st11"
    id="text138">PN: Phrenic nucleus</text>
 <text
-   transform="matrix(1 0 0 1 913.2457 915.7613)"
+   transform="translate(913.2457,915.7613)"
    class="st12"
    id="text144"><tspan
      x="0"
      y="0"
      class="st7 st10 st11"
-     id="tspan140">PBHN: Pharyngeal branch of</tspan><tspan
+     id="tspan140">PBGN: Pharyngeal branch of</tspan><tspan
      x="0"
      y="14.4"
      class="st7 st10 st11"
-     id="tspan142">             Hypoglossal nerve</tspan></text>
+     id="tspan142">           Glossopharyngeal nerve</tspan></text>
 <text
    transform="matrix(1 0 0 1 913.246 950.4147)"
    class="st7 st10 st11"
@@ -568,9 +568,11 @@
    class="st7 st10 st11"
    id="text170">HYPOGL</text>
 <text
-   transform="matrix(0 1 -1 0 1038.209 391.3847)"
+   transform="rotate(90)"
    class="st7 st10 st11"
-   id="text172">PBHN</text>
+   id="text172"
+   x="395.21173"
+   y="-1038.6343">PBGN</text>
 <text
    transform="matrix(1 0 0 1 665.8661 847.8813)"
    class="st7 st10 st11"
@@ -729,9 +731,9 @@
    class="st7 st10 st11"
    id="text230">GGN: Ganglioglomerular nerve</text>
 <text
-   transform="matrix(1 0 0 1 665.8663 937.2813)"
+   transform="translate(665.8663,937.2813)"
    class="st7 st10 st11"
-   id="text232">ILN: Inferior larynageal nerve</text>
+   id="text232">ILN: Inferior larynageal nerve*</text>
 <text
    transform="matrix(1 0 0 1 1154.9149 908.1661)"
    class="st7 st10 st11"
@@ -922,7 +924,7 @@
    class="st7 st10 st11"
    id="text322">RVLM: Rostral ventrolateralmedulla</text>
 <text
-   transform="matrix(1 0 0 1 1154.9152 953.7363)"
+   transform="translate(1154.9152,953.7363)"
    class="st12"
    id="text328"><tspan
      x="0"
@@ -932,7 +934,7 @@
      x="0"
      y="14.4"
      class="st7 st10 st11"
-     id="tspan326">                          first and second rib</tspan></text>
+     id="tspan326">                       first and second rib</tspan></text>
 <text
    transform="matrix(1 0 0 1 913.2465 814.4945)"
    class="st7 st10 st11"
@@ -4042,29 +4044,17 @@
        x="867.79907"
        y="263.51013">8</tspan></text></g><text
    xml:space="preserve"
-   style="font-size:16px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke:#ff0000;stroke-opacity:1"
-   x="1049.8706"
-   y="408.52362"
-   id="text54903"><tspan
+   style="font-size:8px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+   x="664.89722"
+   y="1005.2055"
+   id="text11411"><tspan
      sodipodi:role="line"
-     id="tspan54901"
-     x="1049.8706"
-     y="408.52362">???</tspan></text><text
-   xml:space="preserve"
-   style="font-size:16px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke:#ff0000;stroke-opacity:1"
-   x="917.21985"
-   y="932.00446"
-   id="text54903-6"><tspan
+     id="tspan11409"
+     x="664.89722"
+     y="1005.2055"
+     style="font-size:8px">* ILN has been determined to be an exact</tspan><tspan
      sodipodi:role="line"
-     id="tspan54901-5"
-     x="917.21985"
-     y="932.00446">???</tspan></text><text
-   xml:space="preserve"
-   style="font-size:16px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke:#ff0000;stroke-opacity:1"
-   x="431.83878"
-   y="142.86024"
-   id="text54903-6-6"><tspan
-     sodipodi:role="line"
-     id="tspan54901-5-9"
-     x="431.83878"
-     y="142.86024">???</tspan></text></svg>
+     x="664.89722"
+     y="1015.2055"
+     id="tspan11413"
+     style="font-size:8px">synonym of recurrent laryngeal nerve.</tspan></text></svg>
