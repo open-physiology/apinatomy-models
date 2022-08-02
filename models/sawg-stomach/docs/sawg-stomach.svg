@@ -25,9 +25,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="0.69722962"
-   inkscape:cx="941.58363"
-   inkscape:cy="1508.1115"
+   inkscape:zoom="1.3944592"
+   inkscape:cx="572.98197"
+   inkscape:cy="1732.9298"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
@@ -279,24 +279,24 @@
    y="558.92322">SEROSA</text><text
    class="st9 st12"
    id="text402158-8"
-   x="1185.1584"
-   y="207.92305"
+   x="1353.1322"
+   y="99.665871"
    style="font-size:24px;font-family:CourierNewPS-BoldMT">Bulk transmission site</text><text
    class="st9 st12"
    id="text402158-8-5"
-   x="1483.1984"
-   y="329.26511"
-   style="font-size:24px;font-family:CourierNewPS-BoldMT">Sensory ending?</text><text
+   x="1385.8784"
+   y="264.62991"
+   style="font-size:24px;font-family:CourierNewPS-BoldMT">Sensory ending</text><text
    class="st9 st12"
    id="text402158-8-5-0"
-   x="1681.0615"
-   y="94.149872"
-   style="font-size:24px;font-family:CourierNewPS-BoldMT">Normal dendrite</text><text
+   x="1741.951"
+   y="92.312897"
+   style="font-size:24px;font-family:CourierNewPS-BoldMT">Dendrite</text><text
    class="st9 st12"
    id="text402158-8-5-0-9"
-   x="1735.5399"
-   y="408.91727"
-   style="font-size:24px;font-family:CourierNewPS-BoldMT">Normal axon term</text>
+   x="1725.3982"
+   y="329.65439"
+   style="font-size:24px;font-family:CourierNewPS-BoldMT">Aaxon terminal</text>
 <text
    id="text402164"
    x="82.035713"
@@ -375,8 +375,8 @@
    transform="rotate(-90)"
    class="st9 st10"
    id="text402192"
-   x="-499.00781"
-   y="1490.0637">VAGUS</text>
+   x="-508.6424"
+   y="1490.3173">VAGUS</text>
 <g
    id="g402200"
    transform="translate(56,-4)">
@@ -1359,7 +1359,7 @@
 	</g>
 </g><g
    id="g402684-7"
-   transform="translate(-17.376993,-537.68432)">
+   transform="rotate(-61.110027,1095.2319,603.70861)">
 	<g
    id="g402682-3">
 		<path
@@ -1373,7 +1373,7 @@
    id="g402678-6">
 				<polygon
    class="st16"
-   points="1654.89,808.34 1643.07,829.15 1631.51,808.82 "
+   points="1643.07,829.15 1631.51,808.82 1654.89,808.34 "
    id="polygon402674-3"
    style="fill:#ffffff" />
 				<path
@@ -1461,7 +1461,7 @@
 	</g>
 </g><g
    id="g402726-1"
-   transform="translate(778.13536,-754.9503)">
+   transform="rotate(-108.91361,809.56807,238.61583)">
 	<g
    id="g402724-1">
 		<path
@@ -1675,10 +1675,11 @@
    id="g402832-4"
    transform="translate(622.31365,-742.69841)">
 	<g
-   id="g402830-8">
+   id="g402830-8"
+   transform="translate(-3.0424989,3.0424989)">
 		<path
    class="st27"
-   d="m 1166.4644,861.89602 c 32.54,126.55672 83.1557,117.54182 112.0923,241.14398"
+   d="m 1166.4644,861.89602 c 0.087,62.66424 36.1577,91.68962 36.9856,146.17258"
    id="path402816-1"
    style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10"
    sodipodi:nodetypes="cc" />
@@ -1689,7 +1690,7 @@
    id="g402822-9">
 				<polygon
    class="st16"
-   points="916.08,295.46 927.17,274.88 903.26,275.91 "
+   points="927.17,274.88 903.26,275.91 916.08,295.46 "
    id="polygon402818-3"
    style="fill:#ffffff" />
 				<path
@@ -1699,11 +1700,11 @@
 		</g>
 		<g
    id="g402828-0"
-   transform="translate(-145.14463,-150.66535)">
+   transform="rotate(-11.033253,496.95115,1833.145)">
 			<polygon
-   points="1282.89,1136.4 1302.08,1113.45 1272.61,1108.31 "
+   points="1302.08,1113.45 1272.61,1108.31 1282.89,1136.4 "
    id="polygon402826-8"
-   transform="translate(133.95562,134.86505)" />
+   transform="translate(61.151553,45.216501)" />
 		</g>
 	</g>
 </g>
@@ -1959,4 +1960,19 @@
    style="fill:none;stroke:#000000;stroke-width:3.94696;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
    d="M 171.01151,1925 H 1907.515"
    id="path406522"
-   sodipodi:nodetypes="cc" /></svg>
+   sodipodi:nodetypes="cc" /><text
+   xml:space="preserve"
+   style="font-size:13.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+   x="395.3967"
+   y="1760.691"
+   id="text794"><tspan
+     sodipodi:role="line"
+     id="tspan792"
+     x="395.3967"
+     y="1760.691"
+     style="font-size:13.3333px">Layer location only</tspan><tspan
+     sodipodi:role="line"
+     x="395.3967"
+     y="1777.3577"
+     id="tspan796"
+     style="font-size:13.3333px">at point arrow.</tspan></text></svg>
