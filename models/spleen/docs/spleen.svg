@@ -15,7 +15,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs905" /><sodipodi:namedview
+   id="defs905">
+	
+</defs><sodipodi:namedview
    id="namedview903"
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -25,9 +27,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="2.0219402"
-   inkscape:cx="469.35116"
-   inkscape:cy="371.67271"
+   inkscape:zoom="4.0438804"
+   inkscape:cx="499.52021"
+   inkscape:cy="490.49423"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
@@ -234,7 +236,28 @@
    class="st0"
    width="19.44"
    height="40.51"
-   id="rect36" />
+   id="rect36" /><rect
+   x="305.94357"
+   y="549.10345"
+   class="st0"
+   width="42.52132"
+   height="27.570482"
+   id="rect36-3"
+   style="fill:#bcbec0;stroke:#010101;stroke-miterlimit:10" /><rect
+   x="325.11749"
+   y="590.86646"
+   class="st0"
+   width="45.777428"
+   height="11.405578"
+   id="rect36-6"
+   style="fill:#bcbec0;stroke:#010101;stroke-miterlimit:10" /><rect
+   x="181.77036"
+   y="516.83844"
+   class="st0"
+   width="45.777428"
+   height="11.405578"
+   id="rect36-6-7"
+   style="fill:#bcbec0;stroke:#010101;stroke-miterlimit:10" />
 <rect
    x="513.46"
    y="652.46"
@@ -1664,12 +1687,10 @@
 	</g>
 </g>
 <g
-   id="g534">
-	<g
    id="g532">
 		<path
    class="st42"
-   d="M368.96,626.95c-2.03-44.73-44.14-21.73-43.86-59.57"
+   d="M 368.96,626.95 C 366.93,582.22 324.82,605.22 325.1,567.38"
    id="path522" />
 		<g
    id="g530">
@@ -1677,15 +1698,14 @@
    id="g528">
 				<polygon
    class="st46"
-   points="372.28,631.81 368.88,626.36 365.7,631.95     "
+   points="365.7,631.95 372.28,631.81 368.88,626.36 "
    id="polygon524" />
 				<path
-   d="M372.87,632.13l-4-6.42l-3.74,6.58L372.87,632.13z M368.89,627l2.8,4.49l-5.42,0.11L368.89,627z"
+   d="m 372.87,632.13 -4,-6.42 -3.74,6.58 z m -3.98,-5.13 2.8,4.49 -5.42,0.11 z"
    id="path526" />
 			</g>
 		</g>
 	</g>
-</g>
 <g
    id="g552">
 	<g
@@ -2129,7 +2149,12 @@
 <text
    transform="matrix(1 0 0 1 783.1718 416.1622)"
    class="st52 st40"
-   id="text746">Marginal Zone Macrophage</text>
+   id="text746">Marginal Zone Macrophage</text><text
+   class="st52 st40"
+   id="text746-5"
+   style="font-size:8.2178px;font-family:MyriadPro-Regular"
+   x="572.02887"
+   y="473.85587">White pulp</text>
 <text
    transform="matrix(1 0 0 1 582.2294 264.2647)"
    id="text752"><tspan
@@ -2152,7 +2177,80 @@
 <text
    transform="matrix(0 1 -1 0 921.9452 490.8692)"
    class="st52 st40"
-   id="text758">Red Pulp</text>
+   id="text758">Red Pulp</text><text
+   class="st52 st40"
+   id="text758-5-3-6"
+   style="font-size:8.2178px;font-family:MyriadPro-Regular;text-anchor:end;text-align:end"
+   x="-491.9671"
+   y="418.73062"
+   transform="rotate(-90)"><tspan
+     sodipodi:role="line"
+     id="tspan3935-9"
+     x="-550.02136"
+     y="418.73062">Marginal sinus</tspan></text><text
+   class="st52 st40"
+   id="text758-5-3-6-2"
+   style="font-size:8.2178px;font-family:MyriadPro-Regular;text-align:end;text-anchor:end"
+   x="-491.55612"
+   y="451.10217"
+   transform="rotate(-90)"><tspan
+     sodipodi:role="line"
+     id="tspan3935-9-0"
+     x="-491.55612"
+     y="451.10217">Marginal zone</tspan><tspan
+     sodipodi:role="line"
+     x="-491.55612"
+     y="461.37442"
+     id="tspan11614">network</tspan></text><text
+   class="st52 st40"
+   id="text758-5-3-6-6"
+   style="font-size:8.2178px;font-family:MyriadPro-Regular;text-anchor:end;text-align:end"
+   x="-491.01843"
+   y="386.0687"
+   transform="rotate(-90)"><tspan
+     sodipodi:role="line"
+     id="tspan3933-2-29"
+     x="-556.47192"
+     y="386.0687">Perimarginal</tspan><tspan
+     sodipodi:role="line"
+     id="tspan3935-9-1"
+     x="-556.47192"
+     y="396.34094">cavernous sinus</tspan></text><text
+   class="st52 st40"
+   id="text758-5-3-6-6-0"
+   style="font-size:8px;font-family:MyriadPro-Regular"
+   x="487.37033"
+   y="-792.15186"
+   transform="rotate(90)"><tspan
+     sodipodi:role="line"
+     id="tspan3933-2-29-6"
+     x="487.37033"
+     y="-792.15186"
+     style="font-size:8px">Perimarginal</tspan><tspan
+     sodipodi:role="line"
+     id="tspan3935-9-1-2"
+     x="487.37033"
+     y="-782.15186"
+     style="font-size:8px">cavernous</tspan><tspan
+     sodipodi:role="line"
+     x="487.37033"
+     y="-772.15186"
+     id="tspan11682"
+     style="font-size:8px">sinus</tspan></text><text
+   class="st52 st40"
+   id="text758-5-3-6-1"
+   style="font-size:8.2178px;font-family:MyriadPro-Regular"
+   x="488.11658"
+   y="-758.76129"
+   transform="rotate(90)"><tspan
+     sodipodi:role="line"
+     id="tspan3933-2-2"
+     x="488.11658"
+     y="-758.76129">Marginal</tspan><tspan
+     sodipodi:role="line"
+     id="tspan3935-9-7"
+     x="488.11658"
+     y="-748.48901">sinus</tspan></text>
 <text
    transform="matrix(0.7071 0.7071 -0.7071 0.7071 813.0206 365.5346)"
    id="text764"><tspan
@@ -2419,8 +2517,9 @@
    id="g894">
 		<path
    class="st64"
-   d="M866.98,518.27c-72.08,26.84-119.12,21.76-143.55,21.12c-83.72-2.22-5.73,95.42-58.09,94.21"
-   id="path880" />
+   d="M 867.32972,522.4666 C 795.24972,549.3066 747.86,540.03 723.43,539.39 c -83.72,-2.22 -5.73,95.42 -58.09,94.21"
+   id="path880"
+   sodipodi:nodetypes="ccc" />
 		<g
    id="g888">
 			<g
@@ -2431,7 +2530,7 @@
    id="polygon882" />
 				<path
    class="st55"
-   d="M870.57,512.78l-4.77,5.87l7.44,1.4L870.57,512.78z M867.01,518.21l3.34-4.11l1.87,5.09L867.01,518.21z"
+   d="m 870.91972,516.9766 -4.77,5.87 7.44,1.4 z m -3.56,5.43 3.34,-4.11 1.87,5.09 z"
    id="path884" />
 			</g>
 		</g>
@@ -2485,16 +2584,25 @@
    style="font-size:21.3333px;font-family:CourierNewPS-BoldMT;fill:#ec008c;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10">5</text><text
    xml:space="preserve"
    style="font-size:8px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-   x="591.35468"
-   y="498.26892"
+   x="549.38861"
+   y="498.61865"
    id="text6928"><tspan
      sodipodi:role="line"
-     x="591.35468"
-     y="498.26892"
+     x="549.38861"
+     y="498.61865"
      id="tspan6930"
      style="font-size:8px">NDG is not part of vagus but</tspan><tspan
      sodipodi:role="line"
-     x="591.35468"
-     y="508.26892"
+     x="549.38861"
+     y="508.61865"
      style="font-size:8px"
-     id="tspan6934">could be of the &quot;vagus system&quot;</tspan></text></svg>
+     id="tspan6934">could be of the &quot;vagus system&quot;</tspan></text><text
+   xml:space="preserve"
+   style="font-size:26.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke:#ff0000;stroke-opacity:1"
+   x="533.63068"
+   y="399.21759"
+   id="text7429-2"><tspan
+     sodipodi:role="line"
+     id="tspan7427-02"
+     x="533.63068"
+     y="399.21759">?</tspan></text></svg>
