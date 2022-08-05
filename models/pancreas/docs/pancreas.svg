@@ -33,7 +33,7 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="2.1427977"
-   inkscape:cx="462.71283"
+   inkscape:cx="416.97823"
    inkscape:cy="418.37827"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
@@ -206,18 +206,19 @@
    height="10.26"
    id="rect31073" />
 <rect
-   x="732.96"
-   y="621.9"
+   x="732.96002"
+   y="619.90002"
    class="st1"
-   width="99.55"
+   width="99.550003"
    height="15.4"
-   id="rect31075" />
+   id="rect31075"
+   style="fill:#8fa6e8" />
 <rect
-   x="732.96"
-   y="581.39"
+   x="732.96002"
+   y="579.39001"
    class="st2"
-   width="99.55"
-   height="40.51"
+   width="99.550003"
+   height="40.509998"
    id="rect31077" />
 <g
    id="g31083">
@@ -346,7 +347,8 @@
    class="st6"
    width="26.66"
    height="3.86"
-   id="rect31117" />
+   id="rect31117"
+   style="fill:#c2b59b" />
 	
 		<rect
    x="674.23"
@@ -364,7 +366,8 @@
    class="st6"
    width="26.66"
    height="4.07"
-   id="rect31121" />
+   id="rect31121"
+   style="fill:#c2b59b" />
 	
 		<rect
    x="677.34"
@@ -421,7 +424,8 @@
    class="st6"
    width="26.66"
    height="3.86"
-   id="rect31135" />
+   id="rect31135"
+   style="fill:#c2b59b" />
 	
 		<rect
    x="733.67"
@@ -439,7 +443,16 @@
    class="st6"
    width="26.66"
    height="4.07"
-   id="rect31139" />
+   id="rect31139"
+   style="fill:#c2b59b" /><rect
+   x="-761.35968"
+   y="80.702431"
+   transform="rotate(-169.71155)"
+   class="st6"
+   width="26.635571"
+   height="1.863219"
+   id="rect31139-4"
+   style="fill:#c49a6c;stroke:#000000;stroke-width:0.249995;stroke-miterlimit:10" />
 	
 		<rect
    x="737.81"
@@ -821,10 +834,10 @@
    id="rect31275-1"
    style="fill:#e6e7e8;stroke:#010101;stroke-miterlimit:10" />
 <rect
-   x="424.62"
-   y="520.63"
+   x="426.76233"
+   y="467.25195"
    class="st1"
-   width="31.3"
+   width="31.299999"
    height="15.4"
    id="rect31277" />
 <rect
@@ -857,19 +870,20 @@
    id="rect31285" />
 <rect
    x="739.19"
-   y="592"
+   y="590"
    class="st22"
    width="55.52"
-   height="19.3"
+   height="19.299999"
    id="rect31287" />
 <text
    transform="matrix(1 0 0 1 849.0432 624.7037)"
    class="st23 st24"
    id="text31289">N</text>
 <text
-   transform="matrix(1 0 0 1 732.9647 650.9706)"
    class="st25 st26 st27"
-   id="text31291">MEDULLA</text>
+   id="text31291"
+   x="732.96472"
+   y="648.97058">MEDULLA</text>
 <text
    transform="matrix(1 0 0 1 500.4697 647.5402)"
    class="st25 st26 st27"
@@ -891,9 +905,10 @@
    class="st25 st26 st27"
    id="text31301">T9</text>
 <text
-   transform="matrix(1 0 0 1 741.4957 617.8655)"
    class="st25 st19 st28"
-   id="text31303">DMV</text>
+   id="text31303"
+   x="741.49573"
+   y="615.86548">DMV</text>
 <g
    id="g31315">
 	
@@ -1174,35 +1189,35 @@
    xml:space="preserve"><tspan
      x="251.48758"
      y="383.87418"
-     id="tspan59498"><tspan
+     id="tspan65399"><tspan
        style="font-family:MyriadPro-Regular"
-       id="tspan59496">Paper mentions only HA </tspan></tspan><tspan
+       id="tspan65397">Paper mentions only HA </tspan></tspan><tspan
      x="251.48758"
      y="390.54083"
-     id="tspan59502"><tspan
+     id="tspan65403"><tspan
        style="font-family:MyriadPro-Regular"
-       id="tspan59500">and IPDA plexi. CT and </tspan></tspan><tspan
+       id="tspan65401">and IPDA plexi. CT and </tspan></tspan><tspan
      x="251.48758"
      y="397.20749"
-     id="tspan59506"><tspan
+     id="tspan65407"><tspan
        style="font-family:MyriadPro-Regular"
-       id="tspan59504">SMA are present but not </tspan></tspan><tspan
+       id="tspan65405">SMA are present but not </tspan></tspan><tspan
      x="251.48758"
      y="403.87414"
-     id="tspan59510"><tspan
+     id="tspan65411"><tspan
        style="font-family:MyriadPro-Regular"
-       id="tspan59508">mentioned in paper.
+       id="tspan65409">mentioned in paper.
 </tspan></tspan><tspan
      x="251.48758"
      y="410.5408"
-     id="tspan59514"><tspan
+     id="tspan65415"><tspan
        style="font-family:MyriadPro-Regular"
-       id="tspan59512">https://doi.org/10.3389/</tspan></tspan><tspan
+       id="tspan65413">https://doi.org/10.3389/</tspan></tspan><tspan
      x="251.48758"
      y="417.20746"
-     id="tspan59518"><tspan
+     id="tspan65419"><tspan
        style="font-family:MyriadPro-Regular"
-       id="tspan59516">fnins.2019.00021</tspan></tspan></text><text
+       id="tspan65417">fnins.2019.00021</tspan></tspan></text><text
    id="text31399-9-9-6"
    x="195.09949"
    y="449.63385"
@@ -1305,16 +1320,16 @@
    id="text31433">Islets</text>
 <text
    id="text31439"
-   x="227.15424"
-   y="198.1357"><tspan
-     x="227.15424"
-     y="198.1357"
+   x="222.48744"
+   y="195.80229"><tspan
+     x="222.48744"
+     y="195.80229"
      class="st37 st38"
      id="tspan31435">Pancreatic</tspan><tspan
-     x="227.15424"
-     y="206.1357"
+     x="222.48744"
+     y="203.80229"
      class="st37 st38"
-     id="tspan31437">Acini</tspan></text>
+     id="tspan31437">Acini (BAG)</tspan></text>
 <rect
    x="230.59"
    y="200.1"
@@ -1575,16 +1590,16 @@
 <text
    class="st19 st21"
    id="text31545"
-   x="483.64398"
-   y="526.60229"><tspan
+   x="277.07217"
+   y="479.66162"><tspan
      sodipodi:role="line"
      id="tspan32915"
-     x="483.64398"
-     y="526.60229">Greater Splanchnic</tspan><tspan
+     x="277.07217"
+     y="479.66162">Greater Splanchnic</tspan><tspan
      sodipodi:role="line"
      id="tspan32917"
-     x="483.64398"
-     y="540.35229">                     Nerve</tspan></text><text
+     x="277.07217"
+     y="493.41162">                     Nerve</tspan></text><text
    class="st19 st21"
    id="text31545-3"
    x="333.22855"
@@ -1795,13 +1810,14 @@
 	</g>
 </g>
 <ellipse
-   transform="matrix(0.5391 -0.8422 0.8422 0.5391 -145.9641 928.3042)"
+   transform="rotate(-57.376317)"
    class="st18"
-   cx="775.24"
-   cy="597.52"
-   rx="1.92"
-   ry="1.81"
-   id="ellipse31637" />
+   cx="-83.640137"
+   cy="973.95184"
+   rx="1.9199324"
+   ry="1.8099363"
+   id="ellipse31637"
+   style="stroke-width:0.999965" />
 <ellipse
    transform="matrix(0.5391 -0.8422 0.8422 0.5391 -196.6233 559.1933)"
    class="st49"
@@ -2169,7 +2185,7 @@
    class="st35 st36 st37"
    id="text816-5-6-4"
    x="763.71661"
-   y="575.61169"
+   y="573.61169"
    style="font-size:24px;font-family:CourierNewPS-BoldMT;fill:#ec008c;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10">5</text><text
    xml:space="preserve"
    style="font-size:10.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
@@ -2225,4 +2241,20 @@
      id="tspan51870-7-3"
      x="309.10593"
      y="162.7541"
-     style="font-size:4px">epithelium</tspan></text></svg>
+     style="font-size:4px">epithelium</tspan></text><text
+   xml:space="preserve"
+   style="font-size:8px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+   x="261.52484"
+   y="263.44409"
+   id="text61178"><tspan
+     sodipodi:role="line"
+     id="tspan61176"
+     x="261.52484"
+     y="263.44409" /></text><rect
+   x="732.9942"
+   y="618.76343"
+   class="st1"
+   width="99.493668"
+   height="3.485111"
+   id="rect31075-3"
+   style="fill:#e6e7e8;stroke:#010101;stroke-miterlimit:10" /></svg>
