@@ -1376,10 +1376,10 @@
     "lyphs": [
         {
             "id": "200",
-            "name": "Diencephalon",
             "ontologyTerms": [
                 "UBERON:0001894"
             ],
+            "name": "Diencephalon",
             "layers": [
                 "104",
                 "105",
@@ -1388,30 +1388,30 @@
         },
         {
             "id": "201",
-            "name": "Hypothalamus",
             "ontologyTerms": [
                 "UBERON:0001898"
             ],
+            "name": "Hypothalamus",
             "internalLyphs": [
                 "202"
             ]
         },
         {
             "id": "202",
-            "name": "Paraventricular nucleus",
             "ontologyTerms": [
-                "UBERON:0001920"
+                "UBERON:0001930"
             ],
+            "name": "Paraventricular nucleus",
             "internalLyphs": [
                 "soma202"
             ]
         },
         {
             "id": "203",
-            "name": "Midbrain",
             "ontologyTerms": [
                 "UBERON:0001891"
             ],
+            "name": "Midbrain",
             "layers": [
                 "104",
                 "105",
@@ -1420,10 +1420,10 @@
         },
         {
             "id": "204",
-            "name": "Pons",
             "ontologyTerms": [
                 "UBERON:0000988"
             ],
+            "name": "Pons",
             "layers": [
                 "104",
                 "105",
@@ -1432,10 +1432,10 @@
         },
         {
             "id": "205",
-            "name": "Medulla",
             "ontologyTerms": [
                 "UBERON:0001896"
             ],
+            "name": "Medulla",
             "layers": [
                 "104",
                 "105",
@@ -1444,10 +1444,10 @@
         },
         {
             "id": "206",
-            "name": "C1 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006469"
             ],
+            "name": "C1 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1456,10 +1456,10 @@
         },
         {
             "id": "207",
-            "name": "C2 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006489"
             ],
+            "name": "C2 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1468,10 +1468,10 @@
         },
         {
             "id": "208",
-            "name": "C3 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006488"
             ],
+            "name": "C3 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1480,10 +1480,10 @@
         },
         {
             "id": "209",
-            "name": "C4 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006490"
             ],
+            "name": "C4 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1492,10 +1492,10 @@
         },
         {
             "id": "210",
-            "name": "C5 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006491"
             ],
+            "name": "C5 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1504,10 +1504,10 @@
         },
         {
             "id": "211",
-            "name": "C6 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006492"
             ],
+            "name": "C6 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1516,10 +1516,10 @@
         },
         {
             "id": "212",
-            "name": "C7 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006493"
             ],
+            "name": "C7 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1528,10 +1528,10 @@
         },
         {
             "id": "213",
-            "name": "C8 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006470"
             ],
+            "name": "C8 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1540,10 +1540,10 @@
         },
         {
             "id": "214",
-            "name": "T1 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006457"
             ],
+            "name": "T1 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1552,10 +1552,10 @@
         },
         {
             "id": "215",
-            "name": "T2 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006458"
             ],
+            "name": "T2 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1564,10 +1564,10 @@
         },
         {
             "id": "216",
-            "name": "T3 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006459"
             ],
+            "name": "T3 spinal segment",
             "layers": [
                 "104",
                 "105",
@@ -1576,40 +1576,40 @@
         },
         {
             "id": "217",
-            "name": "T1 sympathetic ganglion",
             "ontologyTerms": [
-                "ILX:0785119"
+                "ILX:0774266"
             ],
+            "name": "T1 sympathetic ganglion",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "218",
-            "name": "Inferior cervical ganglion",
             "ontologyTerms": [
                 "UBERON:0002440"
             ],
+            "name": "Inferior cervical ganglion",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "219",
-            "name": "Middle cervical ganglion",
             "ontologyTerms": [
                 "UBERON:0001990"
             ],
+            "name": "Middle cervical ganglion",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "220",
-            "name": "Superior cervical ganglion",
             "ontologyTerms": [
                 "UBERON:0001989"
             ],
+            "name": "Superior cervical ganglion",
             "layers": [
                 "117"
             ],
@@ -1635,10 +1635,10 @@
         },
         {
             "id": "221",
-            "name": "Larynx",
             "ontologyTerms": [
                 "UBERON:0001737"
             ],
+            "name": "Larynx",
             "layers": [
                 "103",
                 "108in221"
@@ -1646,10 +1646,10 @@
         },
         {
             "id": "222",
-            "name": "Trachea",
             "ontologyTerms": [
                 "UBERON:0003126"
             ],
+            "name": "Trachea",
             "layers": [
                 "103",
                 "109in222"
@@ -1657,10 +1657,10 @@
         },
         {
             "id": "223",
-            "name": "Aortic arch",
             "ontologyTerms": [
                 "UBERON:0001508"
             ],
+            "name": "Aortic arch",
             "layers": [
                 "41",
                 "110in223"
@@ -1668,10 +1668,10 @@
         },
         {
             "id": "224",
-            "name": "Common carotid artery",
             "ontologyTerms": [
-                "UBERON:0010197"
+                "UBERON:0001530"
             ],
+            "name": "Common carotid artery (plus branches)",
             "layers": [
                 "41",
                 "110in224"
@@ -1679,10 +1679,10 @@
         },
         {
             "id": "225",
-            "name": "Internal carotid artery",
             "ontologyTerms": [
                 "UBERON:0001532"
             ],
+            "name": "Internal carotid artery",
             "layers": [
                 "41",
                 "110in225"
@@ -1690,10 +1690,10 @@
         },
         {
             "id": "110in223",
-            "name": "Wall of aortic arch",
             "ontologyTerms": [
                 "ILX:0738304"
             ],
+            "name": "Wall of aortic arch",
             "supertype": "110",
             "internalLyphs": [
                 "254"
@@ -1701,10 +1701,10 @@
         },
         {
             "id": "110in224",
-            "name": "Wall of common carotid artery",
             "ontologyTerms": [
-                "FMA:66284"
+                "UBERON:0037094"
             ],
+            "name": "Wall of common carotid artery",
             "supertype": "110",
             "internalLyphs": [
                 "255"
@@ -1712,10 +1712,10 @@
         },
         {
             "id": "110in225",
-            "name": "Wall of internal carotid artery",
             "ontologyTerms": [
                 "ILX:0738305"
             ],
+            "name": "Wall of internal carotid artery",
             "supertype": "110",
             "internalLyphs": [
                 "256"
@@ -1723,10 +1723,10 @@
         },
         {
             "id": "226",
-            "name": "Epiglottis",
             "ontologyTerms": [
                 "UBERON:0000388"
             ],
+            "name": "Epiglottis",
             "layers": [
                 "115",
                 "114in226",
@@ -1735,10 +1735,10 @@
         },
         {
             "id": "227",
-            "name": "Tongue",
             "ontologyTerms": [
                 "UBERON:0001723"
             ],
+            "name": "Tongue",
             "layers": [
                 "113",
                 "112in227",
@@ -1747,20 +1747,21 @@
         },
         {
             "id": "228",
-            "name": "Rexed Lamina VII of T1",
             "ontologyTerms": [
-                "FMA:68868"
+                "ILX:0738371"
             ],
+            "name": "Rexed Lamina VII of T1",
             "internalLyphs": [
-                "soma228"
+                "soma228",
+                "soma107in214"
             ]
         },
         {
             "id": "229",
-            "name": "Segment of neuron",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron",
             "isTemplate": true,
             "layers": [
                 "54",
@@ -1770,67 +1771,86 @@
         },
         {
             "id": "229bag",
-            "name": "Segment of neuron (bolew)",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron (bolew)",
             "isTemplate": true,
             "topology": "BAG"
         },
         {
             "id": "axon-bag",
-            "name": "Axon terminal (bolew)",
             "ontologyTerms": [
                 "SAO:280355188"
             ],
+            "name": "Axon terminal (bolew)",
             "isTemplate": true,
-            "topology": "BAG"
+            "topology": "BAG-",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
         },
         {
             "id": "axon-tube",
-            "name": "Axon segment (bolew)",
             "ontologyTerms": [
                 "SAO:280355188"
             ],
+            "name": "Axon segment (bolew)",
             "isTemplate": true,
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (bolew)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
+            "name": "Dendrite terminal or axon sensory terminal (bolew)",
             "isTemplate": true,
-            "topology": "BAG"
+            "topology": "BAG-",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (bolew)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
+            "name": "Dendrite segment or axon sensory segment (bolew)",
             "isTemplate": true,
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "54",
+                "56",
+                "116"
+            ]
         },
         {
             "id": "107in214",
-            "name": "Neural tissue of T1",
             "ontologyTerms": [
                 "ILX:0738306"
             ],
+            "name": "Neural tissue of T1",
             "supertype": "107",
             "internalLyphs": [
-                "228",
-                "soma107in214"
+                "228"
             ]
         },
         {
             "id": "107in200",
-            "name": "Neural tissue of the diencephalon",
             "ontologyTerms": [
                 "ILX:0738307"
             ],
+            "name": "Neural tissue of the diencephalon",
             "supertype": "107",
             "internalLyphs": [
                 "201"
@@ -1838,50 +1858,50 @@
         },
         {
             "id": "230",
-            "name": "T1 ventral root",
             "ontologyTerms": [
                 "ILX:0787722"
             ],
+            "name": "T1 ventral root",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "231",
-            "name": "T1 white ramus",
             "ontologyTerms": [
-                "ILX:0785971"
+                "ILX:0738372"
             ],
+            "name": "T1 white ramus",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "232",
-            "name": "T1-ICG sympathetic cord",
             "ontologyTerms": [
                 "ILX:0738291"
             ],
+            "name": "T1-ICG sympathetic cord",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "233",
-            "name": "ICG-MCG sympathetic cord",
             "ontologyTerms": [
                 "ILX:0738290"
             ],
+            "name": "ICG-MCG sympathetic cord",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "234",
-            "name": "MCG-SCG sympathetic cord",
             "ontologyTerms": [
                 "ILX:0738292"
             ],
+            "name": "MCG-SCG sympathetic cord",
             "layers": [
                 "117"
             ]
@@ -1894,50 +1914,50 @@
         },
         {
             "id": "235",
-            "name": "External carotid nerve",
             "ontologyTerms": [
-                "FMA:6579"
+                "ILX:0776616"
             ],
+            "name": "External carotid nerve",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "236",
-            "name": "Ganglioglomerular nerve",
             "ontologyTerms": [
                 "ILX:0738293"
             ],
+            "name": "Ganglioglomerular nerve",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "237",
-            "name": "Internal carotid nerve",
             "ontologyTerms": [
                 "UBERON:0002024"
             ],
+            "name": "Internal carotid nerve",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "238",
-            "name": "Phrenic nerve",
             "ontologyTerms": [
                 "UBERON:0001884"
             ],
+            "name": "Phrenic nerve",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "239",
-            "name": "Vagus nerve",
             "ontologyTerms": [
                 "UBERON:0001759"
             ],
+            "name": "Vagus nerve",
             "layers": [
                 "117"
             ],
@@ -1947,10 +1967,10 @@
         },
         {
             "id": "240",
-            "name": "Glossopharyngeal nerve",
             "ontologyTerms": [
                 "UBERON:0001649"
             ],
+            "name": "Glossopharyngeal nerve",
             "layers": [
                 "117"
             ],
@@ -1960,20 +1980,20 @@
         },
         {
             "id": "241",
-            "name": "Hypoglossal nerve",
             "ontologyTerms": [
                 "UBERON:0001650"
             ],
+            "name": "Hypoglossal nerve",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "114in226",
-            "name": "Mucosa of epiglottis",
             "ontologyTerms": [
                 "UBERON:0004982"
             ],
+            "name": "Mucosa of epiglottis",
             "supertype": "114",
             "internalLyphs": [
                 "258"
@@ -1981,66 +2001,66 @@
         },
         {
             "id": "112in227",
-            "name": "Mucosa of tongue",
             "ontologyTerms": [
                 "UBERON:0005020"
             ],
+            "name": "Mucosa of tongue",
             "supertype": "112"
         },
         {
             "id": "242",
-            "name": "Superior laryngeal nerve",
             "ontologyTerms": [
                 "UBERON:0011326"
             ],
+            "name": "Superior laryngeal nerve",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "243",
-            "name": "External branch of superior laryngeal nerve",
             "ontologyTerms": [
-                "FMA:6243"
+                "ILX:0793560"
             ],
+            "name": "External branch of superior laryngeal nerve",
             "layers": [
                 "117"
             ]
         },
         {
             "id": "244",
-            "name": "Internal branch of superior laryngeal nerve",
             "ontologyTerms": [
-                "FMA:6240"
-            ]
+                "ILX:0793561"
+            ],
+            "name": "Internal branch of superior laryngeal nerve"
         },
         {
             "id": "245",
-            "name": "Inferior laryngeal nerve",
             "ontologyTerms": [
                 "UBERON:0003716"
-            ]
+            ],
+            "name": "Inferior laryngeal nerve"
         },
         {
             "id": "246",
-            "name": "External branch of inferior laryngeal nerve",
             "ontologyTerms": [
                 "ILX:0738308"
-            ]
+            ],
+            "name": "External branch of inferior laryngeal nerve"
         },
         {
             "id": "247",
-            "name": "Internal branch of inferior laryngeal nerve",
             "ontologyTerms": [
                 "ILX:0738309"
-            ]
+            ],
+            "name": "Internal branch of inferior laryngeal nerve"
         },
         {
             "id": "248",
-            "name": "Petrosal ganglion of the Glossopharyngeal nerve",
             "ontologyTerms": [
-                "ILX:0738310"
+                "UBERON:0005360"
             ],
+            "name": "Petrosal ganglion of the Glossopharyngeal nerve",
             "internalLyphs": [
                 "soma248_1",
                 "soma248_2"
@@ -2048,10 +2068,10 @@
         },
         {
             "id": "249",
-            "name": "Nodose ganglion of the Vagus nerve",
             "ontologyTerms": [
-                "ILX:0738311"
+                "UBERON:0005363"
             ],
+            "name": "Nodose ganglion of the Vagus nerve",
             "internalLyphs": [
                 "soma249_1",
                 "soma249_2",
@@ -2060,94 +2080,94 @@
         },
         {
             "id": "250",
-            "name": "Aortic arch depressor nerve",
             "ontologyTerms": [
                 "ILX:0738312"
-            ]
+            ],
+            "name": "Aortic arch depressor nerve"
         },
         {
             "id": "251",
-            "name": "Rami glomi carotici",
             "ontologyTerms": [
                 "ILX:0738313"
-            ]
+            ],
+            "name": "Rami glomi carotici"
         },
         {
             "id": "252",
-            "name": "Herning's nerve",
             "ontologyTerms": [
-                "ILX:0738314"
-            ]
+                "UBERON:0009009"
+            ],
+            "name": "Hering's nerve"
         },
         {
             "id": "253",
-            "name": "Pharyngeal branch of the Hypoglossal nerve",
             "ontologyTerms": [
-                "ILX:0738315"
-            ]
+                "ILX:0789339"
+            ],
+            "name": "Pharyngeal branch of the Hypoglossal nerve"
         },
         {
             "id": "254",
-            "name": "Aortic arch baroreceptors",
             "ontologyTerms": [
                 "ILX:0738316"
-            ]
+            ],
+            "name": "Aortic arch baroreceptors"
         },
         {
             "id": "255",
-            "name": "Carotid body",
             "ontologyTerms": [
                 "UBERON:0001629"
-            ]
+            ],
+            "name": "Carotid body"
         },
         {
             "id": "256",
-            "name": "Carotid sinus",
             "ontologyTerms": [
                 "UBERON:0003708"
-            ]
+            ],
+            "name": "Carotid sinus"
         },
         {
             "id": "257",
-            "name": "Laryngeal mechanoreceptors",
             "ontologyTerms": [
                 "ILX:0738317"
-            ]
+            ],
+            "name": "Laryngeal mechanoreceptors"
         },
         {
             "id": "258",
-            "name": "Epiglottic mechanoreceptors",
             "ontologyTerms": [
                 "ILX:0738318"
-            ]
+            ],
+            "name": "Epiglottic mechanoreceptors"
         },
         {
             "id": "259",
-            "name": "Oesophafgus",
             "ontologyTerms": [
                 "UBERON:0001043"
-            ]
+            ],
+            "name": "Oesophafgus"
         },
         {
             "id": "260",
-            "name": "T1-T2 intercostal muscle",
             "ontologyTerms": [
                 "ILX:0738319"
-            ]
+            ],
+            "name": "T1-T2 intercostal muscle"
         },
         {
             "id": "261",
-            "name": "Diaphragm",
             "ontologyTerms": [
                 "UBERON:0001103"
-            ]
+            ],
+            "name": "Diaphragm"
         },
         {
             "id": "107in205",
-            "name": "Neural tissue of medulla",
             "ontologyTerms": [
                 "ILX:0738320"
             ],
+            "name": "Neural tissue of medulla",
             "supertype": "107",
             "internalLyphs": [
                 "262",
@@ -2157,10 +2177,10 @@
         },
         {
             "id": "107in209",
-            "name": "Neural tissue of C4",
             "ontologyTerms": [
                 "ILX:0738321"
             ],
+            "name": "Neural tissue of C4",
             "supertype": "107",
             "internalLyphs": [
                 "265"
@@ -2168,10 +2188,10 @@
         },
         {
             "id": "107in210",
-            "name": "Neural tissue of C5",
             "ontologyTerms": [
                 "ILX:0738322"
             ],
+            "name": "Neural tissue of C5",
             "supertype": "107",
             "internalLyphs": [
                 "266"
@@ -2179,57 +2199,57 @@
         },
         {
             "id": "262",
-            "name": "Nucleus tractus solitarius",
             "ontologyTerms": [
-                "ILX:0738323"
+                "UBERON:0009050"
             ],
+            "name": "Nucleus tractus solitarius",
             "internalLyphs": [
                 "soma262"
             ]
         },
         {
             "id": "263",
-            "name": "Retrotrapezoid nucleus",
             "ontologyTerms": [
-                "ILX:0110082"
-            ]
+                "UBERON:0009918"
+            ],
+            "name": "Retrotrapezoid nucleus"
         },
         {
             "id": "264",
-            "name": "Rostral ventrolateral medulla",
             "ontologyTerms": [
-                "ILX:0730074"
+                "UBERON:0005807"
             ],
+            "name": "Rostral ventrolateral medulla",
             "internalLyphs": [
                 "soma264"
             ]
         },
         {
             "id": "265",
-            "name": "Phrenic nucleus of C4",
             "ontologyTerms": [
                 "ILX:0738324"
             ],
+            "name": "Phrenic nucleus of C4",
             "internalLyphs": [
                 "soma265"
             ]
         },
         {
             "id": "266",
-            "name": "Phrenic nucleus of C5",
             "ontologyTerms": [
                 "ILX:0738325"
             ],
+            "name": "Phrenic nucleus of C5",
             "internalLyphs": [
                 "soma266"
             ]
         },
         {
             "id": "108in221",
-            "name": "Wall of larynx",
             "ontologyTerms": [
                 "ILX:0738326"
             ],
+            "name": "Wall of larynx",
             "supertype": "108",
             "internalLyphs": [
                 "257"
@@ -2237,270 +2257,270 @@
         },
         {
             "id": "109in222",
-            "name": "Mucosa of trachea",
             "ontologyTerms": [
                 "ILX:0738327"
             ],
+            "name": "Mucosa of trachea",
             "supertype": "109"
         },
         {
             "id": "soma202",
-            "name": "Soma in Paraventricular nucleus (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in Paraventricular nucleus (bolew)",
             "supertype": "229",
             "seedIn": "neuron-1"
         },
         {
             "id": "soma228",
-            "name": "Soma in T1 Rexed Lamina VII (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in T1 Rexed Lamina VII for Neuron 2 (bolew)",
             "supertype": "229",
             "seedIn": "neuron-2"
         },
         {
             "id": "soma107in214",
-            "name": "Soma in Central nervous system of T1 spinal segment (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in T1 Rexed Lamina VII for Neuron 3 (bolew)",
             "supertype": "229",
             "seedIn": "neuron-3"
         },
         {
             "id": "soma265",
-            "name": "Soma in 265 - Phrenic nucleus of C4 (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 265 - Phrenic nucleus of C4 (bolew)",
             "supertype": "229",
             "seedIn": "neuron-4"
         },
         {
             "id": "soma266",
-            "name": "Soma in 266 - Phrenic nucleus of C5 (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 266 - Phrenic nucleus of C5 (bolew)",
             "supertype": "229",
             "seedIn": "neuron-5"
         },
         {
             "id": "soma262",
-            "name": "Soma in 262 - Nucleus tractus solitarius(bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 262 - Nucleus tractus solitarius(bolew)",
             "supertype": "229",
             "seedIn": "neuron-6"
         },
         {
             "id": "soma264",
-            "name": "Soma in 264 - Rostral ventrolateral medulla(bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 264 - Rostral ventrolateral medulla(bolew)",
             "supertype": "229",
             "seedIn": "neuron-7"
         },
         {
             "id": "soma249_1",
-            "name": "Soma in 249 (1) - Nodose ganglion of the Vagus nerve(bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 249 (1) - Nodose ganglion of the Vagus nerve(bolew)",
             "supertype": "229",
             "seedIn": "neuron-8"
         },
         {
             "id": "soma249_2",
-            "name": "Soma in 249 (2) - Nodose ganglion of the Vagus nerve(bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 249 (2) - Nodose ganglion of the Vagus nerve(bolew)",
             "supertype": "229",
             "seedIn": "neuron-9"
         },
         {
             "id": "soma249_3",
-            "name": "Soma in 249 (3) - Nodose ganglion of the Vagus nerve(bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 249 (3) - Nodose ganglion of the Vagus nerve(bolew)",
             "supertype": "229",
             "seedIn": "neuron-10"
         },
         {
             "id": "soma248_1",
-            "name": "Soma in 248 (1) - Petrosal ganglion of the Glossopharyngeal nerve(bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 248 (1) - Petrosal ganglion of the Glossopharyngeal nerve(bolew)",
             "supertype": "229",
             "seedIn": "neuron-11"
         },
         {
             "id": "soma248_2",
-            "name": "Soma in 248 (2) - Petrosal ganglion of the Glossopharyngeal nerve(bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in 248 (2) - Petrosal ganglion of the Glossopharyngeal nerve(bolew)",
             "supertype": "229",
             "seedIn": "neuron-12"
         },
         {
             "id": "soma220_1",
-            "name": "Soma in superior cervical ganglion (1) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (1) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-13"
         },
         {
             "id": "soma220_2",
-            "name": "Soma in superior cervical ganglion (2) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (2) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-14"
         },
         {
             "id": "soma220_3",
-            "name": "Soma in superior cervical ganglion (3) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (3) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-15"
         },
         {
             "id": "soma220_4",
-            "name": "Soma in superior cervical ganglion (4) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (4) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-16"
         },
         {
             "id": "soma220_5",
-            "name": "Soma in superior cervical ganglion (5) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (5) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-17"
         },
         {
             "id": "soma220_6",
-            "name": "Soma in superior cervical ganglion (6) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (6) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-18"
         },
         {
             "id": "soma220_7",
-            "name": "Soma in superior cervical ganglion (7) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (7) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-19"
         },
         {
             "id": "soma220_8",
-            "name": "Soma in superior cervical ganglion (8) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (8) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-20"
         },
         {
             "id": "soma220_9",
-            "name": "Soma in superior cervical ganglion (9) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (9) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-21"
         },
         {
             "id": "soma220_10",
-            "name": "Soma in superior cervical ganglion (10) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (10) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-22"
         },
         {
             "id": "soma220_11",
-            "name": "Soma in superior cervical ganglion (11) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (11) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-23"
         },
         {
             "id": "soma220_12",
-            "name": "Soma in superior cervical ganglion (12) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (12) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-24"
         },
         {
             "id": "soma220_13",
-            "name": "Soma in superior cervical ganglion (13) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (13) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-25"
         },
         {
             "id": "soma220_14",
-            "name": "Soma in superior cervical ganglion (14) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (14) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-26"
         },
         {
             "id": "soma220_15",
-            "name": "Soma in superior cervical ganglion (15) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (15) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-27"
         },
         {
             "id": "soma220_16",
-            "name": "Soma in superior cervical ganglion (16) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (16) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-28"
         },
         {
             "id": "soma220_17",
-            "name": "Soma in superior cervical ganglion (17) (bolew)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma in superior cervical ganglion (17) (bolew)",
             "supertype": "229",
             "seedIn": "neuron-29"
         }
@@ -3579,6 +3599,7 @@
             "housingLyphs": [
                 "220",
                 "237",
+                "241",
                 "112in227"
             ]
         },
@@ -3674,304 +3695,215 @@
     "groups": [
         {
             "id": "b1",
-            "name": "Blood vessels",
-            "links": [
-                "lnk100",
-                "lnk101",
-                "lnk102",
-                "lnk103",
-                "lnk200",
-                "lnk201",
-                "lnk202"
-            ],
-            "nodes": [
-                "100a",
-                "100b",
-                "100c",
-                "100d",
-                "100e",
-                "200a",
-                "200b",
-                "200c",
-                "200d"
-            ]
+            "name": "Blood vessels"
         },
         {
             "id": "b2",
-            "name": "Internal lyphs",
-            "lyphs": [
-                "201",
-                "228",
-                "202",
-                "248",
-                "249",
-                "254",
-                "255",
-                "256",
-                "257",
-                "258",
-                "262",
-                "263",
-                "264",
-                "265",
-                "266"
-            ]
+            "name": "Internal lyphs"
         },
         {
             "id": "b3",
-            "name": "Housing lyphs",
-            "links": [
-                "lnk1",
-                "lnk2",
-                "lnk3",
-                "lnk4",
-                "lnk5",
-                "lnk6",
-                "lnk7",
-                "lnk8",
-                "lnk9",
-                "lnk10",
-                "lnk11",
-                "lnk12",
-                "lnk13",
-                "lnk14",
-                "lnk15",
-                "lnk16"
-            ],
-            "nodes": [
-                "1a",
-                "2a",
-                "3a",
-                "4a",
-                "5a",
-                "6a",
-                "7a",
-                "8a",
-                "9a",
-                "10a",
-                "11a",
-                "12a",
-                "13a",
-                "14a",
-                "15a",
-                "16a",
-                "1b",
-                "2b",
-                "3b",
-                "4b",
-                "5b",
-                "6b",
-                "7b",
-                "8b",
-                "9b",
-                "10b",
-                "11b",
-                "12b",
-                "13b",
-                "14b",
-                "15b",
-                "16b"
-            ]
+            "name": "Housing lyphs"
         },
         {
             "id": "neuron-1",
-            "name": "Neuron population in Paraventricular nucleus (bolew)",
+            "name": "Neuron 1 in Paraventricular nucleus (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-1"
             ]
         },
         {
             "id": "neuron-2",
-            "name": "Neuron population in T1 Rexed Lamina VII (scg projecting) (bolew)",
+            "name": "Neuron 2 in T1 Rexed Lamina VII (scg projecting) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-2"
             ]
         },
         {
             "id": "neuron-3",
-            "name": "Neuron population in T1 Rexed Lamina VII (intercostal projecting) (bolew)",
+            "name": "Neuron 3 in T1 Rexed Lamina VII (intercostal projecting) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-3"
             ]
         },
         {
             "id": "neuron-4",
-            "name": "Neuron population in phrenic nucleus of C4 (bolew)",
+            "name": "Neuron 4 in phrenic nucleus of C4 (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-4"
             ]
         },
         {
             "id": "neuron-5",
-            "name": "Neuron population in phrenic nucleus of C5 (bolew)",
+            "name": "Neuron 5 in phrenic nucleus of C5 (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-5"
             ]
         },
         {
             "id": "neuron-6",
-            "name": "Neuron population in nucleus tractus solitarius (bolew)",
+            "name": "Neuron 6 in nucleus tractus solitarius (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-6"
             ]
         },
         {
             "id": "neuron-7",
-            "name": "Neuron population in rostral ventrolateral medulla (bolew)",
+            "name": "Neuron 7 in rostral ventrolateral medulla (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-7"
             ]
         },
         {
             "id": "neuron-8",
-            "name": "Neuron population in nodose ganglion aa proj (1) (bolew)",
+            "name": "Neuron 8 in nodose ganglion aa proj (1) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-8"
             ]
         },
         {
             "id": "neuron-9",
-            "name": "Neuron population in nodose ganglion lar proj (2) (bolew)",
+            "name": "Neuron 9 in nodose ganglion lar proj (2) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-9"
             ]
         },
         {
             "id": "neuron-10",
-            "name": "Neuron population in nodose ganglion epi proj (3) (bolew)",
+            "name": "Neuron 10 in nodose ganglion epi proj (3) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-10"
             ]
         },
         {
             "id": "neuron-11",
-            "name": "Neuron population in petrosal ganglion cb proj (1) (bolew)",
+            "name": "Neuron 11 in petrosal ganglion cb proj (1) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-11"
             ]
         },
         {
             "id": "neuron-12",
-            "name": "Neuron population in petrosal ganglion cs proj (2) (bolew)",
+            "name": "Neuron 12 in petrosal ganglion cs proj (2) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-12"
             ]
         },
         {
             "id": "neuron-13",
-            "name": "Neuron population in superior cervical ganglion (1) (bolew)",
+            "name": "Neuron 13 in SCG (1) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-13"
             ]
         },
         {
             "id": "neuron-14",
-            "name": "Neuron population in superior cervical ganglion (2) (bolew)",
+            "name": "Neuron 14 in SCG (2) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-14"
             ]
         },
         {
             "id": "neuron-15",
-            "name": "Neuron population in superior cervical ganglion (3) (bolew)",
+            "name": "Neuron 15 in SCG (3) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-15"
             ]
         },
         {
             "id": "neuron-16",
-            "name": "Neuron population in superior cervical ganglion (4) (bolew)",
+            "name": "Neuron 16 in SCG (4) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-16"
             ]
         },
         {
             "id": "neuron-17",
-            "name": "Neuron population in superior cervical ganglion (5) (bolew)",
+            "name": "Neuron 17 in SCG (5) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-17"
             ]
         },
         {
             "id": "neuron-18",
-            "name": "Neuron population in superior cervical ganglion (6) (bolew)",
+            "name": "Neuron 18 in SCG (6) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-18"
             ]
         },
         {
             "id": "neuron-19",
-            "name": "Neuron population in superior cervical ganglion (7) (bolew)",
+            "name": "Neuron 19 in SCG (7) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-19"
             ]
         },
         {
             "id": "neuron-20",
-            "name": "Neuron population in superior cervical ganglion (8) (bolew)",
+            "name": "Neuron 20 in SCG (8) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-20"
             ]
         },
         {
             "id": "neuron-21",
-            "name": "Neuron population in superior cervical ganglion (9) (bolew)",
+            "name": "Neuron 21 in SCG (9) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-21"
             ]
         },
         {
             "id": "neuron-22",
-            "name": "Neuron population in superior cervical ganglion (10) (bolew)",
+            "name": "Neuron 22 in SCG (10) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-22"
             ]
         },
         {
             "id": "neuron-23",
-            "name": "Neuron population in superior cervical ganglion (11) (bolew)",
+            "name": "Neuron 23 in SCG (11) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-23"
             ]
         },
         {
             "id": "neuron-24",
-            "name": "Neuron population in superior cervical ganglion (12) (bolew)",
+            "name": "Neuron 24 in SCG (12) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-24"
             ]
         },
         {
             "id": "neuron-25",
-            "name": "Neuron population in superior cervical ganglion (13) (bolew)",
+            "name": "Neuron 25 in SCG (13) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-25"
             ]
         },
         {
             "id": "neuron-26",
-            "name": "Neuron population in superior cervical ganglion (14) (bolew)",
+            "name": "Neuron 26 in SCG (14) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-26"
             ]
         },
         {
             "id": "neuron-27",
-            "name": "Neuron population in superior cervical ganglion (15) (bolew)",
+            "name": "Neuron 27 in SCG (15) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-27"
             ]
         },
         {
             "id": "neuron-28",
-            "name": "Neuron population in superior cervical ganglion (16) (bolew)",
+            "name": "Neuron 28 in SCG (16) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-28"
             ]
         },
         {
             "id": "neuron-29",
-            "name": "Neuron population in superior cervical ganglion (17) (bolew)",
+            "name": "Neuron 29 in SCG (17) (bolew)",
             "ontologyTerms": [
                 "ilxtr:neuron-type-bolew-unbranched-29"
             ]

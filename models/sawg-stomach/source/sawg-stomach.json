@@ -60,7 +60,7 @@
             "id": "lnk-soma_nts_4",
             "name": "link for soma in nucleus of the solitary tract_Neuron 4",
             "source": "ns13",
-            "target": "ns14",
+            "target": "ns15",
             "conveyingLyph": "soma_nts_4"
         },
         {
@@ -204,13 +204,16 @@
                 "UBERON:0000945"
             ],
             "isTemplate": true,
-            "internalLyphs": [
-                "dis_sto",
-                "pro_sto"
-            ],
-            "internalLyphsInLayers": [
-                0,
-                0
+            "layers": [
+                "lum_sto",
+                "muc_sto",
+                "mmuc_sto",
+                "subm_sto",
+                "ob_sto",
+                "cir_sto",
+                "my_plex",
+                "lm_sto",
+                "ser_st"
             ]
         },
         {
@@ -225,7 +228,7 @@
             "id": "lm_sto",
             "name": "longitudinal muscle of stomach",
             "ontologyTerms": [
-                "FMA:14910"
+                "UBERON:0008863"
             ],
             "isTemplate": true
         },
@@ -233,7 +236,7 @@
             "id": "my_plex",
             "name": "myenteric plexus of stomach",
             "ontologyTerms": [
-                "UBERON:0002439"
+                "ILX:0793656"
             ],
             "isTemplate": true
         },
@@ -249,7 +252,7 @@
             "id": "ob_sto",
             "name": "oblique muscle layer of stomach",
             "ontologyTerms": [
-                "FMA:14912"
+                "UBERON:0008862"
             ],
             "isTemplate": true
         },
@@ -289,19 +292,9 @@
             "id": "dis_sto",
             "name": "distal stomach",
             "ontologyTerms": [
-                "XAO:0005130"
+                "ILX:0793558"
             ],
-            "layers": [
-                "lum_sto",
-                "muc_sto",
-                "mmuc_sto",
-                "subm_sto",
-                "ob_sto",
-                "cir_sto",
-                "my_plex",
-                "lm_sto",
-                "ser_st"
-            ],
+            "supertype": "sto",
             "internalLyphs": [
                 "soma_mp_11",
                 "soma_mp_12"
@@ -315,19 +308,9 @@
             "id": "pro_sto",
             "name": "proximal stomach",
             "ontologyTerms": [
-                "NCIT:C165627"
+                "ILX:0793658"
             ],
-            "layers": [
-                "lum_sto",
-                "muc_sto",
-                "mmuc_sto",
-                "subm_sto",
-                "ob_sto",
-                "cir_sto",
-                "my_plex",
-                "lm_sto",
-                "ser_st"
-            ],
+            "supertype": "sto",
             "internalLyphs": [
                 "soma_mp_13",
                 "soma_mp_14"
@@ -347,7 +330,6 @@
                 "lum_eso",
                 "muc_eso",
                 "subm_eso",
-                "ob_eso",
                 "cir_eso",
                 "my_plex_e",
                 "lm_eso",
@@ -372,7 +354,7 @@
             "id": "chie_cell",
             "name": "chief cell of stomach",
             "ontologyTerms": [
-                "FMA:62902"
+                "ILX:0770414"
             ]
         },
         {
@@ -411,14 +393,10 @@
             ]
         },
         {
-            "id": "ob_eso",
-            "name": "oblique muscle layer of esophagus"
-        },
-        {
             "id": "my_plex_e",
-            "name": "myenteric plexus of espohagus",
+            "name": "myenteric plexus of lower espohagus",
             "ontologyTerms": [
-                "UBERON:0002439"
+                "ILX:0793660"
             ]
         },
         {
@@ -520,6 +498,15 @@
                 "SM_56",
                 "SM_116"
             ]
+        },
+        {
+            "id": "soma-bag",
+            "name": "Soma terminal (sstom)",
+            "ontologyTerms": [
+                "SAO:1044911821"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-"
         },
         {
             "id": "muc_eso",
@@ -991,19 +978,21 @@
             ]
         },
         {
-            "id": "dc_5",
-            "name": "Dendrite chain in the nodose ganglia_Neuron 5 (sstom)",
+            "id": "dc_vag5b",
+            "name": "Dendrite chain in the nodose ganglia to vagus_Neuron 5 (sstom)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "axon-tube",
             "root": "ns17",
-            "leaf": "ns18",
+            "leaf": "ns21",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "nod"
+                "nod",
+                "vn"
             ]
         },
         {
@@ -1022,24 +1011,6 @@
             "housingLyphs": [
                 "nod",
                 "nts"
-            ]
-        },
-        {
-            "id": "dc_vag5b",
-            "name": "Dendrite chain in the nodose ganglia to vagus_Neuron 5 (sstom)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-tube",
-            "root": "ns18",
-            "leaf": "ns21",
-            "housingLayers": [
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "nod",
-                "vn"
             ]
         },
         {
@@ -1068,7 +1039,7 @@
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns21",
             "leaf": "ns23",
             "housingLayers": [
@@ -1166,7 +1137,7 @@
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns21",
             "leaf": "ns27",
             "housingLayers": [
@@ -1393,7 +1364,6 @@
                 "vn",
                 "dis_sto",
                 "dis_sto",
-                "dis_sto",
                 "dis_sto"
             ]
         },
@@ -1490,7 +1460,7 @@
                 6
             ],
             "housingLyphs": [
-                "pro_sto"
+                "dis_sto"
             ]
         },
         {
@@ -1499,7 +1469,7 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
+            "lyphTemplate": "axon-bag",
             "root": "ns54",
             "leaf": "ns55",
             "housingLayers": [
@@ -1507,8 +1477,8 @@
                 7
             ],
             "housingLyphs": [
-                "pro_sto",
-                "pro_sto"
+                "dis_sto",
+                "dis_sto"
             ]
         },
         {
@@ -1518,15 +1488,15 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns55",
+            "root": "ns54",
             "leaf": "ns56",
             "housingLayers": [
                 6,
                 5
             ],
             "housingLyphs": [
-                "pro_sto",
-                "pro_sto"
+                "dis_sto",
+                "dis_sto"
             ]
         },
         {
@@ -1536,7 +1506,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns55",
+            "root": "ns54",
             "leaf": "ns57",
             "housingLayers": [
                 6,
@@ -1547,12 +1517,12 @@
                 1
             ],
             "housingLyphs": [
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto"
+                "dis_sto",
+                "dis_sto",
+                "dis_sto",
+                "dis_sto",
+                "dis_sto",
+                "dis_sto"
             ]
         },
         {
@@ -1568,7 +1538,7 @@
                 6
             ],
             "housingLyphs": [
-                "pro_sto"
+                "dis_sto"
             ]
         },
         {
@@ -1585,8 +1555,8 @@
                 7
             ],
             "housingLyphs": [
-                "pro_sto",
-                "pro_sto"
+                "dis_sto",
+                "dis_sto"
             ]
         },
         {
@@ -1603,74 +1573,8 @@
                 5
             ],
             "housingLyphs": [
-                "pro_sto",
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_12br",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch_Neuron 12 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns60",
-            "leaf": "ns63",
-            "housingLayers": [
-                6,
-                5
-            ],
-            "housingLyphs": [
-                "pro_sto",
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_12br_pc",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to parietal cell in mucosa_Neuron 12 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns63",
-            "leaf": "ns64",
-            "housingLayers": [
-                5,
-                4,
-                3,
-                2,
-                1
-            ],
-            "housingLyphs": [
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_12br_cc",
-            "name": "Axon chain in the myenteric plexus in the distal stomach to circular muscle branch to chief cell in mucosa_Neuron 12 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns63",
-            "leaf": "ns65",
-            "housingLayers": [
-                5,
-                4,
-                3,
-                2,
-                1
-            ],
-            "housingLyphs": [
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto"
+                "dis_sto",
+                "dis_sto"
             ]
         },
         {
@@ -1680,9 +1584,10 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns63",
+            "root": "ns60",
             "leaf": "ns66",
             "housingLayers": [
+                6,
                 5,
                 4,
                 3,
@@ -1690,11 +1595,12 @@
                 1
             ],
             "housingLyphs": [
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto"
+                "dis_sto",
+                "dis_sto",
+                "dis_sto",
+                "dis_sto",
+                "dis_sto",
+                "dis_sto"
             ]
         },
         {
@@ -1719,7 +1625,7 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
+            "lyphTemplate": "axon-bag",
             "root": "ns69",
             "leaf": "ns70",
             "housingLayers": [
@@ -1738,56 +1644,8 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns70",
+            "root": "ns69",
             "leaf": "ns71",
-            "housingLayers": [
-                7
-            ],
-            "housingLyphs": [
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_13br_pdgfr",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to PGDFR -branch_Neuron 13 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns70",
-            "leaf": "ns72",
-            "housingLayers": [
-                7
-            ],
-            "housingLyphs": [
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_13br_sm",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to smooth muscle -branch_Neuron 13 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns70",
-            "leaf": "ns73",
-            "housingLayers": [
-                7
-            ],
-            "housingLyphs": [
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_13br_c",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle-branch_Neuron 13 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns70",
-            "leaf": "ns74",
             "housingLayers": [
                 6,
                 5
@@ -1798,50 +1656,28 @@
             ]
         },
         {
-            "id": "ac_13br_icc_c",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to ICC -branch_Neuron 13 (sstom)",
+            "id": "ac_13br_pdgfr",
+            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to PGDFR -branch_Neuron 13 (sstom)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns74",
-            "leaf": "ns75",
+            "root": "ns69",
+            "leaf": "ns72",
             "housingLayers": [
-                5
+                6,
+                5,
+                4,
+                3,
+                2,
+                1
             ],
             "housingLyphs": [
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_13br_pdgfr_c",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to PGDFR -branch_Neuron 13 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns74",
-            "leaf": "ns76",
-            "housingLayers": [
-                5
-            ],
-            "housingLyphs": [
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_13br_sm_c",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to circular muscle to smooth muscle -branch_Neuron 13 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns74",
-            "leaf": "ns77",
-            "housingLayers": [
-                5
-            ],
-            "housingLyphs": [
+                "pro_sto",
+                "pro_sto",
+                "pro_sto",
+                "pro_sto",
+                "pro_sto",
                 "pro_sto"
             ]
         },
@@ -1903,56 +1739,20 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
+            "lyphTemplate": "axon-bag",
             "root": "ns80",
             "leaf": "ns83",
             "housingLayers": [
                 6,
-                5
-            ],
-            "housingLyphs": [
-                "pro_sto",
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_14_br-m",
-            "name": "Axon chain in myenteric plexus in the proximal stomach to mucosa-parietal_Neuron 14 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns83",
-            "leaf": "ns84",
-            "housingLayers": [
                 5,
                 4,
                 3,
-                2
+                2,
+                1
             ],
             "housingLyphs": [
                 "pro_sto",
                 "pro_sto",
-                "pro_sto",
-                "pro_sto"
-            ]
-        },
-        {
-            "id": "ac_14_br-cm",
-            "name": "Axon chain in myenteric plexus in the proximal stomach to mucosachief_Neuron 14 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns83",
-            "leaf": "ns85",
-            "housingLayers": [
-                5,
-                4,
-                3,
-                2
-            ],
-            "housingLyphs": [
                 "pro_sto",
                 "pro_sto",
                 "pro_sto",

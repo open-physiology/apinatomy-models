@@ -185,12 +185,6 @@
             }
         },
         {
-            "id": "ns70",
-            "layout": {
-                "x": -100
-            }
-        },
-        {
             "id": "ns101",
             "layout": {
                 "x": 100
@@ -287,14 +281,14 @@
             "source": "ns24",
             "target": "ns25",
             "conveyingLyph": "snl18",
-            "length": 4
+            "length": 8
         },
         {
             "id": "lnk-snl28",
             "source": "ns26",
             "target": "ns27",
             "conveyingLyph": "snl28",
-            "length": 4
+            "length": 8
         },
         {
             "id": "lnk-snl17",
@@ -461,10 +455,10 @@
     "lyphs": [
         {
             "id": "K1",
-            "name": "C1 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006469"
             ],
+            "name": "C1 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129",
             "scale": {
@@ -474,190 +468,190 @@
         },
         {
             "id": "K2",
-            "name": "C2 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006489"
             ],
+            "name": "C2 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K3",
-            "name": "C3 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006488"
             ],
+            "name": "C3 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K4",
-            "name": "C4 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006490"
             ],
+            "name": "C4 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K5",
-            "name": "C5 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006491"
             ],
+            "name": "C5 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K6",
-            "name": "C6 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006492"
             ],
+            "name": "C6 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K7",
-            "name": "C7 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006493"
             ],
+            "name": "C7 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K8",
-            "name": "C8 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006470"
             ],
+            "name": "C8 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K9",
-            "name": "T1 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006457"
             ],
+            "name": "T1 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K10",
-            "name": "T2 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006458"
             ],
+            "name": "T2 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K11",
-            "name": "T3 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006459"
             ],
+            "name": "T3 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K12",
-            "name": "T4 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006452"
             ],
+            "name": "T4 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K13",
-            "name": "T5 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006453"
             ],
+            "name": "T5 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K14",
-            "name": "T6 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006454"
             ],
+            "name": "T6 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K15",
-            "name": "T7 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006455"
             ],
+            "name": "T7 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K16",
-            "name": "T8 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006456"
             ],
+            "name": "T8 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K17",
-            "name": "T9 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006465"
             ],
+            "name": "T9 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K18",
-            "name": "T10 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006466"
             ],
+            "name": "T10 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K19",
-            "name": "T11 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006467"
             ],
+            "name": "T11 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K20",
-            "name": "T12 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006468"
             ],
+            "name": "T12 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K21",
-            "name": "T13 spinal segment (kblad)",
             "ontologyTerms": [
                 "ILX:0793357"
             ],
+            "name": "T13 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K22",
-            "name": "L1 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006448"
             ],
+            "name": "L1 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129",
             "internalLyphs": [
@@ -673,10 +667,10 @@
         },
         {
             "id": "K23",
-            "name": "L2 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006450"
             ],
+            "name": "L2 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129",
             "internalLyphs": [
@@ -692,28 +686,28 @@
         },
         {
             "id": "K24",
-            "name": "L3 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006449"
             ],
+            "name": "L3 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K25",
-            "name": "L4 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006451"
             ],
+            "name": "L4 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K26",
-            "name": "L5 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006447"
             ],
+            "name": "L5 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129",
             "internalLyphs": [
@@ -725,10 +719,10 @@
         },
         {
             "id": "K27",
-            "name": "L6 spinal segment (kblad)",
             "ontologyTerms": [
                 "ILX:0738432"
             ],
+            "name": "L6 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129",
             "internalLyphs": [
@@ -742,10 +736,10 @@
         },
         {
             "id": "K28",
-            "name": "S1 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006460"
             ],
+            "name": "S1 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129",
             "internalLyphs": [
@@ -757,64 +751,64 @@
         },
         {
             "id": "K29",
-            "name": "S2 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006461"
             ],
+            "name": "S2 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K30",
-            "name": "S3 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006462"
             ],
+            "name": "S3 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K31",
-            "name": "S4 spinal segment (kblad)",
             "ontologyTerms": [
                 "UBERON:0006463"
             ],
+            "name": "S4 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K32",
-            "name": "Cx1 spinal segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777083"
             ],
+            "name": "Cx1 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K33",
-            "name": "Cx2 spinal segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777084"
             ],
+            "name": "Cx2 spinal segment (kblad)",
             "topology": "TUBE",
             "supertype": "K_129"
         },
         {
             "id": "K34",
-            "name": "Cx3 spinal segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777085"
             ],
+            "name": "Cx3 spinal segment (kblad)",
             "topology": "BAG",
             "supertype": "K_129"
         },
         {
             "id": "K_129",
-            "name": "Segment of Spinal Cord (kblad)",
             "ontologyTerms": [
                 "UBERON:0005844"
             ],
+            "name": "Segment of Spinal Cord (kblad)",
             "isTemplate": true,
             "layers": [
                 "KM_9",
@@ -839,10 +833,10 @@
         },
         {
             "id": "K35",
-            "name": "Midbrain (kblad)",
             "ontologyTerms": [
                 "UBERON:0001891"
             ],
+            "name": "Midbrain (kblad)",
             "topology": "TUBE",
             "layers": [
                 "KM_9",
@@ -858,10 +852,10 @@
         },
         {
             "id": "K36",
-            "name": "ventrolateral periaqueductal gray (kblad)",
             "ontologyTerms": [
                 "UBERON:0003040"
             ],
+            "name": "ventrolateral periaqueductal gray (kblad)",
             "materials": [
                 "KM_28"
             ],
@@ -874,10 +868,10 @@
         },
         {
             "id": "K37",
-            "name": "bed nucleus of the stria terminalis (kblad)",
             "ontologyTerms": [
                 "UBERON:0001880"
             ],
+            "name": "bed nucleus of the stria terminalis (kblad)",
             "materials": [
                 "KM_28"
             ],
@@ -890,10 +884,10 @@
         },
         {
             "id": "K38",
-            "name": "central nucleus of the amygdala (kblad)",
             "ontologyTerms": [
                 "UBERON:0002883"
             ],
+            "name": "central nucleus of the amygdala (kblad)",
             "materials": [
                 "KM_28"
             ],
@@ -906,10 +900,10 @@
         },
         {
             "id": "K39",
-            "name": "Diencephalon (kblad)",
             "ontologyTerms": [
                 "UBERON:0001894"
             ],
+            "name": "Diencephalon (kblad)",
             "topology": "TUBE",
             "layers": [
                 "KM_9",
@@ -931,10 +925,10 @@
         },
         {
             "id": "K40",
-            "name": "medial preoptic area (kblad)",
             "ontologyTerms": [
                 "UBERON:0007769"
             ],
+            "name": "medial preoptic area (kblad)",
             "materials": [
                 "KM_28"
             ],
@@ -947,10 +941,10 @@
         },
         {
             "id": "K41",
-            "name": "lateral preoptic area (kblad)",
             "ontologyTerms": [
                 "UBERON:0001931"
             ],
+            "name": "lateral preoptic area (kblad)",
             "materials": [
                 "KM_28"
             ],
@@ -963,10 +957,10 @@
         },
         {
             "id": "K42",
-            "name": "lateral hypothalamic area (kblad)",
             "ontologyTerms": [
                 "UBERON:0002430"
             ],
+            "name": "lateral hypothalamic area (kblad)",
             "materials": [
                 "KM_28"
             ],
@@ -979,10 +973,10 @@
         },
         {
             "id": "K43",
-            "name": "median preoptic nucleus (kblad)",
             "ontologyTerms": [
                 "UBERON:0002625"
             ],
+            "name": "median preoptic nucleus (kblad)",
             "materials": [
                 "KM_28"
             ],
@@ -995,10 +989,10 @@
         },
         {
             "id": "K44",
-            "name": "Pons (kblad)",
             "ontologyTerms": [
                 "UBERON:0000988"
             ],
+            "name": "Pons (kblad)",
             "topology": "TUBE",
             "layers": [
                 "KM_9",
@@ -1014,10 +1008,10 @@
         },
         {
             "id": "K45",
-            "name": "Barrington's nucleus (kblad)",
             "ontologyTerms": [
                 "UBERON:0007632"
             ],
+            "name": "Barrington's nucleus (kblad)",
             "materials": [
                 "KM_28"
             ],
@@ -1030,10 +1024,10 @@
         },
         {
             "id": "K52",
-            "name": "Medulla (kblad)",
             "ontologyTerms": [
                 "UBERON:0001896"
             ],
+            "name": "Medulla (kblad)",
             "topology": "TUBE",
             "layers": [
                 "KM_9",
@@ -1043,10 +1037,10 @@
         },
         {
             "id": "K53",
-            "name": "Telencephalon (kblad)",
             "ontologyTerms": [
                 "UBERON:0001893"
             ],
+            "name": "Telencephalon (kblad)",
             "topology": "BAG2",
             "layers": [
                 "KM_9",
@@ -1064,10 +1058,10 @@
         },
         {
             "id": "229",
-            "name": "Segment of neuron (kblad)",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron (kblad)",
             "isTemplate": true,
             "layers": [
                 "54",
@@ -1077,40 +1071,40 @@
         },
         {
             "id": "sn19",
-            "name": "Soma of neuron 19 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of neuron 19 (kblad)",
             "supertype": "229",
             "internalIn": "K36",
             "seedIn": "neuron-19"
         },
         {
             "id": "229bag2",
-            "name": "Segment of neuron  (kblad)",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron  (kblad)",
             "isTemplate": true,
             "topology": "BAG+",
             "supertype": "229"
         },
         {
             "id": "229bag",
-            "name": "Segment of neuron (kblad)",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron (kblad)",
             "isTemplate": true,
             "topology": "BAG-",
             "supertype": "229"
         },
         {
             "id": "axon-bag",
-            "name": "Axon terminal (kblad)",
             "ontologyTerms": [
                 "SAO:280355188"
             ],
+            "name": "Axon terminal (kblad)",
             "isTemplate": true,
             "topology": "BAG-",
             "layers": [
@@ -1121,10 +1115,10 @@
         },
         {
             "id": "axon-tube",
-            "name": "Axon segment (kblad)",
             "ontologyTerms": [
                 "SAO:280355188"
             ],
+            "name": "Axon segment (kblad)",
             "isTemplate": true,
             "topology": "TUBE",
             "layers": [
@@ -1135,10 +1129,10 @@
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (kblad)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
+            "name": "Dendrite terminal or axon sensory terminal (kblad)",
             "isTemplate": true,
             "topology": "BAG-",
             "layers": [
@@ -1149,10 +1143,10 @@
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (kblad)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
+            "name": "Dendrite segment or axon sensory segment (kblad)",
             "isTemplate": true,
             "topology": "TUBE",
             "layers": [
@@ -1163,94 +1157,94 @@
         },
         {
             "id": "sn16",
-            "name": "Soma of neuron 16 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of neuron 16 (kblad)",
             "supertype": "229",
             "internalIn": "K43",
             "seedIn": "neuron-16"
         },
         {
             "id": "sn13",
-            "name": "Soma of neuron 13 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of neuron 13 (kblad)",
             "supertype": "229",
             "internalIn": "K37",
             "seedIn": "neuron-13"
         },
         {
             "id": "sn14",
-            "name": "Soma of neuron 14 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of neuron 14 (kblad)",
             "supertype": "229",
             "internalIn": "K38",
             "seedIn": "neuron-14"
         },
         {
             "id": "sn15",
-            "name": "Soma of neuron 15 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of neuron 15 (kblad)",
             "supertype": "229",
             "internalIn": "K40",
             "seedIn": "neuron-15"
         },
         {
             "id": "sn17",
-            "name": "Soma of neuron 17 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of neuron 17 (kblad)",
             "supertype": "229",
             "internalIn": "K41",
             "seedIn": "neuron-17"
         },
         {
             "id": "sn18",
-            "name": "Soma of neuron 18 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of neuron 18 (kblad)",
             "supertype": "229",
             "internalIn": "K42",
             "seedIn": "neuron-18"
         },
         {
             "id": "sn20",
-            "name": "Soma of neuron 20 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of neuron 20 (kblad)",
             "supertype": "229",
             "internalIn": "K45",
             "seedIn": "neuron-20"
         },
         {
             "id": "K54",
-            "name": "T12 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
                 "UBERON:0002855"
-            ]
+            ],
+            "name": "T12 Dorsal Root ganglion (kblad)"
         },
         {
             "id": "K55",
-            "name": "T13 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
                 "ILX:0793359"
-            ]
+            ],
+            "name": "T13 Dorsal Root ganglion (kblad)"
         },
         {
             "id": "K56",
-            "name": "L1 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
                 "UBERON:0002857"
             ],
+            "name": "L1 Dorsal Root ganglion (kblad)",
             "internalLyphs": [
                 "sn-drgl1_11"
             ],
@@ -1260,10 +1254,10 @@
         },
         {
             "id": "K57",
-            "name": "L2 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
                 "UBERON:0002856"
             ],
+            "name": "L2 Dorsal Root ganglion (kblad)",
             "internalLyphs": [
                 "sn-drgl2_11"
             ],
@@ -1273,31 +1267,31 @@
         },
         {
             "id": "K58",
-            "name": "L3 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
                 "UBERON:0002858"
-            ]
+            ],
+            "name": "L3 Dorsal Root ganglion (kblad)"
         },
         {
             "id": "K59",
-            "name": "L4 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
                 "UBERON:0003943"
-            ]
+            ],
+            "name": "L4 Dorsal Root ganglion (kblad)"
         },
         {
             "id": "K60",
-            "name": "L5 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
                 "UBERON:0002859"
-            ]
+            ],
+            "name": "L5 Dorsal Root ganglion (kblad)"
         },
         {
             "id": "K61",
-            "name": "L6 Dorsal Root gangion (kblad)",
             "ontologyTerms": [
                 "ILX:0793360"
             ],
+            "name": "L6 Dorsal Root ganglion (kblad)",
             "internalLyphs": [
                 "sn-drg-l6_10",
                 "sn-drg-l6_12"
@@ -1309,10 +1303,10 @@
         },
         {
             "id": "K62",
-            "name": "S1 Dorsal root ganglion (kblad)",
             "ontologyTerms": [
                 "UBERON:0002860"
             ],
+            "name": "S1 Dorsal root ganglion (kblad)",
             "internalLyphs": [
                 "sn-drg-S1_10",
                 "sn-drg-s1_12"
@@ -1324,115 +1318,115 @@
         },
         {
             "id": "K63",
-            "name": "L1 ventral root (kblad)",
             "ontologyTerms": [
                 "ILX:0785421"
-            ]
+            ],
+            "name": "L1 ventral root (kblad)"
         },
         {
             "id": "K64",
-            "name": "L2 ventral root (kblad)",
             "ontologyTerms": [
                 "ILX:0788675"
-            ]
+            ],
+            "name": "L2 ventral root (kblad)"
         },
         {
             "id": "K65",
-            "name": "L3 ventral root (kblad)",
             "ontologyTerms": [
                 "ILX:0787520"
-            ]
+            ],
+            "name": "L3 ventral root (kblad)"
         },
         {
             "id": "K66",
-            "name": "L4 ventral root (kblad)",
             "ontologyTerms": [
                 "ILX:0789968"
-            ]
+            ],
+            "name": "L4 ventral root (kblad)"
         },
         {
             "id": "K67",
-            "name": "L5 ventral root (kblad)",
             "ontologyTerms": [
                 "ILX:0791148"
-            ]
+            ],
+            "name": "L5 ventral root (kblad)"
         },
         {
             "id": "K68",
-            "name": "L6 ventral root (kblad)",
             "ontologyTerms": [
-                "ILX:0792853"
-            ]
+                "ILX:0793615"
+            ],
+            "name": "L6 ventral root (kblad)"
         },
         {
             "id": "K69",
-            "name": "S1 ventral root (kblad)",
             "ontologyTerms": [
-                "ILX:0788884"
-            ]
+                "ILX:0792853"
+            ],
+            "name": "S1 ventral root (kblad)"
         },
         {
             "id": "K70",
-            "name": "T12 - T13 Interganglionic segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777086"
-            ]
+            ],
+            "name": "T12 - T13 Interganglionic segment (kblad)"
         },
         {
             "id": "K71",
-            "name": "T13 - L1 Interganglionic segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777087"
-            ]
+            ],
+            "name": "T13 - L1 Interganglionic segment (kblad)"
         },
         {
             "id": "K72",
-            "name": "L1 - L2 Interganglionic segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777088"
-            ]
+            ],
+            "name": "L1 - L2 Interganglionic segment (kblad)"
         },
         {
             "id": "K73",
-            "name": "L2 - L3 Interganglionic segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777089"
-            ]
+            ],
+            "name": "L2 - L3 Interganglionic segment (kblad)"
         },
         {
             "id": "K74",
-            "name": "L3 - L4 Interganglionic segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777090"
-            ]
+            ],
+            "name": "L3 - L4 Interganglionic segment (kblad)"
         },
         {
             "id": "K75",
-            "name": "L4 - L5 Interganglionic segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777091"
-            ]
+            ],
+            "name": "L4 - L5 Interganglionic segment (kblad)"
         },
         {
             "id": "K76",
-            "name": "L5 - L6 Interganglionic segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777092"
-            ]
+            ],
+            "name": "L5 - L6 Interganglionic segment (kblad)"
         },
         {
             "id": "K77",
-            "name": "L6 - S1 Interganglionic segment (kblad)",
             "ontologyTerms": [
                 "ILX:0777093"
-            ]
+            ],
+            "name": "L6 - S1 Interganglionic segment (kblad)"
         },
         {
             "id": "K78",
-            "name": "T12 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0787009"
             ],
+            "name": "T12 sympathetic ganglion (kblad)",
             "internalLyphs": [
                 "sn-sgt12"
             ],
@@ -1442,10 +1436,10 @@
         },
         {
             "id": "K79",
-            "name": "T13 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0739295"
             ],
+            "name": "T13 sympathetic ganglion (kblad)",
             "internalLyphs": [
                 "sn-sgt13"
             ],
@@ -1455,10 +1449,10 @@
         },
         {
             "id": "K80",
-            "name": "L1 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0789862"
             ],
+            "name": "L1 sympathetic ganglion (kblad)",
             "internalLyphs": [
                 "sn-sgl1"
             ],
@@ -1468,10 +1462,10 @@
         },
         {
             "id": "K81",
-            "name": "L2 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0786933"
             ],
+            "name": "L2 sympathetic ganglion (kblad)",
             "internalLyphs": [
                 "sn-sgl2"
             ],
@@ -1481,10 +1475,10 @@
         },
         {
             "id": "K82",
-            "name": "L3 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0788315"
             ],
+            "name": "L3 sympathetic ganglion (kblad)",
             "internalLyphs": [
                 "sn-sgl3"
             ],
@@ -1494,10 +1488,10 @@
         },
         {
             "id": "K83",
-            "name": "L4 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0790472"
             ],
+            "name": "L4 sympathetic ganglion (kblad)",
             "internalLyphs": [
                 "sn-sgl4"
             ],
@@ -1507,10 +1501,10 @@
         },
         {
             "id": "K84",
-            "name": "L5 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0739296"
             ],
+            "name": "L5 sympathetic ganglion (kblad)",
             "internalLyphs": [
                 "sn-sgl5"
             ],
@@ -1520,10 +1514,10 @@
         },
         {
             "id": "K85",
-            "name": "L6 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0739297"
             ],
+            "name": "L6 sympathetic ganglion (kblad)",
             "internalLyphs": [
                 "sn-sgl6"
             ],
@@ -1533,101 +1527,101 @@
         },
         {
             "id": "K86",
-            "name": "S1 sympathetic ganglion (kblad)",
             "ontologyTerms": [
                 "ILX:0789109"
-            ]
+            ],
+            "name": "S1 sympathetic ganglion (kblad)"
         },
         {
             "id": "K87",
-            "name": "T12 white ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0793218"
-            ]
+            ],
+            "name": "T12 white ramus (kblad)"
         },
         {
             "id": "K88",
-            "name": "L1 white ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0793220"
-            ]
+            ],
+            "name": "L1 white ramus (kblad)"
         },
         {
             "id": "K89",
-            "name": "L2 white ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0793221"
-            ]
+            ],
+            "name": "L2 white ramus (kblad)"
         },
         {
             "id": "K90",
-            "name": "L3 white ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0793361"
-            ]
+            ],
+            "name": "L3 white ramus (kblad)"
         },
         {
             "id": "K91",
-            "name": "T12 gray ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0739298"
-            ]
+            ],
+            "name": "T12 gray ramus (kblad)"
         },
         {
             "id": "K92",
-            "name": "L1 gray ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0785825"
-            ]
+            ],
+            "name": "L1 gray ramus (kblad)"
         },
         {
             "id": "K93",
-            "name": "L2 gray ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0785733"
-            ]
+            ],
+            "name": "L2 gray ramus (kblad)"
         },
         {
             "id": "K94",
-            "name": "L3 gray ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0785932"
-            ]
+            ],
+            "name": "L3 gray ramus (kblad)"
         },
         {
             "id": "K95",
-            "name": "L4 gray ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0788536"
-            ]
+            ],
+            "name": "L4 gray ramus (kblad)"
         },
         {
             "id": "K96",
-            "name": "L5 gray ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0785119"
-            ]
+            ],
+            "name": "L5 gray ramus (kblad)"
         },
         {
             "id": "K97",
-            "name": "L6 gray ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0739299"
-            ]
+            ],
+            "name": "L6 gray ramus (kblad)"
         },
         {
             "id": "K98",
-            "name": "S1 gray ramus (kblad)",
             "ontologyTerms": [
                 "ILX:0793228"
-            ]
+            ],
+            "name": "S1 gray ramus (kblad)"
         },
         {
             "id": "K99",
-            "name": "Bladder Dome (kblad)",
             "ontologyTerms": [
                 "UBERON:0006082"
             ],
+            "name": "Bladder Dome (kblad)",
             "layers": [
                 "KM_1",
                 "KM_87",
@@ -1643,10 +1637,10 @@
         },
         {
             "id": "K100",
-            "name": "Bladder neck (kblad)",
             "ontologyTerms": [
                 "UBERON:0001258"
             ],
+            "name": "Bladder neck (kblad)",
             "layers": [
                 "KM_1",
                 "KM_87",
@@ -1662,10 +1656,10 @@
         },
         {
             "id": "K101",
-            "name": "Urethra (kblad)",
             "ontologyTerms": [
                 "UBERON:0000057"
             ],
+            "name": "Urethra (kblad)",
             "layers": [
                 "KM_1",
                 "KM_87",
@@ -1676,10 +1670,10 @@
         },
         {
             "id": "housing#img",
-            "name": "Inferior Mesenteric Ganglion (kblad)",
             "ontologyTerms": [
                 "UBERON:0005453"
             ],
+            "name": "Inferior Mesenteric Ganglion (kblad)",
             "internalLyphs": [
                 "sn-img_3"
             ],
@@ -1689,10 +1683,10 @@
         },
         {
             "id": "K103",
-            "name": "Blood vessel (kblad)",
             "ontologyTerms": [
                 "UBERON:0001981"
             ],
+            "name": "Blood vessel (kblad)",
             "isTemplate": true,
             "layers": [
                 "KM_7",
@@ -1701,10 +1695,10 @@
         },
         {
             "id": "K104",
-            "name": "Pelvic ganglia (kblad)",
             "ontologyTerms": [
                 "UBERON:0016508"
             ],
+            "name": "Pelvic ganglia (kblad)",
             "internalLyphs": [
                 "sn-pg_1",
                 "sn-pg_2"
@@ -1716,111 +1710,111 @@
         },
         {
             "id": "K105",
-            "name": "Blood vessel of bladder neck (kblad)",
             "ontologyTerms": [
-                "UBERON:0001981"
+                "ILX:0793663"
             ],
+            "name": "Blood vessel of bladder neck (kblad)",
             "supertype": "K103"
         },
         {
             "id": "K106",
-            "name": "Blood vessel of bladder dome (kblad)",
             "ontologyTerms": [
-                "UBERON:0001981"
+                "ILX:0793664"
             ],
+            "name": "Blood vessel of bladder dome (kblad)",
             "supertype": "K103"
         },
         {
             "id": "snl16",
-            "name": "Soma of SPR neuron in L1_Neuron 6 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR neuron in L1_Neuron 6 (kblad)",
             "supertype": "229",
             "seedIn": "neuron-6"
         },
         {
             "id": "snl26",
-            "name": "Soma of SPR neuron in L2_Neuron 6 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR neuron in L2_Neuron 6 (kblad)",
             "supertype": "229"
         },
         {
             "id": "snl18",
-            "name": "Soma of SPR neuron in L1_Neuron 8 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR neuron in L1_Neuron 8 (kblad)",
             "supertype": "229",
             "seedIn": "neuron-8"
         },
         {
             "id": "snl28",
-            "name": "Soma of SPR neuron in L2_Neuron 8 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR neuron in L2_Neuron 8 (kblad)",
             "supertype": "229"
         },
         {
             "id": "snl17",
-            "name": "Soma of SPR neuron in L1_Neuron 7 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR neuron in L1_Neuron 7 (kblad)",
             "supertype": "229",
             "seedIn": "neuron-7"
         },
         {
             "id": "snl27",
-            "name": "Soma of SPR neuron in L2_Neuron 7 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR neuron in L2_Neuron 7 (kblad)",
             "supertype": "229"
         },
         {
             "id": "snl59",
-            "name": "Soma of SLM neuron in L5_Neuron 9 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SLM neuron in L5_Neuron 9 (kblad)",
             "supertype": "229",
             "seedIn": "neuron-9"
         },
         {
             "id": "snl69",
-            "name": "Soma of SLM neuron in L6_Neuron 9 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SLM neuron in L6_Neuron 9 (kblad)",
             "supertype": "229"
         },
         {
             "id": "snl65",
-            "name": "Soma of PSPR neuron in L6_Neuron 5 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of PSPR neuron in L6_Neuron 5 (kblad)",
             "supertype": "229",
             "seedIn": "neuron-5"
         },
         {
             "id": "sns15",
-            "name": "Soma of PSPR neuron in S1_Neuron 5 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of PSPR neuron in S1_Neuron 5 (kblad)",
             "supertype": "229"
         },
         {
             "id": "sn-sgt12",
-            "name": "Soma of SPO neuron in T12sg_Neuron 4 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPO neuron in T12sg_Neuron 4 (kblad)",
             "topology": "TUBE",
             "supertype": "229",
             "internalIn": "K78",
@@ -1828,185 +1822,185 @@
         },
         {
             "id": "sn-sgt13",
-            "name": "Soma of SPO neuron in T13sg_Neuron 4 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPO neuron in T13sg_Neuron 4 (kblad)",
             "supertype": "229",
             "internalIn": "K79"
         },
         {
             "id": "sn-sgl1",
-            "name": "Soma of SPO neuron in L1sg_Neuron 4 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPO neuron in L1sg_Neuron 4 (kblad)",
             "supertype": "229",
             "internalIn": "K80"
         },
         {
             "id": "sn-sgl2",
-            "name": "Soma of SPO neuron in L2sg_Neuron 4 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPO neuron in L2sg_Neuron 4 (kblad)",
             "supertype": "229",
             "internalIn": "K81"
         },
         {
             "id": "sn-sgl3",
-            "name": "Soma of SPO neuron in L3sg_Neuron 4 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPO neuron in L3sg_Neuron 4 (kblad)",
             "supertype": "229",
             "internalIn": "K82"
         },
         {
             "id": "sn-sgl4",
-            "name": "Soma of SPO neuron in L4sg_Neuron 4 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPO neuron in L4sg_Neuron 4 (kblad)",
             "supertype": "229",
             "internalIn": "K83"
         },
         {
             "id": "sn-sgl5",
-            "name": "Soma of SPO neuron in L5sg_Neuron 4 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPO neuron in L5sg_Neuron 4 (kblad)",
             "supertype": "229",
             "internalIn": "K84"
         },
         {
             "id": "sn-sgl6",
-            "name": "Soma of SPO neuron in L6sg_Neuron 4 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPO neuron in L6sg_Neuron 4 (kblad)",
             "supertype": "229",
             "internalIn": "K85"
         },
         {
             "id": "sn-pg_1",
-            "name": "Soma of PSPO neuron 1 in pelvic ganglia_Neuron 1 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of PSPO neuron 1 in pelvic ganglia_Neuron 1 (kblad)",
             "supertype": "229",
             "seedIn": "neuron-1"
         },
         {
             "id": "sn-pg_2",
-            "name": "Soma to SPO neuron 2 in pelvic ganglia_Neuron 2 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma to SPO neuron 2 in pelvic ganglia_Neuron 2 (kblad)",
             "supertype": "229",
             "internalIn": "K104",
             "seedIn": "neuron-2"
         },
         {
             "id": "sn-img_3",
-            "name": "Soma to SPO neuron 3 in IMG_Neuron 3 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma to SPO neuron 3 in IMG_Neuron 3 (kblad)",
             "supertype": "229",
             "internalIn": "housing#img",
             "seedIn": "neuron-3"
         },
         {
             "id": "n-hypo",
-            "name": "Hypogastric nerve (kblad)",
             "ontologyTerms": [
                 "UBERON:0005303"
-            ]
+            ],
+            "name": "Hypogastric nerve (kblad)"
         },
         {
             "id": "n-blad",
-            "name": "Bladder nerve (kblad)",
             "ontologyTerms": [
-                "EMAPA:31526"
-            ]
+                "ILX:0793559"
+            ],
+            "name": "Bladder nerve (kblad)"
         },
         {
             "id": "n-pud",
-            "name": "Pudendal nerve (kblad)",
             "ontologyTerms": [
                 "UBERON:0011390"
-            ]
+            ],
+            "name": "Pudendal nerve (kblad)"
         },
         {
             "id": "n-lumspl",
-            "name": "lumbar splanchnic nerve (kblad)",
             "ontologyTerms": [
                 "UBERON:0018683"
-            ]
+            ],
+            "name": "lumbar splanchnic nerve (kblad)"
         },
         {
             "id": "sn-drg-l6_10",
-            "name": "Soma to FOS neuron 10 in L6 DRG_Neuron 10",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma to FOS neuron 10 in L6 DRG_Neuron 10",
             "supertype": "229",
             "internalIn": "K61",
             "seedIn": "neuron-10"
         },
         {
             "id": "sn-drg-S1_10",
-            "name": "Soma to FOS neuron 10 in S1 DRG_Neuron 10",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma to FOS neuron 10 in S1 DRG_Neuron 10",
             "supertype": "229",
             "internalIn": "K62"
         },
         {
             "id": "sn-drg-l6_12",
-            "name": "Soma to FOS neuron 12 in L6 DRG_Neuron 12",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma to FOS neuron 12 in L6 DRG_Neuron 12",
             "supertype": "229",
             "internalIn": "K61",
             "seedIn": "neuron-12"
         },
         {
             "id": "sn-drg-s1_12",
-            "name": "Soma to FOS neuron 12 in S1 DRG_Neuron 12",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma to FOS neuron 12 in S1 DRG_Neuron 12",
             "supertype": "229",
             "internalIn": "K62"
         },
         {
             "id": "n-pelspl",
-            "name": "Pelvic splanchnic nerve (pelvic nerve - human)",
             "ontologyTerms": [
                 "UBERON:0018675"
-            ]
+            ],
+            "name": "Pelvic splanchnic nerve (pelvic nerve - human)"
         },
         {
             "id": "sn-drgl1_11",
-            "name": "Soma of FOS in L1 DRG_Neuron 11 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of FOS in L1 DRG_Neuron 11 (kblad)",
             "supertype": "229",
             "internalIn": "K56",
             "seedIn": "neuron-11"
         },
         {
             "id": "sn-drgl2_11",
-            "name": "Soma of FOS in L2 DRG_Neuron 11 (kblad)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of FOS in L2 DRG_Neuron 11 (kblad)",
             "supertype": "229",
             "internalIn": "K57"
         }
@@ -2014,10 +2008,10 @@
     "materials": [
         {
             "id": "KM_1",
-            "name": "Urine",
             "ontologyTerms": [
                 "UBERON:0000178"
             ],
+            "name": "Urine",
             "materials": [
                 "KM_2",
                 "KM_3",
@@ -2027,58 +2021,58 @@
         },
         {
             "id": "KM_2",
-            "name": "Water",
             "ontologyTerms": [
                 "CHEBI:15377"
-            ]
+            ],
+            "name": "Water"
         },
         {
             "id": "KM_3",
-            "name": "Urea",
             "ontologyTerms": [
                 "CHEBI:16199"
-            ]
+            ],
+            "name": "Urea"
         },
         {
             "id": "KM_4",
-            "name": "Uric Acid",
             "ontologyTerms": [
                 "CHEBI:27226"
-            ]
+            ],
+            "name": "Uric Acid"
         },
         {
             "id": "KM_5",
-            "name": "Extracellular fluid",
             "ontologyTerms": [
                 "CHEBI:24839"
-            ]
+            ],
+            "name": "Extracellular fluid"
         },
         {
             "id": "KM_6",
-            "name": "Endothelium",
             "ontologyTerms": [
                 "UBERON:0001986"
             ],
+            "name": "Endothelium",
             "materials": [
                 "KM_8"
             ]
         },
         {
             "id": "KM_7",
-            "name": "Blood",
             "ontologyTerms": [
                 "UBERON:0000178"
             ],
+            "name": "Blood",
             "materials": [
                 "KM_8"
             ]
         },
         {
             "id": "KM_8",
-            "name": "Aqueous solution",
             "ontologyTerms": [
                 "FMA:85815"
             ],
+            "name": "Aqueous solution",
             "materials": [
                 "KM_2",
                 "KM_13",
@@ -2094,268 +2088,267 @@
         },
         {
             "id": "KM_9",
-            "name": "Cerebrospinal fluid",
             "ontologyTerms": [
                 "UBERON:0001359"
             ],
+            "name": "Cerebrospinal fluid",
             "materials": [
                 "KM_8"
             ]
         },
         {
             "id": "KM_10",
-            "name": "Smooth muscle",
             "ontologyTerms": [
                 "UBERON:0001135"
-            ]
+            ],
+            "name": "Smooth muscle"
         },
         {
             "id": "KM_11",
-            "name": "Connective Tissue",
             "ontologyTerms": [
                 "UBERON:0002384"
-            ]
+            ],
+            "name": "Connective Tissue"
         },
         {
             "id": "KM_13",
-            "name": "Sodium ion",
             "ontologyTerms": [
                 "CHEBI:29101"
-            ]
+            ],
+            "name": "Sodium ion"
         },
         {
             "id": "KM_14",
-            "name": "Potassium ion",
             "ontologyTerms": [
                 "CHEBI:29103"
-            ]
+            ],
+            "name": "Potassium ion"
         },
         {
             "id": "KM_15",
-            "name": "Calcium ion",
             "ontologyTerms": [
                 "CHEBI:29108"
-            ]
+            ],
+            "name": "Calcium ion"
         },
         {
             "id": "KM_16",
-            "name": "Chloride ion",
             "ontologyTerms": [
                 "CHEBI:17996"
-            ]
+            ],
+            "name": "Chloride ion"
         },
         {
             "id": "KM_17",
-            "name": "Hydrogen ion",
             "ontologyTerms": [
                 "CHEBI:24636"
-            ]
+            ],
+            "name": "Hydrogen ion"
         },
         {
             "id": "KM_18",
-            "name": "Hydroxide ion",
             "ontologyTerms": [
                 "CHEBI:16234"
-            ]
+            ],
+            "name": "Hydroxide ion"
         },
         {
             "id": "KM_19",
-            "name": "Bicarbonate ion",
             "ontologyTerms": [
                 "CHEBI:17544"
-            ]
+            ],
+            "name": "Bicarbonate ion"
         },
         {
             "id": "KM_20",
-            "name": "Liquid",
             "ontologyTerms": [
                 "FMA:85815"
-            ]
+            ],
+            "name": "Liquid"
         },
         {
             "id": "KM_21",
-            "name": "Fluid",
             "ontologyTerms": [
                 "UBERON:0006314"
-            ]
+            ],
+            "name": "Fluid"
         },
         {
             "id": "KM_22",
-            "name": "Peripheral nervous system tissue",
             "ontologyTerms": [
                 "UBERON:0000010"
             ],
+            "name": "Peripheral nervous system tissue",
             "materials": [
                 "KM_5"
             ]
         },
         {
             "id": "KM_23",
-            "name": "Ependyma",
             "ontologyTerms": [
                 "UBERON:0004670"
-            ]
+            ],
+            "name": "Ependyma"
         },
         {
             "id": "KM_24",
-            "name": "Pia mater",
             "ontologyTerms": [
                 "UBERON:0002361"
-            ]
+            ],
+            "name": "Pia mater"
         },
         {
             "id": "KM_25",
-            "name": "Central nervous system tissue",
             "ontologyTerms": [
                 "UBERON:0001017"
             ],
+            "name": "Central nervous system tissue",
             "materials": [
                 "KM_5"
             ]
         },
         {
             "id": "KM_26",
-            "name": "Wall of vessel",
             "ontologyTerms": [
                 "UBERON:0035965"
             ],
+            "name": "Wall of vessel",
             "materials": [
                 "KM_11"
             ]
         },
         {
             "id": "KM_27",
-            "name": "White matter of CNS",
             "ontologyTerms": [
-                "UBERON:0016549"
-            ]
+                "UBERON:0002318"
+            ],
+            "name": "White matter of spinal cord"
         },
         {
             "id": "KM_28",
-            "name": "Gray matter of CNS",
             "ontologyTerms": [
-                "UBERON:0016548"
-            ]
+                "UBERON:0002315"
+            ],
+            "name": "Gray matter of spinal cord"
         },
         {
             "id": "K_77",
-            "name": "lamina I of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0006118"
-            ]
+            ],
+            "name": "lamina I of gray matter of spinal cord"
         },
         {
             "id": "K_78",
-            "name": "lamina II of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0002181"
-            ]
+            ],
+            "name": "lamina II of gray matter of spinal cord"
         },
         {
             "id": "K_79",
-            "name": "lamina III of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0016574"
-            ]
+            ],
+            "name": "lamina III of gray matter of spinal cord"
         },
         {
             "id": "K_80",
-            "name": "lamina IV of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0016575"
-            ]
+            ],
+            "name": "lamina IV of gray matter of spinal cord"
         },
         {
             "id": "K_81",
-            "name": "lamina V of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0016576"
-            ]
+            ],
+            "name": "lamina V of gray matter of spinal cord"
         },
         {
             "id": "K_82",
-            "name": "lamina VI of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0016577"
-            ]
+            ],
+            "name": "lamina VI of gray matter of spinal cord"
         },
         {
             "id": "K_83",
-            "name": "lamina VII of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0016578"
-            ]
+            ],
+            "name": "lamina VII of gray matter of spinal cord"
         },
         {
             "id": "K_84",
-            "name": "lamina VIII of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0016579"
-            ]
+            ],
+            "name": "lamina VIII of gray matter of spinal cord"
         },
         {
             "id": "K_85",
-            "name": "lamina IX of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0016580"
-            ]
+            ],
+            "name": "lamina IX of gray matter of spinal cord"
         },
         {
             "id": "K_86",
-            "name": "lamina X of gray matter of spinal cord",
             "ontologyTerms": [
                 "UBERON:0004677"
-            ]
+            ],
+            "name": "lamina X of gray matter of spinal cord"
         },
         {
             "id": "54",
-            "name": "Cytosol",
             "ontologyTerms": [
                 "GO:0005829"
-            ]
+            ],
+            "name": "Cytosol"
         },
         {
             "id": "55",
-            "name": "Membrane",
             "ontologyTerms": [
                 "GO:0016020"
-            ]
+            ],
+            "name": "Membrane"
         },
         {
             "id": "56",
-            "name": "Plasma membrane",
             "ontologyTerms": [
                 "GO:0005886"
-            ]
+            ],
+            "name": "Plasma membrane"
         },
         {
             "id": "116",
-            "name": "Extracellular fluid",
             "ontologyTerms": [
                 "GO:0005615"
-            ]
+            ],
+            "name": "Extracellular fluid"
         },
         {
             "id": "KM_87",
-            "name": "Epithelium",
             "ontologyTerms": [
                 "UBERON:0000483"
-            ]
+            ],
+            "name": "Epithelium"
         },
         {
             "id": "KM_88",
-            "name": "Rhabdosphincter",
             "ontologyTerms": [
-                "EMAPA:36117",
-                "EMAPA:32269"
-            ]
+                "ILX:0793141"
+            ],
+            "name": "Rhabdosphincter"
         },
         {
             "id": "KM_89",
-            "name": "Basement membrane",
             "ontologyTerms": [
                 "UBERON:0005769"
-            ]
+            ],
+            "name": "Basement membrane"
         }
     ],
     "chains": [
@@ -2914,7 +2907,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns25",
-            "leaf": "ns34",
+            "leaf": "m8-sl1",
             "housingLayers": [
                 6,
                 13,
@@ -2954,7 +2947,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns27",
-            "leaf": "ns37",
+            "leaf": "m8-sl2",
             "housingLayers": [
                 6,
                 13,
@@ -2971,174 +2964,221 @@
             ]
         },
         {
-            "id": "ac-sgt12-t13",
-            "name": "T12 sympathetic ganglia SPR axon chain to T13_Neuron 8 (kblad)",
+            "id": "main-8",
+            "name": "core chain for sympathetic chain axons Neuron 8 (kblad)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns40",
-            "leaf": "ns38",
+            "lyphTemplate": "axon-tube",
+            "root": "main-8-t12",
+            "leaf": "main-8-l6",
             "housingLayers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0,
                 0,
                 0
             ],
             "housingLyphs": [
-                "K79",
+                "K78",
                 "K70",
+                "K79",
+                "K71",
+                "K80",
+                "K72",
+                "K81",
+                "K73",
+                "K82",
+                "K74",
+                "K83",
+                "K75",
+                "K84",
+                "K76",
+                "K85"
+            ],
+            "levels": [
+                {
+                    "target": "m8-st12"
+                },
+                {
+                    "target": "xx1"
+                },
+                {
+                    "target": "m8-st13"
+                },
+                {
+                    "target": "xx3"
+                },
+                {
+                    "target": "m8-sl1"
+                },
+                {
+                    "target": "xx5"
+                },
+                {
+                    "target": "m8-sl2"
+                },
+                {
+                    "target": "xx7"
+                },
+                {
+                    "target": "m8-sl3"
+                },
+                {
+                    "target": "xx9"
+                },
+                {
+                    "target": "m8-sl4"
+                },
+                {
+                    "target": "xx11"
+                },
+                {
+                    "target": "m8-sl5"
+                },
+                {
+                    "target": "xx13"
+                },
+                {
+                    "target": "main-8-l6"
+                }
+            ]
+        },
+        {
+            "id": "m8-bst12",
+            "name": "axon terminal in t12 Neuron 8 (kblad)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "main-8-t12",
+            "leaf": "m8-st12-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
                 "K78"
             ]
         },
         {
-            "id": "ac-sgt13-l1",
-            "name": "T13 sympathetic ganglia SPR axon chain to L1_Neuron 8 (kblad)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns41",
-            "leaf": "ns40",
-            "housingLayers": [
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "K80",
-                "K71",
-                "K79"
-            ]
-        },
-        {
-            "id": "ac-sgt13-l1join",
-            "name": "T13 sympathetic ganglia SPR axon chain to L1 join_Neuron 8 (kblad)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns41",
-            "leaf": "ns34",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K80"
-            ]
-        },
-        {
-            "id": "ac-sgl1-l2",
-            "name": "L1 sympathetic ganglia SPR axon chain to L2_Neuron 8 (kblad)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns42",
-            "leaf": "ns41",
-            "housingLayers": [
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "K81",
-                "K72",
-                "K80"
-            ]
-        },
-        {
-            "id": "ac-sgl1-l2join",
-            "name": "L1 sympathetic ganglia SPR axon chain to L2 join_Neuron 8 (kblad)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns42",
-            "leaf": "ns37",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K81"
-            ]
-        },
-        {
-            "id": "ac-sgl2-l3",
-            "name": "L2 sympathetic ganglia SPR axon chain to L3_Neuron 8 (kblad)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns43",
-            "leaf": "ns42",
-            "housingLayers": [
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "K82",
-                "K73",
-                "K81"
-            ]
-        },
-        {
-            "id": "ac-sgl3-l4",
-            "name": "L3 sympathetic ganglia SPR axon chain to L4_Neuron 8 (kblad)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns43",
-            "leaf": "ns44",
-            "housingLayers": [
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "K82",
-                "K74",
-                "K83"
-            ]
-        },
-        {
-            "id": "ac-sgl4-l5",
-            "name": "L4 sympathetic ganglia SPR axon chain to L5_Neuron 8 (kblad)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns44",
-            "leaf": "ns45",
-            "housingLayers": [
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "K83",
-                "K75",
-                "K84"
-            ]
-        },
-        {
-            "id": "ac-sgl5-l6in",
-            "name": "L5 sympathetic ganglia SPR axon chain to L6 term_Neuron 8 (kblad)",
+            "id": "m8-bst13",
+            "name": "axon terminal in t13 Neuron 8 (kblad)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns45",
-            "leaf": "ns47",
+            "root": "m8-st13",
+            "leaf": "m8-st13-syn",
             "housingLayers": [
-                0,
-                0,
                 0
             ],
             "housingLyphs": [
-                "K84",
-                "K76",
+                "K79"
+            ]
+        },
+        {
+            "id": "m8-bsl1",
+            "name": "axon terminal in l1 Neuron 8 (kblad)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m8-sl1",
+            "leaf": "m8-sl1-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "K80"
+            ]
+        },
+        {
+            "id": "m8-bsl2",
+            "name": "axon terminal in l2 Neuron 8 (kblad)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m8-sl2",
+            "leaf": "m8-sl2-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "K81"
+            ]
+        },
+        {
+            "id": "m8-bsl3",
+            "name": "axon terminal in l3 Neuron 8 (kblad)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m8-sl3",
+            "leaf": "m8-sl3-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "K82"
+            ]
+        },
+        {
+            "id": "m8-bsl4",
+            "name": "axon terminal in l4 Neuron 8 (kblad)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m8-sl4",
+            "leaf": "m8-sl4-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "K83"
+            ]
+        },
+        {
+            "id": "m8-bsl5",
+            "name": "axon terminal in l5 Neuron 8 (kblad)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m8-sl5",
+            "leaf": "m8-sl5-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "K84"
+            ]
+        },
+        {
+            "id": "m8-bsl6",
+            "name": "axon terminal in l6 Neuron 8 (kblad)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "main-8-l6",
+            "leaf": "main-8-l6-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
                 "K85"
             ]
         },
@@ -3470,111 +3510,6 @@
             "leaf": "abc2",
             "length": 100,
             "wiredTo": "symp-chain-wire"
-        },
-        {
-            "id": "dc-sn-sgt12",
-            "name": "T12sg_4 SPO dendrite chain_Neuron 4 (kblad)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns70",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K78"
-            ]
-        },
-        {
-            "id": "dc-sn-sgt13",
-            "name": "T13sg_4 SPO dendrite chain_Neuron 4 (kblad)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns74",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K79"
-            ]
-        },
-        {
-            "id": "dc-sn-sgl1",
-            "name": "L1sg_4 SPO dendrite chain_Neuron 4 (kblad)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns77",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K80"
-            ]
-        },
-        {
-            "id": "dc-sn-sgl2",
-            "name": "L2sg_4 SPO dendrite chain_Neuron 4 (kblad)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns80",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K81"
-            ]
-        },
-        {
-            "id": "dc-sn-sgl3",
-            "name": "L3sg_4 SPO dendrite chain_Neuron 4 (kblad)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns83",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K82"
-            ]
-        },
-        {
-            "id": "dc-sn-sgl4",
-            "name": "L4sg_4 SPO dendrite chain_Neuron 4 (kblad)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns86",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K83"
-            ]
-        },
-        {
-            "id": "dc-sn-sgl5",
-            "name": "L5sg_4 SPO dendrite chain_Neuron 4 (kblad)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns89",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "K84"
-            ]
         },
         {
             "id": "dc-sn-drgl1_11",
@@ -4099,10 +4034,12 @@
             "leaf": "ns303",
             "housingLayers": [
                 0,
+                3,
                 2
             ],
             "housingLyphs": [
                 "n-blad",
+                "K100",
                 "K100"
             ]
         },
@@ -4117,10 +4054,12 @@
             "leaf": "ns304",
             "housingLayers": [
                 0,
+                3,
                 2
             ],
             "housingLyphs": [
                 "n-blad",
+                "K99",
                 "K99"
             ]
         },
@@ -4253,8 +4192,8 @@
             ]
         },
         {
-            "id": "ac-4-K78",
-            "name": "SP0 axon chain from T12 sympathetic ganglia_Neuron 4 (kblad)",
+            "id": "main-4",
+            "name": "core chain for sympathetic chain axons Neuron 4 (kblad)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -4294,6 +4233,53 @@
                 "K84",
                 "K76",
                 "K85"
+            ],
+            "levels": [
+                {
+                    "target": "yy0"
+                },
+                {
+                    "target": "yy1"
+                },
+                {
+                    "target": "mid-ac-4-K79"
+                },
+                {
+                    "target": "yy3"
+                },
+                {
+                    "target": "mid-ac-4-K80"
+                },
+                {
+                    "target": "yy5"
+                },
+                {
+                    "target": "mid-ac-4-K81"
+                },
+                {
+                    "target": "yy7"
+                },
+                {
+                    "target": "mid-ac-4-K82"
+                },
+                {
+                    "target": "yy9"
+                },
+                {
+                    "target": "mid-ac-4-K83"
+                },
+                {
+                    "target": "yy11"
+                },
+                {
+                    "target": "mid-ac-4-K84"
+                },
+                {
+                    "target": "yy13"
+                },
+                {
+                    "target": "leafroot-ac-4-K85-all"
+                }
             ]
         },
         {
@@ -4304,36 +4290,12 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "root-ac-4-K79",
-            "leaf": "leafroot-ac-4-K85-all",
+            "leaf": "mid-ac-4-K79",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0
             ],
             "housingLyphs": [
-                "K79",
-                "K71",
-                "K80",
-                "K72",
-                "K81",
-                "K73",
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K79"
             ]
         },
         {
@@ -4344,32 +4306,12 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "root-ac-4-K80",
-            "leaf": "leafroot-ac-4-K85-all",
+            "leaf": "mid-ac-4-K80",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0
             ],
             "housingLyphs": [
-                "K80",
-                "K72",
-                "K81",
-                "K73",
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K80"
             ]
         },
         {
@@ -4380,28 +4322,12 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "root-ac-4-K81",
-            "leaf": "leafroot-ac-4-K85-all",
+            "leaf": "mid-ac-4-K81",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0
             ],
             "housingLyphs": [
-                "K81",
-                "K73",
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K81"
             ]
         },
         {
@@ -4412,24 +4338,12 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "root-ac-4-K82",
-            "leaf": "leafroot-ac-4-K85-all",
+            "leaf": "mid-ac-4-K82",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0
             ],
             "housingLyphs": [
-                "K82",
-                "K74",
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K82"
             ]
         },
         {
@@ -4440,20 +4354,12 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "root-ac-4-K83",
-            "leaf": "leafroot-ac-4-K85-all",
+            "leaf": "mid-ac-4-K83",
             "housingLayers": [
-                0,
-                0,
-                0,
-                0,
                 0
             ],
             "housingLyphs": [
-                "K83",
-                "K75",
-                "K84",
-                "K76",
-                "K85"
+                "K83"
             ]
         },
         {
@@ -4464,16 +4370,12 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "root-ac-4-K84",
-            "leaf": "leafroot-ac-4-K85-all",
+            "leaf": "mid-ac-4-K84",
             "housingLayers": [
-                0,
-                0,
                 0
             ],
             "housingLyphs": [
-                "K84",
-                "K76",
-                "K85"
+                "K84"
             ]
         },
         {
@@ -4486,11 +4388,9 @@
             "root": "root-ac-4-K85",
             "leaf": "leafroot-ac-4-K85-all",
             "housingLayers": [
-                0,
                 0
             ],
             "housingLyphs": [
-                "K85",
                 "K85"
             ]
         },
@@ -4570,7 +4470,7 @@
             "housingLayers": [
                 0,
                 3,
-                3
+                1
             ],
             "housingLyphs": [
                 "n-blad",
@@ -4590,7 +4490,7 @@
             "housingLayers": [
                 0,
                 3,
-                3
+                1
             ],
             "housingLyphs": [
                 "n-blad",
@@ -4650,7 +4550,7 @@
             "root": "ns162",
             "leaf": "ns163",
             "housingLayers": [
-                12,
+                13,
                 12
             ],
             "housingLyphs": [
@@ -4723,7 +4623,7 @@
             "leaf": "ns167",
             "housingLayers": [
                 13,
-                6
+                2
             ],
             "housingLyphs": [
                 "K27",
@@ -5294,7 +5194,7 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns261",
+            "root": "ns260",
             "leaf": "ns261_5",
             "housingLayers": [
                 0
@@ -5310,7 +5210,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns260",
+            "root": "ns261",
             "leaf": "ns262",
             "housingLayers": [
                 0,
@@ -5690,13 +5590,19 @@
         {
             "id": "somata",
             "name": "Somata",
+            "lyphs": [
+                "snl18",
+                "snl28"
+            ],
             "links": [
                 "lnk-snl17",
                 "lnk-snl27",
                 "lnk-sns15",
                 "lnk-snl59",
                 "lnk-snl69",
-                "lnk-snl65"
+                "lnk-snl65",
+                "lnk-snl18",
+                "lnk-snl28"
             ]
         }
     ],

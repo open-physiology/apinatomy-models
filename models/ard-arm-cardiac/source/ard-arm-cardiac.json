@@ -723,7 +723,7 @@
             "id": "A50",
             "name": "T1 sympathetic ganglion (aacar)",
             "ontologyTerms": [
-                "ILX:0785119"
+                "ILX:0774266"
             ],
             "internalLyphs": [
                 "sn-sgt1_6"
@@ -1009,12 +1009,12 @@
                 5
             ],
             "layers": [
-                "A91",
-                "A90",
-                "A89",
-                "A88",
+                "A83",
                 "A87",
-                "A83"
+                "A88",
+                "A89",
+                "A90",
+                "A91"
             ]
         },
         {
@@ -1024,9 +1024,9 @@
                 "UBERON:0002078"
             ],
             "layers": [
-                "AM_46",
-                "AM_47",
-                "AM_7"
+                "AM_7",
+                "AM47",
+                "AM46"
             ]
         },
         {
@@ -1036,9 +1036,9 @@
                 "UBERON:0002080"
             ],
             "layers": [
-                "AM_46",
-                "AM_47",
-                "AM_7"
+                "AM_7",
+                "AM47",
+                "AM46"
             ]
         },
         {
@@ -1048,9 +1048,9 @@
                 "UBERON:0002079"
             ],
             "layers": [
-                "AM_46",
-                "AM_47",
-                "AM_7"
+                "AM_7",
+                "AM47",
+                "AM46"
             ]
         },
         {
@@ -1060,9 +1060,9 @@
                 "UBERON:0002084"
             ],
             "layers": [
-                "AM_46",
-                "AM_47",
-                "AM_7"
+                "AM_7",
+                "AM47",
+                "AM46"
             ]
         },
         {
@@ -1072,15 +1072,18 @@
                 "UBERON:0000947"
             ],
             "layers": [
-                "AM_54",
-                "AM_10",
+                "AM_7",
                 "AM_6",
-                "AM_7"
+                "AM_10",
+                "AM_54"
             ]
         },
         {
             "id": "A80",
             "name": "Atrial intrinsic cardiac ganglion (aacar)",
+            "ontologyTerms": [
+                "ILX:0793555"
+            ],
             "internalLyphs": [
                 "sn-aicg_8",
                 "sn-aicg_9",
@@ -1097,6 +1100,9 @@
         {
             "id": "A81",
             "name": "Ventricular intrinsic cardiac ganglion (aacar)",
+            "ontologyTerms": [
+                "ILX:0793556"
+            ],
             "internalLyphs": [
                 "sn-vicg_8",
                 "sn-vicg_9",
@@ -1114,7 +1120,7 @@
             "id": "A82",
             "name": "Mediastinal (aacar)",
             "ontologyTerms": [
-                "NCIT:C25310"
+                "ILX:0793550"
             ],
             "internalLyphs": [
                 "sn-med_6"
@@ -1144,24 +1150,24 @@
                 "UBERON:0002165"
             ],
             "layers": [
-                "AM_54",
-                "AM_10",
+                "AM_7",
                 "AM_6",
-                "AM_7"
+                "AM_10",
+                "AM_54"
             ]
         },
         {
             "id": "A86",
             "name": "Pericardium (aacar)",
             "ontologyTerms": [
-                "EMAPA:16133"
+                "UBERON:0002407"
             ]
         },
         {
             "id": "A87",
             "name": "Visceral Pericardium (aacar)",
             "ontologyTerms": [
-                "EMAPA:16589"
+                "UBERON:0002425"
             ]
         },
         {
@@ -1175,7 +1181,7 @@
             "id": "A89",
             "name": "Parietal Pericardium (aacar)",
             "ontologyTerms": [
-                "EMAPA:16588"
+                "UBERON:0002408"
             ]
         },
         {
@@ -1218,6 +1224,12 @@
             "name": "Pulmonary artery (aacar)",
             "ontologyTerms": [
                 "UBERON:0002012"
+            ],
+            "layers": [
+                "AM_7",
+                "AM_6",
+                "AM_10",
+                "AM_54"
             ]
         },
         {
@@ -1311,7 +1323,7 @@
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (aacar)",
+            "name": "Axon sensory terminal or dendrite terminal (aacar)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
@@ -1325,12 +1337,21 @@
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (aacar)",
+            "name": "Axon sensory segment or dendrite segment (aacar)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
             "isTemplate": true,
             "topology": "TUBE"
+        },
+        {
+            "id": "soma-bag",
+            "name": "Soma terminal (aacar)",
+            "ontologyTerms": [
+                "SAO:1044911821"
+            ],
+            "isTemplate": true,
+            "topology": "BAG-"
         },
         {
             "id": "sn-nts_1",
@@ -1717,6 +1738,13 @@
             ],
             "topology": "TUBE",
             "supertype": "229"
+        },
+        {
+            "id": "central-nervous-system",
+            "name": "central nervous system (aacar)",
+            "ontologyTerms": [
+                "UBERON:0001017"
+            ]
         }
     ],
     "materials": [
@@ -2023,7 +2051,10 @@
         },
         {
             "id": "AM_44",
-            "name": "Mediastinal"
+            "name": "Mediastinal ganglion",
+            "ontologyTerms": [
+                "ILX:0793550"
+            ]
         },
         {
             "id": "AM_45",
@@ -2050,14 +2081,14 @@
             "id": "AM_48",
             "name": "Pericardium",
             "ontologyTerms": [
-                "EMAPA:16133"
+                "UBERON:0002407"
             ]
         },
         {
             "id": "AM_49",
             "name": "Visceral Pericardium",
             "ontologyTerms": [
-                "EMAPA:16589"
+                "UBERON:0002425"
             ]
         },
         {
@@ -2071,7 +2102,7 @@
             "id": "AM_51",
             "name": "Parietal Pericardium",
             "ontologyTerms": [
-                "EMAPA:16588"
+                "UBERON:0002408"
             ]
         },
         {
@@ -2090,7 +2121,10 @@
         },
         {
             "id": "AM_54",
-            "name": "Adventitia"
+            "name": "Arterial Adventitia",
+            "ontologyTerms": [
+                "UBERON:0007240"
+            ]
         }
     ],
     "chains": [
@@ -2304,7 +2338,7 @@
             "leaf": "ns16",
             "housingLayers": [
                 0,
-                0,
+                5,
                 0
             ],
             "housingLyphs": [
@@ -2324,7 +2358,7 @@
             "leaf": "ns17",
             "housingLayers": [
                 0,
-                0,
+                5,
                 0
             ],
             "housingLyphs": [
@@ -2349,6 +2383,81 @@
             ]
         },
         {
+            "id": "dc-t5_5",
+            "name": "Dendrite in T5 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns32",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "A13"
+            ]
+        },
+        {
+            "id": "dc-t4_5",
+            "name": "Dendrite in T4 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns29",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "A12"
+            ]
+        },
+        {
+            "id": "dc-t3_5",
+            "name": "Dendrite in T3 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns26",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "A11"
+            ]
+        },
+        {
+            "id": "dc-t2_5",
+            "name": "Dendrite in T2 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns23",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "A10"
+            ]
+        },
+        {
+            "id": "dc-t1_5",
+            "name": "Dendrite in T1 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns20",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "A9"
+            ]
+        },
+        {
             "id": "ac_t6_5",
             "name": "Axon in T6 spinal cord segment_Neuron 5 (aacar)",
             "ontologyTerms": [
@@ -2356,7 +2465,7 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns36",
-            "leaf": "ns37",
+            "leaf": "main-5-t6",
             "housingLayers": [
                 6,
                 13,
@@ -2373,14 +2482,185 @@
             ]
         },
         {
-            "id": "ac_t6sg_5",
-            "name": "Axon in T6 sympathetic ganglia_Neuron 5 (aacar)",
+            "id": "ac_t5_5",
+            "name": "Axon in T5 spinal cord segment_Neuron 5 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns37",
-            "leaf": "nsLOL5",
+            "root": "ns33",
+            "leaf": "m5-t5",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A13",
+                "A13",
+                "A36",
+                "A42",
+                "A54"
+            ]
+        },
+        {
+            "id": "ac_t4_5",
+            "name": "Axon in T4 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns30",
+            "leaf": "m5-t4",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A12",
+                "A12",
+                "A35",
+                "A41",
+                "A53"
+            ]
+        },
+        {
+            "id": "ac_t3_5",
+            "name": "Axon in T3 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns27",
+            "leaf": "m5-t3",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A11",
+                "A11",
+                "A34",
+                "A40",
+                "A52"
+            ]
+        },
+        {
+            "id": "ac_t2_5",
+            "name": "Axon in T2 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns24",
+            "leaf": "m5-t2",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A10",
+                "A10",
+                "A33",
+                "A39",
+                "A51"
+            ]
+        },
+        {
+            "id": "ac_t1_5",
+            "name": "Axon in T1 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns21",
+            "leaf": "m5-t1",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A9",
+                "A9",
+                "A32",
+                "A38",
+                "A50"
+            ]
+        },
+        {
+            "id": "ac_med_5",
+            "name": "Axon from sympathetic ganglia to mediastinal_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns50",
+            "leaf": "ns51",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A82"
+            ]
+        },
+        {
+            "id": "ac_vicg_5",
+            "name": "Axon from sympathetic ganglia to ventricular ICG_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns50",
+            "leaf": "ns52",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A81"
+            ]
+        },
+        {
+            "id": "ac_aicg_5",
+            "name": "Axon from sympathetic ganglia to atrial ICG_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns50",
+            "leaf": "ns53",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A80"
+            ]
+        },
+        {
+            "id": "main-5",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "main-5-t6",
+            "leaf": "main-5-s",
             "housingLayers": [
                 0,
                 0,
@@ -2418,16 +2698,203 @@
                 "A62",
                 "A94",
                 "A63"
+            ],
+            "levels": [
+                {
+                    "target": "xx0"
+                },
+                {
+                    "target": "xx1"
+                },
+                {
+                    "target": "m5-t5"
+                },
+                {
+                    "target": "xx3"
+                },
+                {
+                    "target": "m5-t4"
+                },
+                {
+                    "target": "xx5"
+                },
+                {
+                    "target": "m5-t3"
+                },
+                {
+                    "target": "xx7"
+                },
+                {
+                    "target": "m5-t2"
+                },
+                {
+                    "target": "xx9"
+                },
+                {
+                    "target": "m5-t1"
+                },
+                {
+                    "target": "xx11"
+                },
+                {
+                    "target": "m5-i"
+                },
+                {
+                    "target": "xx13"
+                },
+                {
+                    "target": "m5-m"
+                },
+                {
+                    "target": "xx15"
+                },
+                {
+                    "target": "main-5-s"
+                }
             ]
         },
         {
-            "id": "ac_t6sgout_5",
-            "name": "Axon out of T6 sympathetic ganglia_Neuron 5 (aacar)",
+            "id": "main-5-t6-syn",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns37",
+            "root": "main-5-t6",
+            "leaf": "m5-t6-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A55"
+            ]
+        },
+        {
+            "id": "main-5-t5-syn",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m5-t5",
+            "leaf": "m5-t5-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A54"
+            ]
+        },
+        {
+            "id": "main-5-t4-syn",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m5-t4",
+            "leaf": "m5-t4-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A53"
+            ]
+        },
+        {
+            "id": "main-5-t3-syn",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m5-t3",
+            "leaf": "m5-t3-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A52"
+            ]
+        },
+        {
+            "id": "main-5-t2-syn",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m5-t2",
+            "leaf": "m5-t2-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A51"
+            ]
+        },
+        {
+            "id": "main-5-t1-syn",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m5-t1",
+            "leaf": "m5-t1-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A50"
+            ]
+        },
+        {
+            "id": "main-5-i-syn",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m5-i",
+            "leaf": "m5-i-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A61"
+            ]
+        },
+        {
+            "id": "main-5-m-syn",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "m5-m",
+            "leaf": "m5-m-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A62"
+            ]
+        },
+        {
+            "id": "main-5-s-syn",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "main-5-s",
+            "leaf": "m5-s-syn",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A63"
+            ]
+        },
+        {
+            "id": "main-5-t6-linker",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "main-5-t6",
             "leaf": "ns50",
             "housingLayers": [
                 0
@@ -2437,97 +2904,13 @@
             ]
         },
         {
-            "id": "dc-t5_5",
-            "name": "Dendrite in T5 spinal cord segment_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns32",
-            "housingLayers": [
-                6
-            ],
-            "housingLyphs": [
-                "A13"
-            ]
-        },
-        {
-            "id": "ac_t5_5",
-            "name": "Axon in T5 spinal cord segment_Neuron 5 (aacar)",
+            "id": "m5-t5-linker",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns33",
-            "leaf": "ns34",
-            "housingLayers": [
-                6,
-                13,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A13",
-                "A13",
-                "A36",
-                "A42",
-                "A54"
-            ]
-        },
-        {
-            "id": "ac_t5sg_5",
-            "name": "Axon in T5 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns34",
-            "leaf": "nsLOL5",
-            "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A54",
-                "A59",
-                "A53",
-                "A58",
-                "A52",
-                "A57",
-                "A51",
-                "A56",
-                "A50",
-                "A92",
-                "A61",
-                "A93",
-                "A62",
-                "A94",
-                "A63"
-            ]
-        },
-        {
-            "id": "ac_t5sgout_5",
-            "name": "Axon out of T5 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns34",
-            "leaf": "ns41",
+            "root": "m5-t5",
+            "leaf": "ns50",
             "housingLayers": [
                 0
             ],
@@ -2536,93 +2919,13 @@
             ]
         },
         {
-            "id": "dc-t4_5",
-            "name": "Dendrite in T4 spinal cord segment_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns29",
-            "housingLayers": [
-                6
-            ],
-            "housingLyphs": [
-                "A12"
-            ]
-        },
-        {
-            "id": "ac_t4_5",
-            "name": "Axon in T4 spinal cord segment_Neuron 5 (aacar)",
+            "id": "m5-t4-linker",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns30",
-            "leaf": "ns31",
-            "housingLayers": [
-                6,
-                13,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A12",
-                "A12",
-                "A35",
-                "A41",
-                "A53"
-            ]
-        },
-        {
-            "id": "ac_t4sg_5",
-            "name": "Axon in T4 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns31",
-            "leaf": "nsLOL5",
-            "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A53",
-                "A58",
-                "A52",
-                "A57",
-                "A51",
-                "A56",
-                "A50",
-                "A92",
-                "A61",
-                "A93",
-                "A62",
-                "A94",
-                "A63"
-            ]
-        },
-        {
-            "id": "ac_t4sgout_5",
-            "name": "Axon out of T4 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns31",
-            "leaf": "ns43",
+            "root": "m5-t4",
+            "leaf": "ns50",
             "housingLayers": [
                 0
             ],
@@ -2631,89 +2934,13 @@
             ]
         },
         {
-            "id": "dc-t3_5",
-            "name": "Dendrite in T3 spinal cord segment_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns26",
-            "housingLayers": [
-                6
-            ],
-            "housingLyphs": [
-                "A11"
-            ]
-        },
-        {
-            "id": "ac_t3_5",
-            "name": "Axon in T3 spinal cord segment_Neuron 5 (aacar)",
+            "id": "m5-t3-linker",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns27",
-            "leaf": "ns28",
-            "housingLayers": [
-                6,
-                13,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A11",
-                "A11",
-                "A34",
-                "A40",
-                "A52"
-            ]
-        },
-        {
-            "id": "ac_t3sg_5",
-            "name": "Axon in T3 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns28",
-            "leaf": "nsLOL5",
-            "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A52",
-                "A57",
-                "A51",
-                "A56",
-                "A50",
-                "A92",
-                "A61",
-                "A93",
-                "A62",
-                "A94",
-                "A63"
-            ]
-        },
-        {
-            "id": "ac_t3sgout_5",
-            "name": "Axon out of T3 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns28",
-            "leaf": "ns45",
+            "root": "m5-t3",
+            "leaf": "ns50",
             "housingLayers": [
                 0
             ],
@@ -2722,87 +2949,14 @@
             ]
         },
         {
-            "id": "dc-t2_5",
-            "name": "Dendrite in T2 spinal cord segment_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns23",
-            "housingLayers": [
-                6
-            ],
-            "housingLyphs": [
-                "A10"
-            ]
-        },
-        {
-            "id": "ac_t2_5",
-            "name": "Axon in T2 spinal cord segment_Neuron 5 (aacar)",
+            "id": "m5-t2-linker",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns24",
-            "leaf": "ns25",
+            "root": "m5-t2",
+            "leaf": "ns50",
             "housingLayers": [
-                6,
-                13,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A10",
-                "A10",
-                "A33",
-                "A39",
-                "A51"
-            ]
-        },
-        {
-            "id": "ac_t2sg_5",
-            "name": "Axon in T2 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns25",
-            "leaf": "nsLOL5",
-            "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A51",
-                "A56",
-                "A50",
-                "A92",
-                "A61",
-                "A93",
-                "A62",
-                "A94",
-                "A63"
-            ]
-        },
-        {
-            "id": "ac_t2sgout_5",
-            "name": "Axon out of T2 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns25",
-            "leaf": "ns47",
-            "housingLayers": [
-                0,
                 0
             ],
             "housingLyphs": [
@@ -2810,172 +2964,18 @@
             ]
         },
         {
-            "id": "dc-t1_5",
-            "name": "Dendrite in T1 spinal cord segment_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns20",
-            "housingLayers": [
-                6
-            ],
-            "housingLyphs": [
-                "A9"
-            ]
-        },
-        {
-            "id": "ac_t1_5",
-            "name": "Axon in T1 spinal cord segment_Neuron 5 (aacar)",
+            "id": "m5-t1-linker",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-tube",
-            "root": "ns21",
-            "leaf": "ns22",
-            "housingLayers": [
-                6,
-                13,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A9",
-                "A9",
-                "A32",
-                "A38",
-                "A50"
-            ]
-        },
-        {
-            "id": "ac_t1sg_5",
-            "name": "Axon in T1 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns22",
-            "leaf": "nsLOL5",
-            "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A50",
-                "A92",
-                "A61",
-                "A93",
-                "A62",
-                "A94",
-                "A63"
-            ]
-        },
-        {
-            "id": "ac_t1sgout_5",
-            "name": "Axon out of T1 sympathetic ganglia_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns22",
-            "leaf": "ns49",
+            "root": "m5-t1",
+            "leaf": "ns50",
             "housingLayers": [
                 0
             ],
             "housingLyphs": [
                 "A50"
-            ]
-        },
-        {
-            "id": "ac_common_scg_5",
-            "name": "Axon terminal in SCG of Neuron 5",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "nsLOL5",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A63"
-            ]
-        },
-        {
-            "id": "ac_med_5",
-            "name": "Axon from sympathetic ganglia to mediastinal_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns50",
-            "leaf": "ns51",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A82"
-            ]
-        },
-        {
-            "id": "ac_vicg_5",
-            "name": "Axon from sympathetic ganglia to ventricular ICG_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns50",
-            "leaf": "ns52",
-            "housingLayers": [
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A82",
-                "A74",
-                "A81"
-            ]
-        },
-        {
-            "id": "ac_aicg_5",
-            "name": "Axon from sympathetic ganglia to atrial ICG_Neuron 5 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns50",
-            "leaf": "ns53",
-            "housingLayers": [
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A82",
-                "A74",
-                "A80"
-            ]
-        },
-        {
-            "id": "dc-sn-sgt1_6",
-            "name": "Dendrite in the T1 sympathetic ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns80",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A55"
             ]
         },
         {
@@ -2987,6 +2987,177 @@
             "lyphTemplate": "axon-tube",
             "root": "ns81",
             "leaf": "ns101",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A55",
+                "A44"
+            ]
+        },
+        {
+            "id": "ac-sn-sgt2_6",
+            "name": "Axon in the T2 sympathetic ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns84",
+            "leaf": "ns101",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A54",
+                "A45"
+            ]
+        },
+        {
+            "id": "ac-sn-sgt3_6",
+            "name": "Axon in the T3 sympathetic ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns86",
+            "leaf": "ns101",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A53",
+                "A46"
+            ]
+        },
+        {
+            "id": "ac-sn-sgt4_6",
+            "name": "Axon in the T4 sympathetic ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns88",
+            "leaf": "ns101",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A52",
+                "A47"
+            ]
+        },
+        {
+            "id": "ac-sn-sgt5_6",
+            "name": "Axon in the T5 sympathetic ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns90",
+            "leaf": "ns101",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A51",
+                "A48"
+            ]
+        },
+        {
+            "id": "ac-sn-sgt6_6",
+            "name": "Axon in the T6 sympathetic ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns92",
+            "leaf": "ns101",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A50",
+                "A49"
+            ]
+        },
+        {
+            "id": "ac-sn-icg_6",
+            "name": "Axon in the Inferior cervical ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns94",
+            "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A61"
+            ]
+        },
+        {
+            "id": "ac-sn-mcg_6",
+            "name": "Axon in the Middle cervical ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns96",
+            "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A62"
+            ]
+        },
+        {
+            "id": "ac-sn-scg_6",
+            "name": "Axon in the Superior cervical ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns98",
+            "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A63"
+            ]
+        },
+        {
+            "id": "ac-sn-med_6",
+            "name": "Axon in the Mediastinal_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns100",
+            "leaf": "ns101",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "A82"
+            ]
+        },
+        {
+            "id": "dc-sn-sgt1_6",
+            "name": "Dendrite in the T1 sympathetic ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns80",
             "housingLayers": [
                 0
             ],
@@ -3010,22 +3181,6 @@
             ]
         },
         {
-            "id": "ac-sn-sgt2_6",
-            "name": "Axon in the T2 sympathetic ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns84",
-            "leaf": "ns101",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A54"
-            ]
-        },
-        {
             "id": "dc-sn-sgt3_6",
             "name": "Dendrite in the T3 sympathetic ganglion_Neuron 6 (aacar)",
             "ontologyTerms": [
@@ -3033,22 +3188,6 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns85",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A53"
-            ]
-        },
-        {
-            "id": "ac-sn-sgt3_6",
-            "name": "Axon in the T3 sympathetic ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns86",
-            "leaf": "ns101",
             "housingLayers": [
                 0
             ],
@@ -3072,22 +3211,6 @@
             ]
         },
         {
-            "id": "ac-sn-sgt4_6",
-            "name": "Axon in the T4 sympathetic ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns88",
-            "leaf": "ns101",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A52"
-            ]
-        },
-        {
             "id": "dc-sn-sgt5_6",
             "name": "Dendrite in the T5 sympathetic ganglion_Neuron 6 (aacar)",
             "ontologyTerms": [
@@ -3095,22 +3218,6 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns89",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A51"
-            ]
-        },
-        {
-            "id": "ac-sn-sgt5_6",
-            "name": "Axon in the T5 sympathetic ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns90",
-            "leaf": "ns101",
             "housingLayers": [
                 0
             ],
@@ -3134,22 +3241,6 @@
             ]
         },
         {
-            "id": "ac-sn-sgt6_6",
-            "name": "Axon in the T6 sympathetic ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns92",
-            "leaf": "ns101",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A50"
-            ]
-        },
-        {
             "id": "dc-sn-icg_6",
             "name": "Dendrite in the Inferior cervical ganglion_Neuron 6 (aacar)",
             "ontologyTerms": [
@@ -3157,22 +3248,6 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns93",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A61"
-            ]
-        },
-        {
-            "id": "ac-sn-icg_6",
-            "name": "Axon in the Inferior cervical ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns94",
-            "leaf": "ns101",
             "housingLayers": [
                 0
             ],
@@ -3196,22 +3271,6 @@
             ]
         },
         {
-            "id": "ac-sn-mcg_6",
-            "name": "Axon in the Middle cervical ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns96",
-            "leaf": "ns101",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A62"
-            ]
-        },
-        {
             "id": "dc-sn-scg_6",
             "name": "Dendrite in the Superior cervical ganglion_Neuron 6 (aacar)",
             "ontologyTerms": [
@@ -3219,22 +3278,6 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns97",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A63"
-            ]
-        },
-        {
-            "id": "ac-sn-scg_6",
-            "name": "Axon in the Superior cervical ganglion_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns98",
-            "leaf": "ns101",
             "housingLayers": [
                 0
             ],
@@ -3258,24 +3301,8 @@
             ]
         },
         {
-            "id": "ac-sn-med_6",
-            "name": "Axon in the Mediastinal_Neuron 6 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns100",
-            "leaf": "ns101",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A82"
-            ]
-        },
-        {
             "id": "ac-sn-vicg_6",
-            "name": "Axon to the Ventricular Inferior cervical ganglion_Neuron 6 (aacar)",
+            "name": "Axon to the Ventricular Intrinsic Cardiac ganglion_Neuron 6 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3283,22 +3310,50 @@
             "root": "ns101",
             "leaf": "ns102",
             "housingLayers": [
+                5,
                 0,
-                0,
-                1,
-                2,
-                3,
-                4,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A74",
                 "A81",
                 "A74",
-                "A74",
-                "A74",
-                "A74",
                 "A74"
+            ]
+        },
+        {
+            "id": "ac-heart-to-vent-icg-6",
+            "name": "Axon terminal in Ventricular Intrinsic Cardiac ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns101",
+            "leaf": "ns101_6",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A81"
+            ]
+        },
+        {
+            "id": "ac-vent-epi-term-6",
+            "name": "Axon terminal in ventricular epicardium Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns102",
+            "leaf": "ns102_2",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "74"
             ]
         },
         {
@@ -3311,7 +3366,7 @@
             "root": "ns102",
             "leaf": "ns102_0",
             "housingLayers": [
-                5,
+                0,
                 0
             ],
             "housingLyphs": [
@@ -3329,7 +3384,7 @@
             "root": "ns102",
             "leaf": "ns102_1",
             "housingLayers": [
-                5,
+                0,
                 0,
                 1
             ],
@@ -3349,7 +3404,7 @@
             "root": "ns102",
             "leaf": "ns103_0",
             "housingLayers": [
-                5,
+                0,
                 0
             ],
             "housingLyphs": [
@@ -3367,7 +3422,7 @@
             "root": "ns102",
             "leaf": "ns103_1",
             "housingLayers": [
-                5,
+                0,
                 0,
                 1
             ],
@@ -3379,7 +3434,7 @@
         },
         {
             "id": "ac-sn-aicg_6",
-            "name": "Axon to the Arterial Inferior cervical ganglion_Neuron 6 (aacar)",
+            "name": "Axon to the Atrial Intrinsic Cardiac ganglion_Neuron 6 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3387,14 +3442,50 @@
             "root": "ns101",
             "leaf": "ns104",
             "housingLayers": [
+                5,
                 0,
-                0,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A74",
                 "A80",
+                "A74",
                 "A74"
+            ]
+        },
+        {
+            "id": "ac-heart-to-atrial-icg-6",
+            "name": "Axon terminal in Atrial Intrinsic Cardiac ganglion_Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns101",
+            "leaf": "ns101_5",
+            "housingLayers": [
+                5,
+                0
+            ],
+            "housingLyphs": [
+                "A74",
+                "A80"
+            ]
+        },
+        {
+            "id": "ac-atrial-epi-term-6",
+            "name": "Axon terminal in ventricular epicardium Neuron 6 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns104",
+            "leaf": "ns104_2",
+            "housingLayers": [
+                0
+            ],
+            "housingLyphs": [
+                "74"
             ]
         },
         {
@@ -3407,8 +3498,8 @@
             "root": "ns104",
             "leaf": "ns105_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3425,8 +3516,8 @@
             "root": "ns104",
             "leaf": "ns105_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3445,8 +3536,8 @@
             "root": "ns104",
             "leaf": "ns106_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3463,8 +3554,8 @@
             "root": "ns104",
             "leaf": "ns106_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3500,19 +3591,11 @@
             "leaf": "ns112",
             "housingLayers": [
                 0,
-                0,
-                1,
-                2,
-                3,
-                4,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A80",
-                "A74",
-                "A74",
-                "A74",
-                "A74",
                 "A74",
                 "A74"
             ]
@@ -3527,7 +3610,7 @@
             "root": "ns112",
             "leaf": "ns115",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -3543,8 +3626,8 @@
             "root": "ns112",
             "leaf": "ns115_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3561,8 +3644,8 @@
             "root": "ns112",
             "leaf": "ns115_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3581,8 +3664,8 @@
             "root": "ns112",
             "leaf": "ns116_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3599,8 +3682,8 @@
             "root": "ns112",
             "leaf": "ns116_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3635,8 +3718,8 @@
             "leaf": "ns117",
             "housingLayers": [
                 0,
-                0,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A81",
@@ -3654,7 +3737,7 @@
             "root": "ns117",
             "leaf": "ns118",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -3670,7 +3753,7 @@
             "root": "ns117",
             "leaf": "ns118_0",
             "housingLayers": [
-                5,
+                0,
                 0
             ],
             "housingLyphs": [
@@ -3688,12 +3771,13 @@
             "root": "ns117",
             "leaf": "ns118_1",
             "housingLayers": [
-                5,
+                0,
                 0,
                 1
             ],
             "housingLyphs": [
                 "A74",
+                "A78",
                 "A78"
             ]
         },
@@ -3707,8 +3791,8 @@
             "root": "ns117",
             "leaf": "ns119_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3725,8 +3809,8 @@
             "root": "ns117",
             "leaf": "ns119_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3761,19 +3845,11 @@
             "leaf": "ns122",
             "housingLayers": [
                 0,
-                0,
-                1,
-                2,
-                3,
-                4,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A80",
-                "A74",
-                "A74",
-                "A74",
-                "A74",
                 "A74",
                 "A74"
             ]
@@ -3788,7 +3864,7 @@
             "root": "ns122",
             "leaf": "ns123",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -3804,8 +3880,8 @@
             "root": "ns122",
             "leaf": "ns123_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3822,8 +3898,8 @@
             "root": "ns122",
             "leaf": "ns123_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3842,8 +3918,8 @@
             "root": "ns122",
             "leaf": "ns124_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3860,8 +3936,8 @@
             "root": "ns122",
             "leaf": "ns124_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3896,8 +3972,8 @@
             "leaf": "ns127",
             "housingLayers": [
                 0,
-                0,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A81",
@@ -3915,7 +3991,7 @@
             "root": "ns127",
             "leaf": "ns128",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -3931,8 +4007,8 @@
             "root": "ns127",
             "leaf": "ns128_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3949,8 +4025,8 @@
             "root": "ns127",
             "leaf": "ns128_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3969,8 +4045,8 @@
             "root": "ns127",
             "leaf": "ns129",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3987,8 +4063,8 @@
             "root": "ns127",
             "leaf": "ns129",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -4003,7 +4079,7 @@
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns130",
             "housingLayers": [
                 0
@@ -4018,13 +4094,13 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
+            "lyphTemplate": "dend-tube",
             "root": "ns131",
             "leaf": "ns132",
             "housingLayers": [
                 0,
-                0,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A80",
@@ -4038,11 +4114,11 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns132",
             "leaf": "ns133",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -4054,12 +4130,12 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns132",
             "leaf": "ns133_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -4072,12 +4148,12 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns132",
             "leaf": "ns133_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -4092,12 +4168,12 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns132",
             "leaf": "ns134_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -4110,12 +4186,12 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns132",
             "leaf": "ns134_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -4130,7 +4206,7 @@
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns140",
             "leaf": "ns140_1",
             "housingLayers": [
@@ -4146,13 +4222,13 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-tube",
+            "lyphTemplate": "dend-tube",
             "root": "ns141",
             "leaf": "ns142",
             "housingLayers": [
                 0,
-                0,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A81",
@@ -4166,7 +4242,7 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns142",
             "leaf": "ns143",
             "housingLayers": [
@@ -4182,12 +4258,12 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns142",
             "leaf": "ns143_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -4200,12 +4276,12 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns142",
             "leaf": "ns143_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -4220,12 +4296,12 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns142",
             "leaf": "ns144_0",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -4238,12 +4314,12 @@
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns142",
             "leaf": "ns144_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -4321,24 +4397,16 @@
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "dend-tube",
             "root": "ns160",
             "leaf": "ns162",
             "housingLayers": [
                 0,
-                0,
-                1,
-                2,
-                3,
-                4,
-                5
+                5,
+                0
             ],
             "housingLyphs": [
                 "A73",
-                "A74",
-                "A74",
-                "A74",
-                "A74",
                 "A74",
                 "A74"
             ]
@@ -4364,32 +4432,16 @@
             ]
         },
         {
-            "id": "dc-sn-la_11",
-            "name": "Dendrite from heart_layer 5 to heartla2_Neuron 11 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-tube",
-            "root": "ns162",
-            "leaf": "ns164",
-            "housingLayers": [
-                5
-            ],
-            "housingLyphs": [
-                "A74"
-            ]
-        },
-        {
             "id": "dc-sn-la2_11",
             "name": "Dendrite from heart_layer 5 to area around left atrium_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns164",
+            "root": "ns162",
             "leaf": "ns165",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -4402,10 +4454,10 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns164",
+            "root": "ns162",
             "leaf": "ns166",
             "housingLayers": [
-                5,
+                0,
                 0
             ],
             "housingLyphs": [
@@ -4420,10 +4472,10 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns164",
+            "root": "ns162",
             "leaf": "ns167",
             "housingLayers": [
-                5,
+                0,
                 0,
                 1
             ],
@@ -4440,10 +4492,10 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-tube",
-            "root": "ns164",
+            "root": "ns162",
             "leaf": "ns168",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -4459,7 +4511,7 @@
             "root": "ns168",
             "leaf": "ns169",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -4475,7 +4527,7 @@
             "root": "ns169",
             "leaf": "ns169_1",
             "housingLayers": [
-                5,
+                0,
                 0
             ],
             "housingLyphs": [
@@ -4493,7 +4545,7 @@
             "root": "ns169",
             "leaf": "ns169_2",
             "housingLayers": [
-                5,
+                0,
                 0,
                 1
             ],
@@ -4504,7 +4556,7 @@
             ]
         },
         {
-            "id": "dc-sn-olv_11",
+            "id": "dc-sn-lv00_11",
             "name": "Dendrite from heart_layer 5 to area outside of left ventricle_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
@@ -4513,10 +4565,48 @@
             "root": "ns169",
             "leaf": "ns170",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
+            ]
+        },
+        {
+            "id": "dc-sn-ra-mus_11",
+            "name": "Dendrite from heart to right atrium_layer 0_Neuron 11 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns162",
+            "leaf": "ns162_1",
+            "housingLayers": [
+                0,
+                2
+            ],
+            "housingLyphs": [
+                "A74",
+                "A75"
+            ]
+        },
+        {
+            "id": "dc-sn-ra-end_11",
+            "name": "Dendrite from heart to right atrium_layer 1_Neuron 11 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns162",
+            "leaf": "ns162_2",
+            "housingLayers": [
+                0,
+                2,
+                1
+            ],
+            "housingLyphs": [
+                "A74",
+                "A75",
+                "A75"
             ]
         },
         {
@@ -4529,7 +4619,7 @@
             "root": "ns168",
             "leaf": "ns171",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -4545,8 +4635,8 @@
             "root": "ns171",
             "leaf": "ns172",
             "housingLayers": [
-                5,
-                0
+                0,
+                3
             ],
             "housingLyphs": [
                 "A74",
@@ -4563,8 +4653,8 @@
             "root": "ns171",
             "leaf": "ns173",
             "housingLayers": [
-                5,
-                0
+                0,
+                3
             ],
             "housingLyphs": [
                 "A74",
@@ -4645,7 +4735,7 @@
             "root": "ns180_1",
             "leaf": "ns187",
             "housingLayers": [
-                0
+                3
             ],
             "housingLyphs": [
                 "A95"
@@ -4661,7 +4751,7 @@
             "root": "ns180_1",
             "leaf": "ns188",
             "housingLayers": [
-                0
+                3
             ],
             "housingLyphs": [
                 "A79"
@@ -4677,10 +4767,12 @@
             "root": "ns190",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A20"
+                "A20",
+                "A74"
             ]
         },
         {
@@ -4694,11 +4786,13 @@
             "leaf": "ns192",
             "housingLayers": [
                 0,
-                5
+                13,
+                0
             ],
             "housingLyphs": [
                 "A20",
-                "A74"
+                "A6",
+                "central-nervous-system"
             ]
         },
         {
@@ -4711,10 +4805,12 @@
             "root": "ns193",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A21"
+                "A21",
+                "A74"
             ]
         },
         {
@@ -4727,12 +4823,14 @@
             "root": "ns194",
             "leaf": "ns192_1",
             "housingLayers": [
-                5,
+                0,
+                13,
                 0
             ],
             "housingLyphs": [
-                "A74",
-                "A21"
+                "A21",
+                "A7",
+                "central-nervous-system"
             ]
         },
         {
@@ -4745,10 +4843,12 @@
             "root": "ns195",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A22"
+                "A22",
+                "A74"
             ]
         },
         {
@@ -4762,11 +4862,13 @@
             "leaf": "ns192_2",
             "housingLayers": [
                 0,
-                5
+                13,
+                0
             ],
             "housingLyphs": [
                 "A22",
-                "A74"
+                "A8",
+                "central-nervous-system"
             ]
         },
         {
@@ -4779,10 +4881,12 @@
             "root": "ns197",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A23"
+                "A23",
+                "A74"
             ]
         },
         {
@@ -4796,11 +4900,13 @@
             "leaf": "ns192_3",
             "housingLayers": [
                 0,
-                5
+                13,
+                0
             ],
             "housingLyphs": [
                 "A23",
-                "A74"
+                "A9",
+                "central-nervous-system"
             ]
         },
         {
@@ -4813,10 +4919,12 @@
             "root": "ns199",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A24"
+                "A24",
+                "A74"
             ]
         },
         {
@@ -4830,11 +4938,13 @@
             "leaf": "ns192_4",
             "housingLayers": [
                 0,
-                5
+                13,
+                0
             ],
             "housingLyphs": [
                 "A24",
-                "A74"
+                "A10",
+                "central-nervous-system"
             ]
         },
         {
@@ -4847,10 +4957,12 @@
             "root": "ns201",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A25"
+                "A25",
+                "A74"
             ]
         },
         {
@@ -4864,11 +4976,13 @@
             "leaf": "ns202_1",
             "housingLayers": [
                 0,
-                5
+                13,
+                0
             ],
             "housingLyphs": [
                 "A25",
-                "A74"
+                "A11",
+                "central-nervous-system"
             ]
         },
         {
@@ -4881,10 +4995,12 @@
             "root": "ns203",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A26"
+                "A26",
+                "A74"
             ]
         },
         {
@@ -4898,11 +5014,13 @@
             "leaf": "ns204_1",
             "housingLayers": [
                 0,
-                5
+                13,
+                0
             ],
             "housingLyphs": [
                 "A26",
-                "A74"
+                "A12",
+                "central-nervous-system"
             ]
         },
         {
@@ -4915,10 +5033,12 @@
             "root": "ns205",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A27"
+                "A27",
+                "A74"
             ]
         },
         {
@@ -4932,11 +5052,13 @@
             "leaf": "ns206_1",
             "housingLayers": [
                 0,
-                5
+                13,
+                0
             ],
             "housingLyphs": [
                 "A27",
-                "A74"
+                "A13",
+                "central-nervous-system"
             ]
         },
         {
@@ -4949,10 +5071,12 @@
             "root": "ns207",
             "leaf": "ns190_1",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
-                "A28"
+                "A28",
+                "A74"
             ]
         },
         {
@@ -4966,27 +5090,13 @@
             "leaf": "ns208_1",
             "housingLayers": [
                 0,
-                5
+                13,
+                0
             ],
             "housingLyphs": [
                 "A28",
-                "A74"
-            ]
-        },
-        {
-            "id": "dc-out_13",
-            "name": "Dendrite in heart_Neuron 13 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-tube",
-            "root": "ns190_1",
-            "leaf": "ns194",
-            "housingLayers": [
-                5
-            ],
-            "housingLyphs": [
-                "A74"
+                "A14",
+                "central-nervous-system"
             ]
         },
         {
@@ -4996,10 +5106,9 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns194",
-            "leaf": "ns195",
+            "root": "ns190_1",
             "housingLayers": [
-                5
+                0
             ],
             "housingLyphs": [
                 "A74"
@@ -5012,11 +5121,10 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns195",
-            "leaf": "ns196",
+            "root": "ns190_1",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -5030,11 +5138,10 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns195",
-            "leaf": "ns197",
+            "root": "ns190_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -5050,11 +5157,10 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns195",
-            "leaf": "ns200",
+            "root": "ns190_1",
             "housingLayers": [
-                5,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -5068,11 +5174,10 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns195",
-            "leaf": "ns201",
+            "root": "ns190_1",
             "housingLayers": [
-                5,
                 0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -5199,6 +5304,9 @@
             "name": "Neuron 12",
             "ontologyTerms": [
                 "ilxtr:neuron-type-aacar-12"
+            ],
+            "references": [
+                "DOI:10.1002/cphy.c150046"
             ]
         },
         {

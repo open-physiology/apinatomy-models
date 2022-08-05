@@ -177,10 +177,10 @@
     "lyphs": [
         {
             "id": "B1",
-            "name": "T1 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006457"
             ],
+            "name": "T1 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt1_1"
@@ -191,10 +191,10 @@
         },
         {
             "id": "B2",
-            "name": "T2 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006458"
             ],
+            "name": "T2 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt2_1"
@@ -205,10 +205,10 @@
         },
         {
             "id": "B3",
-            "name": "T3 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006459"
             ],
+            "name": "T3 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt3_1"
@@ -219,10 +219,10 @@
         },
         {
             "id": "B4",
-            "name": "T4 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006452"
             ],
+            "name": "T4 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt4_1"
@@ -233,10 +233,10 @@
         },
         {
             "id": "B5",
-            "name": "T5 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006453"
             ],
+            "name": "T5 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt5_1"
@@ -247,10 +247,10 @@
         },
         {
             "id": "B6",
-            "name": "T6 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006454"
             ],
+            "name": "T6 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt6_1"
@@ -261,10 +261,10 @@
         },
         {
             "id": "B7",
-            "name": "T7 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006455"
             ],
+            "name": "T7 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt7_1"
@@ -275,10 +275,10 @@
         },
         {
             "id": "B8",
-            "name": "T8 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006456"
             ],
+            "name": "T8 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt8_1"
@@ -289,10 +289,10 @@
         },
         {
             "id": "B9",
-            "name": "T9 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006465"
             ],
+            "name": "T9 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt9_1"
@@ -303,10 +303,10 @@
         },
         {
             "id": "B10",
-            "name": "T10 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006466"
             ],
+            "name": "T10 spinal segment",
             "supertype": "B15",
             "internalLyphs": [
                 "snt10_1"
@@ -317,11 +317,11 @@
         },
         {
             "id": "B11",
-            "name": "T11 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006467"
             ],
-            "supertype": "B35",
+            "name": "T11 spinal segment",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt11_1"
             ],
@@ -331,11 +331,11 @@
         },
         {
             "id": "B12",
-            "name": "T12 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006468"
             ],
-            "supertype": "B35",
+            "name": "T12 spinal segment",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt12_1"
             ],
@@ -345,11 +345,11 @@
         },
         {
             "id": "B13",
-            "name": "T13 spinal segment",
             "ontologyTerms": [
                 "ILX:0793357"
             ],
-            "supertype": "B35",
+            "name": "T13 spinal segment",
+            "supertype": "B15",
             "internalLyphs": [
                 "snt13_1"
             ],
@@ -359,11 +359,11 @@
         },
         {
             "id": "B14",
-            "name": "L1 spinal segment",
             "ontologyTerms": [
                 "UBERON:0006448"
             ],
-            "supertype": "B35",
+            "name": "L1 spinal segment",
+            "supertype": "B15",
             "internalLyphs": [
                 "snl1_1"
             ],
@@ -373,17 +373,16 @@
         },
         {
             "id": "B15",
-            "name": "Segment of Spinal Cord",
             "ontologyTerms": [
                 "UBERON:0005844"
             ],
+            "name": "Segment of Spinal Cord",
             "isTemplate": true,
             "layers": [
                 "BM_6",
                 "BM_19",
                 "BM_34",
                 "BM_23",
-                "BM_34",
                 "BM_33",
                 "BM_32",
                 "BM_31",
@@ -398,10 +397,10 @@
         },
         {
             "id": "B16",
-            "name": "Medulla",
             "ontologyTerms": [
                 "UBERON:0001896"
             ],
+            "name": "Medulla",
             "layers": [
                 "BM_6",
                 "BM_19",
@@ -416,591 +415,601 @@
         },
         {
             "id": "B17",
-            "name": "Nucleus ambiguus",
             "ontologyTerms": [
                 "UBERON:0001719"
+            ],
+            "name": "Nucleus ambiguus",
+            "internalLyphs": [
+                "snna_2"
             ]
         },
         {
             "id": "B18",
-            "name": "T1 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002845"
-            ]
+            ],
+            "name": "T1 Dorsal Root ganglion"
         },
         {
             "id": "B19",
-            "name": "T2 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002846"
-            ]
+            ],
+            "name": "T2 Dorsal Root ganglion"
         },
         {
             "id": "B20",
-            "name": "T3 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002847"
-            ]
+            ],
+            "name": "T3 Dorsal Root ganglion"
         },
         {
             "id": "B21",
-            "name": "T4 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0007712"
-            ]
+            ],
+            "name": "T4 Dorsal Root ganglion"
         },
         {
             "id": "B22",
-            "name": "T5 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002848"
-            ]
+            ],
+            "name": "T5 Dorsal Root ganglion"
         },
         {
             "id": "B23",
-            "name": "T6 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002849"
-            ]
+            ],
+            "name": "T6 Dorsal Root ganglion"
         },
         {
             "id": "B24",
-            "name": "T7 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002850"
-            ]
+            ],
+            "name": "T7 Dorsal Root ganglion"
         },
         {
             "id": "B25",
-            "name": "T8 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002851"
-            ]
+            ],
+            "name": "T8 Dorsal Root ganglion"
         },
         {
             "id": "B26",
-            "name": "T9 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002852"
-            ]
+            ],
+            "name": "T9 Dorsal Root ganglion"
         },
         {
             "id": "B27",
-            "name": "T10 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002853"
-            ]
+            ],
+            "name": "T10 Dorsal Root ganglion"
         },
         {
             "id": "B28",
-            "name": "T11 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002854"
-            ]
+            ],
+            "name": "T11 Dorsal Root ganglion"
         },
         {
             "id": "B29",
-            "name": "T12 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002855"
-            ]
+            ],
+            "name": "T12 Dorsal Root ganglion"
         },
         {
             "id": "B30",
-            "name": "T13 Dorsal Root ganglion",
             "ontologyTerms": [
                 "ILX:0793359"
-            ]
+            ],
+            "name": "T13 Dorsal Root ganglion"
         },
         {
             "id": "B31",
-            "name": "L1 Dorsal Root ganglion",
             "ontologyTerms": [
                 "UBERON:0002857"
-            ]
+            ],
+            "name": "L1 Dorsal Root ganglion"
         },
         {
             "id": "B32",
-            "name": "T1 ventral root",
             "ontologyTerms": [
                 "ILX:0787722"
-            ]
+            ],
+            "name": "T1 ventral root"
         },
         {
             "id": "B33",
-            "name": "T2 ventral root",
             "ontologyTerms": [
                 "ILX:0789894"
-            ]
+            ],
+            "name": "T2 ventral root"
         },
         {
             "id": "B34",
-            "name": "T3 ventral root",
             "ontologyTerms": [
                 "ILX:0784804"
-            ]
+            ],
+            "name": "T3 ventral root"
         },
         {
             "id": "B35",
-            "name": "T4 ventral root",
             "ontologyTerms": [
                 "ILX:0792838"
-            ]
+            ],
+            "name": "T4 ventral root"
         },
         {
             "id": "B36",
-            "name": "T5 ventral root",
             "ontologyTerms": [
                 "ILX:0790146"
-            ]
+            ],
+            "name": "T5 ventral root"
         },
         {
             "id": "B37",
-            "name": "T6 ventral root",
             "ontologyTerms": [
                 "ILX:0791062"
-            ]
+            ],
+            "name": "T6 ventral root"
         },
         {
             "id": "B38",
-            "name": "T7 ventral root",
             "ontologyTerms": [
                 "ILX:0789966"
-            ]
+            ],
+            "name": "T7 ventral root"
         },
         {
             "id": "B39",
-            "name": "T8 ventral root",
             "ontologyTerms": [
                 "ILX:0788026"
-            ]
+            ],
+            "name": "T8 ventral root"
         },
         {
             "id": "B40",
-            "name": "T9 ventral root",
             "ontologyTerms": [
                 "ILX:0791932"
-            ]
+            ],
+            "name": "T9 ventral root"
         },
         {
             "id": "B41",
-            "name": "T10 ventral root",
             "ontologyTerms": [
                 "ILX:0788670"
-            ]
+            ],
+            "name": "T10 ventral root"
         },
         {
             "id": "B42",
-            "name": "T11 ventral root",
             "ontologyTerms": [
                 "ILX:0790602"
-            ]
+            ],
+            "name": "T11 ventral root"
         },
         {
             "id": "B43",
-            "name": "T12 ventral root",
             "ontologyTerms": [
                 "ILX:0792048"
-            ]
+            ],
+            "name": "T12 ventral root"
         },
         {
             "id": "B44",
-            "name": "T13 ventral root",
             "ontologyTerms": [
                 "ILX:0793207"
-            ]
+            ],
+            "name": "T13 ventral root"
         },
         {
             "id": "B125",
-            "name": "L1 ventral root",
             "ontologyTerms": [
                 "ILX:0785421"
-            ]
+            ],
+            "name": "L1 ventral root"
         },
         {
             "id": "B45",
-            "name": "T1 - T2 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0777094"
-            ]
+            ],
+            "name": "T1 - T2 Interganglonic segment"
         },
         {
             "id": "B46",
-            "name": "T2 - T3 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0777095"
-            ]
+            ],
+            "name": "T2 - T3 Interganglonic segment"
         },
         {
             "id": "B47",
-            "name": "T3 - T4 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0777096"
-            ]
+            ],
+            "name": "T3 - T4 Interganglonic segment"
         },
         {
             "id": "B48",
-            "name": "T4 - T5 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0777097"
-            ]
+            ],
+            "name": "T4 - T5 Interganglonic segment"
         },
         {
             "id": "B49",
-            "name": "T5 - T6 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0777098"
-            ]
+            ],
+            "name": "T5 - T6 Interganglonic segment"
         },
         {
             "id": "B50",
-            "name": "T6 - T7 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0793235"
-            ]
+            ],
+            "name": "T6 - T7 Interganglonic segment"
         },
         {
             "id": "B51",
-            "name": "T7 - T8 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0793236"
-            ]
+            ],
+            "name": "T7 - T8 Interganglonic segment"
         },
         {
             "id": "B52",
-            "name": "T8 - T9 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0793237"
-            ]
+            ],
+            "name": "T8 - T9 Interganglonic segment"
         },
         {
             "id": "B53",
-            "name": "T9 - T10 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0793238"
-            ]
+            ],
+            "name": "T9 - T10 Interganglonic segment"
         },
         {
             "id": "B54",
-            "name": "T10 - T11 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0793239"
-            ]
+            ],
+            "name": "T10 - T11 Interganglonic segment"
         },
         {
             "id": "B55",
-            "name": "T11 - T12 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0793240"
-            ]
+            ],
+            "name": "T11 - T12 Interganglonic segment"
         },
         {
             "id": "B56",
-            "name": "T12 - T13 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0777086"
-            ]
+            ],
+            "name": "T12 - T13 Interganglonic segment"
         },
         {
             "id": "B57",
-            "name": "T13 - L1 Interganglonic segment",
             "ontologyTerms": [
                 "ILX:0777087"
-            ]
+            ],
+            "name": "T13 - L1 Interganglonic segment"
         },
         {
             "id": "B58",
-            "name": "T1 sympathetic ganglion",
             "ontologyTerms": [
-                "ILX:0785119"
-            ]
+                "ILX:0774266"
+            ],
+            "name": "T1 sympathetic ganglion"
         },
         {
             "id": "B59",
-            "name": "T2 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0786228"
-            ]
+            ],
+            "name": "T2 sympathetic ganglion"
         },
         {
             "id": "B60",
-            "name": "T3 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0786722"
-            ]
+            ],
+            "name": "T3 sympathetic ganglion"
         },
         {
             "id": "B61",
-            "name": "T4 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0786272"
-            ]
+            ],
+            "name": "T4 sympathetic ganglion"
         },
         {
             "id": "B62",
-            "name": "T5 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0786141"
-            ]
+            ],
+            "name": "T5 sympathetic ganglion"
         },
         {
             "id": "B63",
-            "name": "T6 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0789947"
-            ]
+            ],
+            "name": "T6 sympathetic ganglion"
         },
         {
             "id": "B64",
-            "name": "T7 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0790482"
-            ]
+            ],
+            "name": "T7 sympathetic ganglion"
         },
         {
             "id": "B65",
-            "name": "T8 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0784721"
-            ]
+            ],
+            "name": "T8 sympathetic ganglion"
         },
         {
             "id": "B66",
-            "name": "T9 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0784378"
-            ]
+            ],
+            "name": "T9 sympathetic ganglion"
         },
         {
             "id": "B67",
-            "name": "T10 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0784569"
-            ]
+            ],
+            "name": "T10 sympathetic ganglion"
         },
         {
             "id": "B68",
-            "name": "T11 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0787015"
-            ]
+            ],
+            "name": "T11 sympathetic ganglion"
         },
         {
             "id": "B69",
-            "name": "T12 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0787009"
-            ]
+            ],
+            "name": "T12 sympathetic ganglion"
         },
         {
             "id": "B70",
-            "name": "T13 sympathetic ganglion",
             "ontologyTerms": [
                 "ILX:0739295"
-            ]
+            ],
+            "name": "T13 sympathetic ganglion"
+        },
+        {
+            "id": "B70_5",
+            "ontologyTerms": [
+                "ILX:0789862"
+            ],
+            "name": "L1 sympathetic ganglion"
         },
         {
             "id": "B71",
-            "name": "T1 white ramus",
             "ontologyTerms": [
-                "ILX:0785971"
-            ]
+                "ILX:0738372"
+            ],
+            "name": "T1 white ramus"
         },
         {
             "id": "B72",
-            "name": "T2 white ramus",
             "ontologyTerms": [
                 "ILX:0793208"
-            ]
+            ],
+            "name": "T2 white ramus"
         },
         {
             "id": "B73",
-            "name": "T3 white ramus",
             "ontologyTerms": [
                 "ILX:0793209"
-            ]
+            ],
+            "name": "T3 white ramus"
         },
         {
             "id": "B74",
-            "name": "T4 white ramus",
             "ontologyTerms": [
                 "ILX:0793210"
-            ]
+            ],
+            "name": "T4 white ramus"
         },
         {
             "id": "B75",
-            "name": "T5 white ramus",
             "ontologyTerms": [
                 "ILX:0793211"
-            ]
+            ],
+            "name": "T5 white ramus"
         },
         {
             "id": "B76",
-            "name": "T6 white ramus",
             "ontologyTerms": [
                 "ILX:0793212"
-            ]
+            ],
+            "name": "T6 white ramus"
         },
         {
             "id": "B77",
-            "name": "T7 white ramus",
             "ontologyTerms": [
                 "ILX:0793213"
-            ]
+            ],
+            "name": "T7 white ramus"
         },
         {
             "id": "B78",
-            "name": "T8 white ramus",
             "ontologyTerms": [
                 "ILX:0793214"
-            ]
+            ],
+            "name": "T8 white ramus"
         },
         {
             "id": "B79",
-            "name": "T9 white ramus",
             "ontologyTerms": [
                 "ILX:0793215"
-            ]
+            ],
+            "name": "T9 white ramus"
         },
         {
             "id": "B80",
-            "name": "T10 white ramus",
             "ontologyTerms": [
                 "ILX:0793216"
-            ]
+            ],
+            "name": "T10 white ramus"
         },
         {
             "id": "B81",
-            "name": "T11 white ramus",
             "ontologyTerms": [
                 "ILX:0793217"
-            ]
+            ],
+            "name": "T11 white ramus"
         },
         {
             "id": "B82",
-            "name": "T12 white ramus",
             "ontologyTerms": [
                 "ILX:0793218"
-            ]
+            ],
+            "name": "T12 white ramus"
         },
         {
             "id": "B84",
-            "name": "T13 white ramus",
             "ontologyTerms": [
                 "ILX:0793219"
-            ]
+            ],
+            "name": "T13 white ramus"
         },
         {
             "id": "B83",
-            "name": "L1 white ramus",
             "ontologyTerms": [
                 "ILX:0793220"
-            ]
+            ],
+            "name": "L1 white ramus"
         },
         {
             "id": "B85",
-            "name": "T1 gray ramus",
             "ontologyTerms": [
                 "ILX:0787082"
-            ]
+            ],
+            "name": "T1 gray ramus"
         },
         {
             "id": "B86",
-            "name": "T2 gray ramus",
             "ontologyTerms": [
                 "ILX:0791105"
-            ]
+            ],
+            "name": "T2 gray ramus"
         },
         {
             "id": "B87",
-            "name": "T3 gray ramus",
             "ontologyTerms": [
                 "ILX:0787562"
-            ]
+            ],
+            "name": "T3 gray ramus"
         },
         {
             "id": "B88",
-            "name": "T4 gray ramus",
             "ontologyTerms": [
                 "ILX:0788945"
-            ]
+            ],
+            "name": "T4 gray ramus"
         },
         {
             "id": "B89",
-            "name": "T5 gray ramus",
             "ontologyTerms": [
                 "ILX:0784439"
-            ]
+            ],
+            "name": "T5 gray ramus"
         },
         {
             "id": "B90",
-            "name": "T6 gray ramus",
             "ontologyTerms": [
                 "ILX:0787946"
-            ]
+            ],
+            "name": "T6 gray ramus"
         },
         {
             "id": "B91",
-            "name": "T7 gray ramus",
             "ontologyTerms": [
                 "ILX:0788771"
-            ]
+            ],
+            "name": "T7 gray ramus"
         },
         {
             "id": "B92",
-            "name": "T8 gray ramus",
             "ontologyTerms": [
                 "ILX:0791560"
-            ]
+            ],
+            "name": "T8 gray ramus"
         },
         {
             "id": "B93",
-            "name": "T9 gray ramus",
             "ontologyTerms": [
                 "ILX:0785542"
-            ]
+            ],
+            "name": "T9 gray ramus"
         },
         {
             "id": "B94",
-            "name": "T10 gray ramus",
             "ontologyTerms": [
                 "ILX:0792409"
-            ]
+            ],
+            "name": "T10 gray ramus"
         },
         {
             "id": "B95",
-            "name": "T11 gray ramus",
             "ontologyTerms": [
                 "ILX:0785067"
-            ]
+            ],
+            "name": "T11 gray ramus"
         },
         {
             "id": "B96",
-            "name": "T12 ray ramus",
             "ontologyTerms": [
                 "ILX:0785067"
-            ]
+            ],
+            "name": "T12 ray ramus"
         },
         {
             "id": "B97",
-            "name": "T13 gray ramus",
             "ontologyTerms": [
                 "ILX:0793227"
-            ]
+            ],
+            "name": "T13 gray ramus"
         },
         {
             "id": "B124",
-            "name": "L1 gray ramus",
             "ontologyTerms": [
                 "ILX:0785825"
-            ]
+            ],
+            "name": "L1 gray ramus"
         },
         {
             "id": "B98",
-            "name": "Adrenal gland",
             "ontologyTerms": [
                 "UBERON:0002369"
             ],
+            "name": "Adrenal gland",
             "layers": [
                 "B100",
                 "B99"
@@ -1008,17 +1017,17 @@
         },
         {
             "id": "B99",
-            "name": "Adrenal cortex",
             "ontologyTerms": [
                 "UBERON:0001235"
-            ]
+            ],
+            "name": "Adrenal cortex"
         },
         {
             "id": "B100",
-            "name": "Adrenal medulla",
             "ontologyTerms": [
                 "UBERON:0001236"
             ],
+            "name": "Adrenal medulla",
             "internalLyphs": [
                 "B101"
             ],
@@ -1028,20 +1037,20 @@
         },
         {
             "id": "B101",
-            "name": "Chromaffin cell of adrenal medulla",
             "ontologyTerms": [
                 "FMA:69262"
-            ]
+            ],
+            "name": "Chromaffin cell of adrenal medulla"
         },
         {
             "id": "B102",
-            "name": "Terminal bronchiole",
             "ontologyTerms": [
                 "UBERON:0002187"
             ],
+            "name": "Terminal bronchiole",
             "layers": [
-                "BM_46",
-                "BM_41"
+                "BM_41",
+                "BM_46"
             ],
             "internalLyphs": [
                 "B117",
@@ -1058,17 +1067,17 @@
         },
         {
             "id": "B103",
-            "name": "Bronchiole",
             "ontologyTerms": [
                 "UBERON:0002186"
             ],
+            "name": "Bronchiole",
             "layers": [
-                "BM_45",
-                "BM_41"
+                "BM_41",
+                "BM_45"
             ],
             "internalLyphs": [
                 "B117",
-                "B120",
+                "B121",
                 "sn-bron_4",
                 "B118"
             ],
@@ -1081,17 +1090,17 @@
         },
         {
             "id": "B104",
-            "name": "Bronchus",
             "ontologyTerms": [
                 "UBERON:0002185"
             ],
+            "name": "Bronchus",
             "layers": [
-                "BM_44",
-                "BM_41"
+                "BM_41",
+                "BM_44"
             ],
             "internalLyphs": [
                 "B117",
-                "B121",
+                "B120",
                 "sn-bronle_5",
                 "B118"
             ],
@@ -1104,13 +1113,13 @@
         },
         {
             "id": "B105",
-            "name": "Trachea",
             "ontologyTerms": [
                 "UBERON:0003126"
             ],
+            "name": "Trachea",
             "layers": [
-                "BM_43",
-                "BM_41"
+                "BM_41",
+                "BM_43"
             ],
             "internalLyphs": [
                 "B117",
@@ -1127,38 +1136,38 @@
         },
         {
             "id": "B113",
-            "name": "Aortic valve",
             "ontologyTerms": [
                 "UBERON:0002137"
-            ]
+            ],
+            "name": "Aortic valve"
         },
         {
             "id": "B114",
-            "name": "Lung capillary",
             "ontologyTerms": [
                 "UBERON:0016405"
-            ]
+            ],
+            "name": "Lung capillary"
         },
         {
             "id": "B115",
-            "name": "Pulmonary valve",
             "ontologyTerms": [
                 "UBERON:0002146"
-            ]
+            ],
+            "name": "Pulmonary valve"
         },
         {
             "id": "B116",
-            "name": "Systemic capillary",
             "ontologyTerms": [
                 "FMA:14122"
-            ]
+            ],
+            "name": "Systemic capillary"
         },
         {
             "id": "B117",
-            "name": "Smooth muscle cell",
             "ontologyTerms": [
                 "FMA:14072"
             ],
+            "name": "Smooth muscle cell",
             "isTemplate": true,
             "layers": [
                 "BM_42",
@@ -1167,10 +1176,10 @@
         },
         {
             "id": "B118",
-            "name": "Nicotinic acetylcholine receptor",
             "ontologyTerms": [
                 "FMA:61796"
             ],
+            "name": "Nicotinic acetylcholine receptor",
             "isTemplate": true,
             "internalLyphs": [
                 "B118"
@@ -1178,108 +1187,108 @@
         },
         {
             "id": "B119",
-            "name": "Trachea parasympathetic ganglia",
             "ontologyTerms": [
-                "NCIT:C52557"
-            ]
+                "ILX:0793570"
+            ],
+            "name": "Trachea parasympathetic ganglia"
         },
         {
             "id": "B120",
-            "name": "Bronchus parasympathetic ganglia",
             "ontologyTerms": [
-                "NCIT:C52557"
-            ]
+                "ILX:0793571"
+            ],
+            "name": "Bronchus parasympathetic ganglia"
         },
         {
             "id": "B121",
-            "name": "Bronchiole parasympathetic ganglia",
             "ontologyTerms": [
-                "NCIT:C52557"
-            ]
+                "ILX:0793572"
+            ],
+            "name": "Bronchiole parasympathetic ganglia"
         },
         {
             "id": "B122",
-            "name": "Terminal bronchiole parasympathetic ganglia",
             "ontologyTerms": [
-                "NCIT:C52557"
-            ]
+                "ILX:0793573"
+            ],
+            "name": "Terminal bronchiole parasympathetic ganglia"
         },
         {
             "id": "B123",
-            "name": "L1 ventral root",
             "ontologyTerms": [
                 "UBERON:0024382"
-            ]
+            ],
+            "name": "L1 ventral root"
         },
         {
             "id": "n-supra",
-            "name": "Suprarenal vein",
             "ontologyTerms": [
                 "UBERON:0001146"
-            ]
+            ],
+            "name": "Suprarenal vein"
         },
         {
             "id": "n-splan",
-            "name": "Splanchnic nerve",
             "ontologyTerms": [
                 "UBERON:0003715"
-            ]
+            ],
+            "name": "Splanchnic nerve"
         },
         {
             "id": "v-bron",
-            "name": "Bronchial vein",
             "ontologyTerms": [
                 "UBERON:0001592"
-            ]
+            ],
+            "name": "Bronchial vein"
         },
         {
             "id": "a-pul",
-            "name": "Pulmonary artery",
             "ontologyTerms": [
                 "UBERON:0002012"
-            ]
+            ],
+            "name": "Pulmonary artery"
         },
         {
             "id": "n-vag",
-            "name": "Vagus Nerve",
             "ontologyTerms": [
                 "UBERON:0001759"
-            ]
+            ],
+            "name": "Vagus Nerve"
         },
         {
             "id": "v-pul",
-            "name": "Pulmonary vein",
             "ontologyTerms": [
                 "UBERON:0002016"
-            ]
+            ],
+            "name": "Pulmonary vein"
         },
         {
             "id": "a-bron",
-            "name": "Bronchial artery",
             "ontologyTerms": [
                 "UBERON:0002040"
-            ]
+            ],
+            "name": "Bronchial artery"
         },
         {
             "id": "aorta",
-            "name": "Aorta",
             "ontologyTerms": [
                 "UBERON:0000947"
-            ]
+            ],
+            "name": "Aorta"
         },
         {
             "id": "v-supra",
-            "name": "Suprarenal vein",
             "ontologyTerms": [
                 "UBERON:0001146"
-            ]
+            ],
+            "name": "Suprarenal vein"
         },
         {
             "id": "ns",
-            "name": "Segment of neuron",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron",
             "isTemplate": true,
             "layers": [
                 "BM_35",
@@ -1289,232 +1298,232 @@
         },
         {
             "id": "ns_bag",
-            "name": "Segment of neuron",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron",
             "isTemplate": true,
             "topology": "BAG"
         },
         {
             "id": "axon-bag",
-            "name": "Axon terminal (kblad)",
             "ontologyTerms": [
                 "SAO:280355188"
             ],
+            "name": "Axon terminal (kblad)",
             "isTemplate": true,
             "topology": "BAG-"
         },
         {
             "id": "axon-tube",
-            "name": "Axon segment (kblad)",
             "ontologyTerms": [
                 "SAO:280355188"
             ],
+            "name": "Axon segment (kblad)",
             "isTemplate": true,
             "topology": "TUBE"
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (kblad)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
+            "name": "Dendrite terminal (kblad)",
             "isTemplate": true,
             "topology": "BAG-"
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (kblad)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
+            "name": "Dendrite segment (kblad)",
             "isTemplate": true,
             "topology": "TUBE"
         },
         {
             "id": "snt1_1",
-            "name": "Soma of SPR in T1-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T1-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns",
             "seedIn": "neuron-1"
         },
         {
             "id": "snt2_1",
-            "name": "Soma of SPR in T2-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T2-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt3_1",
-            "name": "Soma of SPR in T3-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T3-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt4_1",
-            "name": "Soma of SPR in T4-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T4-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt5_1",
-            "name": "Soma of SPR in T5-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T5-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt6_1",
-            "name": "Soma of SPR in T6-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T6-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt7_1",
-            "name": "Soma of SPR in T7-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T7-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt8_1",
-            "name": "Soma of SPR in T8-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T8-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt9_1",
-            "name": "Soma of SPR in T9-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T9-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt10_1",
-            "name": "Soma of SPR in T10-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T10-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt11_1",
-            "name": "Soma of SPR in T11-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T11-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt12_1",
-            "name": "Soma of SPR in T12-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T12-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snt13_1",
-            "name": "Soma of SPR in T13-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in T13-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snl1_1",
-            "name": "Soma of SPR in L1-Neuron 1(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of SPR in L1-Neuron 1(bromo)",
             "topology": "BAG",
             "supertype": "ns"
         },
         {
             "id": "snna_2",
-            "name": "Soma of PSPR in N_ambiguus-Neuron 2(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of PSPR in N_ambiguus-Neuron 2(bromo)",
             "topology": "BAG",
             "supertype": "ns",
             "seedIn": "neuron-2"
         },
         {
             "id": "sn-trac_3",
-            "name": "Soma of PSPR in trachea_Neuron 3(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of PSPR in trachea_Neuron 3(bromo)",
             "topology": "BAG",
             "supertype": "ns",
             "seedIn": "neuron-3"
         },
         {
             "id": "sn-bron_4",
-            "name": "Soma of PSPR in bronchus_Neuron 4(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of PSPR in bronchus_Neuron 4(bromo)",
             "topology": "BAG",
             "supertype": "ns",
             "seedIn": "neuron-4"
         },
         {
             "id": "sn-bronle_5",
-            "name": "Soma of PSPR in bronchiole_Neuron 5(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of PSPR in bronchiole_Neuron 5(bromo)",
             "topology": "BAG",
             "supertype": "ns",
             "seedIn": "neuron-5"
         },
         {
             "id": "sn_termbronle_6",
-            "name": "Soma of PSPR in terminal bronchiole_Neuron 6(bromo)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "Soma of PSPR in terminal bronchiole_Neuron 6(bromo)",
             "topology": "BAG",
             "supertype": "ns",
             "seedIn": "neuron-6"
         },
         {
             "id": "229",
-            "name": "Segment of neuron",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron",
             "isTemplate": true,
             "layers": [
                 "54",
@@ -1680,9 +1689,9 @@
         },
         {
             "id": "BM_23",
-            "name": "White matter of CNS",
+            "name": "White matter of spinal cord",
             "ontologyTerms": [
-                "UBERON:0016549"
+                "UBERON:0002318"
             ]
         },
         {
@@ -1899,14 +1908,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B1",
                 "B1",
                 "B32",
-                "B85",
                 "B71",
+                "B58",
+                "B85",
                 "n-splan"
             ]
         },
@@ -1940,14 +1951,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B2",
                 "B2",
                 "B33",
-                "B86",
                 "B72",
+                "B59",
+                "B86",
                 "n-splan"
             ]
         },
@@ -1981,14 +1994,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B3",
                 "B3",
                 "B34",
-                "B87",
                 "B73",
+                "B60",
+                "B87",
                 "n-splan"
             ]
         },
@@ -2022,14 +2037,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B4",
                 "B4",
                 "B35",
-                "B88",
                 "B74",
+                "B61",
+                "B88",
                 "n-splan"
             ]
         },
@@ -2063,14 +2080,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B5",
                 "B5",
                 "B36",
-                "B89",
                 "B75",
+                "B62",
+                "B89",
                 "n-splan"
             ]
         },
@@ -2104,14 +2123,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B6",
                 "B6",
                 "B37",
-                "B90",
                 "B76",
+                "B63",
+                "B90",
                 "n-splan"
             ]
         },
@@ -2145,14 +2166,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B7",
                 "B7",
                 "B38",
-                "B91",
                 "B77",
+                "B64",
+                "B91",
                 "n-splan"
             ]
         },
@@ -2186,14 +2209,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B8",
                 "B8",
                 "B39",
-                "B92",
                 "B78",
+                "B65",
+                "B92",
                 "n-splan"
             ]
         },
@@ -2227,14 +2252,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B9",
                 "B9",
                 "B40",
-                "B93",
                 "B79",
+                "B66",
+                "B93",
                 "n-splan"
             ]
         },
@@ -2268,14 +2295,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B10",
                 "B10",
                 "B41",
-                "B94",
                 "B80",
+                "B67",
+                "B94",
                 "n-splan"
             ]
         },
@@ -2309,14 +2338,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B11",
                 "B11",
                 "B42",
-                "B95",
                 "B81",
+                "B68",
+                "B95",
                 "n-splan"
             ]
         },
@@ -2350,14 +2381,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B12",
                 "B12",
                 "B43",
-                "B96",
                 "B82",
+                "B69",
+                "B96",
                 "n-splan"
             ]
         },
@@ -2391,14 +2424,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B13",
                 "B13",
                 "B44",
-                "B97",
                 "B84",
+                "B70",
+                "B97",
                 "n-splan"
             ]
         },
@@ -2432,14 +2467,16 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "B14",
                 "B14",
                 "B125",
-                "B124",
                 "B83",
+                "B70_5",
+                "B124",
                 "n-splan"
             ]
         },
@@ -2509,11 +2546,13 @@
             "leaf": "ns33",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "n-vag",
-                "B105"
+                "B105",
+                "B119"
             ]
         },
         {
@@ -2527,11 +2566,13 @@
             "leaf": "ns34",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "n-vag",
-                "B104"
+                "B104",
+                "B120"
             ]
         },
         {
@@ -2545,11 +2586,13 @@
             "leaf": "ns35",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "n-vag",
-                "B103"
+                "B103",
+                "B121"
             ]
         },
         {
@@ -2563,11 +2606,13 @@
             "leaf": "ns35_5",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "n-vag",
-                "B102"
+                "B102",
+                "B122"
             ]
         },
         {

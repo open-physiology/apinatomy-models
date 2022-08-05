@@ -95,10 +95,10 @@
     "lyphs": [
         {
             "id": "T5",
-            "name": "T5 spinal segment (spleen)",
             "ontologyTerms": [
                 "UBERON:0006453"
             ],
+            "name": "T5 spinal segment (splen)",
             "topology": "TUBE",
             "supertype": "seg_sc",
             "internalLyphs": [
@@ -107,10 +107,10 @@
         },
         {
             "id": "T6",
-            "name": "T6 spinal segment (spleen)",
             "ontologyTerms": [
                 "UBERON:0006454"
             ],
+            "name": "T6 spinal segment (splen)",
             "topology": "TUBE",
             "supertype": "seg_sc",
             "internalLyphs": [
@@ -119,10 +119,10 @@
         },
         {
             "id": "T7",
-            "name": "T7 spinal segment (spleen)",
             "ontologyTerms": [
                 "UBERON:0006455"
             ],
+            "name": "T7 spinal segment (splen)",
             "topology": "TUBE",
             "supertype": "seg_sc",
             "internalLyphs": [
@@ -131,10 +131,10 @@
         },
         {
             "id": "T8",
-            "name": "T8 spinal segment (spleen)",
             "ontologyTerms": [
                 "UBERON:0006456"
             ],
+            "name": "T8 spinal segment (splen)",
             "topology": "TUBE",
             "supertype": "seg_sc",
             "internalLyphs": [
@@ -143,10 +143,10 @@
         },
         {
             "id": "seg_sc",
-            "name": "Segment of Spinal Cord (spleen)",
             "ontologyTerms": [
                 "UBERON:0005844"
             ],
+            "name": "Segment of Spinal Cord (splen)",
             "isTemplate": true,
             "layers": [
                 "SPL-M_9",
@@ -156,10 +156,10 @@
         },
         {
             "id": "med",
-            "name": "Medulla (spleen)",
             "ontologyTerms": [
                 "UBERON:0001896"
             ],
+            "name": "Medulla (splen)",
             "topology": "TUBE",
             "layers": [
                 "SPL-M_9",
@@ -173,75 +173,76 @@
         },
         {
             "id": "dmv",
-            "name": "dorsal motor nucleus of the vagus (spleen)",
             "ontologyTerms": [
                 "UBERON:0002870"
             ],
+            "name": "dorsal motor nucleus of the vagus (splen)",
             "internalLyphs": [
                 "sn_dmv"
             ]
         },
         {
             "id": "nts",
-            "name": "nucleus tractus solitarius (spleen)",
             "ontologyTerms": [
                 "UBERON:0009050"
             ],
+            "name": "nucleus tractus solitarius (splen)",
             "internalLyphs": [
                 "sn_nts"
             ]
         },
         {
             "id": "n-vag",
-            "name": "vagus nerve (spleen)",
             "ontologyTerms": [
                 "UBERON:0001759"
             ],
+            "name": "vagus nerve (splen)",
             "internalLyphs": [
                 "ndg"
             ]
         },
         {
             "id": "ndg",
-            "name": "nodose ganglion (spleen)",
             "ontologyTerms": [
                 "UBERON:0005363"
             ],
+            "name": "nodose ganglion (splen)",
             "internalLyphs": [
                 "sn_ndg"
             ]
         },
         {
             "id": "cg-smg",
-            "name": "celiac ganglion and superior mesenteric ganglion complex (spleen)",
             "ontologyTerms": [
                 "ILX:0793082"
             ],
+            "name": "celiac ganglion and superior mesenteric ganglion complex (splen)",
             "internalLyphs": [
                 "sn-cg-smg"
             ]
         },
         {
             "id": "spln",
-            "name": "spleen (spleen)",
             "ontologyTerms": [
                 "UBERON:0002106"
             ],
+            "name": "spleen (splen)",
             "topology": "BAG",
             "layers": [
-                "spln_cap",
-                "r_pulp",
-                "mar_zone",
+                "w_pulp",
+                "mar_zone_net",
                 "mar_sin",
-                "w_pulp"
+                "perimar_sin",
+                "r_pulp",
+                "spln_cap"
             ]
         },
         {
             "id": "spln_cap",
-            "name": "splenic capsule (spleen)",
             "ontologyTerms": [
                 "UBERON:0004641"
             ],
+            "name": "splenic capsule (splen)",
             "topology": "BAG",
             "internalLyphs": [
                 "a-splen",
@@ -254,10 +255,10 @@
         },
         {
             "id": "r_pulp",
-            "name": "red pulp (spleen)",
             "ontologyTerms": [
                 "UBERON:0001250"
             ],
+            "name": "red pulp (splen)",
             "topology": "BAG",
             "internalLyphs": [
                 "a-splen",
@@ -270,10 +271,10 @@
         },
         {
             "id": "mar_zone",
-            "name": "marginal zone (spleen)",
             "ontologyTerms": [
                 "UBERON:0001251"
             ],
+            "name": "marginal zone (splen)",
             "topology": "BAG",
             "internalLyphs": [
                 "a-cent",
@@ -286,14 +287,27 @@
                 0,
                 0,
                 0
+            ]
+        },
+        {
+            "id": "mar_zone_net",
+            "ontologyTerms": [
+                "ILX:0793681"
+            ],
+            "name": "marginal zone network (splen)",
+            "internalLyphs": [
+                "a-cent",
+                "art-rad",
+                "a-splen",
+                "v-splen"
             ]
         },
         {
             "id": "mar_sin",
-            "name": "marginal sinus (spleen)",
             "ontologyTerms": [
                 "UBERON:0010398"
             ],
+            "name": "marginal sinus (splen)",
             "topology": "BAG",
             "internalLyphs": [
                 "a-cent",
@@ -309,12 +323,25 @@
             ]
         },
         {
+            "id": "perimar_sin",
+            "ontologyTerms": [
+                "ILX:0793680"
+            ],
+            "name": "perimarginal cavernous sinus (splen)",
+            "internalLyphs": [
+                "a-cent",
+                "art-rad",
+                "a-splen",
+                "v-splen"
+            ]
+        },
+        {
             "id": "w_pulp",
-            "name": "white pulp (spleen)",
             "ontologyTerms": [
                 "UBERON:0001959"
             ],
-            "topology": "BAG",
+            "name": "white pulp (splen)",
+            "topology": "CYST",
             "internalLyphs": [
                 "a-cent",
                 "art-rad",
@@ -331,17 +358,17 @@
         },
         {
             "id": "pals",
-            "name": "periarterial lymphatic sheath (spleen)",
             "ontologyTerms": [
                 "UBERON:0001960"
-            ]
+            ],
+            "name": "periarterial lymphatic sheath (splen)"
         },
         {
             "id": "int",
-            "name": "intestine",
             "ontologyTerms": [
                 "UBERON:0000160"
             ],
+            "name": "intestine",
             "layers": [
                 "lum_int",
                 "epi",
@@ -349,79 +376,91 @@
                 "subm_plex",
                 "cm_gut",
                 "myen_plex",
+                "long_gut",
                 "ser_int"
             ]
         },
         {
             "id": "epi",
-            "name": "epithelium",
             "ontologyTerms": [
                 "UBERON:0000483"
-            ]
+            ],
+            "name": "epithelium"
         },
         {
             "id": "lum_int",
-            "name": "lumen of intestine",
             "ontologyTerms": [
                 "UBERON:0018543"
-            ]
+            ],
+            "name": "lumen of intestine"
         },
         {
             "id": "lam_pro",
-            "name": "lamina propria",
             "ontologyTerms": [
                 "UBERON:0000030"
-            ]
+            ],
+            "name": "lamina propria"
         },
         {
             "id": "subm_plex",
-            "name": "submucosal plexus",
             "ontologyTerms": [
                 "UBERON:0005304"
-            ]
+            ],
+            "name": "submucosal plexus"
         },
         {
             "id": "cm_gut",
-            "name": "circular muscle of the gut",
             "ontologyTerms": [
                 "UBERON:2005279"
-            ]
+            ],
+            "name": "circular muscle of the gut"
         },
         {
             "id": "myen_plex",
-            "name": "myenteric plexus",
             "ontologyTerms": [
                 "UBERON:0002439"
-            ]
+            ],
+            "name": "myenteric plexus"
+        },
+        {
+            "id": "long_gut",
+            "ontologyTerms": [
+                "UBERON:0012402"
+            ],
+            "name": "small intestine smooth muscle longitudinal layer"
         },
         {
             "id": "ser_int",
-            "name": "serosa of instestine",
             "ontologyTerms": [
                 "UBERON:0001243"
             ],
-            "internalIn": "mes_ln",
+            "name": "serosa of instestine",
             "internalLyphs": [
-                "0"
+                "mes_ln"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
             "id": "mes_ln",
-            "name": "mesenteric lymph node",
             "ontologyTerms": [
-                "UBERON:0002509"
+                "UBERON:0038727"
             ],
-            "internalIn": "blo_ves",
+            "name": "juxta-intestinal mesenteric lymph node (splen)",
             "internalLyphs": [
-                "0"
+                "blo_ves"
+            ],
+            "internalLyphsInLayers": [
+                0
             ]
         },
         {
             "id": "blo_ves",
-            "name": "Blood vessel (spleen)",
             "ontologyTerms": [
                 "UBERON:0001981"
             ],
+            "name": "Blood vessel (splen)",
             "layers": [
                 "SPL-M_7",
                 "SPL-M_26"
@@ -429,10 +468,10 @@
         },
         {
             "id": "seg_neu",
-            "name": "Segment of neuron (spleen)",
             "ontologyTerms": [
                 "CL:0000540"
             ],
+            "name": "Segment of neuron (splen)",
             "isTemplate": true,
             "layers": [
                 "54",
@@ -442,24 +481,24 @@
         },
         {
             "id": "n-gspl",
-            "name": "greater splanchnic nerve (spleen)",
             "ontologyTerms": [
                 "UBERON:0018680"
-            ]
+            ],
+            "name": "greater splanchnic nerve (splen)"
         },
         {
             "id": "n-splenic",
-            "name": "splanchnic nerve (spleen)",
             "ontologyTerms": [
-                "UBERON:0003715"
-            ]
+                "ILX:0793563"
+            ],
+            "name": "splenic nerve (splen)"
         },
         {
             "id": "axon-bag",
-            "name": "Axon terminal (spleen)",
             "ontologyTerms": [
                 "SAO:280355188"
             ],
+            "name": "Axon terminal (splen)",
             "isTemplate": true,
             "topology": "BAG-",
             "layers": [
@@ -470,10 +509,10 @@
         },
         {
             "id": "axon-tube",
-            "name": "Axon segment (spleen)",
             "ontologyTerms": [
                 "SAO:280355188"
             ],
+            "name": "Axon segment (splen)",
             "isTemplate": true,
             "topology": "TUBE",
             "layers": [
@@ -484,10 +523,10 @@
         },
         {
             "id": "dend-bag",
-            "name": "Dendrite terminal (spleen)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
+            "name": "Dendrite terminal or axon sensory terminal (splen)",
             "isTemplate": true,
             "topology": "BAG-",
             "layers": [
@@ -498,10 +537,10 @@
         },
         {
             "id": "dend-tube",
-            "name": "Dendrite segment (spleen)",
             "ontologyTerms": [
                 "SAO:420754792"
             ],
+            "name": "Dendrite segment or axon sensory segment (splen)",
             "isTemplate": true,
             "topology": "TUBE",
             "layers": [
@@ -512,79 +551,79 @@
         },
         {
             "id": "sn_t8",
-            "name": "soma in T8 spinal cord segment_Neuron 1 (spleen)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "soma in T8 spinal cord segment_Neuron 1 (splen)",
             "supertype": "seg_neu",
             "seedIn": "neuron1_spl"
         },
         {
             "id": "sn_t7",
-            "name": "soma in T7 spinal cord segment_Neuron 1  (spleen)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "soma in T7 spinal cord segment_Neuron 1  (splen)",
             "supertype": "seg_neu"
         },
         {
             "id": "sn_t6",
-            "name": "soma in T6 spinal cord segment_Neuron 1  (spleen)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "soma in T6 spinal cord segment_Neuron 1  (splen)",
             "supertype": "seg_neu"
         },
         {
             "id": "sn_t5",
-            "name": "soma in T5 spinal cord segment_Neuron 1  (spleen)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "soma in T5 spinal cord segment_Neuron 1  (splen)",
             "supertype": "seg_neu"
         },
         {
             "id": "sn_dmv",
-            "name": "soma in dmv in medulla_Neuron 2  (spleen)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "soma in dmv in medulla_Neuron 2  (splen)",
             "supertype": "seg_neu",
             "seedIn": "neuron2_spl"
         },
         {
             "id": "sn_nts",
-            "name": "soma in nts in medulla_Neuron 3 (spleen)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "soma in nts in medulla_Neuron 3 (splen)",
             "supertype": "seg_neu",
             "seedIn": "neuron3_spl"
         },
         {
             "id": "sn_ndg",
-            "name": "soma in ndg in vagus nerve_Neuron 4  (spleen)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "soma in ndg in vagus nerve_Neuron 4  (splen)",
             "supertype": "seg_neu",
             "seedIn": "neuron4_spl"
         },
         {
             "id": "sn-cg-smg",
-            "name": "soma in CG/SMG fused_Neuron 5 (spleen)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
+            "name": "soma in CG/SMG fused_Neuron 5 (splen)",
             "supertype": "seg_neu",
             "seedIn": "neuron5_spl"
         },
         {
             "id": "a-splen",
-            "name": "splenic artery",
             "ontologyTerms": [
                 "UBERON:0001194"
             ],
+            "name": "splenic artery",
             "isTemplate": true,
             "layers": [
                 "SPL-M_7",
@@ -596,10 +635,10 @@
         },
         {
             "id": "v-splen",
-            "name": "splenic vein",
             "ontologyTerms": [
                 "UBERON:0003713"
             ],
+            "name": "splenic vein",
             "isTemplate": true,
             "layers": [
                 "SPL-M_7",
@@ -611,10 +650,10 @@
         },
         {
             "id": "a-trab",
-            "name": "spleen trabecular artery",
             "ontologyTerms": [
                 "UBERON:0010399"
             ],
+            "name": "spleen trabecular artery",
             "isTemplate": true,
             "layers": [
                 "SPL-M_7",
@@ -626,10 +665,10 @@
         },
         {
             "id": "v-trab",
-            "name": "spleen trabecular vein",
             "ontologyTerms": [
                 "UBERON:0010400"
             ],
+            "name": "spleen trabecular vein",
             "isTemplate": true,
             "layers": [
                 "SPL-M_7",
@@ -641,20 +680,20 @@
         },
         {
             "id": "trab",
-            "name": "trabecula",
             "ontologyTerms": [
                 "UBERON:0000440"
             ],
+            "name": "trabecula",
             "materials": [
                 "SPL-M_tct"
             ]
         },
         {
             "id": "a-cent",
-            "name": "central artery",
             "ontologyTerms": [
                 "UBERON:2005020"
             ],
+            "name": "central artery",
             "isTemplate": true,
             "layers": [
                 "SPL-M_7",
@@ -666,10 +705,10 @@
         },
         {
             "id": "ven_sin",
-            "name": "venous sinus",
             "ontologyTerms": [
                 "UBERON:0006615"
             ],
+            "name": "venous sinus",
             "layers": [
                 "SPL-M_7",
                 "SPL-M_6",
@@ -680,10 +719,10 @@
         },
         {
             "id": "spl_cord",
-            "name": "splenic cord",
             "ontologyTerms": [
                 "UBERON:0001266"
             ],
+            "name": "splenic cord",
             "layers": [
                 "SPL-M_7",
                 "SPL-M_rpm",
@@ -692,10 +731,10 @@
         },
         {
             "id": "cap-shea",
-            "name": "(sheathed) capillary",
             "ontologyTerms": [
                 "UBERON:0001982"
             ],
+            "name": "(sheathed) capillary",
             "layers": [
                 "SPL-M_7",
                 "SPL-M_6",
@@ -705,10 +744,10 @@
         },
         {
             "id": "art-rad",
-            "name": "(radial) arteriole",
             "ontologyTerms": [
                 "UBERON:0001980"
             ],
+            "name": "(radial) arteriole",
             "isTemplate": true,
             "layers": [
                 "SPL-M_7",
@@ -719,10 +758,10 @@
         },
         {
             "id": "ven-conn",
-            "name": "(connecting) venule",
             "ontologyTerms": [
                 "UBERON:0001979"
             ],
+            "name": "(connecting) venule",
             "layers": [
                 "SPL-M_7",
                 "SPL-M_6",
@@ -732,10 +771,10 @@
         },
         {
             "id": "art-pen",
-            "name": "penicillary arteriole",
             "ontologyTerms": [
                 "UBERON:0013132"
             ],
+            "name": "penicillary arteriole",
             "layers": [
                 "SPL-M_7",
                 "SPL-M_6",
@@ -743,6 +782,13 @@
                 "SPL-M_tm",
                 "SPL-M_ta"
             ]
+        },
+        {
+            "id": "whole-body",
+            "ontologyTerms": [
+                "UBERON:0000468"
+            ],
+            "name": "whole body of multicellular organism"
         }
     ],
     "materials": [
@@ -1297,8 +1343,80 @@
             ]
         },
         {
+            "id": "ac-t8seg",
+            "name": "axon chain  in T8 spinal cord segment in Neuron 1 (splen)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_t8t",
+            "leaf": "ns_seg_out",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "T8",
+                "n-gspl"
+            ]
+        },
+        {
+            "id": "ac-t7seg",
+            "name": "axon chain  in T7 spinal cord segment in Neuron 1 (splen)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_t7t",
+            "leaf": "ns_seg_out",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "T7",
+                "n-gspl"
+            ]
+        },
+        {
+            "id": "ac-t6seg",
+            "name": "axon chain  in T6 spinal cord segment in Neuron 1 (splen)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_t6t",
+            "leaf": "ns_seg_out",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "T6",
+                "n-gspl"
+            ]
+        },
+        {
+            "id": "ac-t5seg",
+            "name": "axon chain in T5 spinal cord segment in Neuron 1 (splen)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns_t5t",
+            "leaf": "ns_seg_out",
+            "housingLayers": [
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "T5",
+                "n-gspl"
+            ]
+        },
+        {
             "id": "dc-t8seg",
-            "name": "dendrite chain  in T8 spinal cord segment (splen)",
+            "name": "dendrite chain  in T8 spinal cord segment in Neuron 1 (splen)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -1312,24 +1430,8 @@
             ]
         },
         {
-            "id": "ac-t8seg",
-            "name": "axon chain  in T8 spinal cord segment (splen)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns_t8t",
-            "leaf": "ns_seg_out",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "T8"
-            ]
-        },
-        {
             "id": "dc-t7seg",
-            "name": "dendrite chain  in T7 spinal cord segment (splen)",
+            "name": "dendrite chain  in T7 spinal cord segment in Neuron 1 (splen)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -1343,24 +1445,8 @@
             ]
         },
         {
-            "id": "ac-t7seg",
-            "name": "axon chain  in T7 spinal cord segment (splen)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns_t7t",
-            "leaf": "ns_seg_out",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "T7"
-            ]
-        },
-        {
             "id": "dc-t6seg",
-            "name": "dendrite chain  in T6 spinal cord segment (splen)",
+            "name": "dendrite chain  in T6 spinal cord segment in Neuron 1 (splen)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -1374,24 +1460,8 @@
             ]
         },
         {
-            "id": "ac-t6seg",
-            "name": "axon chain  in T6 spinal cord segment (splen)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns_t6t",
-            "leaf": "ns_seg_out",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "T6"
-            ]
-        },
-        {
             "id": "dc-t5seg",
-            "name": "dendrite chain  in T5 spinal cord segment (splen)",
+            "name": "dendrite chain  in T5 spinal cord segment in Neuron 1 (splen)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -1405,24 +1475,8 @@
             ]
         },
         {
-            "id": "ac-t5seg",
-            "name": "axon chain in T5 spinal cord segment (splen)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-tube",
-            "root": "ns_t5t",
-            "leaf": "ns_seg_out",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "T5"
-            ]
-        },
-        {
             "id": "ac-segtocg-smg",
-            "name": "axon chain from spinal segments to CG/SMG\nfused",
+            "name": "axon chain from spinal segments to CG/SMG fused in Neuron 1 (splen)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -1440,7 +1494,7 @@
         },
         {
             "id": "dc-med",
-            "name": "dendrite chain in dmv in medulla (splen)",
+            "name": "dendrite chain in dmv in medulla in Neuron 2(splen)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -1456,7 +1510,7 @@
         },
         {
             "id": "ac-dmv",
-            "name": "axon chain in dmv in medulla to vagus nerve (splen)",
+            "name": "axon chain in dmv in medulla to vagus nerve in Neuron 2 (splen)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -1465,16 +1519,18 @@
             "leaf": "ns_dmv-out",
             "housingLayers": [
                 0,
+                2,
                 0
             ],
             "housingLyphs": [
                 "dmv",
+                "med",
                 "n-vag"
             ]
         },
         {
             "id": "ac-cg_smg",
-            "name": "axon chain in vagus nerve  to CG/SMG\nfused (splen)",
+            "name": "axon chain in vagus nerve  to CG/SMG fused in Neuron 2 (splen)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -1492,7 +1548,7 @@
         },
         {
             "id": "ac-vagout",
-            "name": "axon chain to serosa of the mesenteric lyph node (splen)",
+            "name": "axon chain to serosa of the mesenteric lyph node in Neuron 2 (splen)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -1501,16 +1557,18 @@
             "leaf": "ns-mln",
             "housingLayers": [
                 0,
-                5
+                7,
+                0
             ],
             "housingLyphs": [
-                "cg-smg",
-                "int"
+                "n-vag",
+                "int",
+                "mes_ln"
             ]
         },
         {
             "id": "dc-cg-smg",
-            "name": "dendrtite chain from CG/SMG fused to spleen",
+            "name": "dendrtite chain from CG/SMG fused to spleen in Neuron 5 (splen)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -1526,7 +1584,7 @@
         },
         {
             "id": "ac-pals",
-            "name": "axon chain in vagus nerve to periarterial lymphatic sheath (splen)",
+            "name": "axon chain in vagus nerve to periarterial lymphatic sheath in Neuron 5 (splen)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -1536,12 +1594,12 @@
             "housingLayers": [
                 0,
                 0,
-                1,
-                2,
-                3,
-                4,
                 5,
-                6,
+                4,
+                3,
+                2,
+                1,
+                0,
                 0
             ],
             "housingLyphs": [
@@ -1558,7 +1616,7 @@
         },
         {
             "id": "dc-nts",
-            "name": "dendrite chain  in nts in medulla (splen)",
+            "name": "dendrite chain  in nts in medulla Neuron 3 (splen)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -1574,7 +1632,7 @@
         },
         {
             "id": "ac-nts",
-            "name": "axon chain in nts in medulla to dmv (splen)",
+            "name": "axon chain in nts in medulla to dmv Neuron 3 (splen)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -1583,7 +1641,7 @@
             "leaf": "ns_nts-dmv",
             "housingLayers": [
                 0,
-                0,
+                2,
                 0
             ],
             "housingLyphs": [
@@ -1594,17 +1652,17 @@
         },
         {
             "id": "dc-ndg",
-            "name": "dendrite chain  in ndg in vagus nerve  (splen)",
+            "name": "dendrite chain  in ndg in vagus nerve in Neuron 4  (splen)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
-            "lyphTemplate": "dend-bag",
+            "lyphTemplate": "axon-bag",
             "root": "ns_ndg-s",
             "leaf": "ns_ndg-nts",
             "housingLayers": [
                 0,
                 0,
-                0,
+                2,
                 0
             ],
             "housingLyphs": [
@@ -1616,20 +1674,22 @@
         },
         {
             "id": "ac-ndg",
-            "name": "axon chain  in ndg in vagus nerve  (splen)",
+            "name": "axon chain  in ndg in vagus nerve in Neuron 4 (splen)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
-            "lyphTemplate": "axon-bag",
+            "lyphTemplate": "dend-bag",
             "root": "ns_ndg-t",
             "leaf": "ns_ndg-unknown",
             "housingLayers": [
+                0,
                 0,
                 0
             ],
             "housingLyphs": [
                 "ndg",
-                "n-vag"
+                "n-vag",
+                "whole-body"
             ]
         }
     ],
