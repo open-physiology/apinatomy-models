@@ -29,13 +29,13 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="1.2857459"
-   inkscape:cx="757.92581"
-   inkscape:cy="327.04751"
-   inkscape:window-width="1802"
-   inkscape:window-height="978"
-   inkscape:window-x="1214"
-   inkscape:window-y="499"
-   inkscape:window-maximized="0"
+   inkscape:cx="783.98074"
+   inkscape:cy="1437.6869"
+   inkscape:window-width="1920"
+   inkscape:window-height="1038"
+   inkscape:window-x="1200"
+   inkscape:window-y="405"
+   inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" />
 <style
    type="text/css"
@@ -89,6 +89,26 @@
 	.st46{fill:none;stroke:#808285;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:1.9721,1.9721;}
 </style>
 <g
+   id="g34310"
+   transform="rotate(90,606.77829,578.16672)"><path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1, 1;stroke-dashoffset:0.4;stroke-opacity:1"
+     d="m 619.71811,589.42152 -5.01458,4.15126"
+     id="path21764"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 600.67633,588.85293 4.91778,4.77828"
+     id="path21764-6"
+     sodipodi:nodetypes="cc" /></g><g
+   id="g34310-1"
+   transform="rotate(90,564.55147,620.37685)"><path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1, 1;stroke-dashoffset:0.4;stroke-opacity:1"
+     d="m 619.71811,589.42152 -5.01458,4.15126"
+     id="path21764-0"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 600.67633,588.85293 4.91778,4.77828"
+     id="path21764-6-6"
+     sodipodi:nodetypes="cc" /></g><g
    id="g12">
 	<g
    id="g8">
@@ -807,10 +827,7 @@
    class="st5"
    d="M228.8,532.93h220.36c14.87,0,37.68,63.93,47.23,63.93s28.82,0,34.36,0s27.76-17.96,31.4-27.27  c3.63-9.31,21.81-3.1,26.91,0.89c5.1,3.99,7.98,7.22,7.98,10.59c0,11.71-22.16,24.15-34.89,33.52c-11.36,8.37-8.07,25.99,0,27.29"
    id="path222" />
-<text
-   transform="matrix(0 1 -1 0 808.5283 715.4557)"
-   class="st6 st7 st8"
-   id="text224">3</text>
+
 <g
    id="g234">
 	<g
@@ -2808,8 +2825,9 @@
    id="g1156">
 		<path
    class="st5"
-   d="M227.5,622.37h196.36c20,0,27.76,46,41.95,46s54.8,0,62.09,0s15.28-11.01,16.61-13.89    c1.33-2.88,12.41-24.39,39.46-2.77c27.05,21.62-15.67,43.31-21.03,45.99c-5.36,2.67-11.19,5.68,13.45,5.68h156.91    c22.44,0,65.82-55.21,85.54-74.93l10.25-10.03c150.28-150.28,540.26-274.8,601.44-11.71"
-   id="path1150" />
+   d="m 227.5,622.37 h 196.36 c 20,0 27.76,46 41.95,46 h 62.09 c 7.29,0 15.28,-11.01 16.61,-13.89 1.33,-2.88 12.41,-24.39 39.46,-2.77 27.05,21.62 2.90649,23.08785 -20.34255,46.81494 -4.81004,4.86983 -0.87828,4.85506 12.76255,4.85506 H 733.3 c 22.44,0 65.82,-55.21 85.54,-74.93 l 10.25,-10.03 c 150.28,-150.28 540.26,-274.8 601.44,-11.71"
+   id="path1150"
+   sodipodi:nodetypes="cssssscssccc" />
 		<g
    id="g1154">
 			
@@ -2822,7 +2840,11 @@
    height="1.5"
    id="rect1152" />
 		</g>
-	</g>
+	<path
+   style="fill:none;stroke:#f15a29;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+   d="m 561.12723,642.30684 c 14.30718,-10.83504 244.78867,-0.0366 249.60161,-5.27667"
+   id="path18736"
+   sodipodi:nodetypes="cc" /></g>
 </g>
 <text
    transform="translate(90.6338,1198.6268)"
@@ -3149,4 +3171,17 @@
      sodipodi:role="line"
      x="1445.8358"
      y="1397.8757"
-     id="tspan8905">edge crossing.</tspan></text></svg>
+     id="tspan8905">edge crossing.</tspan></text><path
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+   d="m 961.203,1660.156 h 970.7226"
+   id="path66846"
+   sodipodi:nodetypes="cc" /><text
+   xml:space="preserve"
+   style="font-size:8px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+   x="716.74921"
+   y="1661.3248"
+   id="text69217"><tspan
+     sodipodi:role="line"
+     id="tspan69215"
+     x="716.74921"
+     y="1661.3248">Axis of rotation. Layer index starts from 0 here.</tspan></text></svg>
