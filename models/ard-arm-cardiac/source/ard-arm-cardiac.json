@@ -1025,8 +1025,8 @@
             ],
             "layers": [
                 "AM_7",
-                "AM47",
-                "AM46"
+                "AM_47",
+                "AM_46"
             ]
         },
         {
@@ -1037,8 +1037,8 @@
             ],
             "layers": [
                 "AM_7",
-                "AM47",
-                "AM46"
+                "AM_47",
+                "AM_46"
             ]
         },
         {
@@ -1049,8 +1049,8 @@
             ],
             "layers": [
                 "AM_7",
-                "AM47",
-                "AM46"
+                "AM_47",
+                "AM_46"
             ]
         },
         {
@@ -1061,8 +1061,8 @@
             ],
             "layers": [
                 "AM_7",
-                "AM47",
-                "AM46"
+                "AM_47",
+                "AM_46"
             ]
         },
         {
@@ -3358,7 +3358,7 @@
         },
         {
             "id": "ac-sn-rv2_6",
-            "name": "Axon in right ventricle layer 0_Neuron 6 (aacar)",
+            "name": "Axon in right ventricle layer 2_Neuron 6 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3367,7 +3367,7 @@
             "leaf": "ns102_0",
             "housingLayers": [
                 0,
-                0
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3385,7 +3385,7 @@
             "leaf": "ns102_1",
             "housingLayers": [
                 0,
-                0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3396,7 +3396,7 @@
         },
         {
             "id": "ac-sn-lv2_6",
-            "name": "Axon in left ventricle layer 0_Neuron 6 (aacar)",
+            "name": "Axon in left ventricle layer 2_Neuron 6 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3405,7 +3405,7 @@
             "leaf": "ns103_0",
             "housingLayers": [
                 0,
-                0
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3423,7 +3423,7 @@
             "leaf": "ns103_1",
             "housingLayers": [
                 0,
-                0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3490,7 +3490,7 @@
         },
         {
             "id": "ac-sn-ra2_6",
-            "name": "Axon in right atrium layer 0_Neuron 6 (aacar)",
+            "name": "Axon in right atrium layer 2_Neuron 6 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3528,7 +3528,7 @@
         },
         {
             "id": "ac-sn-la2_6",
-            "name": "Axon in left atrium layer 0_Neuron 6 (aacar)",
+            "name": "Axon in left atrium layer 2_Neuron 6 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3618,7 +3618,7 @@
         },
         {
             "id": "ac-la0_7",
-            "name": "Axon in left atrium layer 0 from atrial ICG _Neuron 7 (aacar)",
+            "name": "Axon in left atrium layer 2 from atrial ICG _Neuron 7 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3656,7 +3656,7 @@
         },
         {
             "id": "ac-ra0_7",
-            "name": "Axon in right atrium layer 0 from atrial ICG_Neuron 7 (aacar)",
+            "name": "Axon in right atrium layer 2 from atrial ICG_Neuron 7 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3729,7 +3729,7 @@
         },
         {
             "id": "ac-ven-epi_7",
-            "name": "Axon in epicardium near left ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
+            "name": "Axon in epicardium near left ventricle layer 2 from ventricular ICG_Neuron 7 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3745,7 +3745,7 @@
         },
         {
             "id": "ac-lv0_7",
-            "name": "Axon in left ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
+            "name": "Axon in left ventricle layer 2 from ventricular ICG_Neuron 7 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -3754,7 +3754,7 @@
             "leaf": "ns118_0",
             "housingLayers": [
                 0,
-                0
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -3772,7 +3772,7 @@
             "leaf": "ns118_1",
             "housingLayers": [
                 0,
-                0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -3783,7 +3783,7 @@
         },
         {
             "id": "ac-rv0_7",
-            "name": "Axon in right ventricle layer 0 from ventricular ICG_Neuron 7 (aacar)",
+            "name": "Axon in right ventricle layer 2 from ventricular ICG_Neuron 7 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -4449,7 +4449,7 @@
         },
         {
             "id": "dc-sn-la0_11",
-            "name": "Dendrite from heart to left atrium_layer 0_Neuron 11 (aacar)",
+            "name": "Dendrite from heart to left atrium_layer 2_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -4458,7 +4458,7 @@
             "leaf": "ns166",
             "housingLayers": [
                 0,
-                0
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -4476,7 +4476,7 @@
             "leaf": "ns167",
             "housingLayers": [
                 0,
-                0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -4519,7 +4519,7 @@
         },
         {
             "id": "dc-sn-lv0_11",
-            "name": "Dendrite from heart to left ventricle_layer 0_Neuron 11 (aacar)",
+            "name": "Dendrite from heart to left ventricle_layer 2_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -4528,7 +4528,7 @@
             "leaf": "ns169_1",
             "housingLayers": [
                 0,
-                0
+                2
             ],
             "housingLyphs": [
                 "A74",
@@ -4546,7 +4546,7 @@
             "leaf": "ns169_2",
             "housingLayers": [
                 0,
-                0,
+                2,
                 1
             ],
             "housingLyphs": [
@@ -4573,7 +4573,7 @@
         },
         {
             "id": "dc-sn-ra-mus_11",
-            "name": "Dendrite from heart to right atrium_layer 0_Neuron 11 (aacar)",
+            "name": "Dendrite from heart to right atrium_layer 2_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -4627,7 +4627,7 @@
         },
         {
             "id": "dc-sn-aorta_11",
-            "name": "Dendrite to aorta - layer 0_Neuron 11 (aacar)",
+            "name": "Dendrite to aorta - layer 3_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -4645,7 +4645,7 @@
         },
         {
             "id": "dc-sn-pulartery_11",
-            "name": "Dendrite to pulmonary artery - layer 0_Neuron 11 (aacar)",
+            "name": "Dendrite to pulmonary artery - layer 3_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
