@@ -2258,7 +2258,7 @@
         {
             "id": "109in222",
             "ontologyTerms": [
-                "ILX:0738327"
+                "UBERON:0000379"
             ],
             "name": "Mucosa of trachea",
             "supertype": "109"
@@ -2722,6 +2722,9 @@
             "id": "107",
             "name": "Central nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0001017"
             ],
             "materials": [
@@ -2807,6 +2810,9 @@
             "id": "117",
             "name": "Peripheral nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0000010"
             ],
             "materials": [

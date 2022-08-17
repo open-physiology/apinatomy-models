@@ -1055,7 +1055,6 @@
             "internalLyphs": [
                 "B117",
                 "B122",
-                "sn-trac_3",
                 "B118"
             ],
             "internalLyphsInLayers": [
@@ -1078,7 +1077,6 @@
             "internalLyphs": [
                 "B117",
                 "B121",
-                "sn-bron_4",
                 "B118"
             ],
             "internalLyphsInLayers": [
@@ -1101,7 +1099,6 @@
             "internalLyphs": [
                 "B117",
                 "B120",
-                "sn-bronle_5",
                 "B118"
             ],
             "internalLyphsInLayers": [
@@ -1124,7 +1121,6 @@
             "internalLyphs": [
                 "B117",
                 "B119",
-                "sn_termbronle_6",
                 "B118"
             ],
             "internalLyphsInLayers": [
@@ -1190,28 +1186,40 @@
             "ontologyTerms": [
                 "ILX:0793570"
             ],
-            "name": "Trachea parasympathetic ganglia"
+            "name": "Trachea parasympathetic ganglia",
+            "internalLyphs": [
+                "sn-trac_3"
+            ]
         },
         {
             "id": "B120",
             "ontologyTerms": [
                 "ILX:0793571"
             ],
-            "name": "Bronchus parasympathetic ganglia"
+            "name": "Bronchus parasympathetic ganglia",
+            "internalLyphs": [
+                "sn-bron_4"
+            ]
         },
         {
             "id": "B121",
             "ontologyTerms": [
                 "ILX:0793572"
             ],
-            "name": "Bronchiole parasympathetic ganglia"
+            "name": "Bronchiole parasympathetic ganglia",
+            "internalLyphs": [
+                "sn-bronle_5"
+            ]
         },
         {
             "id": "B122",
             "ontologyTerms": [
                 "ILX:0793573"
             ],
-            "name": "Terminal bronchiole parasympathetic ganglia"
+            "name": "Terminal bronchiole parasympathetic ganglia",
+            "internalLyphs": [
+                "sn_termbronle_6"
+            ]
         },
         {
             "id": "B123",
@@ -1656,6 +1664,9 @@
             "id": "BM_18",
             "name": "Peripheral nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0000010"
             ]
         },
@@ -1677,6 +1688,9 @@
             "id": "BM_21",
             "name": "Central nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0001017"
             ]
         },
@@ -2491,8 +2505,8 @@
             "leaf": "ns29_5",
             "housingLayers": [
                 0,
-                0,
-                1
+                1,
+                0
             ],
             "housingLyphs": [
                 "n-splan",
@@ -2526,7 +2540,7 @@
             "leaf": "ns32",
             "housingLayers": [
                 0,
-                0,
+                2,
                 0
             ],
             "housingLyphs": [
@@ -2546,7 +2560,7 @@
             "leaf": "ns33",
             "housingLayers": [
                 0,
-                0,
+                1,
                 0
             ],
             "housingLyphs": [
@@ -2566,7 +2580,7 @@
             "leaf": "ns34",
             "housingLayers": [
                 0,
-                0,
+                1,
                 0
             ],
             "housingLyphs": [
@@ -2586,7 +2600,7 @@
             "leaf": "ns35",
             "housingLayers": [
                 0,
-                0,
+                1,
                 0
             ],
             "housingLyphs": [
@@ -2606,7 +2620,7 @@
             "leaf": "ns35_5",
             "housingLayers": [
                 0,
-                0,
+                1,
                 0
             ],
             "housingLyphs": [
@@ -2641,7 +2655,7 @@
             "leaf": "ns42",
             "housingLayers": [
                 0,
-                0
+                1
             ],
             "housingLyphs": [
                 "B119",
@@ -2674,7 +2688,7 @@
             "leaf": "ns47",
             "housingLayers": [
                 0,
-                0
+                1
             ],
             "housingLyphs": [
                 "B120",
@@ -2707,7 +2721,7 @@
             "leaf": "ns52",
             "housingLayers": [
                 0,
-                0
+                1
             ],
             "housingLyphs": [
                 "B121",
@@ -2740,7 +2754,7 @@
             "leaf": "ns57",
             "housingLayers": [
                 0,
-                0
+                1
             ],
             "housingLyphs": [
                 "B122",

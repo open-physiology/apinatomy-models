@@ -1395,6 +1395,9 @@
         {
             "id": "SM_22",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0000010"
             ],
             "name": "Peripheral nervous system tissue",
@@ -1419,6 +1422,9 @@
         {
             "id": "SM_25",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0001017"
             ],
             "name": "Central nervous system tissue",

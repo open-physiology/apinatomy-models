@@ -936,6 +936,9 @@
             "id": "SPL-M_22",
             "name": "Peripheral nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0000010"
             ],
             "materials": [
@@ -960,6 +963,9 @@
             "id": "SPL-M_25",
             "name": "Central nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0001017"
             ],
             "materials": [
@@ -1174,7 +1180,10 @@
         },
         {
             "id": "SPL-M_ta",
-            "name": "tunica adventitia"
+            "name": "tunica adventitia",
+            "ontologyTerms": [
+                "UBERON:0005734"
+            ]
         },
         {
             "id": "SPL-M_tct",

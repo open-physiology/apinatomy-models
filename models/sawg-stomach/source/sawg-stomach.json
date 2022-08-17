@@ -791,6 +791,9 @@
             "id": "SM_22",
             "name": "Peripheral nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0000010"
             ],
             "materials": [

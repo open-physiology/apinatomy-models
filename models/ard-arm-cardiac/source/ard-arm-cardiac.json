@@ -1892,6 +1892,9 @@
             "id": "AM_21",
             "name": "Peripheral nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0000010"
             ]
         },
@@ -1913,6 +1916,9 @@
             "id": "AM_24",
             "name": "Central nervous system tissue",
             "ontologyTerms": [
+                "UBERON:0003714"
+            ],
+            "external": [
                 "UBERON:0001017"
             ]
         },
