@@ -27,9 +27,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="5.7189105"
-   inkscape:cx="289.21593"
-   inkscape:cy="251.00935"
+   inkscape:zoom="4.0438804"
+   inkscape:cx="576.92112"
+   inkscape:cy="22.379495"
    inkscape:window-width="1920"
    inkscape:window-height="1038"
    inkscape:window-x="1200"
@@ -2399,7 +2399,14 @@
 <text
    transform="matrix(1 0 0 1 645.3207 73.2412)"
    class="st39 st40"
-   id="text834">lymph flow out</text>
+   id="text834">lymph flow out</text><text
+   class="st39 st40"
+   id="text834-5"
+   style="font-size:8.2178px;font-family:TimesNewRomanPS-ItalicMT"
+   x="580.39539"
+   y="11.29178"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+     id="tspan12089">Intestine</tspan></text>
 <g
    id="g840">
 	

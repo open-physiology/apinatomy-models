@@ -45,9 +45,9 @@
    inkscape:window-height="1038"
    id="namedview2309"
    showgrid="false"
-   inkscape:zoom="1.1614987"
-   inkscape:cx="3651.7476"
-   inkscape:cy="946.62182"
+   inkscape:zoom="3.2852144"
+   inkscape:cx="3906.8987"
+   inkscape:cy="1579.6534"
    inkscape:window-x="1200"
    inkscape:window-y="405"
    inkscape:window-maximized="1"
@@ -135,7 +135,33 @@
    font-size="13px"
    id="text14"
    x="4019.6592"
-   y="1517.8313">1st order Sensory</text>
+   y="1517.8313">1st order Sensory</text><text
+   font-family="Times-Bold"
+   font-size="13px"
+   id="text14-6"
+   x="3898.6262"
+   y="1330.1698"><tspan
+     sodipodi:role="line"
+     id="tspan6037"
+     x="3898.6262"
+     y="1330.1698">White</tspan><tspan
+     sodipodi:role="line"
+     id="tspan6039"
+     x="3898.6262"
+     y="1346.4198">matter</tspan></text><text
+   font-family="Times-Bold"
+   font-size="13px"
+   id="text14-6-7"
+   x="3897.4893"
+   y="1632.1388"><tspan
+     sodipodi:role="line"
+     id="tspan5005"
+     x="3897.4893"
+     y="1632.1388">White</tspan><tspan
+     sodipodi:role="line"
+     id="tspan5007"
+     x="3897.4893"
+     y="1648.3888">matter</tspan></text>
 
 
 
@@ -3927,10 +3953,11 @@
 	</g>
 </g>
 <text
-   transform="matrix(1 0 0 1 3723.6929 1655.0518)"
-   font-family="'Times-Bold'"
+   font-family="Times-Bold"
    font-size="7px"
-   id="text1308">10</text>
+   id="text1308"
+   x="3721.5623"
+   y="1656.2694">10</text>
 <text
    font-family="Times-Bold"
    font-size="7px"
@@ -3971,15 +3998,17 @@
 	</g>
 </g>
 <text
-   transform="matrix(1 0 0 1 3810.4863 1655.0518)"
-   font-family="'Times-Bold'"
+   font-family="Times-Bold"
    font-size="7px"
-   id="text1324">10</text>
+   id="text1324"
+   x="3808.6599"
+   y="1658.0957">10</text>
 <text
-   transform="matrix(1 0 0 1 3802.4863 1645.0518)"
-   font-family="'Times-Bold'"
+   font-family="Times-Bold"
    font-size="7px"
-   id="text1326">12</text>
+   id="text1326"
+   x="3785.9902"
+   y="1639.8771">12</text>
 <path
    fill="none"
    stroke="#575756"
@@ -3988,10 +4017,11 @@
    d="M3888.99,1657.4v-289.46  c0-11.63-42.23-36.46-42.23-58.18c0-21.73,0-58.37,0-65.86c0-7.49,4.65-7.49,9.53-7.49"
    id="path1328" />
 <text
-   transform="matrix(1 0 0 1 3890.2795 1645.0518)"
-   font-family="'Times-Bold'"
+   font-family="Times-Bold"
    font-size="7px"
-   id="text1330">12</text>
+   id="text1330"
+   x="3872.929"
+   y="1639.5728">12</text>
 <text
    font-family="Times-Bold"
    font-size="7px"
