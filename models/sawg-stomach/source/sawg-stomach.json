@@ -1659,32 +1659,6 @@
             ]
         },
         {
-            "id": "ac_13br_pdgfr",
-            "name": "Axon chain in the myenteric plexus in the proximal stomach to longitudinal muscle to PGDFR -branch_Neuron 13 (sstom)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns69",
-            "leaf": "ns72",
-            "housingLayers": [
-                6,
-                5,
-                4,
-                3,
-                2,
-                1
-            ],
-            "housingLyphs": [
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto",
-                "pro_sto"
-            ]
-        },
-        {
             "id": "dc_14",
             "name": "Dendrite chain in myenteric plexus in the proximal stomach_Neuron 14 (sstom)",
             "ontologyTerms": [
