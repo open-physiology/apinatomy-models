@@ -3356,9 +3356,11 @@
             "root": "ns102",
             "leaf": "ns102_2",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
+                "74",
                 "74"
             ]
         },
@@ -3488,9 +3490,11 @@
             "root": "ns104",
             "leaf": "ns104_2",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
+                "74",
                 "74"
             ]
         },

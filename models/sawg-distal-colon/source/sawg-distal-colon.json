@@ -1,20 +1,20 @@
 {
     "references": [
         {
-            "id": "PMID:6736296",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/6736296/"
         },
         {
-            "id": "PMID:4044907",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/4044907/"
         },
         {
-            "id": "PMID:4044908",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/4044908/"
         },
         {
-            "id": "PMID:4044909",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/4044909/"
+        },
+        {
+            "name": "from Tom for inhibitory motor neuron",
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/8601295/"
         }
     ],
     "nodes": [
@@ -1689,7 +1689,7 @@
             "lyphTemplate": "axon-tube",
             "housingLayers": [
                 6,
-                0,
+                13,
                 0,
                 0,
                 0,
@@ -3504,6 +3504,9 @@
             "name": "Neuron l",
             "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-l"
+            ],
+            "references": [
+                "PMID:8601295"
             ]
         },
         {
@@ -3511,6 +3514,9 @@
             "name": "Neuron l2",
             "ontologyTerms": [
                 "ilxtr:neuron-type-sdcol-l-prime"
+            ],
+            "references": [
+                "PMID:8601295"
             ]
         },
         {
@@ -3611,6 +3617,10 @@
         {
             "prefix": "ilxtr",
             "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
+        },
+        {
+            "prefix": "doi",
+            "namespace": "https://doi.org/"
         }
     ],
     "id": "sawg-distal-colon",

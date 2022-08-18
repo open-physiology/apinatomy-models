@@ -1631,6 +1631,25 @@
                 "soma220_15",
                 "soma220_16",
                 "soma220_17"
+            ],
+            "internalLyphsInLayers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
             ]
         },
         {
@@ -2879,7 +2898,7 @@
             "root": "s107in214",
             "lyphTemplate": "dend-bag",
             "housingLyphs": [
-                "107in214"
+                "228"
             ]
         },
         {
