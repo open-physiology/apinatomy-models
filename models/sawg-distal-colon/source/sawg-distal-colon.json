@@ -1748,7 +1748,7 @@
             "lyphTemplate": "axon-tube",
             "housingLayers": [
                 6,
-                0,
+                13,
                 0
             ],
             "housingLyphs": [
