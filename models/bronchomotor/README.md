@@ -2,14 +2,6 @@
 
 This digital record documents the ApiNATOMY representation of the neural circuits for visceral afferents from, and para/sympathetic effectors to, the lower airways. ApiNATOMY is a set of tools that produces simple, consistent anatomy schematics overlaid with ontological information. These tools are used to build routing and connectivity graphs (or wiring diagrams). This record contains a docs folder, a source folder, and a README text file. The Docs folder contains 2 PDF documents, with a schematic image of the ApiNATOMY model and a slide presentation documenting the anatomical structures each neuron population travels through in the schematic image. The Source folder contains the ApiNATOMY representation of the model in JSON and .xlsx formats. Lastly, the README .md document includes a brief description, keywords, and reference publications to construct the knowledge within the model.
 
-## Authors
-  [Bernard de Bono](https://orcid.org/0000-0003-0638-5274)
-  
-  [Monique Surles-Zeigler](https://orcid.org/0000-0002-2308-8813)
-  
-  [Thomas H Gillespie](https://orcid.org/0000-0002-7509-4801)
-  
-  [Don Bolser](https://orcid.org/0000-0002-4577-8954) 
 
 ## Keywords
 * spinal cord
