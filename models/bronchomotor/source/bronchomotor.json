@@ -1834,35 +1834,35 @@
             "id": "BM_42",
             "name": "Wall of larynx",
             "ontologyTerms": [
-                "FMA:64182"
+                "ILX:0738326"
             ]
         },
         {
             "id": "BM_43",
             "name": "Wall of trachea",
             "ontologyTerms": [
-                "FMA:7470"
+                "ILX:0793684"
             ]
         },
         {
             "id": "BM_44",
             "name": "Wall of bronchus",
             "ontologyTerms": [
-                "FMA:67480"
+                "ILX:0793764"
             ]
         },
         {
             "id": "BM_45",
             "name": "Wall of bronchiole",
             "ontologyTerms": [
-                "FMA:74655"
+                "ILX:0793765"
             ]
         },
         {
             "id": "BM_46",
             "name": "Wall of terminal bronchiole",
             "ontologyTerms": [
-                "FMA:62792"
+                "ILX:0775392"
             ]
         },
         {

@@ -1934,9 +1934,9 @@
         {
             "id": "235",
             "ontologyTerms": [
-                "ILX:0776616"
+                "ILX:0793621"
             ],
-            "name": "External carotid nerve",
+            "name": "External carotid nerve plexus",
             "layers": [
                 "117"
             ]
@@ -1956,7 +1956,7 @@
             "ontologyTerms": [
                 "UBERON:0002024"
             ],
-            "name": "Internal carotid nerve",
+            "name": "Internal carotid nerve plexus",
             "layers": [
                 "117"
             ]
@@ -2754,7 +2754,7 @@
             "id": "108",
             "name": "Wall of larynx",
             "ontologyTerms": [
-                "FMA:64182"
+                "ILX:0738326"
             ],
             "materials": [
                 "111"
@@ -2764,7 +2764,7 @@
             "id": "109",
             "name": "Wall of trachea",
             "ontologyTerms": [
-                "FMA:7470"
+                "ILX:0793684"
             ],
             "materials": [
                 "111"
@@ -2791,14 +2791,14 @@
             "id": "112",
             "name": "Mucosa of tongue",
             "ontologyTerms": [
-                "FMA:54807"
+                "UBERON:0005020"
             ]
         },
         {
             "id": "113",
             "name": "Muscle of tongue",
             "ontologyTerms": [
-                "FMA:4668"
+                "UBERON:0000378"
             ]
         },
         {
@@ -2812,7 +2812,7 @@
             "id": "115",
             "name": "Cartilage of epiglottis",
             "ontologyTerms": [
-                "FMA:55112"
+                "UBERON:0001742"
             ]
         },
         {

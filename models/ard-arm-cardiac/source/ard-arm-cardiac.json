@@ -1067,9 +1067,9 @@
         },
         {
             "id": "A79",
-            "name": "Aorta (aacar)",
+            "name": "Ascending Aorta (aacar)",
             "ontologyTerms": [
-                "UBERON:0000947"
+                "UBERON:0001496"
             ],
             "layers": [
                 "AM_7",
@@ -3551,7 +3551,7 @@
             ],
             "housingLyphs": [
                 "A74",
-                "A76"
+                "A77"
             ]
         },
         {
@@ -3570,8 +3570,8 @@
             ],
             "housingLyphs": [
                 "A74",
-                "A76",
-                "A76"
+                "A77",
+                "A77"
             ]
         },
         {
@@ -5314,7 +5314,7 @@
                 "ilxtr:neuron-type-aacar-12"
             ],
             "references": [
-                "DOI:10.1002/cphy.c150046"
+                "doi:10.1002/cphy.c150046"
             ]
         },
         {
@@ -5380,6 +5380,10 @@
         {
             "prefix": "ilxtr",
             "namespace": "http://uri.interlex.org/tgbugs/uris/readable/"
+        },
+        {
+            "prefix": "doi",
+            "namespace": "https://doi.org/"
         }
     ],
     "id": "ard-arm-cardiac",
