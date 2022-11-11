@@ -4366,6 +4366,22 @@
                 "mat-tissue-cardiovascular-serous-pericardium",
                 "mat-tissue-cardiovascular-fibrous-pericardium",
                 "mat-tissue-cardiovascular-epicardial-fat"
+            ],
+            "internalLyphs": [
+                "lyph-cardiovascular-right-ventricle",
+                "lyph-cardiovascular-left-atrium",
+                "lyph-cardiovascular-right-atrium",
+                "lyph-cardiovascular-left-ventricle",
+                "lyph-PNS-ganglion-atrial-intrinsic-cardiac-ganglion",
+                "lyph-PNS-ganglion-ventricular-intrinsic-cardiac-ganglion"
+            ],
+            "internalLyphsInLayers": [
+                1,
+                1,
+                1,
+                1,
+                6,
+                6
             ]
         },
         {
