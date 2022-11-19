@@ -1,18 +1,23 @@
 {
     "references": [
         {
+            "id": "PMID:6736296",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/6736296/"
         },
         {
+            "id": "PMID:4044907",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/4044907/"
         },
         {
+            "id": "PMID:4044908",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/4044908/"
         },
         {
+            "id": "PMID:4044909",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/4044909/"
         },
         {
+            "id": "PMID:8601295",
             "name": "from Tom for inhibitory motor neuron",
             "uri": "https://pubmed.ncbi.nlm.nih.gov/8601295/"
         }
