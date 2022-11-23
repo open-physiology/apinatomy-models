@@ -358,14 +358,6 @@
             "supertype": "lt-cell-cyst"
         },
         {
-            "id": "lyph-cell-pancreatic-acinar",
-            "ontologyTerms": [
-                "ILX:0773243"
-            ],
-            "name": "Pancreatic acinar cell",
-            "supertype": "lt-cell-cyst"
-        },
-        {
             "id": "lyph-cell-liver-hepatocyte",
             "ontologyTerms": [
                 "CL:0000182"
