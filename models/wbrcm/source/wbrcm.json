@@ -1440,7 +1440,11 @@
         {
             "id": "lyph-digestive-pancreaticobiliary-major-duodenal-papilla",
             "name": "Major duodenal papilla",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreaticobiliary-ampulla-of-Vater",
@@ -1448,111 +1452,199 @@
                 "UBERON:0004913"
             ],
             "name": "Ampulla of Vater",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreaticobiliary-sphincter",
-            "name": "Pancreaticobiliary sphincter"
+            "name": "Pancreaticobiliary sphincter",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreas-main-duct",
             "name": "Main pancreatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreas-lobar-duct",
             "name": "Lobar pancreatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreas-interlobular-duct",
             "name": "Interlobular pancreatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreas-intralobular-duct",
             "name": "Intralobular pancreatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreas-striated-duct",
             "name": "Striated pancreatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreas-intercalated-duct",
             "name": "Intercalated pancreatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-pancreas-acinus",
             "name": "Pancreatic acinus",
-            "topology": "BAG"
+            "topology": "BAG",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-choledochopancreatic-duct",
             "name": "Choledochopancreatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-common-bile-duct",
             "name": "Common bile duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-cystic-duct",
             "name": "Cystic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-gallbladder",
             "name": "Gallbladder",
-            "topology": "BAG"
+            "topology": "BAG",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-gallbladder-neck",
             "name": "Gallbladder neck",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-common-hepatic-duct",
             "name": "Common hepatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-hepatic-duct",
             "name": "Hepatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-intrahepatic-bile-duct",
             "name": "Intrahepatic duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-interlobular-bile-duct",
             "name": "Interlobular duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-perilobular-bile-duct",
             "name": "Perilobular duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-terminal-bile-ductule",
             "name": "Terminal bile duct",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-canal-of-Hering",
             "name": "Canal of Hering",
-            "topology": "TUBE"
+            "topology": "TUBE",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-biliary-biliary-canaliculus",
             "name": "Biliary canaliculus",
-            "topology": "BAG"
+            "topology": "BAG",
+            "layers": [
+                "mat-gastrointestinal-luminal-fluid",
+                "mat-gastrointestinal-serosa"
+            ]
         },
         {
             "id": "lyph-digestive-salivary-excretory-duct",
@@ -2452,7 +2544,8 @@
             "isTemplate": true,
             "materials": [
                 "mat-CNS-grey-matter-of-spinal-cord"
-            ]
+            ],
+            "hostedBy": "n2R"
         },
         {
             "id": "lyph-C2-dorsal-root-ganglion",
@@ -2707,11 +2800,12 @@
             "ontologyTerms": [
                 "UBERON:0002260"
             ],
-            "name": "Segment of ventral root chain-ganglion",
+            "name": "Segment of ventral root",
             "isTemplate": true,
             "materials": [
                 "mat-CNS-white-matter-of-spinal-cord"
-            ]
+            ],
+            "hostedBy": "n2R"
         },
         {
             "id": "lyph-C1-ventral-root",
@@ -2992,7 +3086,8 @@
             ],
             "name": "Autonomic ganglion in visceral wall",
             "isTemplate": true,
-            "supertype": "lt-PNS-ganglion"
+            "supertype": "lt-PNS-ganglion",
+            "hostedBy": "n2G"
         },
         {
             "id": "lt-sympathetic-ganglion",
@@ -3001,7 +3096,8 @@
             ],
             "name": "Sympathetic ganglion",
             "isTemplate": true,
-            "supertype": "lt-PNS-ganglion"
+            "supertype": "lt-PNS-ganglion",
+            "hostedBy": "n2G"
         },
         {
             "id": "lt-prevertebral-ganglia",
@@ -3010,7 +3106,8 @@
             ],
             "name": "Prevertebral ganglia",
             "isTemplate": true,
-            "supertype": "lt-sympathetic-ganglion"
+            "supertype": "lt-sympathetic-ganglion",
+            "hostedBy": "n2G"
         },
         {
             "id": "lt-paravertebral-ganglia",
@@ -3019,7 +3116,8 @@
             ],
             "name": "Paravertebral ganglia",
             "isTemplate": true,
-            "supertype": "lt-sympathetic-ganglion"
+            "supertype": "lt-sympathetic-ganglion",
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-superior-cervical-ganglion",
@@ -3410,7 +3508,8 @@
                 "FMA:5875"
             ],
             "name": "White communicating ramus",
-            "isTemplate": true
+            "isTemplate": true,
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-superior-cervical-ganglion-white-ramus",
@@ -3570,7 +3669,8 @@
                 "ILX:0793149"
             ],
             "name": "Gray communicating ramus of superior cervical ganglion",
-            "supertype": "lt-gray-ramus"
+            "supertype": "lt-gray-ramus",
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-middle-cervical-ganglion-grey-ramus",
@@ -3940,7 +4040,8 @@
                 "UBERON:0003535"
             ],
             "name": "Vagus nerve",
-            "supertype": "lt-PNS-nerve"
+            "supertype": "lt-PNS-nerve",
+            "hostedBy": "n1C10N"
         },
         {
             "id": "lyph-PNS-nerve-glossopharyngeal-main-trunk",
@@ -3972,7 +4073,8 @@
                 "ILX:0793555"
             ],
             "name": "Intrinsic cardiac ganglion of the atria",
-            "supertype": "lt-ganglion-visceral-mural"
+            "supertype": "lt-ganglion-visceral-mural",
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-PNS-ganglion-ventricular-intrinsic-cardiac-ganglion",
@@ -3980,7 +4082,8 @@
                 "ILX:0793556"
             ],
             "name": "Intrinsic cardiac ganglion of the ventricle",
-            "supertype": "lt-ganglion-visceral-mural"
+            "supertype": "lt-ganglion-visceral-mural",
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-PNS-ganglion-inferior-mesenteric",
@@ -3989,7 +4092,7 @@
             ],
             "name": "Inferior mesenteric ganglion",
             "supertype": "lt-prevertebral-ganglia",
-            "hostedBy": "n2N"
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-PNS-pelvic-ganglion",
@@ -3998,7 +4101,7 @@
             ],
             "name": "Pelvic ganglion",
             "supertype": "lt-prevertebral-ganglia",
-            "hostedBy": "n2N"
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-PNS-ganglion-superior-mesenteric",
@@ -4007,7 +4110,7 @@
             ],
             "name": "Superior mesenteric ganglion",
             "supertype": "lt-prevertebral-ganglia",
-            "hostedBy": "n2N"
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-PNS-ganglion-mediastinal",
@@ -4015,7 +4118,8 @@
                 "ILX:0793550"
             ],
             "name": "Mediastinal ganglion",
-            "supertype": "lt-prevertebral-ganglia"
+            "supertype": "lt-prevertebral-ganglia",
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-PNS-ganglion-celiac",
@@ -4024,7 +4128,7 @@
             ],
             "name": "Celiac ganglion",
             "supertype": "lt-prevertebral-ganglia",
-            "hostedBy": "n2N"
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-PNS-ganglion-intrapancreatic",
@@ -4033,7 +4137,7 @@
             ],
             "name": "Intrapancreatic ganglion",
             "supertype": "lt-prevertebral-ganglia",
-            "hostedBy": "n2N"
+            "hostedBy": "n2G"
         },
         {
             "id": "lyph-PNS-nodose-ganglion-vagus-nerve",
@@ -4520,7 +4624,8 @@
             "ontologyTerms": [
                 "UBERON:0002106"
             ],
-            "name": "Spleen"
+            "name": "Spleen",
+            "hostedBy": "d2S"
         },
         {
             "id": "lyph-hepatic-epithelium-of-lobule",
@@ -6487,7 +6592,7 @@
                 "lyph-L2-white-ramus",
                 "lyph-L3-white-ramus"
             ],
-            "hostedBy": "too:n2R"
+            "hostedBy": "too:n2G"
         },
         {
             "id": "chain-grey-rami",
@@ -6520,7 +6625,7 @@
                 "lyph-S4-grey-ramus",
                 "lyph-Cx1-grey-ramus"
             ],
-            "hostedBy": "too:n2R"
+            "hostedBy": "too:n2G"
         },
         {
             "id": "chain-male-reproductive",
@@ -6727,5 +6832,7 @@
     "namespace": "wbkg",
     "imports": [
         "https://raw.githubusercontent.com/open-physiology/apinatomy-models/master/models/too-map/source/too-map.json"
-    ]
+    ],
+    "schemaVersion": "154e06766889606a7ed5a231b8bc00d3b28cfdf8",
+    "version": "c78610866821bea60e91c97ff68e02250a9b6662"
 }
