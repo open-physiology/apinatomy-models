@@ -4065,7 +4065,8 @@
                 "UBERON:0018680"
             ],
             "name": "Greater splanchnic nerve",
-            "supertype": "lt-PNS-nerve"
+            "supertype": "lt-PNS-nerve",
+            "hostedBy": "n2N"
         },
         {
             "id": "lyph-PNS-ganglion-atrial-intrinsic-cardiac-ganglion",
