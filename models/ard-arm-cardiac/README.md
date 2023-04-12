@@ -1,4 +1,4 @@
-# Ardell-Armour ApiNATOMY model of the heart
+# UCLA ApiNATOMY model of the heart
 
 This digital record documents the ApiNATOMY representation of the neural circuits innervating the heart. In particular, this model illustrates predominantly porcine model of the sympathetic, parasympathetic and visceral sensing of the four cardiac chambers, aorta and pulmonary trunk. This model encodes over ten neuron types that invest the heart via the following set of ganglia including: (i) the sympathetic chain; (ii) intrinsic cardiac ganglia as well as (iii) mediastinal ganglia. 
 
