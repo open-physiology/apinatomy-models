@@ -3360,8 +3360,8 @@
                 0
             ],
             "housingLyphs": [
-                "74",
-                "74"
+                "A74",
+                "A74"
             ]
         },
         {
@@ -3494,8 +3494,8 @@
                 0
             ],
             "housingLyphs": [
-                "74",
-                "74"
+                "A74",
+                "A74"
             ]
         },
         {
@@ -4346,7 +4346,7 @@
             ],
             "lyphTemplate": "dend-bag",
             "root": "ns150",
-            "leaf": "150_5",
+            "leaf": "ns150_5",
             "housingLayers": [
                 0
             ],
@@ -5387,5 +5387,5 @@
         }
     ],
     "id": "ard-arm-cardiac",
-    "name": "Ardell Armour Cardiac Model"
+    "name": "UCLA Cardiac Model"
 }
