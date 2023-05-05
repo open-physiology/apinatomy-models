@@ -935,7 +935,7 @@
             ],
             "housingLyphs": [
                 "wbkg:lyph-PNS-ganglion-intrapancreatic",
-                "lyph-pancreatic-vasculature",
+                "wbkg:lyph-pancreatic-acinus",
                 "wbkg:lyph-pancreatic-islet-of-langerhans"
             ]
         },
