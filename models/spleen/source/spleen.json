@@ -169,6 +169,10 @@
             "internalLyphs": [
                 "nts",
                 "dmv"
+            ],
+            "internalLyphsInLayers": [
+                2,
+                2
             ]
         },
         {
