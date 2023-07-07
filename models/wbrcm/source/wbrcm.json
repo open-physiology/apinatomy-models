@@ -6655,7 +6655,8 @@
                 "lyph-Cx1-sympathetic-chain-ganglion"
             ],
             "wiredTo": "too:symp-chain-wire",
-            "hostedBy": "too:n2G"
+            "hostedBy": "too:n2G",
+            "startFromLeaf": true
         },
         {
             "id": "chain-ventral-spinal-roots",
