@@ -767,7 +767,7 @@
         },
         {
             "id": "w-V-B",
-            "name": "Pfiltrum skin",
+            "name": "Philtrum skin",
             "source": "V",
             "target": "B",
             "geometry": "arc",
@@ -1095,7 +1095,10 @@
         {
             "id": "symp-chain-wire",
             "source": "n2GA",
-            "target": "n2GB"
+            "target": "n2GB",
+            "ontologyTerms": [
+                "UBERON:0000407"
+            ]
         }
     ],
     "regions": [
@@ -1214,6 +1217,34 @@
                 "UBERON:0002106"
             ],
             "description": "Spleen"
+        },
+        {
+            "id": "d2T",
+            "name": "Thymus",
+            "color": "#FFF0F5",
+            "points": [
+                {
+                    "x": -30,
+                    "y": 40
+                },
+                {
+                    "x": -30,
+                    "y": 50
+                },
+                {
+                    "x": -20,
+                    "y": 50
+                },
+                {
+                    "x": -20,
+                    "y": 40
+                }
+            ],
+            "internalIn": "d2",
+            "ontologyTerms": [
+                "UBERON:0002370"
+            ],
+            "description": "Thymus"
         },
         {
             "id": "n1",
@@ -1547,7 +1578,7 @@
         },
         {
             "id": "n3M",
-            "name": "Skeletal Musculature",
+            "name": "Skeletal Musculature and Fasciae",
             "points": [
                 {
                     "x": -60,
@@ -1683,7 +1714,7 @@
         },
         {
             "id": "n4R",
-            "name": "Retinal",
+            "name": "Ocular",
             "points": [
                 {
                     "x": 50,
@@ -1706,7 +1737,7 @@
             "ontologyTerms": [
                 "UBERON:0000966"
             ],
-            "description": "Retina"
+            "description": "Eye"
         },
         {
             "id": "n4O",
@@ -2089,7 +2120,8 @@
                 "V",
                 "f4N",
                 "f4E",
-                "f4M"
+                "f4M",
+                "I"
             ]
         },
         {
@@ -2340,5 +2372,7 @@
     "name": "TOO map",
     "author": "B. de Bono, N. Kokash, T. Gillespie",
     "namespace": "too",
-    "description": "this model has female topology"
+    "description": "this model has female topology",
+    "version": "43f48922e5b21adb64d687cccfe8482377340d19",
+    "schemaVersion": "e0dba87327205156ed4e89dc42b1ab036d6a4465"
 }
