@@ -1737,6 +1737,9 @@
         },
         {
             "id": "lyph-male-genital-excretory-duct-of-seminal-vesicle",
+            "ontologyTerms": [
+                "UBERON:0000998"
+            ],
             "name": "Excretory duct of seminal vesicle",
             "topology": "TUBE"
         },
@@ -1933,7 +1936,8 @@
                 "lyph-CNS-nucleus-oculomotor-parvocellular"
             ],
             "internalLyphsInLayers": [
-                44959
+                2,
+                2
             ]
         },
         {
@@ -4278,7 +4282,7 @@
             "ontologyTerms": [
                 "UBERON:0003535"
             ],
-            "name": "Vagus nerve",
+            "name": "Trunk of Vagus nerve",
             "supertype": "lt-PNS-nerve",
             "hostedBy": "too:n1C10N"
         },
@@ -4287,7 +4291,7 @@
             "ontologyTerms": [
                 "ILX:0740513"
             ],
-            "name": "Glossopharyngeal nerve",
+            "name": "Main trunk of glossopharyngeal nerve",
             "supertype": "lt-PNS-nerve",
             "hostedBy": "too:n1C9N"
         },
@@ -4980,6 +4984,10 @@
             "layers": [
                 "mat-fluid-urinary",
                 "mat-gastrointestinal-serosa"
+            ],
+            "internalLyphs": [
+                "lyph-digestive-muscle-smooth-prostatic-generic",
+                "lyph-digestive-epithelium-prostatic-generic"
             ]
         },
         {
@@ -4992,6 +5000,11 @@
             "layers": [
                 "mat-fluid-urinary",
                 "mat-gastrointestinal-serosa"
+            ],
+            "internalLyphs": [
+                "lyph-male-genitourinary-epitheliulm-seminal-vesicle-generic",
+                "lyph-male-genitourinary-muscle-coat-seminal-vesicle-generic",
+                "lyph-male-genital-excretory-duct-of-seminal-vesicle"
             ]
         },
         {
@@ -5324,13 +5337,13 @@
             ],
             "name": "Rhomboid muscle",
             "topology": "CYST",
+            "layers": [
+                "mat-tissue-skeletal-muscle",
+                "mat-tissue-connective-tissue",
+                "mat-tissue-connective-tissue"
+            ],
             "internalLyphs": [
                 "lyph-fat-brown-interscapular"
-            ],
-            "internalLyphsInLayers": [
-                null,
-                null,
-                null
             ],
             "hostedBy": "too:n3M"
         },
@@ -5898,6 +5911,117 @@
             "name": "Inferior mesenteric nerve plexus",
             "supertype": "lt-PNS-nerve",
             "hostedBy": "too:n2N"
+        },
+        {
+            "id": "lyph-PNS-nerve-vagus",
+            "ontologyTerms": [
+                "UBERON:0001759"
+            ],
+            "name": "Vagus nerve",
+            "supertype": "lt-PNS-nerve",
+            "hostedBy": "too:n1C10N"
+        },
+        {
+            "id": "lyph-PNS-nerve-glossopharyngeal",
+            "ontologyTerms": [
+                "UBERON:0001649"
+            ],
+            "name": "Glossopharyngeal nerve"
+        },
+        {
+            "id": "lyph-PNS-nerve-spinal-generic",
+            "ontologyTerms": [
+                "UBERON:0001780"
+            ],
+            "name": "Generic spinal nerve",
+            "supertype": "lt-PNS-nerve",
+            "hostedBy": "too:n2R"
+        },
+        {
+            "id": "lyph-PNS-ganglion-myenteric-generic",
+            "ontologyTerms": [
+                "ILX:0793735"
+            ],
+            "name": "Generic myenteric ganglion of small intestine",
+            "supertype": "lt-prevertebral-ganglia",
+            "hostedBy": "too:n2N"
+        },
+        {
+            "id": "lyph-PNS-nerve-mesenteric-generic",
+            "ontologyTerms": [
+                "ILX:0793714"
+            ],
+            "name": "Generic mesenteric nerve",
+            "supertype": "lt-PNS-nerve",
+            "hostedBy": "too:n2N"
+        },
+        {
+            "id": "lyph-PNS-ganglion-complex-superior-mesenteric-celiac-generic",
+            "ontologyTerms": [
+                "ILX:0793082"
+            ],
+            "name": "Generic celiac ganglion- superior mesenteric ganglion complex",
+            "supertype": "lt-prevertebral-ganglia",
+            "hostedBy": "too:n2N"
+        },
+        {
+            "id": "lyph-PNS-nerve-postganglionic-sympathetic-fiber-generic",
+            "ontologyTerms": [
+                "UBERON:0011926"
+            ],
+            "name": "Generic postganglionic sympathetic fiber",
+            "supertype": "lt-PNS-nerve",
+            "hostedBy": "too:n2N"
+        },
+        {
+            "id": "lyph-digestive-muscle-smooth-prostatic-generic",
+            "ontologyTerms": [
+                "UBERON:0004243"
+            ],
+            "name": "Generic prostate gland smooth muscle",
+            "topology": "TUBE"
+        },
+        {
+            "id": "lyph-PNS-nerve-postganglionic-parasympathetic-fiber-generic",
+            "ontologyTerms": [
+                "UBERON:0011929"
+            ],
+            "name": "Generic postganglionic parasympathetic fiber",
+            "supertype": "lt-PNS-nerve",
+            "hostedBy": "too:n2N"
+        },
+        {
+            "id": "lyph-digestive-epithelium-prostatic-generic",
+            "ontologyTerms": [
+                "UBERON:0000428"
+            ],
+            "name": "Generic prostatic epithelium",
+            "topology": "TUBE"
+        },
+        {
+            "id": "lyph-male-genitourinary-epitheliulm-seminal-vesicle-generic",
+            "ontologyTerms": [
+                "UBERON:0004805"
+            ],
+            "name": "Generic seminal vesicle epithelium",
+            "topology": "TUBE"
+        },
+        {
+            "id": "lyph-male-genitourinary-muscle-coat-seminal-vesicle-generic",
+            "ontologyTerms": [
+                "UBERON:0004665"
+            ],
+            "name": "Generic seminal vesicle muscle coat",
+            "topology": "TUBE"
+        },
+        {
+            "id": "lt-soma-of-neuron",
+            "ontologyTerms": [
+                "SAO:1044911821"
+            ],
+            "name": "Soma of neuron",
+            "isTemplate": true,
+            "supertype": "lt-segment-of-neuron"
         }
     ],
     "materials": [
@@ -7863,6 +7987,13 @@
             "name": "Cellular component of mucosal epithelium of mouth",
             "materials": [
                 "mat-cellular-component-of-oral-mucosal-epithelium"
+            ]
+        },
+        {
+            "id": "mat-tissue-tracheobronchial-adventitia",
+            "name": "Adventitia of the tracheobronchial tree",
+            "materials": [
+                "mat-extracellular-material"
             ]
         }
     ],
