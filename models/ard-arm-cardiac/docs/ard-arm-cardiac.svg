@@ -420,9 +420,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="2.5176372"
-   inkscape:cx="2142.0878"
-   inkscape:cy="2873.329"
+   inkscape:zoom="0.89011917"
+   inkscape:cx="1900.8691"
+   inkscape:cy="1668.3159"
    inkscape:window-width="2560"
    inkscape:window-height="1375"
    inkscape:window-x="0"
@@ -1756,7 +1756,7 @@
    id="text324-7-7"
    x="1940.7635"
    y="2993.4238"
-   style="font-size:21px;font-family:Chalkduster">what color are 14 and 15?</text><text
+   style="font-size:21px;font-family:Chalkduster">what color are 14 and 15? does 14 synapse on 15, and 15 on  1?</text><text
    class="st10 st11"
    id="text324-7-5"
    x="1111.9276"
@@ -4084,6 +4084,20 @@
 		
 	</g>
 </g><g
+   id="g5323-8"
+   transform="matrix(0,-1.3478806,1.3478806,0,292.51393,4557.6265)">
+	<g
+   id="g5321-4">
+		
+		<path
+   class="st61"
+   d="m 2121.4502,1180.5396 c 28.8239,-40.3595 -72.6172,-37.6797 -45.1131,-1.6876"
+   id="path5317-5"
+   style="fill:none;stroke:#ed1c24;stroke-width:5.93524;stroke-miterlimit:10;stroke-dasharray:4.31878, 4.31878;stroke-dashoffset:0"
+   sodipodi:nodetypes="cc" />
+		
+	</g>
+</g><g
    id="g5365"
    transform="matrix(1.3478806,0,0,1.3478806,-13.517695,-20.476433)">
 	<path
@@ -4112,7 +4126,7 @@
    xml:space="preserve"><tspan
      x="788.86401"
      y="1624.5225"
-     id="tspan63566">reciprocal synapsing over interganglionic nerve</tspan></text><text
+     id="tspan69103">reciprocal synapsing over interganglionic nerve</tspan></text><text
    class="st62 st56 st68"
    id="text5381"
    style="font-size:43.0489px;font-family:BalooBhaijaan-Regular;fill:#27aae1;stroke-width:0.443586;stroke-dasharray:none"
@@ -4231,6 +4245,20 @@
    x="988.73315"
    y="1281.0846"
    style="font-size:21px;font-family:Chalkduster">vago-sympathetic trunk</text><text
+   class="st10 st11"
+   id="text324-7-5-8-0"
+   x="-1671.1798"
+   y="1858.5819"
+   style="font-size:21px;font-family:Chalkduster"
+   transform="rotate(-90)"><tspan
+     sodipodi:role="line"
+     id="tspan68372"
+     x="-1671.1798"
+     y="1858.5819">interganglionic</tspan><tspan
+     sodipodi:role="line"
+     id="tspan68374"
+     x="-1671.1798"
+     y="1884.8319">nerve ???</tspan></text><text
    class="st10 st11"
    id="text324-7-5-8-4"
    x="2614.4497"
