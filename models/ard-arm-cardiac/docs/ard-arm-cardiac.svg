@@ -410,6 +410,10 @@
 		
 		
 		
+	
+		
+		
+		
 	</defs><sodipodi:namedview
    id="namedview1153"
    pagecolor="#ffffff"
@@ -420,11 +424,11 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="0.89011917"
-   inkscape:cx="1900.8691"
-   inkscape:cy="1668.3159"
-   inkscape:window-width="2560"
-   inkscape:window-height="1375"
+   inkscape:zoom="0.6294093"
+   inkscape:cx="2044.7744"
+   inkscape:cy="1688.8851"
+   inkscape:window-width="2554"
+   inkscape:window-height="1317"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -1756,7 +1760,27 @@
    id="text324-7-7"
    x="1940.7635"
    y="2993.4238"
-   style="font-size:21px;font-family:Chalkduster">what color are 14 and 15? does 14 synapse on 15, and 15 on  1?</text><text
+   style="font-size:21px;font-family:Chalkduster"><tspan
+     sodipodi:role="line"
+     id="tspan69834"
+     x="1940.7635"
+     y="2993.4238">what color are 14 and 15? does 14 synapse on 15, and 15 on  1?</tspan><tspan
+     sodipodi:role="line"
+     x="1940.7635"
+     y="3019.6738"
+     id="tspan69838">14 is a local circuit neuron, 15 may be processing stretch sensation</tspan><tspan
+     sodipodi:role="line"
+     x="1940.7635"
+     y="3045.9238"
+     id="tspan69844">interoception relaying cardiovascular status, CNS ascending neuron</tspan><tspan
+     sodipodi:role="line"
+     x="1940.7635"
+     y="3072.1738"
+     id="tspan69846">in a sensory circuit</tspan><tspan
+     sodipodi:role="line"
+     x="1940.7635"
+     y="3098.4238"
+     id="tspan69842" /></text><text
    class="st10 st11"
    id="text324-7-5"
    x="1111.9276"
@@ -3997,14 +4021,14 @@
    id="path381794"
    sodipodi:nodetypes="cc" /><path
    class="st26"
-   d="m 2198.5368,1737.891 c -297.6121,-62.8113 -436.5478,-3.4404 -443.4176,-0.9722"
+   d="m 2194.962,1738.6854 c -296.0233,-65.9889 -432.973,-4.2348 -439.8428,-1.7666"
    id="path4577"
-   style="fill:none;stroke:#29aae1;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none"
+   style="fill:none;stroke:#29aae1;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:10;stroke-dasharray:none"
    sodipodi:nodetypes="cc" /><path
    class="st26"
-   d="m 2207.6046,1737.2683 c 18.648,5.6736 -1.791,38.4431 -27.9434,54.6878 -63.8044,39.6324 -224.9558,-38.3325 -333.9249,-53.9221 -24.9899,-3.5751 -67.9324,-0.4831 -82.8052,4.2111"
+   d="m 2207.6046,1737.2683 c 18.648,5.6736 -1.791,38.4431 -27.9434,54.6878 -63.8044,39.6324 -224.9558,-38.3325 -333.9249,-53.9221 -24.9899,-3.5751 -61.5772,-3.2635 -76.45,1.4307"
    id="path4595"
-   style="fill:none;stroke:#29aae1;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none"
+   style="fill:none;stroke:#29aae1;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:10;stroke-dasharray:none"
    sodipodi:nodetypes="cssc" /><g
    id="g5283"
    transform="matrix(1.3478806,0,0,1.3478806,-13.517695,-20.476433)">
@@ -4038,37 +4062,14 @@
 		
 	</g>
 </g><g
-   id="g5303"
-   transform="matrix(1.3478806,0,0,-1.3478806,-13.517695,2578.3835)">
-	<path
-   class="st60"
-   d="m 964.78599,925.39069 c -77.13943,93.30881 199.40101,112.27581 129.15961,-1.16233"
-   id="path5297"
-   style="fill:none;stroke:#ed1c24;stroke-width:5.93524;stroke-miterlimit:10;stroke-dasharray:4.39698, 4.39698;stroke-dashoffset:0"
-   sodipodi:nodetypes="cc" />
-</g><g
-   id="g5303-1"
-   transform="matrix(1.3478806,0,0,-1.3478806,1097.2826,2559.4617)">
-	<path
-   class="st60"
-   d="m 1046.1186,924.21196 c -62.99467,51.46379 95.9672,64.24244 37.8078,1.48982"
-   id="path5297-9"
-   style="fill:none;stroke:#ed1c24;stroke-width:5.93524;stroke-miterlimit:10;stroke-dasharray:4.39698, 4.39698;stroke-dashoffset:0"
-   sodipodi:nodetypes="cc" />
-</g><g
    id="g5313"
    transform="matrix(1.3478806,0,0,1.3478806,-13.517695,-20.476433)">
-	<g
-   id="g5311">
-		
-		<path
+	<path
    class="st61"
-   d="m 1673.1271,1486.6204 c 229.3977,-87.1289 -631.6903,-69.3876 -452.3653,-2.5716"
+   d="m 1673.1271,1486.6204 c 229.3977,-87.1289 -901.62014,-65.8514 -722.29514,0.9646"
    id="path5307"
-   style="fill:none;stroke:#ed1c24;stroke-width:5.93524;stroke-miterlimit:10;stroke-dasharray:4.31878, 4.31878;stroke-dashoffset:0"
+   style="fill:none;stroke:#818484;stroke-width:5.93524;stroke-miterlimit:10;stroke-dasharray:4.31878, 4.31878;stroke-dashoffset:0;stroke-opacity:1"
    sodipodi:nodetypes="cc" />
-		
-	</g>
 </g><g
    id="g5323"
    transform="matrix(1.3478806,0,0,1.3478806,-13.517695,-20.476433)">
@@ -4126,7 +4127,7 @@
    xml:space="preserve"><tspan
      x="788.86401"
      y="1624.5225"
-     id="tspan69103">reciprocal synapsing over interganglionic nerve</tspan></text><text
+     id="tspan73949">reciprocal synapsing over interganglionic nerve</tspan></text><text
    class="st62 st56 st68"
    id="text5381"
    style="font-size:43.0489px;font-family:BalooBhaijaan-Regular;fill:#27aae1;stroke-width:0.443586;stroke-dasharray:none"
@@ -4201,12 +4202,6 @@
    x="1842.9565"
    y="864.77863" /><rect
    style="fill:none;fill-opacity:0;stroke:#9138e6;stroke-width:4;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-   id="rect13226-3-7"
-   width="575.94202"
-   height="158.38936"
-   x="945.57166"
-   y="1192.5452" /><rect
-   style="fill:none;fill-opacity:0;stroke:#9138e6;stroke-width:4;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
    id="rect13226-3-7-3"
    width="818.60632"
    height="187.59891"
@@ -4241,11 +4236,6 @@
    id="text47075"
    style="font-size:26.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';white-space:pre;shape-inside:url(#rect47077);display:inline" /><text
    class="st10 st11"
-   id="text324-7-5-8"
-   x="988.73315"
-   y="1281.0846"
-   style="font-size:21px;font-family:Chalkduster">vago-sympathetic trunk</text><text
-   class="st10 st11"
    id="text324-7-5-8-0"
    x="-1671.1798"
    y="1858.5819"
@@ -4260,11 +4250,6 @@
      x="-1671.1798"
      y="1884.8319">nerve ???</tspan></text><text
    class="st10 st11"
-   id="text324-7-5-8-4"
-   x="2614.4497"
-   y="1270.4713"
-   style="font-size:21px;font-family:Chalkduster">vago-sympathetic trunk???? if 13 not here then where?</text><text
-   class="st10 st11"
    id="text324-7-5-8-9"
    x="1516.5948"
    y="2031.5024"
@@ -4275,6 +4260,12 @@
    height="174.11777"
    x="1066.9038"
    y="1873.3528" /><rect
+   style="fill:none;fill-opacity:0;stroke:#9138e6;stroke-width:4;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+   id="rect13226-3-3-3"
+   width="104.09514"
+   height="89.859344"
+   x="1585.9354"
+   y="1912.6733" /><rect
    style="fill:none;fill-opacity:0;stroke:#9138e6;stroke-width:4;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
    id="rect13226-3-6"
    width="124.8789"
