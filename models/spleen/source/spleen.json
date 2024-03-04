@@ -1365,7 +1365,7 @@
             "root": "ns_t8t",
             "leaf": "ns_seg_out",
             "housingLayers": [
-                0,
+                2,
                 0
             ],
             "housingLyphs": [
@@ -1383,7 +1383,7 @@
             "root": "ns_t7t",
             "leaf": "ns_seg_out",
             "housingLayers": [
-                0,
+                2,
                 0
             ],
             "housingLyphs": [
@@ -1401,7 +1401,7 @@
             "root": "ns_t6t",
             "leaf": "ns_seg_out",
             "housingLayers": [
-                0,
+                2,
                 0
             ],
             "housingLyphs": [
@@ -1419,7 +1419,7 @@
             "root": "ns_t5t",
             "leaf": "ns_seg_out",
             "housingLayers": [
-                0,
+                2,
                 0
             ],
             "housingLyphs": [
@@ -1436,7 +1436,7 @@
             "lyphTemplate": "dend-bag",
             "root": "ns_t8s",
             "housingLayers": [
-                0
+                2
             ],
             "housingLyphs": [
                 "T8"
@@ -1451,7 +1451,7 @@
             "lyphTemplate": "dend-bag",
             "root": "ns_t7s",
             "housingLayers": [
-                0
+                2
             ],
             "housingLyphs": [
                 "T7"
@@ -1466,7 +1466,7 @@
             "lyphTemplate": "dend-bag",
             "root": "ns_t6s",
             "housingLayers": [
-                0
+                2
             ],
             "housingLyphs": [
                 "T6"
@@ -1481,7 +1481,7 @@
             "lyphTemplate": "dend-bag",
             "root": "ns_t5s",
             "housingLayers": [
-                0
+                2
             ],
             "housingLyphs": [
                 "T5"

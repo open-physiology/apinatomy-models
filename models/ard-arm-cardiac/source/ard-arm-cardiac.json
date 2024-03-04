@@ -51,6 +51,12 @@
             "conveyingLyph": "snmv_4"
         },
         {
+            "id": "lnk-sn-c8_5",
+            "source": "ns300",
+            "target": "ns301",
+            "conveyingLyph": "sn-c8_5"
+        },
+        {
             "id": "lnk-sn-t1_5",
             "source": "ns20",
             "target": "ns21",
@@ -265,6 +271,18 @@
             "source": "ns207",
             "target": "ns208",
             "conveyingLyph": "sn-t6drg_13"
+        },
+        {
+            "id": "lnk-sn-c7layer1_14",
+            "source": "ns300",
+            "target": "ns301",
+            "conveyingLyph": "sn-c7layer1_14"
+        },
+        {
+            "id": "lnk-sn-c7layer10_15",
+            "source": "ns310",
+            "target": "ns311",
+            "conveyingLyph": "sn-c7layer10_15"
         }
     ],
     "lyphs": [
@@ -325,6 +343,14 @@
             "name": "C7 spinal segment (aacar)",
             "ontologyTerms": [
                 "UBERON:0006493"
+            ],
+            "internalLyphs": [
+                "sn-c7layer1_14",
+                "sn-c7layer10_15"
+            ],
+            "internalLyphsInLayers": [
+                12,
+                2
             ],
             "supertype": "A96"
         },
@@ -1006,7 +1032,8 @@
                 0,
                 0,
                 0,
-                0
+                0,
+                5
             ],
             "layers": [
                 "A83",
@@ -1014,7 +1041,8 @@
                 "A88",
                 "A89",
                 "A90",
-                "A91"
+                "A91",
+                "interganglionic-nerve"
             ]
         },
         {
@@ -1745,6 +1773,70 @@
             "ontologyTerms": [
                 "UBERON:0001017"
             ]
+        },
+        {
+            "id": "vagus-nerve",
+            "name": "Vagus Nerve (aacar)",
+            "ontologyTerms": [
+                "UBERON:0001759"
+            ],
+            "topology": "TUBE"
+        },
+        {
+            "id": "ansa-subclavia",
+            "name": "Ansa Subclavia (aacar)",
+            "ontologyTerms": [
+                "ILX:0739241"
+            ],
+            "topology": "TUBE"
+        },
+        {
+            "id": "aortic-depressor-nerve",
+            "name": "Aortic Depressor Nerve (aacar)",
+            "ontologyTerms": [
+                "ILX:0738312"
+            ],
+            "topology": "TUBE"
+        },
+        {
+            "id": "vago-symapthetic-trunk",
+            "name": "vago-symapthetic trunk (aacar)",
+            "ontologyTerms": [
+                "ilxtr:vago-sympathetic-trunk"
+            ],
+            "topology": "TUBE"
+        },
+        {
+            "id": "interganglionic-nerve",
+            "name": "interganglionic nerve (aacar)",
+            "ontologyTerms": [
+                "ilxtr:cardiac-interganglionic-nerve"
+            ],
+            "topology": "TUBE"
+        },
+        {
+            "id": "funicular_tract",
+            "name": "funicular_tract (aacar)"
+        },
+        {
+            "id": "sn-c7layer1_14",
+            "name": "Soma in c7 rexed 1_Neuron 14 (aacar)",
+            "ontologyTerms": [
+                "NLX:154731"
+            ],
+            "topology": "TUBE",
+            "supertype": "229",
+            "seedIn": "neuron-14"
+        },
+        {
+            "id": "sn-c7layer10_15",
+            "name": "Soma in c7 rexed 10_Neuron 15 (aacar)",
+            "ontologyTerms": [
+                "NLX:154731"
+            ],
+            "topology": "TUBE",
+            "supertype": "229",
+            "seedIn": "neuron-15"
         }
     ],
     "materials": [
@@ -2161,49 +2253,6 @@
             "length": 100
         },
         {
-            "id": "dc-sn-nts_1",
-            "name": "Dendrite in nucleus tractus soltarius_Neuron 1 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns1",
-            "housingLayers": [
-                0
-            ],
-            "housingLyphs": [
-                "A72"
-            ]
-        },
-        {
-            "id": "ac-sn-nts_1",
-            "name": "Axon in nucleus tractus soltarius_Neuron 1 (aacar)",
-            "ontologyTerms": [
-                "SAO:1770195789"
-            ],
-            "lyphTemplate": "axon-bag",
-            "root": "ns2",
-            "leaf": "ns3",
-            "housingLayers": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "housingLyphs": [
-                "A72",
-                "A69",
-                "A68",
-                "A67",
-                "A66",
-                "A64",
-                "A65"
-            ]
-        },
-        {
             "id": "dn-sn-mcg_2",
             "name": "Dendrite in Middle cervical ganglion_Neuron 2 (aacar)",
             "ontologyTerms": [
@@ -2293,11 +2342,14 @@
             "leaf": "ns13",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "A70",
-                "A69"
+                "A69",
+                "vagus-nerve",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -2343,12 +2395,10 @@
             "root": "ns13",
             "leaf": "ns16",
             "housingLayers": [
-                0,
                 5,
                 0
             ],
             "housingLyphs": [
-                "A69",
                 "A74",
                 "A80"
             ]
@@ -2363,12 +2413,10 @@
             "root": "ns13",
             "leaf": "ns17",
             "housingLayers": [
-                0,
                 5,
                 0
             ],
             "housingLyphs": [
-                "A69",
                 "A74",
                 "A81"
             ]
@@ -2461,6 +2509,21 @@
             ],
             "housingLyphs": [
                 "A9"
+            ]
+        },
+        {
+            "id": "dc-c8_5",
+            "name": "Dendrite in C8 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns300",
+            "housingLayers": [
+                6
+            ],
+            "housingLyphs": [
+                "A8"
             ]
         },
         {
@@ -2605,6 +2668,45 @@
                 "A32",
                 "A38",
                 "A50"
+            ],
+            "levels": [
+                {
+                    "target": "yy0"
+                },
+                {
+                    "target": "yy1"
+                },
+                {
+                    "target": "m5-t1j"
+                },
+                {
+                    "target": "yy3"
+                },
+                {
+                    "target": "yy4"
+                }
+            ]
+        },
+        {
+            "id": "ac_c8_5",
+            "name": "Axon in C8 spinal cord segment_Neuron 5 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-tube",
+            "root": "ns301",
+            "leaf": "m5-t1j",
+            "housingLayers": [
+                6,
+                13,
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A8",
+                "A8",
+                "A31"
             ]
         },
         {
@@ -2617,9 +2719,11 @@
             "root": "ns50",
             "leaf": "ns51",
             "housingLayers": [
+                0,
                 0
             ],
             "housingLyphs": [
+                "ansa-subclavia",
                 "A82"
             ]
         },
@@ -2633,10 +2737,12 @@
             "root": "ns50",
             "leaf": "ns52",
             "housingLayers": [
+                0,
                 5,
                 0
             ],
             "housingLyphs": [
+                "vago-symapthetic-trunk",
                 "A74",
                 "A81"
             ]
@@ -2651,10 +2757,12 @@
             "root": "ns50",
             "leaf": "ns53",
             "housingLayers": [
+                0,
                 5,
                 0
             ],
             "housingLyphs": [
+                "vago-symapthetic-trunk",
                 "A74",
                 "A80"
             ]
@@ -2668,7 +2776,6 @@
             "root": "main-5-t6",
             "leaf": "main-5-s",
             "housingLayers": [
-                0,
                 0,
                 0,
                 0,
@@ -2995,11 +3102,13 @@
             "leaf": "ns101",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "A50",
-                "A44"
+                "A44",
+                "ansa-subclavia"
             ]
         },
         {
@@ -3013,11 +3122,13 @@
             "leaf": "ns101",
             "housingLayers": [
                 0,
-                0
+                0,
+                1
             ],
             "housingLyphs": [
                 "A51",
-                "A45"
+                "A45",
+                "ansa-subclavia"
             ]
         },
         {
@@ -3031,11 +3142,13 @@
             "leaf": "ns101",
             "housingLayers": [
                 0,
-                0
+                0,
+                2
             ],
             "housingLyphs": [
                 "A52",
-                "A46"
+                "A46",
+                "ansa-subclavia"
             ]
         },
         {
@@ -3049,11 +3162,13 @@
             "leaf": "ns101",
             "housingLayers": [
                 0,
-                0
+                0,
+                3
             ],
             "housingLyphs": [
                 "A53",
-                "A47"
+                "A47",
+                "ansa-subclavia"
             ]
         },
         {
@@ -3067,11 +3182,13 @@
             "leaf": "ns101",
             "housingLayers": [
                 0,
-                0
+                0,
+                4
             ],
             "housingLyphs": [
                 "A54",
-                "A48"
+                "A48",
+                "ansa-subclavia"
             ]
         },
         {
@@ -3085,11 +3202,13 @@
             "leaf": "ns101",
             "housingLayers": [
                 0,
-                0
+                0,
+                5
             ],
             "housingLyphs": [
                 "A55",
-                "A49"
+                "A49",
+                "ansa-subclavia"
             ]
         },
         {
@@ -3453,12 +3572,14 @@
                 5,
                 0,
                 5,
+                0,
                 0
             ],
             "housingLyphs": [
                 "A74",
                 "A80",
                 "A74",
+                "vago-symapthetic-trunk",
                 "A74"
             ]
         },
@@ -4371,6 +4492,26 @@
             ]
         },
         {
+            "id": "ac-aicg_10b",
+            "name": "Axon in atrial ICG to ventricular ICG_Neuron 10 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns151",
+            "leaf": "ns151_7",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A80",
+                "interganglionic-nerve",
+                "A81"
+            ]
+        },
+        {
             "id": "dc-vicg_10",
             "name": "Dendrite in ventricular ICG_Neuron 10 (aacar)",
             "ontologyTerms": [
@@ -4387,7 +4528,7 @@
         },
         {
             "id": "ac-vicg_10",
-            "name": "Axon in ventricular ICG_Neuron 10 (aacar)",
+            "name": "Axon in ventricular ICG to atrial ICG_Neuron 10 (aacar)",
             "ontologyTerms": [
                 "SAO:1770195789"
             ],
@@ -4402,6 +4543,26 @@
             ]
         },
         {
+            "id": "ac-vicg_10b",
+            "name": "Axon in ventricular ICG to atrial ICG_Neuron 10 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns151",
+            "leaf": "ns151_8",
+            "housingLayers": [
+                0,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A81",
+                "interganglionic-nerve",
+                "A80"
+            ]
+        },
+        {
             "id": "dc-sn-ng_11",
             "name": "Dendrite in the nodose ganglia_Neuron 11 (aacar)",
             "ontologyTerms": [
@@ -4412,10 +4573,14 @@
             "leaf": "ns162",
             "housingLayers": [
                 0,
+                0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "A73",
+                "vagus-nerve",
+                "vago-symapthetic-trunk",
                 "A74"
             ]
         },
@@ -4618,6 +4783,76 @@
             ]
         },
         {
+            "id": "dc-sn-rv_11",
+            "name": "Dendrite from heart_layer 5 of heart to right ventricle and aorta_Neuron 11 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns162",
+            "leaf": "ns168_3",
+            "housingLayers": [
+                1
+            ],
+            "housingLyphs": [
+                "A76"
+            ]
+        },
+        {
+            "id": "dc-sn-rv2_11",
+            "name": "Dendrite from heart_layer 5 to heart rv2_Neuron 11 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns162",
+            "leaf": "ns168_4",
+            "housingLayers": [
+                2
+            ],
+            "housingLyphs": [
+                "A76"
+            ]
+        },
+        {
+            "id": "dc-sn-la-mus_11",
+            "name": "Dendrite from heart to left atrium_layer 2_Neuron 11 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns168",
+            "leaf": "ns168_1",
+            "housingLayers": [
+                0,
+                2
+            ],
+            "housingLyphs": [
+                "A74",
+                "A76"
+            ]
+        },
+        {
+            "id": "dc-sn-la-end_11",
+            "name": "Dendrite from heart to left atrium_layer 1_Neuron 11 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns169",
+            "leaf": "ns168_2",
+            "housingLayers": [
+                0,
+                2,
+                1
+            ],
+            "housingLyphs": [
+                "A74",
+                "A76",
+                "A76"
+            ]
+        },
+        {
             "id": "dc-sn-out_11",
             "name": "Dendrite to blood supply_Neuron 11 (aacar)",
             "ontologyTerms": [
@@ -4743,9 +4978,11 @@
             "root": "ns180_1",
             "leaf": "ns187",
             "housingLayers": [
+                0,
                 3
             ],
             "housingLyphs": [
+                "aortic-depressor-nerve",
                 "A95"
             ]
         },
@@ -4759,9 +4996,11 @@
             "root": "ns180_1",
             "leaf": "ns188",
             "housingLayers": [
+                0,
                 3
             ],
             "housingLyphs": [
+                "aortic-depressor-nerve",
                 "A79"
             ]
         },
@@ -4833,12 +5072,12 @@
             "housingLayers": [
                 0,
                 13,
-                0
+                12
             ],
             "housingLyphs": [
                 "A21",
                 "A7",
-                "central-nervous-system"
+                "A7"
             ]
         },
         {
@@ -5193,6 +5432,108 @@
                 "A76",
                 "A76"
             ]
+        },
+        {
+            "id": "dc-c7layer1_14",
+            "name": "Dendrite in layer 1 of c7 spinal cord segment_Neuron 14 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns300",
+            "leaf": "ns300_1",
+            "housingLayers": [
+                12
+            ],
+            "housingLyphs": [
+                "A7"
+            ]
+        },
+        {
+            "id": "ac-c7layer1_x_14",
+            "name": "Axon in layer 1 of c7 spinal cord segment to layer X_Neuron 14 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns302",
+            "leaf": "ns302_1",
+            "housingLayers": [
+                12,
+                6
+            ],
+            "housingLyphs": [
+                "A7",
+                "A7"
+            ]
+        },
+        {
+            "id": "ac-c7layer1_vii_14",
+            "name": "Axon in layer 1 of c7 spinal cord segment_ to layer VII_Neuron 14 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns303",
+            "leaf": "ns303_1",
+            "housingLayers": [
+                12,
+                2
+            ],
+            "housingLyphs": [
+                "A7",
+                "A7"
+            ]
+        },
+        {
+            "id": "dc-sn-c7layer10_15",
+            "name": "Dendrite in layer 10 of c7 spinal cord segment_Neuron 15 (aacar)",
+            "ontologyTerms": [
+                "SAO:1211023249"
+            ],
+            "lyphTemplate": "dend-bag",
+            "root": "ns310",
+            "leaf": "ns310_1",
+            "housingLayers": [
+                2
+            ],
+            "housingLyphs": [
+                "A7"
+            ]
+        },
+        {
+            "id": "ac-sn-c7layer10_15",
+            "name": "Axon in layer 10 of c7 spinal cord segment_Neuron 15 (aacar)",
+            "ontologyTerms": [
+                "SAO:1770195789"
+            ],
+            "lyphTemplate": "axon-bag",
+            "root": "ns311",
+            "leaf": "ns312",
+            "housingLayers": [
+                2,
+                13,
+                13,
+                13,
+                13,
+                13,
+                13,
+                13,
+                0,
+                0
+            ],
+            "housingLyphs": [
+                "A7",
+                "A7",
+                "A6",
+                "A5",
+                "A4",
+                "A3",
+                "A2",
+                "A1",
+                "A69",
+                "A72"
+            ]
         }
     ],
     "groups": [
@@ -5325,6 +5666,20 @@
             ],
             "references": [
                 "PMID:27783854"
+            ]
+        },
+        {
+            "id": "neuron-14",
+            "name": "Neuron 14",
+            "ontologyTerms": [
+                "ilxtr:neuron-type-aacar-14"
+            ]
+        },
+        {
+            "id": "neuron-15",
+            "name": "Neuron 15",
+            "ontologyTerms": [
+                "ilxtr:neuron-type-aacar-15"
             ]
         }
     ],
