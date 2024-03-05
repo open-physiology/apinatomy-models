@@ -274,8 +274,8 @@
         },
         {
             "id": "lnk-sn-c7layer1_14",
-            "source": "ns300",
-            "target": "ns301",
+            "source": "ns300_n14",
+            "target": "ns301_n14",
             "conveyingLyph": "sn-c7layer1_14"
         },
         {
@@ -1424,6 +1424,15 @@
         {
             "id": "snmv_4",
             "name": "Soma of PSPR neuron in dorsal motor vagus_Neuron 4 (aacar)",
+            "ontologyTerms": [
+                "NLX:154731"
+            ],
+            "topology": "TUBE",
+            "supertype": "229"
+        },
+        {
+            "id": "sn-c8_5",
+            "name": "Soma of SPR neuron in C8 layer 6 Neuron 5 (aacar)",
             "ontologyTerms": [
                 "NLX:154731"
             ],
@@ -2683,7 +2692,7 @@
                     "target": "yy3"
                 },
                 {
-                    "target": "yy4"
+                    "target": "m5-t1"
                 }
             ]
         },
@@ -5440,7 +5449,7 @@
                 "SAO:1211023249"
             ],
             "lyphTemplate": "dend-bag",
-            "root": "ns300",
+            "root": "ns300_n14",
             "leaf": "ns300_1",
             "housingLayers": [
                 12
@@ -5456,7 +5465,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns302",
+            "root": "ns301_n14",
             "leaf": "ns302_1",
             "housingLayers": [
                 12,
@@ -5474,7 +5483,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns303",
+            "root": "ns301_n14",
             "leaf": "ns303_1",
             "housingLayers": [
                 12,
