@@ -2707,13 +2707,13 @@
             "id": "chain-f-term-root-S60",
             "name": "Axon chain of Symp postganglionic neuron in Arteriole in longitudinal muscle layer of colon _Neuron F (sdcol)",
             "ontologyTerms": [
-                "SAO:1770195790"
+                "SAO:1770195789"
             ],
             "root": "f-term-root-S60",
             "leaf": "f-term-root-S60-syn",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0
+                1
             ],
             "housingLyphs": [
                 "S60"
@@ -2723,13 +2723,13 @@
             "id": "chain-f-term-root-S61",
             "name": "Axon chain of Symp postganglionic neuron in Arteriole in serosa of colon _Neuron F (sdcol)",
             "ontologyTerms": [
-                "SAO:1770195791"
+                "SAO:1770195789"
             ],
             "root": "f-term-root-S61",
             "leaf": "f-term-root-S61-syn",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0
+                1
             ],
             "housingLyphs": [
                 "S61"
@@ -2739,13 +2739,13 @@
             "id": "chain-f-term-root-S62",
             "name": "Axon chain of Symp postganglionic neuron in Arteriole in myenteric nerve plexus in colon_NeuronF (sdcol)",
             "ontologyTerms": [
-                "SAO:1770195792"
+                "SAO:1770195789"
             ],
             "root": "f-term-root-S62",
             "leaf": "f-term-root-S62-syn",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0
+                1
             ],
             "housingLyphs": [
                 "S62"
@@ -2755,13 +2755,13 @@
             "id": "chain-f-term-root-S63",
             "name": "Axon chain of Symp postganglionic neuron in Arteriole in submucosal nerve plexus of colon_Neuron F (sdcol)",
             "ontologyTerms": [
-                "SAO:1770195793"
+                "SAO:1770195789"
             ],
             "root": "f-term-root-S63",
             "leaf": "f-term-root-S63-syn",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0
+                1
             ],
             "housingLyphs": [
                 "S63"
@@ -2771,13 +2771,13 @@
             "id": "chain-f-term-root-S64",
             "name": "Axon chain of Symp postganglionic neuron in Arteriole in circular muscle layer in colon_Neuron F (sdcol)",
             "ontologyTerms": [
-                "SAO:1770195794"
+                "SAO:1770195789"
             ],
             "root": "f-term-root-S64",
             "leaf": "f-term-root-S64-syn",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0
+                1
             ],
             "housingLyphs": [
                 "S64"
@@ -2787,13 +2787,13 @@
             "id": "chain-f-term-root-S65",
             "name": "Axon chain of Symp postganglionic neuron in Arteriole in lamina propria of mucosa of colon _Neuron F (sdcol)",
             "ontologyTerms": [
-                "SAO:1770195795"
+                "SAO:1770195789"
             ],
             "root": "f-term-root-S65",
             "leaf": "f-term-root-S65-syn",
             "lyphTemplate": "axon-bag",
             "housingLayers": [
-                0
+                1
             ],
             "housingLyphs": [
                 "S65"
@@ -3314,7 +3314,7 @@
             "lyphTemplate": "axon-bag",
             "housingLayers": [
                 3,
-                0
+                1
             ],
             "housingLyphs": [
                 "S42",
