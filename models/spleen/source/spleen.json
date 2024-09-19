@@ -103,6 +103,9 @@
             "supertype": "seg_sc",
             "internalLyphs": [
                 "sn_t5"
+            ],
+            "internalLyphsInLayers": [
+                2
             ]
         },
         {
@@ -115,6 +118,9 @@
             "supertype": "seg_sc",
             "internalLyphs": [
                 "sn_t6"
+            ],
+            "internalLyphsInLayers": [
+                2
             ]
         },
         {
@@ -127,6 +133,9 @@
             "supertype": "seg_sc",
             "internalLyphs": [
                 "sn_t7"
+            ],
+            "internalLyphsInLayers": [
+                2
             ]
         },
         {
@@ -139,6 +148,9 @@
             "supertype": "seg_sc",
             "internalLyphs": [
                 "sn_t8"
+            ],
+            "internalLyphsInLayers": [
+                2
             ]
         },
         {
@@ -1491,7 +1503,7 @@
             "id": "ac-segtocg-smg",
             "name": "axon chain from spinal segments to CG/SMG fused in Neuron 1 (splen)",
             "ontologyTerms": [
-                "SAO:1211023249"
+                "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
             "root": "ns_seg_out",
