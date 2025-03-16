@@ -1201,62 +1201,6 @@
                 "ILX:0793632"
             ],
             "name": "Lumbar Colonic Nerve"
-        },
-        {
-            "id": "axon-bag",
-            "ontologyTerms": [
-                "SAO:280355188"
-            ],
-            "name": "Axon terminal (sdcol)",
-            "isTemplate": true,
-            "topology": "BAG-",
-            "layers": [
-                "SM_54",
-                "SM_56",
-                "SM_116"
-            ]
-        },
-        {
-            "id": "axon-tube",
-            "ontologyTerms": [
-                "SAO:280355188"
-            ],
-            "name": "Axon segment (sdcol)",
-            "isTemplate": true,
-            "topology": "TUBE",
-            "layers": [
-                "SM_54",
-                "SM_56",
-                "SM_116"
-            ]
-        },
-        {
-            "id": "dend-bag",
-            "ontologyTerms": [
-                "SAO:420754792"
-            ],
-            "name": "Dendrite terminal or axon sensory terminal (sdcol)",
-            "isTemplate": true,
-            "topology": "BAG-",
-            "layers": [
-                "SM_54",
-                "SM_56",
-                "SM_116"
-            ]
-        },
-        {
-            "id": "dend-tube",
-            "ontologyTerms": [
-                "SAO:420754792"
-            ],
-            "name": "Dendrite segment or axon sensory segment (sdcol)",
-            "isTemplate": true,
-            "topology": "TUBE",
-            "layers": [
-                "SM_54",
-                "SM_56",
-                "SM_116"
-            ]
         }
     ],
     "materials": [
