@@ -1288,17 +1288,17 @@
             "lyphTemplate": "blo_ves",
             "root": "root_bloodin",
             "leaf": "bloodin_branch",
+            "housingLayers": [
+                0,
+                0,
+                0,
+                0
+            ],
             "housingLyphs": [
                 "a-splen",
                 "a-trab",
                 "a-cent",
                 "art-rad"
-            ],
-            "references": [
-                "0",
-                "0",
-                "0",
-                "0"
             ],
             "wiredTo": "w-A-S",
             "startFromLeaf": true
@@ -1309,13 +1309,13 @@
             "lyphTemplate": "blo_ves",
             "root": "bloodin_branch",
             "leaf": "bloodin_branch1",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "art-rad",
                 "ven-conn"
-            ],
-            "references": [
-                "0",
-                "0"
             ]
         },
         {
@@ -1324,13 +1324,13 @@
             "lyphTemplate": "blo_ves",
             "root": "bloodin_branch",
             "leaf": "bloodin_branch2",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "art-rad",
                 "art-pen"
-            ],
-            "references": [
-                "0",
-                "0"
             ]
         },
         {
@@ -1339,17 +1339,17 @@
             "lyphTemplate": "blo_ves",
             "root": "bloodin_branch2",
             "leaf": "bloodin_branch1",
+            "housingLayers": [
+                0,
+                0,
+                0,
+                0
+            ],
             "housingLyphs": [
                 "art-pen",
                 "cap-shea",
                 "spl_cord",
                 "ven_sin"
-            ],
-            "references": [
-                "0",
-                "0",
-                "0",
-                "0"
             ]
         },
         {
@@ -1358,13 +1358,13 @@
             "lyphTemplate": "blo_ves",
             "root": "bloodin_branch1",
             "leaf": "blood_out",
+            "housingLayers": [
+                0,
+                0
+            ],
             "housingLyphs": [
                 "ven_sin",
                 "v-trab"
-            ],
-            "references": [
-                "0",
-                "0"
             ]
         },
         {
