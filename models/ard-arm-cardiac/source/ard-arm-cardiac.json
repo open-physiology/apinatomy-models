@@ -360,6 +360,12 @@
             "ontologyTerms": [
                 "UBERON:0006470"
             ],
+            "internalLyphs": [
+                "sn-c8_5"
+            ],
+            "internalLyphsInLayers": [
+                6
+            ],
             "supertype": "A96"
         },
         {
@@ -1024,7 +1030,8 @@
                 "A75",
                 "A76",
                 "A77",
-                "A78"
+                "A78",
+                "interganglionic-nerve"
             ],
             "internalLyphsInLayers": [
                 5,
@@ -1041,8 +1048,7 @@
                 "A88",
                 "A89",
                 "A90",
-                "A91",
-                "interganglionic-nerve"
+                "A91"
             ]
         },
         {
@@ -2348,8 +2354,9 @@
             ],
             "lyphTemplate": "axon-tube",
             "root": "ns12",
-            "leaf": "ns13",
+            "leaf": "ns13_5",
             "housingLayers": [
+                0,
                 0,
                 0,
                 0
@@ -2359,6 +2366,20 @@
                 "A69",
                 "vagus-nerve",
                 "vago-symapthetic-trunk"
+            ],
+            "levels": [
+                {
+                    "target": "zz0"
+                },
+                {
+                    "target": "zz2"
+                },
+                {
+                    "target": "ns13"
+                },
+                {
+                    "target": "ns13_5"
+                }
             ]
         },
         {
@@ -2387,11 +2408,13 @@
             "leaf": "ns13",
             "housingLayers": [
                 0,
+                0,
                 0
             ],
             "housingLyphs": [
                 "A71",
-                "A69"
+                "A69",
+                "vagus-nerve"
             ]
         },
         {
@@ -2401,7 +2424,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns13",
+            "root": "ns13_5",
             "leaf": "ns16",
             "housingLayers": [
                 5,
@@ -2419,7 +2442,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns13",
+            "root": "ns13_5",
             "leaf": "ns17",
             "housingLayers": [
                 5,
@@ -2708,8 +2731,6 @@
             "housingLayers": [
                 6,
                 13,
-                0,
-                0,
                 0
             ],
             "housingLyphs": [
@@ -4558,7 +4579,7 @@
                 "SAO:1770195789"
             ],
             "lyphTemplate": "axon-bag",
-            "root": "ns151",
+            "root": "ns153",
             "leaf": "ns151_8",
             "housingLayers": [
                 0,
