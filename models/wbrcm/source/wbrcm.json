@@ -9,6 +9,32 @@
     ],
     "varianceSpecs": [
         {
+            "id": "vs-not-human",
+            "presence": "absent",
+            "clades": [
+                "NCBITaxon:9606"
+            ]
+        },
+        {
+            "id": "vs-not-pig",
+            "presence": "absent"
+        },
+        {
+            "id": "vs-not-monkey",
+            "presence": "absent"
+        },
+        {
+            "id": "vs-not-rodent",
+            "presence": "absent",
+            "clades": [
+                "NCBITaxon:9989"
+            ]
+        },
+        {
+            "id": "vs-not-cat",
+            "presence": "absent"
+        },
+        {
             "id": "vs-mammalia",
             "name": "basal mammalian state",
             "presence": "basal",
@@ -43,32 +69,6 @@
         },
         {
             "id": "vs-cat"
-        },
-        {
-            "id": "vs-not-human",
-            "presence": "absent",
-            "clades": [
-                "NCBITaxon:9606"
-            ]
-        },
-        {
-            "id": "vs-not-pig",
-            "presence": "absent"
-        },
-        {
-            "id": "vs-not-monkey",
-            "presence": "absent"
-        },
-        {
-            "id": "vs-not-rodent",
-            "presence": "absent",
-            "clades": [
-                "NCBITaxon:9989"
-            ]
-        },
-        {
-            "id": "vs-not-cat",
-            "presence": "absent"
         }
     ],
     "nodes": [
@@ -4338,7 +4338,7 @@
             ],
             "name": "Inferior mesenteric ganglion",
             "supertype": "lt-prevertebral-ganglia",
-            "hostedBy": "too:n2N"
+            "hostedBy": "too:n2G"
         },
         {
             "id": "lyph-PNS-pelvic-ganglion",
@@ -4356,7 +4356,7 @@
             ],
             "name": "Superior mesenteric ganglion",
             "supertype": "lt-prevertebral-ganglia",
-            "hostedBy": "too:n2N"
+            "hostedBy": "too:n2G"
         },
         {
             "id": "lyph-PNS-ganglion-mediastinal",
@@ -5754,7 +5754,7 @@
             ],
             "name": "Major pelvic ganglion",
             "supertype": "lt-prevertebral-ganglia",
-            "hostedBy": "too:n2N"
+            "hostedBy": "too:n2G"
         },
         {
             "id": "lyph-PNS-pelvic-ganglion-accessory",
@@ -7994,6 +7994,15 @@
             "name": "Adventitia of the tracheobronchial tree",
             "materials": [
                 "mat-extracellular-material"
+            ]
+        },
+        {
+            "id": "mat-gastric-mucosa",
+            "name": "Gastric mucosa",
+            "materials": [
+                "lyph-cell-stomach-chief-cell",
+                "lyph-cell-gastric-parietal",
+                "lyph-cell-gastric-enteroendocrine"
             ]
         }
     ],
