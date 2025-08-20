@@ -7998,6 +7998,9 @@
         },
         {
             "id": "mat-gastric-mucosa",
+            "ontologyTerms": [
+                "UBERON:0001199"
+            ],
             "name": "Gastric mucosa",
             "materials": [
                 "lyph-cell-stomach-chief-cell",
