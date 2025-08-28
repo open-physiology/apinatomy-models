@@ -1817,7 +1817,7 @@
             "id": "vago-symapthetic-trunk",
             "name": "vago-symapthetic trunk (aacar)",
             "ontologyTerms": [
-                "ilxtr:vago-sympathetic-trunk"
+                "ILX:0795507"
             ],
             "topology": "TUBE"
         },
@@ -1825,13 +1825,16 @@
             "id": "interganglionic-nerve",
             "name": "interganglionic nerve (aacar)",
             "ontologyTerms": [
-                "ilxtr:cardiac-interganglionic-nerve"
+                "ILX:0796679"
             ],
             "topology": "TUBE"
         },
         {
             "id": "funicular_tract",
-            "name": "funicular_tract (aacar)"
+            "name": "funicular_tract (aacar)",
+            "ontologyTerms": [
+                "UBERON:0006127"
+            ]
         },
         {
             "id": "sn-c7layer1_14",
