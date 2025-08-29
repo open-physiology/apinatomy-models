@@ -1109,7 +1109,7 @@
                 "AM_7",
                 "AM_6",
                 "AM_10",
-                "AM_54"
+                "AM_55"
             ]
         },
         {
@@ -2041,9 +2041,9 @@
         },
         {
             "id": "AM_26",
-            "name": "White matter of CNS",
+            "name": "White matter of spinal cord",
             "ontologyTerms": [
-                "UBERON:0016549"
+                "UBERON:0002318"
             ]
         },
         {
@@ -2240,6 +2240,13 @@
             "name": "Arterial Adventitia",
             "ontologyTerms": [
                 "UBERON:0007240"
+            ]
+        },
+        {
+            "id": "AM_55",
+            "name": "aortic arterial adventitia",
+            "ontologyTerms": [
+                "UBERON:0004664"
             ]
         }
     ],
