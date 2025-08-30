@@ -4823,40 +4823,8 @@
             ]
         },
         {
-            "id": "dc-sn-rv_11",
-            "name": "Dendrite from heart_layer 5 of heart to right ventricle and aorta_Neuron 11 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns162",
-            "leaf": "ns168_3",
-            "housingLayers": [
-                1
-            ],
-            "housingLyphs": [
-                "A76"
-            ]
-        },
-        {
-            "id": "dc-sn-rv2_11",
-            "name": "Dendrite from heart_layer 5 to heart rv2_Neuron 11 (aacar)",
-            "ontologyTerms": [
-                "SAO:1211023249"
-            ],
-            "lyphTemplate": "dend-bag",
-            "root": "ns162",
-            "leaf": "ns168_4",
-            "housingLayers": [
-                2
-            ],
-            "housingLyphs": [
-                "A76"
-            ]
-        },
-        {
-            "id": "dc-sn-la-mus_11",
-            "name": "Dendrite from heart to left atrium_layer 2_Neuron 11 (aacar)",
+            "id": "dc-sn-rv-mus_11",
+            "name": "Dendrite from heart to right ventricle layer 2_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
@@ -4873,8 +4841,8 @@
             ]
         },
         {
-            "id": "dc-sn-la-end_11",
-            "name": "Dendrite from heart to left atrium_layer 1_Neuron 11 (aacar)",
+            "id": "dc-sn-rv-end_11",
+            "name": "Dendrite from heart to right ventricle layer 1_Neuron 11 (aacar)",
             "ontologyTerms": [
                 "SAO:1211023249"
             ],
