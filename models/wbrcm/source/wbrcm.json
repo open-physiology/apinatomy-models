@@ -6890,7 +6890,7 @@
         {
             "id": "mat-CNS-parenchymal-tissue",
             "ontologyTerms": [
-                "UBERON:0001017"
+                "UBERON:0005158"
             ],
             "name": "Central nervous system tissue",
             "materials": [
