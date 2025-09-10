@@ -1855,6 +1855,14 @@
             "topology": "TUBE",
             "supertype": "229",
             "seedIn": "neuron-15"
+        },
+        {
+            "id": "thoracic-sympathetic-nerve-trunk",
+            "name": "thoracic sympathetic nerve trunk (aacar)",
+            "ontologyTerms": [
+                "UBERON:0004863"
+            ],
+            "topology": "TUBE"
         }
     ],
     "materials": [
@@ -3148,7 +3156,8 @@
             "housingLyphs": [
                 "A50",
                 "A44",
-                "ansa-subclavia"
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3163,12 +3172,13 @@
             "housingLayers": [
                 0,
                 0,
-                1
+                0
             ],
             "housingLyphs": [
                 "A51",
                 "A45",
-                "ansa-subclavia"
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3183,12 +3193,13 @@
             "housingLayers": [
                 0,
                 0,
-                2
+                0
             ],
             "housingLyphs": [
                 "A52",
                 "A46",
-                "ansa-subclavia"
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3203,12 +3214,13 @@
             "housingLayers": [
                 0,
                 0,
-                3
+                0
             ],
             "housingLyphs": [
                 "A53",
                 "A47",
-                "ansa-subclavia"
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3223,12 +3235,13 @@
             "housingLayers": [
                 0,
                 0,
-                4
+                0
             ],
             "housingLyphs": [
                 "A54",
                 "A48",
-                "ansa-subclavia"
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3243,12 +3256,13 @@
             "housingLayers": [
                 0,
                 0,
-                5
+                0
             ],
             "housingLyphs": [
                 "A55",
                 "A49",
-                "ansa-subclavia"
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3261,10 +3275,14 @@
             "root": "ns94",
             "leaf": "ns101",
             "housingLayers": [
+                0,
+                0,
                 0
             ],
             "housingLyphs": [
-                "A61"
+                "A61",
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3277,10 +3295,14 @@
             "root": "ns96",
             "leaf": "ns101",
             "housingLayers": [
+                0,
+                0,
                 0
             ],
             "housingLyphs": [
-                "A62"
+                "A62",
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3293,10 +3315,14 @@
             "root": "ns98",
             "leaf": "ns101",
             "housingLayers": [
+                0,
+                0,
                 0
             ],
             "housingLyphs": [
-                "A63"
+                "A63",
+                "thoracic-sympathetic-nerve-trunk",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3309,10 +3335,14 @@
             "root": "ns100",
             "leaf": "ns101",
             "housingLayers": [
+                0,
+                0,
                 0
             ],
             "housingLyphs": [
-                "A82"
+                "A82",
+                "ansa-subclavia",
+                "vago-symapthetic-trunk"
             ]
         },
         {
@@ -3612,14 +3642,12 @@
                 5,
                 0,
                 5,
-                0,
                 0
             ],
             "housingLyphs": [
                 "A74",
                 "A80",
                 "A74",
-                "vago-symapthetic-trunk",
                 "A74"
             ]
         },
