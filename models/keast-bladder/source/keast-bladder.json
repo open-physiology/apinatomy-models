@@ -853,7 +853,7 @@
         {
             "id": "K36",
             "ontologyTerms": [
-                "UBERON:0003040"
+                "ILX:0793626"
             ],
             "name": "ventrolateral periaqueductal gray (kblad)",
             "materials": [
